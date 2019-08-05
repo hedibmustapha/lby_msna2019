@@ -1,0 +1,109 @@
+"","dependent.var","independent.var","dependent.var.value","independent.var.value","numbers","se","min","max"
+"food_sourceborrowing_food other","food_source",NA,"borrowing_food other","NA",0.000599880023995201,NA,0,0.00177562326607079
+"food_sourcedk","food_source",NA,"dk","NA",0.000599880023995201,NA,0,0.0017756232660708
+"food_sourcefood_aid","food_source",NA,"food_aid","NA",0.000599880023995201,NA,0,0.00177562326607076
+"food_sourcefood_aid food_gift","food_source",NA,"food_aid food_gift","NA",0.000599880023995201,NA,0,0.00177562326607077
+"food_sourcefood_aid food_gift market_cash","food_source",NA,"food_aid food_gift market_cash","NA",0.000599880023995201,NA,0,0.00177562326607077
+"food_sourcefood_aid food_gift market_cheque","food_source",NA,"food_aid food_gift market_cheque","NA",0.000599880023995201,NA,0,0.00177562326607079
+"food_sourcefood_aid food_gift market_credit","food_source",NA,"food_aid food_gift market_credit","NA",0.0011997600479904,NA,0,0.00286201298667431
+"food_sourcefood_aid market_cash","food_source",NA,"food_aid market_cash","NA",0.0011997600479904,NA,0,0.00286201298667432
+"food_sourcefood_aid market_cash food_gift","food_source",NA,"food_aid market_cash food_gift","NA",0.000599880023995201,NA,0,0.00177562326607079
+"food_sourcefood_aid market_cash market_cheque","food_source",NA,"food_aid market_cash market_cheque","NA",0.0263947210557888,NA,0.0186970279800015,0.0340924141315762
+"food_sourcefood_aid market_cash market_credit","food_source",NA,"food_aid market_cash market_credit","NA",0.000599880023995201,NA,0,0.00177562326607079
+"food_sourcefood_aid market_cash zakat","food_source",NA,"food_aid market_cash zakat","NA",0.000599880023995201,NA,0,0.0017756232660708
+"food_sourcefood_aid market_cheque","food_source",NA,"food_aid market_cheque","NA",0.000599880023995201,NA,0,0.00177562326607079
+"food_sourcefood_aid market_cheque market_cash","food_source",NA,"food_aid market_cheque market_cash","NA",0.000599880023995201,NA,0,0.00177562326607079
+"food_sourcefood_aid market_credit market_cheque","food_source",NA,"food_aid market_credit market_cheque","NA",0.0017996400719856,NA,0,0.00383486437968001
+"food_sourcefood_aid zakat market_cheque","food_source",NA,"food_aid zakat market_cheque","NA",0.000599880023995201,NA,0,0.00177562326607078
+"food_sourcefood_aid zakat market_credit","food_source",NA,"food_aid zakat market_credit","NA",0.000599880023995201,NA,0,0.0017756232660708
+"food_sourcefood_gift market_cash borrowing_food","food_source",NA,"food_gift market_cash borrowing_food","NA",0.0017996400719856,NA,0,0.00383486437968002
+"food_sourcefood_gift market_cash food_aid","food_source",NA,"food_gift market_cash food_aid","NA",0.000599880023995201,NA,0,0.0017756232660708
+"food_sourcefood_gift market_cash market_cheque","food_source",NA,"food_gift market_cash market_cheque","NA",0.002999400119976,NA,0.00037351631593298,0.00562528392401903
+"food_sourcefood_gift market_cash market_credit","food_source",NA,"food_gift market_cash market_credit","NA",0.000599880023995201,NA,0,0.0017756232660708
+"food_sourcefood_gift market_cheque","food_source",NA,"food_gift market_cheque","NA",0.000599880023995201,NA,0,0.00177562326607081
+"food_sourcefood_gift market_cheque zakat","food_source",NA,"food_gift market_cheque zakat","NA",0.0011997600479904,NA,0,0.00286201298667431
+"food_sourcefood_gift market_credit","food_source",NA,"food_gift market_credit","NA",0.000599880023995201,NA,0,0.00177562326607077
+"food_sourcefood_gift market_credit work_barter_food","food_source",NA,"food_gift market_credit work_barter_food","NA",0.000599880023995201,NA,0,0.00177562326607076
+"food_sourcefood_gift zakat market_cash","food_source",NA,"food_gift zakat market_cash","NA",0.000599880023995201,NA,0,0.00177562326607081
+"food_sourcefood_gift zakat work_barter_food","food_source",NA,"food_gift zakat work_barter_food","NA",0.000599880023995201,NA,0,0.0017756232660708
+"food_sourcegatherring_hunting_fishing","food_source",NA,"gatherring_hunting_fishing","NA",0.000599880023995201,NA,0,0.00177562326607076
+"food_sourcemarket_cash","food_source",NA,"market_cash","NA",0.135572885422915,NA,0.119134422643691,0.152011348202139
+"food_sourcemarket_cash borrowing_food","food_source",NA,"market_cash borrowing_food","NA",0.000599880023995201,NA,0,0.00177562326607082
+"food_sourcemarket_cash food_aid","food_source",NA,"market_cash food_aid","NA",0.002999400119976,NA,0.000373516315932979,0.00562528392401903
+"food_sourcemarket_cash food_aid market_cheque","food_source",NA,"market_cash food_aid market_cheque","NA",0.0011997600479904,NA,0,0.00286201298667432
+"food_sourcemarket_cash food_aid market_credit","food_source",NA,"market_cash food_aid market_credit","NA",0.0011997600479904,NA,0,0.00286201298667432
+"food_sourcemarket_cash food_gift market_credit","food_source",NA,"market_cash food_gift market_credit","NA",0.000599880023995201,NA,0,0.00177562326607078
+"food_sourcemarket_cash gatherring_hunting_fishing","food_source",NA,"market_cash gatherring_hunting_fishing","NA",0.000599880023995201,NA,0,0.00177562326607078
+"food_sourcemarket_cash gatherring_hunting_fishing market_cheque","food_source",NA,"market_cash gatherring_hunting_fishing market_cheque","NA",0.000599880023995201,NA,0,0.00177562326607079
+"food_sourcemarket_cash market_cheque","food_source",NA,"market_cash market_cheque","NA",0.220155968806239,NA,0.200259330692332,0.240052606920146
+"food_sourcemarket_cash market_cheque borrowing_food","food_source",NA,"market_cash market_cheque borrowing_food","NA",0.00539892021595681,NA,0.00188016941960466,0.00891767101230896
+"food_sourcemarket_cash market_cheque food_aid","food_source",NA,"market_cash market_cheque food_aid","NA",0.00419916016796641,NA,0.00109404254050013,0.00730427779543269
+"food_sourcemarket_cash market_cheque food_gift","food_source",NA,"market_cash market_cheque food_gift","NA",0.0023995200959808,NA,5.01517505126156e-05,0.00474888844144899
+"food_sourcemarket_cash market_cheque gatherring_hunting_fishing","food_source",NA,"market_cash market_cheque gatherring_hunting_fishing","NA",0.00419916016796641,NA,0.00109404254050021,0.0073042777954326
+"food_sourcemarket_cash market_cheque market_credit","food_source",NA,"market_cash market_cheque market_credit","NA",0.0461907618476305,NA,0.0361117276810916,0.0562697960141694
+"food_sourcemarket_cash market_cheque other","food_source",NA,"market_cash market_cheque other","NA",0.0011997600479904,NA,0,0.00286201298667432
+"food_sourcemarket_cash market_cheque own_production","food_source",NA,"market_cash market_cheque own_production","NA",0.0167966406718656,NA,0.0106258120515625,0.0229674692921687
+"food_sourcemarket_cash market_cheque work_barter_food","food_source",NA,"market_cash market_cheque work_barter_food","NA",0.000599880023995201,NA,0,0.00177562326607078
+"food_sourcemarket_cash market_cheque zakat","food_source",NA,"market_cash market_cheque zakat","NA",0.0017996400719856,NA,0,0.00383486437968005
+"food_sourcemarket_cash market_credit","food_source",NA,"market_cash market_credit","NA",0.0473905218956209,NA,0.0371878531291011,0.0575931906621407
+"food_sourcemarket_cash market_credit food_aid","food_source",NA,"market_cash market_credit food_aid","NA",0.0017996400719856,NA,0,0.00383486437968002
+"food_sourcemarket_cash market_credit food_gift","food_source",NA,"market_cash market_credit food_gift","NA",0.0011997600479904,NA,0,0.00286201298667432
+"food_sourcemarket_cash market_credit market_cheque","food_source",NA,"market_cash market_credit market_cheque","NA",0.242951409718056,NA,0.222357814044818,0.263545005391295
+"food_sourcemarket_cash market_credit own_production","food_source",NA,"market_cash market_credit own_production","NA",0.000599880023995201,NA,0,0.00177562326607077
+"food_sourcemarket_cash market_credit work_barter_food","food_source",NA,"market_cash market_credit work_barter_food","NA",0.0011997600479904,NA,0,0.00286201298667433
+"food_sourcemarket_cash market_credit zakat","food_source",NA,"market_cash market_credit zakat","NA",0.0017996400719856,NA,0,0.00383486437968003
+"food_sourcemarket_cash other","food_source",NA,"market_cash other","NA",0.000599880023995201,NA,0,0.00177562326607077
+"food_sourcemarket_cash own_production","food_source",NA,"market_cash own_production","NA",0.00899820035992801,NA,0.00446373964488407,0.013532661074972
+"food_sourcemarket_cash own_production market_cheque","food_source",NA,"market_cash own_production market_cheque","NA",0.0017996400719856,NA,0,0.00383486437968003
+"food_sourcemarket_cash work_barter_food","food_source",NA,"market_cash work_barter_food","NA",0.0017996400719856,NA,0,0.00383486437968006
+"food_sourcemarket_cash zakat food_gift","food_source",NA,"market_cash zakat food_gift","NA",0.0011997600479904,NA,0,0.00286201298667431
+"food_sourcemarket_cash zakat market_credit","food_source",NA,"market_cash zakat market_credit","NA",0.000599880023995201,NA,0,0.00177562326607079
+"food_sourcemarket_cheque","food_source",NA,"market_cheque","NA",0.0137972405518896,NA,0.00819592786592645,0.0193985532378528
+"food_sourcemarket_cheque food_aid food_gift","food_source",NA,"market_cheque food_aid food_gift","NA",0.0011997600479904,NA,0,0.00286201298667432
+"food_sourcemarket_cheque food_gift","food_source",NA,"market_cheque food_gift","NA",0.0017996400719856,NA,0,0.00383486437968001
+"food_sourcemarket_cheque gatherring_hunting_fishing market_cash","food_source",NA,"market_cheque gatherring_hunting_fishing market_cash","NA",0.000599880023995201,NA,0,0.0017756232660708
+"food_sourcemarket_cheque market_cash","food_source",NA,"market_cheque market_cash","NA",0.032993401319736,NA,0.0244163332622737,0.0415704693771984
+"food_sourcemarket_cheque market_cash food_aid","food_source",NA,"market_cheque market_cash food_aid","NA",0.0011997600479904,NA,0,0.00286201298667433
+"food_sourcemarket_cheque market_cash market_credit","food_source",NA,"market_cheque market_cash market_credit","NA",0.00839832033593281,NA,0.0040162894197106,0.012780351252155
+"food_sourcemarket_cheque market_cash own_production","food_source",NA,"market_cheque market_cash own_production","NA",0.00719856028794241,NA,0.00313913442109905,0.0112579861547858
+"food_sourcemarket_cheque market_credit","food_source",NA,"market_cheque market_credit","NA",0.00659868026394721,NA,0.0027109018737072,0.0104864586541872
+"food_sourcemarket_cheque market_credit borrowing_food","food_source",NA,"market_cheque market_credit borrowing_food","NA",0.0011997600479904,NA,0,0.00286201298667433
+"food_sourcemarket_cheque market_credit market_cash","food_source",NA,"market_cheque market_credit market_cash","NA",0.0161967606478704,NA,0.0101352789419731,0.0222582423537677
+"food_sourcemarket_cheque market_credit zakat","food_source",NA,"market_cheque market_credit zakat","NA",0.0011997600479904,NA,0,0.00286201298667433
+"food_sourcemarket_cheque own_production","food_source",NA,"market_cheque own_production","NA",0.000599880023995201,NA,0,0.00177562326607078
+"food_sourcemarket_cheque own_production work_barter_food","food_source",NA,"market_cheque own_production work_barter_food","NA",0.000599880023995201,NA,0,0.00177562326607079
+"food_sourcemarket_cheque zakat","food_source",NA,"market_cheque zakat","NA",0.000599880023995201,NA,0,0.0017756232660708
+"food_sourcemarket_cheque zakat food_gift","food_source",NA,"market_cheque zakat food_gift","NA",0.0011997600479904,NA,0,0.00286201298667431
+"food_sourcemarket_credit food_aid market_cheque","food_source",NA,"market_credit food_aid market_cheque","NA",0.000599880023995201,NA,0,0.0017756232660708
+"food_sourcemarket_credit food_gift market_cheque","food_source",NA,"market_credit food_gift market_cheque","NA",0.0011997600479904,NA,0,0.00286201298667432
+"food_sourcemarket_credit market_cash","food_source",NA,"market_credit market_cash","NA",0.0023995200959808,NA,5.01517505126295e-05,0.00474888844144898
+"food_sourcemarket_credit market_cash food_aid","food_source",NA,"market_credit market_cash food_aid","NA",0.000599880023995201,NA,0,0.00177562326607081
+"food_sourcemarket_credit market_cash market_cheque","food_source",NA,"market_credit market_cash market_cheque","NA",0.00779844031193761,NA,0.00357453259339462,0.0120223480304806
+"food_sourcemarket_credit market_cheque","food_source",NA,"market_credit market_cheque","NA",0.00779844031193761,NA,0.00357453259339466,0.0120223480304806
+"food_sourcemarket_credit market_cheque borrowing_food","food_source",NA,"market_credit market_cheque borrowing_food","NA",0.000599880023995201,NA,0,0.00177562326607078
+"food_sourcemarket_credit market_cheque food_aid","food_source",NA,"market_credit market_cheque food_aid","NA",0.0011997600479904,NA,0,0.00286201298667433
+"food_sourcemarket_credit market_cheque food_gift","food_source",NA,"market_credit market_cheque food_gift","NA",0.000599880023995201,NA,0,0.00177562326607079
+"food_sourcemarket_credit market_cheque market_cash","food_source",NA,"market_credit market_cheque market_cash","NA",0.00599880023995201,NA,0.00229082994012106,0.00970677053978296
+"food_sourcemarket_credit market_cheque zakat","food_source",NA,"market_credit market_cheque zakat","NA",0.0011997600479904,NA,0,0.00286201298667433
+"food_sourcemarket_credit work_barter_food food_aid","food_source",NA,"market_credit work_barter_food food_aid","NA",0.000599880023995201,NA,0,0.0017756232660708
+"food_sourceown_production","food_source",NA,"own_production","NA",0.0011997600479904,NA,0,0.00286201298667433
+"food_sourceown_production food_aid","food_source",NA,"own_production food_aid","NA",0.000599880023995201,NA,0,0.00177562326607076
+"food_sourceown_production food_aid market_cash","food_source",NA,"own_production food_aid market_cash","NA",0.0011997600479904,NA,0,0.00286201298667431
+"food_sourceown_production gatherring_hunting_fishing market_cash","food_source",NA,"own_production gatherring_hunting_fishing market_cash","NA",0.000599880023995201,NA,0,0.00177562326607077
+"food_sourceown_production market_cash","food_source",NA,"own_production market_cash","NA",0.00839832033593281,NA,0.00401628941971064,0.012780351252155
+"food_sourceown_production market_cash food_aid","food_source",NA,"own_production market_cash food_aid","NA",0.000599880023995201,NA,0,0.00177562326607081
+"food_sourceown_production market_cash gatherring_hunting_fishing","food_source",NA,"own_production market_cash gatherring_hunting_fishing","NA",0.000599880023995201,NA,0,0.00177562326607077
+"food_sourceown_production market_cash market_cheque","food_source",NA,"own_production market_cash market_cheque","NA",0.0305938812237552,NA,0.0223243525211486,0.0388634099263619
+"food_sourceown_production market_cash market_credit","food_source",NA,"own_production market_cash market_credit","NA",0.000599880023995201,NA,0,0.00177562326607079
+"food_sourceown_production market_cash work_barter_food","food_source",NA,"own_production market_cash work_barter_food","NA",0.000599880023995201,NA,0,0.00177562326607081
+"food_sourceown_production market_cheque","food_source",NA,"own_production market_cheque","NA",0.0017996400719856,NA,0,0.00383486437968
+"food_sourceown_production market_cheque gatherring_hunting_fishing","food_source",NA,"own_production market_cheque gatherring_hunting_fishing","NA",0.000599880023995201,NA,0,0.00177562326607076
+"food_sourceown_production market_cheque market_cash","food_source",NA,"own_production market_cheque market_cash","NA",0.00539892021595681,NA,0.0018801694196047,0.00891767101230892
+"food_sourceown_production market_cheque market_credit","food_source",NA,"own_production market_cheque market_credit","NA",0.000599880023995201,NA,0,0.00177562326607078
+"food_sourceown_production market_cheque zakat","food_source",NA,"own_production market_cheque zakat","NA",0.000599880023995201,NA,0,0.00177562326607079
+"food_sourceown_production market_credit market_cheque","food_source",NA,"own_production market_credit market_cheque","NA",0.002999400119976,NA,0.000373516315932973,0.00562528392401904
+"food_sourcework_barter_food","food_source",NA,"work_barter_food","NA",0.00719856028794241,NA,0.00313913442109911,0.0112579861547857
+"food_sourcework_barter_food food_gift","food_source",NA,"work_barter_food food_gift","NA",0.000599880023995201,NA,0,0.00177562326607077
+"food_sourcework_barter_food market_cash","food_source",NA,"work_barter_food market_cash","NA",0.000599880023995201,NA,0,0.00177562326607078
+"food_sourcework_barter_food market_credit","food_source",NA,"work_barter_food market_credit","NA",0.000599880023995201,NA,0,0.00177562326607078
+"food_sourcework_barter_food own_production","food_source",NA,"work_barter_food own_production","NA",0.000599880023995201,NA,0,0.00177562326607081
