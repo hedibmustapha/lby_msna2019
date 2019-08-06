@@ -1,12 +1,21 @@
 type,name,label::English (en),required,default,relevant,appearance,constraint,constraint_message::English (en),label::Arabic (ar),constraint_message::Arabic (ar),choice_filter,calculation,hint::English (en),hint::Arabic (ar),repeat_count,parameters
+audit,audit,,,,,,,,,,,,,,,location-priority=balanced location-min-interval=1200 location-max-age=2100
 start,start,,,,,,,,,,,,,,,
 end,end,,,,,,,,,,,,,,,
 today,today,,,,,,,,,,,,,,,
 deviceid,device_id,,,,,,,,,,,,,,,
+geopoint,geolocation_start,Please take the GPS coordinates of the survey location,yes,,,,,,ÇÎĞ ÅÍÏÇËíÇÊ GPS,,,,,,,
+select_one organisation_name,organisation_name,Please select your organisation:,yes,,,quick,,,íÑÌì ÇÎÊíÇÑ ãäÙãÊß:,,,,,,,
+select_one enumerator_id,enumerator_id,Please select your enumerator ID,yes,,,quick,,,íÑÌì ÅÎÊíÇÑ ÇáãÚÑİ ÇáÎÇÕ Èß,,organisation = ${organisation_name},,,,,
 calculate,enumerator_name,,,,,,,,,,,"pulldata('unique_identifier_lby', 'name', 'name_key', ${enumerator_id})",,,,
 note,pulled_name,"The holder of this id is ${enumerator_name}, if this is not your name please go back and select the appropriate id",,,,,,,"ÕÇÍÈ åĞÇ ÇáãÚÑİ åæ ${enumerator_name} ¡ Åä åĞÇ áíÓ ÇÓãß ÇáÑÌÇÁ ÇáÑÌæÚ Çáì ÇáæÑÇÁ æ ÅÎÊíÇÑ ÇáãÚÑİ ÇáÎÇÕ Èß",,,,,,,
+select_one mantika,mantika,Mantika (Admin 2):,yes,,,quick,,,ãäØŞÉ,,,,,,,
 calculate,mantika_label,,,,,,,,,,,"pulldata('mantika_labels', 'name', 'name_key', ${mantika})",,,,
+select_one baladiya,baladiya,Baladiya (Admin 3):,yes,,,quick,,,ÈáÏíÉ,,mantika=${mantika},,,,,
 calculate,baladiya_label,,,,,,,,,,,"pulldata('baladiya_labels', 'name', 'name_key', ${baladiya})",,,,
+text,baladiya_other,"If other, Please specify",yes,,${baladiya}='other',,,,"ÃÎÑì¡ ÑÌÇÁ ÇáÊÍÏíÏ",,,,,,,
+select_one_external shape_code,shape_code,Please select the shape code you are currently doing the survey,yes,,,quick,,,íÑÌì ÅÏÎÇá ÑãÒ ÇáÔßá,,mantika=${mantika},,,,,
+select_one_external point_code,point_code,Please select the the point code you are interviewing,yes,,,quick,,,íÑÌì ÅÏÎÇá ÑãÒ ÇáäŞØÉ,,shape_code=${shape_code},,,,,
 note,introduction_paragraph,"Hi, my name is ${enumerator_name} . 
 I am working with ${organisation_name} on a survey that is being facilitated by ACTED, an international organisation based in Libya.  
 This survey is not connected to any specific aid distributions, and completing it does not make it more likely that you will receive aid. However, the data we collect will be used by the humanitarian community to determine what the critical needs and priorities are for vulnerable communities across Libya.
@@ -709,5 +718,13 @@ select_one yes_no_dk_dwta,movement_restrictions,Have you observed or are you awa
 select_multiple movement_restrictions_reasons,movement_restrictions_reasons,What are the causes of movement restrictions in your mahalla?,yes,,${movement_restrictions}='yes',,"not(selected(., 'dk')) and not(selected(., 'dwta')) or count-selected(.) = 1","Cannot select ""I dont know"" or ""I prefer not to answer"" with other options",ãÇ åí ÃÓÈÇÈ ÇáŞíæÏ ÇáãİÑæÖÉ Úáì ÇáÍÑßÉ İí ÇáãÍáÉ ÇáÎÇÕÉ Èß¿,"áÇ íãßä ÅÎÊíÇÑ ""áÇ ÃÚáã"" Ãæ ""ÃİÖá ÚÏã ÇáÅÌÇÈÉ"" ÇÎÊíÇÑÇÊ ÃÎÑì",,,,,,
 text,movement_restrictions_reasons_other,"If other, Please specify",yes,,"selected(${movement_restrictions_reasons},'other')",,,,"ÃÎÑì¡ ÑÌÇÁ ÇáÊÍÏíÏ",,,,,,,
 end_group,,,,,,,,,,,,,,,,
+select_one yes_no,wfp_note,"To be able to better monitor the food security situation in Libya, we are planning to conduct short surveys via mobile phone. If you were to participate, the phone survey would last approximately 10 minutes, and would focus on your family’s food consumption, access to markets, work and social well-being. This information will help us understand the situation in your community. Any information collected would remain strictly confidential and anonymous. Would you be interested in participating?",yes,,,quick,,,"áßí äßæä ŞÇÏÑíä Úáì ãÈÇÔÑÉ æãÊÇÈÚÉ ÍÇáÉ ÇáæÖÚ ÇáÛĞÇÆí İí áíÈíÇ¡ İÇääÇ äÎØØ áÇÌÑÇÁ ÇÓÊØáÇÚÇÊ ÑÃí ŞÕíÑÉ ãä ÎáÇá ÇáåÇÊİ ÇáãÍãæá.  ""
+¡ İí ÍÇáÉ ÇáãÔÇÑßÉ¡ İÇä Ğáß ÓíÓÊÛÑŞ ÊŞÑíÈÇ ÚÔÑÉ ÏŞÇÆŞ ÈÇáåÇÊİ ÇáãÍãæá
+æÓÊÏæÑ ÇáÇÓÆáÉ Íæá ÇáÇÓÊåáÇß ÇáÛĞÇÆí ááÇÓÑÉ¡ ÓåæáÉ æßíİíÉ ÇáæÕæá Çáì ÇáÇÓæÇŞ æÇáÚãá æÇáÑİÇåíÉ ÇáÇÌÊãÇÚíÉ.
+ 
+Ãí ãÚáæãÇÊ äŞæã ÈÊÌãíÚåÇ ÓÊÍİÙ áÏíäÇ İí ÓÑíÉ ÊÇãÉ. åĞå ÇáãÚáæãÇÊ ÓÊÓÇÚÏäÇ áİåã ÇáÇæÖÇÚ İí ÇáãÌÊãÚ
+åá ÊæÏ ÇáãÔÇÑßÉ æÇáãÓÇÚÏÉ İí Ğáß¿.""",,,,,,,
+text,wfp_phonenumber,What is your phone number?,yes,,${wfp_note}='yes',numbers,,,ãÇ åæ ÑŞã åÇÊİß¿,,,,,,,
+geopoint,geolocation_end,Please take the GPS coordinates of the survey location,yes,,,,,,ÇÎĞ ÅÍÏÇËíÇÊ GPS,,,,,,,
 end_group,,,,,,,,,,,,,,,,
 end_group,,,,,,,,,,,,,,,,

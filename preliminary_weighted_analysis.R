@@ -1,13 +1,15 @@
 rm(list = ls())
 
-questions <- read.csv("./input/survey.csv")
-choices <- read.csv("./input/choices.csv")
-                    
+library(hypegrammaR)
+library(parallel)
+
+questions <- read.csv("./input/survey.csv", stringsAsFactors = F)
+choices <- read.csv("./input/choices.csv", stringsAsFactors = F)
 data <- load_data(file = "./input/data.csv")
 sampling_frame <- load_samplingframe(file = "./input/sampling_frame.csv")
-questionnaire <- load_questionnaire(data = "./input/data.csv",
-                                    questions = "./input/survey.csv",
-                                    choices = "./input/choices.csv",
+questionnaire <- load_questionnaire(data = data,
+                                    questions = questions,
+                                    choices = choices,
                                     choices.label.column.to.use = "label::English (en)")
 analysisplan <- load_analysisplan(file = "./input/analysisplan.csv")
 
