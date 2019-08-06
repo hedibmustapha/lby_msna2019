@@ -1,4 +1,8 @@
 rm(list = ls())
+
+questions <- read.csv("./input/survey.csv")
+choices <- read.csv("./input/choices.csv")
+                    
 data <- load_data(file = "./input/data.csv")
 sampling_frame <- load_samplingframe(file = "./input/sampling_frame.csv")
 questionnaire <- load_questionnaire(data = "./input/data.csv",
@@ -7,9 +11,7 @@ questionnaire <- load_questionnaire(data = "./input/data.csv",
                                     choices.label.column.to.use = "label::English (en)")
 analysisplan <- load_analysisplan(file = "./input/analysisplan.csv")
 
-###########
-questions <- read.csv("./input/survey.csv")
-choices <- read.csv("./input/choices.csv")
+
 kobostandards::check_input(data = data, questions = questions, choices = choices ,samplingframe = sampling_frame,
                            analysisplan = analysisplan) %>% write.csv("check_input.csv")
 
