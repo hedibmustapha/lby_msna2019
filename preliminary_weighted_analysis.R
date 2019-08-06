@@ -1,3 +1,4 @@
+rm(list = ls())
 data <- load_data(file = "./input/data.csv")
 sampling_frame <- load_samplingframe(file = "./input/sampling_frame.csv")
 questionnaire <- load_questionnaire(data = "./input/data.csv",

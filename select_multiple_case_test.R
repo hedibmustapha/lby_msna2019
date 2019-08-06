@@ -1,3 +1,4 @@
+rm(list = ls())
 data <- load_data(file = "./input/data.csv")
 sampling_frame <- load_samplingframe(file = "./input/sampling_frame.csv")
 questionnaire <- load_questionnaire(data = "./input/data.csv",
@@ -15,6 +16,8 @@ case <- map_to_case(hypothesis.type = "direct_reporting",
 result<-map_to_result(data = data,
                       dependent.var = "food_source",
                       case = case,
-                      weighting = weights)
+                      weighting = weights,
+                      questionnaire = questionnaire)
+
 result %>% map_to_labeled(questionnaire) -> result_labeled
 map_to_file(result_labeled$summary.statistic,"./output/summary_statistics.csv")
