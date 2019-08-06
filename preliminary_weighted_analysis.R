@@ -7,8 +7,10 @@ questionnaire <- load_questionnaire(data = "./input/data.csv",
                                     choices.label.column.to.use = "label::English (en)")
 analysisplan <- load_analysisplan(file = "./input/analysisplan.csv")
 
-
-kobostandards::check_input(data = data, questions = questionnaire, choices = "./input/choices.csv" ,samplingframe = sampling_frame,
+###########
+questions <- read.csv("./input/survey.csv")
+choices <- read.csv("./input/choices.csv")
+kobostandards::check_input(data = data, questions = questions, choices = choices ,samplingframe = sampling_frame,
                            analysisplan = analysisplan) %>% write.csv("check_input.csv")
 
 
