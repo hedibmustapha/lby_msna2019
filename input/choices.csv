@@ -250,6 +250,7 @@ hh_basic_items,hh_owns_enough,3. My household owns enough of this and does not n
 hh_basic_items,other,Other (specify),ÃÎÑì (íÑÌì ÇáÊÍÏíÏ),,,,,
 hh_basic_items,dk,Don't know,áÇ ÃÚÑİ,,,,,
 hh_basic_items,dwta,Prefer not to answer,ÃİÖá ÚÏã ÇáÅÌÇÈÉ,,,,,
+hh_basic_items,hh_doesnt_need_it,My household does not need this object,,,,,,
 electricity_source,government_grid,1. Public network connected to shelter (government grid),ÔÈßÉ ÚÇãÉ ãÊÕáÉ ÈÇáãÓßä (ÔÈßÉ ÍßæãíÉ),,,,,
 electricity_source,generator,2. Generator,ãæáÏ,,,,,
 electricity_source,no_source_electricity_shelter,3. No source of electricity in shelter,áÇ íæÌÏ ãÕÏÑ ááßåÑÈÇÁ İí ÇáãÓßä,,,,,
