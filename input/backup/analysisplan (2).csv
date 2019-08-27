@@ -1,0 +1,13 @@
+research.question,sub.research.question,repeat.for.variable,independent.variable,independent.variable.type,dependent.variable,dependent.variable.type,hypothesis.type,hypothesis
+RQ: not specified (automatic analysisplan),sub RQ not specified (automatic analysisplan),,,,gvt_salary,numerical,direct_reporting_median,
+RQ: not specified (automatic analysisplan),sub RQ not specified (automatic analysisplan),,,,gvt_social_benefits,numerical,direct_reporting_median,
+RQ: not specified (automatic analysisplan),sub RQ not specified (automatic analysisplan),,,,non_gvt_salary,numerical,direct_reporting_median,
+RQ: not specified (automatic analysisplan),sub RQ not specified (automatic analysisplan),,,,casual_labour,numerical,direct_reporting_median,
+RQ: not specified (automatic analysisplan),sub RQ not specified (automatic analysisplan),,displacement_status,categorical,gvt_salary,numerical,group_difference_median,
+RQ: not specified (automatic analysisplan),sub RQ not specified (automatic analysisplan),,displacement_status,categorical,gvt_social_benefits,numerical,group_difference_median,
+RQ: not specified (automatic analysisplan),sub RQ not specified (automatic analysisplan),,displacement_status,categorical,non_gvt_salary,numerical,group_difference_median,
+RQ: not specified (automatic analysisplan),sub RQ not specified (automatic analysisplan),,displacement_status,categorical,casual_labour,numerical,group_difference_median,
+RQ: not specified (automatic analysisplan),sub RQ not specified (automatic analysisplan),,displacement_status,categorical,own_business_income,numerical,group_difference_median,
+RQ: not specified (automatic analysisplan),sub RQ not specified (automatic analysisplan),,displacement_status,categorical,gvt_salary,numerical,group_difference,
+RQ: not specified (automatic analysisplan),sub RQ not specified (automatic analysisplan),,displacement_status,categorical,gvt_social_benefits,numerical,group_difference,
+RQ: not specified (automatic analysisplan),sub RQ not specified (automatic analysisplan),,displacement_status,categorical,non_gvt_salary,numerical,group_difference,
