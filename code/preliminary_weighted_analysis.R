@@ -4,26 +4,26 @@ library(hypegrammaR)
 library(parallel)
 library(dplyr)
 
-source("../functions/analysisplan_factory.R")
-source("../functions/summary_statistics.R")
-source("../functions/map_to_case.R")
-source("../functions/map_to_result.R")
-source("../functions/map_to_summary_statistic.R")
-source("../functions/apply_analysis_plan.R")
+source("./functions/analysisplan_factory.R")
+source("./functions/summary_statistics.R")
+source("./functions/map_to_case.R")
+source("./functions/map_to_result.R")
+source("./functions/map_to_summary_statistic.R")
+source("./functions/apply_analysis_plan.R")
 
-questions <- read.csv("../input/survey.csv", stringsAsFactors = F)
-choices <- read.csv("../input/choices.csv", stringsAsFactors = F)
-data <- load_data(file = "../input/data.csv")
-sampling_frame <- load_samplingframe(file = "../input/sampling_frame.csv")
+questions <- read.csv("./input/survey.csv", stringsAsFactors = F)
+choices <- read.csv("./input/choices.csv", stringsAsFactors = F)
+data <- load_data(file = "./input/data.csv")
+sampling_frame <- load_samplingframe(file = "./input/sampling_frame.csv")
 questionnaire <- load_questionnaire(data = data,
                                     questions = questions,
                                     choices = choices,
                                     choices.label.column.to.use = "label::English (en)")
-analysisplan <- load_analysisplan(file = "../input/analysisplan.csv")
+analysisplan <- load_analysisplan(file = "./input/analysisplan.csv")
 #analysisplan <- make_analysisplan_all_vars(df = data,questionnaire = questionnaire,repeat.for.variable = "mantika_label")
 
 kobostandards::check_input(data = data, questions = questions, choices = choices ,samplingframe = sampling_frame,
-                           analysisplan = analysisplan) %>% write.csv("../output/check_input.csv")
+                           analysisplan = analysisplan) %>% write.csv("./output/check_input.csv")
 
 weights <-map_to_weighting(sampling.frame = sampling_frame,
                            data.stratum.column = "strata.names",
@@ -39,7 +39,7 @@ results <- from_analysisplan_map_to_output(data = data,
                                                     questionnaire = questionnaire)
 
 labeled_results <- lapply(results$results, map_to_labeled,questionnaire)
-map_to_master_table(results_object = labeled_results, filename = "../output/preliminary_analysis.csv")
+map_to_master_table(results_object = labeled_results, filename = "./output/preliminary_analysis_overall_bydisplacement_status.csv")
 
 #hypegrammaR:::map_to_generic_hierarchical_html(resultlist = results,
                                                #render_result_with = hypegrammaR:::from_result_map_to_md_table,
@@ -75,4 +75,4 @@ case_result<-map_to_result(data = data,
                            questionnaire = questionnaire)
 
 case_result %>% map_to_labeled(questionnaire) -> result_labeled
-map_to_file(result_labeled$summary.statistic,"../output/summary_statistics.csv")
+map_to_file(result_labeled$summary.statistic,"./output/summary_statistics.csv")
