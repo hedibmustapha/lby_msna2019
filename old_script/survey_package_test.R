@@ -6,15 +6,23 @@ svytotal(~enroll, srs_design)
 svymean(~enroll, srs_design)
 
 lookup <- unique(sampling_frame)
-data <- merge(lookup, data, by='strata.names')
+data_ <- merge(lookup, data, by='strata.names')
 data$weights <- weights(data)
 strata.weights <- weights(data)
-strat_design <- svydesign(id=~1, strata = names(strata.weights), weights = as.vector(strata.weights),
-                          data = data, nest = T)
 
-strat_design <- svydesign(ids=~1, strata = ~strata.names, fpc = ~population,
-                          data = data, nest = T)
-svymean(~pull_factors.conflict_ended, strat_design,na.rm=T)
+strat_design_srvyr <- data_ %>%
+  as_survey_design(1, strata = strata.names, fpc = population)
+strat_design_srvyr %>%
+  summarize(a = survey_mean(agricultural_activities_prior2011.livestock_activity, vartype = "ci",na.rm=T))
+
+hype_design <- map_to_design(data = data, weighting_function = weights)
+strata_design <- svydesign(ids = ~1, strata = ~strata.names, fpc = ~population, data = data, weights=~weights)
+perso_design <- map_to_design(data = data, strata.variable.name = "strata.names", population.variable.name = "population", weights.name = "weights")
+
+svymean(~hoh, strata_design,na.rm=T)
+svymean(~hoh, perso_design,na.rm=T)
+
+svymean(~crop_production_challenges.insecurity, hype_design,na.rm=T)
 confint(svymean(~pull_factors.conflict_ended, strat_design,na.rm=T), level = 0.95)
 
 summary <-svymean(~size_hh, strat_design, se=T)
@@ -36,7 +44,8 @@ round(ftab*100,1)
 
 svyby(~non_gvt_salary, ~displacement_status, svymean, design = strat_design,keep.var = T)
 
-summary <-svyby(~own_business_income, ~displacement_status, svymean, design = strat_design, keep.names = T, vartype = "ci", na.rm=T)
+svyby(~hoh, ~displacement_status, svymean, design = strata_design, keep.names = F,na.rm=T)
+svyby(~hoh, ~displacement_status, svymean, design = hype_design, keep.names = F,na.rm=T)
 summary <- summary[as.character("idp"),]
 colnames(summary)<- c("independent.var.value", "numbers", "min", "max")
 se = ((summary[2] - summary[3])/1.96) %>% colnames()<-"se"
@@ -59,10 +68,10 @@ confint(svyby(~gvt_salary, ~displacement_status, svyquantile, design = strat_des
 confint(svyquantile(~gvt_salary, design=strat_design, quantiles=0.5, na.rm=TRUE, ci=T), level = 0.95)
 
 svyquantile(~gvt_salary, design=strat_design, quantiles=0.5, na.rm=TRUE, ci=F, alpha=0.05)
-svyquantile(~gvt_salary, design=strat_design, quantiles=0.5, na.rm=TRUE, ci=T, alpha=0.15)
+svyquantile(~gvt_salary, design=strata_design, quantiles=0.5, na.rm=TRUE)
 
 analysisplan <- read.csv("./input/analysisplan.csv", stringsAsFactors = F)
-analysisplan2 <- analysisplan_expand_repeat(analysisplan = analysisplan,data = data)
+analysisplan2 <- analysisplan_expand_repeat(analysisplan = analysisplan,data = data, se=)
 
 a <- a[as.character("idp"),]
 names(a) <- c("min", "max")
@@ -74,3 +83,9 @@ unique(Ejdabia$variables$displacement_status[!is.na(Ejdabia$variables$non_gvt_sa
 
 Ejdabia$variables["displacement_status"][!is.na(strat_design$variables["displacement_status"])]
 svyby(~non_gvt_salary, ~displacement_status, svyquantile, design = strat_design, na.rm=T, quantiles=0.5, ci=T)
+
+attr(x = svyquantile(~gvt_salary, design=strata_design, quantiles=0.5, na.rm=TRUE, ci=T),which = "SE")
+
+dstrata <- data %>% as_survey_design(strata= strata.names, weights = weights)
+
+colnames(dstrata %>% group_by(displacement_status) %>% summarise(med=survey_median(own_business_income, vartype = c("se","ci"), na.rm=T, level=0.95)))
