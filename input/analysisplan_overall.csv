@@ -1,6 +1,5 @@
 research.question,sub.research.question,repeat.for.variable,independent.variable,independent.variable.type,dependent.variable,dependent.variable.type,hypothesis.type,hypothesis
 RQ: not specified (automatic analysisplan),sub RQ not specified (automatic analysisplan),,,,hoh,categorical,direct_reporting,
-RQ: not specified (automatic analysisplan),sub RQ not specified (automatic analysisplan),,,,not_hoh_ability_toanswer,categorical,direct_reporting,
 RQ: not specified (automatic analysisplan),sub RQ not specified (automatic analysisplan),,,,age_hoh,numerical,direct_reporting,
 RQ: not specified (automatic analysisplan),sub RQ not specified (automatic analysisplan),,,,sex_hoh,categorical,direct_reporting,
 RQ: not specified (automatic analysisplan),sub RQ not specified (automatic analysisplan),,,,same_baladiya_prior_2011,categorical,direct_reporting,
