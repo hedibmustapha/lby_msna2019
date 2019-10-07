@@ -4,11 +4,11 @@ source("code/data_merge_prep.R")
 
 mantika_file <- dm_data %>%
   group_by(mantika_label) %>%
-  summarize(age_hoh = weighted_median(age_hoh, ., group = !!get_group(.)),
+  summarize(age_hoh = weighted_mean(age_hoh, ., group = !!get_group(.)),
             male_hoh = percent_response(sex_hoh, ., "male", group = !!get_group(.)),
             female_hoh = percent_response(sex_hoh, ., "female", group = !!get_group(.)),
             total_people = weighted_sum(size_hh, ., group = !!get_group(.)),
-            size_hh = weighted_median(size_hh, ., group = !!get_group(.)),
+            size_hh = weighted_mean(size_hh, ., group = !!get_group(.)),
             infants_female = round( 100 * (weighted_sum(nb_infants_female, ., group = !!get_group(.)) / total_people), 0),
             children_female = round( 100 * (weighted_sum(nb_children_female, ., group = !!get_group(.)) / total_people), 0),
             youth_female = round( 100 * (weighted_sum(nb_youth_female, ., group = !!get_group(.)) / total_people), 0),
@@ -684,7 +684,7 @@ mantika_file <- dm_data %>%
             eviction_reason_3_name = select_percents(eviction_shelter_reasons, 3, ., questions, choices, "label", group = !!get_group(.)),
             eviction_reason_3_pct = select_percents(eviction_shelter_reasons, 3, ., questions, choices, "percent", group = !!get_group(.)),
             nfi_need = percent_response(nfi_need, ., "has_nfi_need", group = !!get_group(.)),
-            power_cuts = weighted_median(power_cuts, ., group = !!get_group(.)),
+            power_cuts = weighted_mean(power_cuts, ., group = !!get_group(.)),
             phone_coverage_reliable = percent_response(phone_network_coverage, ., "coverage_exists_reliable", group = !!get_group(.)),
             phone_coverage_not_reliable = percent_response(phone_network_coverage, ., "coverage_exists_not_reliable", group = !!get_group(.)),
             phone_coverage_none = percent_response(phone_network_coverage, ., "coverage_doesnt_exist", group = !!get_group(.)),

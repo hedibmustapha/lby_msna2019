@@ -3,8 +3,6 @@ source("code/data_merge_functions.R")
 # Make sure to source hte first 27 lines of preliminary weighted analysis to get
 # data, quesitonnaire, choices and weighting function
 
-data <- mutate_if(data, is.character, na_if, "")
-
 dm_data <- data %>%
   mutate(fcs = (cereals * 2) + (legumes * 3) + veggies + fruits + (meat * 4) + (dairy * 4) + (fats * 0.5) + (sugar * 0.5),
          fcs_category = case_when(
@@ -18,13 +16,77 @@ dm_data <- data %>%
            rcsi > 3 & rcsi <= 9 ~ "medium",
            rcsi > 9 ~ "high"
          ),
+         total_income = rowSums(select(.,gvt_salary,gvt_social_benefits,non_gvt_salary,casual_labour,
+                                       own_business_income,
+                                       remittances,
+                                       family_support,humanitarian_assistance,zakat,income_other) 
+                                , na.rm=T),
+         total_expenditures = rowSums(select(.,food_expenditure,rent_expenditure,shelter_maintenance_expenditure,
+                                             water_expenditure,
+                                             nfi_expenditure,
+                                             utilities_expenditure,
+                                             fuel_expenditure,health_related_expenditure,education_related_expenditure
+                                             ,transportation_expenditure,mobile_phone_credit_expenditure,productive_assets_expenditure,
+                                             debt_repayment_expenditure,other_expenditure)
+                                      , na.rm=T),
+         livelihood_coping_mechanism = rowSums(select(.,sold_nonproductive_hh_assets:child_marriage) %>%
+                                                 mutate_all(~.x %in% c("already_exhausted_this_coping_strategy", "yes")),
+                                               na.rm = T),
+         livelihood_coping_atleast_one = case_when(
+           livelihood_coping_mechanism > 0 ~ "yes",
+           livelihood_coping_mechanism == 0 ~ "no"),
+         
          permanent_job_adult = rowSums(select(., permanent_job_adult_male, permanent_job_adult_female), na.rm = T),
          temporary_job_adult = rowSums(select(., temporary_job_adult_male, temporary_job_adult_female), na.rm = T),
          daily_labour_job_adult = rowSums(select(., daily_labour_adult_male, daily_labour_adult_female), na.rm = T),
          gvt_payroll_job_adult = rowSums(select(., gvt_payroll_adult_male, gvt_payroll_adult_female), na.rm = T),
+         other_job_adult_adult = rowSums(select(., other_job_adult_male, other_job_adult_female), na.rm = T),
+         
+         gvt_public_sector_adult = rowSums(select(., gvt_public_sector_male, gvt_public_sector_female), na.rm = T),
+         libyan_owned_business_adult = rowSums(select(., libyan_owned_business_male, libyan_owned_business_female), na.rm = T),
+         foreign_owned_business_adult = rowSums(select(., foreign_owned_business_male, foreign_owned_business_female), na.rm = T),
+         libyan_ngos_csos_adult = rowSums(select(., libyan_ngos_csos_male, libyan_ngos_csos_female), na.rm = T),
+         international_ngos_adult = rowSums(select(., international_ngos_male, international_ngos_female), na.rm = T),
+         own_family_business_adult = rowSums(select(., own_family_business_male, own_family_business_female), na.rm = T),
+         informal_irregular_labour_adult = rowSums(select(., informal_irregular_labour_male, informal_irregular_labour_female), na.rm = T),
+         other_institution_adult = rowSums(select(., other_institution_male, other_institution_female), na.rm = T),
+         
+         gvt_salary_without_0 = ifelse(gvt_salary==0, NA, gvt_salary),
+         gvt_social_benefits_without_0 = ifelse(gvt_social_benefits==0, NA, gvt_social_benefits),
+         non_gvt_salary_without_0 = ifelse(non_gvt_salary==0, NA, non_gvt_salary),
+         casual_labour_without_0 = ifelse(casual_labour==0, NA, casual_labour),
+         own_business_income_without_0 = ifelse(own_business_income==0, NA, own_business_income),
+         remittances_without_0 = ifelse(remittances==0, NA, remittances),
+         family_support_without_0 = ifelse(family_support==0, NA, family_support),
+         humanitarian_assistance_without_0 = ifelse(humanitarian_assistance==0, NA, humanitarian_assistance),
+         zakat_without_0 = ifelse(zakat==0, NA, zakat),
+         income_other_without_0 = ifelse(income_other==0, NA, income_other),
+         
+         food_expenditure_without_0 = ifelse(food_expenditure==0, NA, food_expenditure),
+         rent_expenditure_without_0 = ifelse(rent_expenditure==0, NA, rent_expenditure),
+         shelter_maintenance_expenditure_without_0 = ifelse(shelter_maintenance_expenditure==0, NA, shelter_maintenance_expenditure),
+         water_expenditure_without_0 = ifelse(water_expenditure==0, NA, water_expenditure),
+         nfi_expenditure_without_0 = ifelse(nfi_expenditure==0, NA, nfi_expenditure),
+         utilities_expenditure_without_0 = ifelse(utilities_expenditure==0, NA, utilities_expenditure),
+         fuel_expenditure_without_0 = ifelse(fuel_expenditure==0, NA, fuel_expenditure),
+         health_related_expenditure_without_0 = ifelse(health_related_expenditure==0, NA, health_related_expenditure),
+         education_related_expenditure_without_0 = ifelse(education_related_expenditure==0, NA, education_related_expenditure),
+         transportation_expenditure_without_0 = ifelse(transportation_expenditure==0, NA, transportation_expenditure),
+         mobile_phone_credit_expenditure_without_0 = ifelse(mobile_phone_credit_expenditure==0, NA, mobile_phone_credit_expenditure),
+         productive_assets_expenditure_without_0 = ifelse(productive_assets_expenditure==0, NA, productive_assets_expenditure),
+         debt_repayment_expenditure_without_0 = ifelse(debt_repayment_expenditure==0, NA, debt_repayment_expenditure),
+         other_expenditure_without_0 = ifelse(other_expenditure==0, NA, other_expenditure),
+         
+         rental_cost_without_0 = ifelse(rental_cost==0, NA, rental_cost),
+         hh_total_debt_without_0 = ifelse(hh_total_debt==0, NA, hh_total_debt),
+         bank_withdrawal_amount_without_0 = ifelse(bank_withdrawal_amount==0, NA, bank_withdrawal_amount),
+         
          permanent_job_minor = rowSums(select(., permanent_job_minor_male, permanent_job_minor_female), na.rm = T),
          temporary_job_minor = rowSums(select(., temporary_job_minor_male, temporary_job_minor_female), na.rm = T),
          daily_labour_job_minor = rowSums(select(., daily_labour_minor_male, daily_labour_minor_female), na.rm = T),
+         nb_hectares_cultivated_less1ha= case_when(
+           nb_hectares_cultivated <= 1 ~ "yes",
+           nb_hectares_cultivated > 1 ~ "no"),
          cash_coping_stress = rowSums(select(., 
                                              sold_nonproductive_hh_assets,
                                              spent_savings,
@@ -36,14 +98,18 @@ dm_data <- data %>%
                                              sold_productive_hh_assets,
                                              borrowed_money,
                                              reduced_expenditures_health_education,
-                                             took_additional_job) %>%
+                                             reduce_expense_health,
+                                             took_additional_job,
+                                             child_dropped_school,
+                                             delayed_skipped_rent) %>%
                                         mutate_all(~ .x %in% c("already_exhausted_this_coping_strategy", "yes")),
                                       na.rm = T),
          cash_coping_emergency = rowSums(select(., 
                                                 begging,
                                                 adult_accepting_degrading_illegal_work,
                                                 minor_accepting_degrading_illegal_work,
-                                                child_marriage) %>%
+                                                child_marriage,
+                                                degrading_illegal_work) %>%
                                            mutate_all(~ .x %in% c("already_exhausted_this_coping_strategy", "yes")),
                                          na.rm = T),
          cash_coping = case_when(
@@ -51,6 +117,8 @@ dm_data <- data %>%
            cash_coping_crisis > 0 ~ "crisis",
            cash_coping_stress > 0 ~ "stress"
          ),
+         
+         atleast_one_crisis_emergency_cash_coping= ifelse(cash_coping %in% c("crisis","emergency"),"yes","no"),
          nfi_need = rowSums(select(., mattresses:construction_materials_equipment,
                                    -ends_with("_other")) %>%
                               mutate_all(~ .x %in% c("hh_doesnt_own_it", "hh_owns_it_need_more")),
@@ -66,6 +134,10 @@ dm_data <- data %>%
          enrolled_school_female_6_14_edu = ifelse(enrolled_school_female_6_14 == 0, NA, enrolled_school_female_6_14),
          enrolled_school_male_15_17_edu = ifelse(enrolled_school_male_15_17 == 0, NA, enrolled_school_male_15_17),
          enrolled_school_male_6_14_edu = ifelse(enrolled_school_male_6_14 == 0, NA, enrolled_school_male_6_14),
+         attended_school_female_15_17_edu = ifelse(attended_school_female_15_17 == 0, NA, attended_school_female_15_17), ## These vars allow for weighting attendance data
+         attended_school_female_6_14_edu = ifelse(attended_school_female_6_14 == 0, NA, attended_school_female_6_14),
+         attended_school_male_15_17_edu = ifelse(attended_school_male_15_17 == 0, NA, attended_school_male_15_17),
+         attended_school_male_6_14_edu = ifelse(attended_school_male_6_14 == 0, NA, attended_school_male_6_14),
          document_needs = str_concat("not_everyone_has_legal_doc",
                                      property_docs,
                                      family_books,
@@ -90,7 +162,31 @@ dm_data <- data %>%
                                       other_problem_faced),
          returnee_issues = ifelse(is.na(returnee_issues) & displacement_status == "returnee",
                                   "",
-                                  returnee_issues)) %>%
+                                  returnee_issues)) %>% mutate(
+          total_income_without_0 = ifelse(total_income ==0, NA, total_income),
+          total_expenditure_without_0 = ifelse(total_expenditures ==0, NA, total_expenditures),
+          
+          working_minors= rowSums(select(.,permanent_job_minor, daily_labour_job_minor, temporary_job_minor), na.rm=T),
+          working_minors_male= rowSums(select(.,permanent_job_minor_male, daily_labour_minor_male, temporary_job_minor_male), na.rm=T),
+          working_minors_female= rowSums(select(.,permanent_job_minor_female, daily_labour_minor_female, temporary_job_minor_female), na.rm=T),
+          enrolled_school_female_edu = rowSums(select(.,  enrolled_school_female_15_17_edu,
+                                                          enrolled_school_female_6_14_edu), na.rm = T),
+          enrolled_school_male_edu = rowSums(select(.,    enrolled_school_male_15_17_edu,
+                                                          enrolled_school_male_6_14_edu), na.rm = T),
+          attended_school_male = rowSums(select(., attended_school_male_6_14_edu,
+                                                attended_school_male_15_17_edu), na.rm = T),
+          attended_school_female = rowSums(select(.,  attended_school_female_6_14_edu,
+                                                  attended_school_female_15_17_edu), na.rm = T),
+          nb_male_edu = rowSums(select(.,   nb_youth_male_edu,
+                                            nb_children_male_edu), na.rm = T),
+          nb_female_edu = rowSums(select(., nb_youth_female_edu,
+                                             nb_children_female_edu), na.rm = T)) %>% mutate(
+          school_age_children = rowSums(select(., nb_male_edu,
+                                               nb_female_edu), na.rm = T),
+          enrolled_school = rowSums(select(., enrolled_school_female_edu,
+                                              enrolled_school_male_edu), na.rm = T),
+          attended_school = rowSums(select(., attended_school_male,
+                                              attended_school_female), na.rm = T)) %>%
   rowwise() %>%
   mutate(no_daily_difficulty = sum(no_difficulty_carrying_activities_female_adults,
                                    no_difficulty_carrying_activities_female_infant,

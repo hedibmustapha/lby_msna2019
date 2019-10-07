@@ -37,7 +37,7 @@ weighted_sum <- function(x, df, x_name = NULL, group = NULL) {
 }
 
 # weighted mean
-weighted_mean <- function(x, df, digits = 0, x_name = NULL, group = NULL) {
+weighted_mean <- function(x, df, digits = 1, x_name = NULL, group = NULL) {
   if (is.null(x_name)) {
     x_name <- deparse(substitute(x))
   }
@@ -102,7 +102,7 @@ percent_response <- function(x, df, ..., x_name = NULL, group = NULL) {
     NA
   } else {
     pct <- sum(str_detect(x, args) * weights) / sum(weights)
-    round(100 * pct, 0)
+    round(100 * pct, 1)
   }
 }
 
@@ -120,7 +120,7 @@ num_percent_response <- function(x, df, ..., group = NULL) {
     NA
   } else {
     pct <- sum((x %in% args) * weights) / sum(weights)
-    round(100 * pct, 0)
+    round(100 * pct, 1)
   }
 }
 
@@ -176,7 +176,7 @@ select_percents <- function(x, n, df, survey_sheet, choice_sheet, return_what, l
       labels[n]
     } else if (return_what == "percent") {
       counts <- counts[order(counts, decreasing = T)]
-      round(100 * (counts[n] / sum(weights)), 0)
+      round(100 * (counts[n] / sum(weights)), 1)
     }
   }
 }
