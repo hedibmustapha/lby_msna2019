@@ -1,8 +1,0 @@
-"","issue","affected_files","affected_variables","severity","comment"
-"1","failed to evaluate 'relevant' condition","questions","physical_cognitive_male_children_err","critical","condition that failed: 'selected(${physical_cognitive_difficulties},'yes_male_children*') and ${nb_children_male}=0'.  --- evaluation failed with error:  could not find function ""selected"""
-"2","could not check analysisplan - not a data.frame","","","critical",""
-"3","could not check samplingframe","samplingframe","","critical","samplingframe not a data.frame"
-"4","select_one or select_multiple values in data that are not listed in the questionnaire (data values split by on "" "" (spaces))","data/questionnaire","water_treatment","minor","value:  no_treatment"
-"5","select_one or select_multiple values in data that are not listed in the questionnaire (data values split by on "" "" (spaces))","data/questionnaire","water_treatment","minor","value:  water_filter"
-"6","select_one or select_multiple values in data that are not listed in the questionnaire (data values split by on "" "" (spaces))","data/questionnaire","toilet_type","minor","value:  dry_pit"
-"7","could not check match between data and analysis plan - analysisplan is not a data.frame","data/analysisplan","","critical",""

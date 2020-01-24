@@ -1,9 +1,0 @@
-to_values,target_variables,conditions
-yes,lack_doc_disrupt_access_service,"sm_selected(losing_legal_docs_impact, none = c(""losing_docs_no_impact"")) & !is.na(losing_legal_docs_impact)"
-no,lack_doc_disrupt_access_service,"is.na(losing_legal_docs_impact) | sm_selected(losing_legal_docs_impact, exactly = c(""losing_docs_no_impact""))"
-no,clean_water_source_less500m,"!(primary_drinkingwater_source %in% c(""public_network"",""water_trucking"",""bottled_water"",""public_tap"",""protected_well"",""rainwater"")) | distance_drinkingwater == c(""more_500m"")"
-yes,clean_water_source_less500m,"primary_drinkingwater_source %in% c(""public_network"",""water_trucking"") | (primary_drinkingwater_source %in% c(""bottled_water"",""public_tap"",""protected_well"",""rainwater"") & distance_drinkingwater != c(""more_500m""))"
-yes,clean_water_source_less500m_sufficient,"(primary_drinkingwater_source %in% c(""public_network"",""water_trucking"")& unsufficient_quantity_water == ""no"") | ((primary_drinkingwater_source %in% c(""bottled_water"",""public_tap"",""protected_well"",""rainwater"") &  distance_drinkingwater != c(""more_500m"")& unsufficient_quantity_water == ""no""))"
-no,clean_water_source_less500m_sufficient,"!(primary_drinkingwater_source %in% c(""public_network"",""water_trucking"",""bottled_water"",""public_tap"",""protected_well"",""rainwater"")) | distance_drinkingwater == c(""more_500m"") | unsufficient_quantity_water %in%  c(""yes"", ""dk"",""dwta"")"
-yes,pour_flush_toilet,"sm_selected(toilet_type, any = c(""flush_toilet"",""pour_toilet""))"
-no,pour_flush_toilet,"sm_selected(toilet_type, none  = c(""flush_toilet"",""pour_toilet""))"

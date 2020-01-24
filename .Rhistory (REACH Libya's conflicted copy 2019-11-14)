@@ -1,0 +1,512 @@
+questionnaire = questionnaire
+)[[2]]
+7096.949/25987.95 * 100
+direct_case <- map_to_case(hypothesis.type = "direct_reporting",
+dependent.var.type = "categorical")
+map_to_result(data = dm_data,
+dependent.var = "initially_displaced_year",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]] * 100
+map_to_result(data = dm_data,
+dependent.var = "initially_displaced_year",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+map_to_result(data = dm_data,
+dependent.var = "returned_year",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+dm_data %>% mutate( nb_displacement = case_when( times_displaced_since_2011 == 1 ~ "once", times_displaced_since_2011 == 2 ~ "twice", times_displaced_since_2011 > 2 ~ "three or more"))
+dm_data <- dm_data %>% mutate( nb_displacement = case_when( times_displaced_since_2011 == 1 ~ "once", times_displaced_since_2011 == 2 ~ "twice", times_displaced_since_2011 > 2 ~ "three or more"))
+map_to_result(data = dm_data,
+dependent.var = "nb_displacement",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+group_diff_case <- map_to_case(hypothesis.type = "group_difference",
+dependent.var.type = "categorical",
+independent.var.type = "categorical")
+map_to_result(data = dm_data,
+dependent.var = "nb_displacement",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]]
+map_to_result(data = dm_data,
+dependent.var = "pull_factors",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]]
+map_to_result(data = dm_data,
+dependent.var = "pull_factors",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]] * 100
+7.504974e+01
+3.988175e-01
+3.777606e+00
+1.110223e-14
+1.110223e-1
+map_to_result(data = dm_data,
+dependent.var = "push_factors",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]]
+8.087895e-01
+map_to_result(data = dm_data,
+dependent.var = "move_outsode_lby_reasons",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]]
+map_to_result(data = dm_data,
+dependent.var = "move_outsode_lby_reasons",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]][,c(3,4)]
+map_to_result(data = dm_data,
+dependent.var = "move_outsode_lby_reasons",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]][,c(3,4,5)]
+dm_data %>% summarize(weighted_median(gvt_salary,.))
+map_to_result(data = dm_data,
+dependent.var = "gvt_salary",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+direct_case <- map_to_case(hypothesis.type = "direct_reporting_median",
+dependent.var.type = "nuerical")
+direct_case <- map_to_case(hypothesis.type = "direct_reporting_median",
+dependent.var.type = "numerical")
+map_to_result(data = dm_data,
+dependent.var = "gvt_salary",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+library(matrixStats)
+dm_data %>% summarize(weightedMedian(gvt_salary, weights(.),na.rm = T))
+hypegrammaR:::median_with_confints()
+hypegrammaR:::median_with_confints
+hypegrammaR:::median_with_confints_groups
+map_to_result(data = dm_data,
+dependent.var = "push_factors",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]][,c(3,4,5)]
+direct_case <- map_to_case(hypothesis.type = "direct_reporting",
+dependent.var.type = "categorical")
+map_to_result(data = dm_data,
+dependent.var = "push_factors",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+map_to_result(data = dm_data,
+dependent.var = "returnee_issues",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+dm_data$returnee_issues
+map_to_result(data = dm_data,
+dependent.var = "returnee_issues",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+dm_data$missing_valuables_house_property
+map_to_result(data = dm_data,
+dependent.var = "missing_valuables_house_property",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+dm_data$parts_house_property_destroyed
+map_to_result(data = dm_data,
+dependent.var = "parts_house_property_destroyed",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+group_diff_case <- map_to_case(hypothesis.type = "group_difference",
+dependent.var.type = "categorical",
+independent.var.type = "categorical")
+map_to_result(data = dm_data,
+dependent.var = "fcs_category",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]][,c(3,4,5)]
+map_to_result(data = dm_data,
+dependent.var = "hh_nearfutur_intention",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]][,c(3,4,5)]
+map_to_result(data = dm_data,
+dependent.var = "hh_nearfutur_intention",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]]
+map_to_result(data = dm_data,
+dependent.var = "rcsi_category",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]][,c(3,4,5)]
+map_to_result(data = dm_data,
+dependent.var = "food_source",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]][,c(3,4,5)]
+map_to_result(data = dm_data,
+dependent.var = "food_source",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+map_to_result(data = dm_data,
+dependent.var = "agricultural_production",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+map_to_result(data = dm_data,
+dependent.var = "agricultural_activities_prior2011",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+map_to_result(data = dm_data,
+dependent.var = "agricultural_production_prior2011",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+map_to_result(data = dm_data,
+dependent.var = "crop_production_challenges",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+direct_case <- map_to_case(hypothesis.type = "direct_reporting",
+dependent.var.type = "numerical")
+map_to_result(data = dm_data,
+dependent.var = "nb_hectares_cultivated",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+direct_case <- map_to_case(hypothesis.type = "direct_reporting",
+dependent.var.type = "categorical")
+map_to_result(data = dm_data,
+dependent.var = "types_crops",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+map_to_result(data = dm_data,
+dependent.var = "types_crops",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]] %>% select(dependent.var.value,numbers)
+map_to_result(data = dm_data,
+dependent.var = "types_crops",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]] %>% select(dependent.var.value,numbers) %>% tail()
+map_to_result(data = dm_data,
+dependent.var = "types_crops",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]] %>% select(dependent.var.value,numbers) %>% tail(11)
+map_to_result(data = dm_data,
+dependent.var = "crisis_affected_crop_production",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+group_diff_case <- map_to_case(hypothesis.type = "group_difference_sum",
+dependent.var.type = "numerical",
+independent.var.type = "categorical")
+map_to_result(data = dm_data,
+dependent.var = "nb_over18",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]][,c(3,4,5)]
+map_to_result(data = dm_data,
+dependent.var = "permanent_job_adult",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]][,c(3,4,5)]
+662.9740/1486.2184 * 100
+map_to_result(data = dm_data,
+dependent.var = "daily_labour_job_adult",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]][,c(3,4,5)]
+97.85759/1486.2184 * 100
+6631.7816/13148.8608 * 100
+map_to_result(data = dm_data,
+dependent.var = "nb_under18",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]][,c(3,4,5)]
+map_to_result(data = dm_data,
+dependent.var = "permanent_job_minor",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]][,c(3,4,5)]
+6.353519 / 1008.5248 * 100
+3.009157 / 1008.5248 * 100
+3.009157 / 483.6245 * 100
+map_to_result(data = dm_data,
+dependent.var = "calcul_type_institution_male",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+direct_case <- map_to_case(hypothesis.type = "direct_reporting_sum",
+dependent.var.type = "numerical")
+map_to_result(data = dm_data,
+dependent.var = "calcul_type_institution_male",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+map_to_result(data = dm_data,
+dependent.var = "gvt_public_sector_male",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+4857.786/6806.127 * 100
+map_to_result(data = dm_data,
+dependent.var = "calcul_type_institution_female",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+map_to_result(data = dm_data,
+dependent.var = "international_ngos_female",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+map_to_result(data = dm_data,
+dependent.var = "own_family_business_female",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+84.10629/3769.947 * 100
+direct_case <- map_to_case(hypothesis.type = "direct_reporting_median",
+dependent.var.type = "numerical")
+map_to_result(data = dm_data,
+dependent.var = "gvt_salary_income",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+map_to_result(data = dm_data,
+dependent.var = "gvt_salary",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+dm_data %>% summarize(weighted_median(gvt_salary,.))
+dm_data %>% mutate(weight = weights(dm_data)) %>% group_by(displacement_status) %>% summarize(weightedMedian(gvt_salary,weight,na.rm = T))
+group_diff_case <- map_to_case(hypothesis.type = "group_difference_median",
+dependent.var.type = "numerical",
+independent.var.type = "categorical")
+map_to_result(data = dm_data,
+dependent.var = "gvt_salary",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]][,c(3,4,5)]
+hypegrammaR:::median_with_confints_groups
+hypegrammaR:::mean_with_confints_groups
+hypegrammaR:::median_with_confints
+weighted_median()
+weighted_median
+group_diff_case <- map_to_case(hypothesis.type = "group_difference_median",
+dependent.var.type = "numerical",
+independent.var.type = "categorical")
+map_to_result(data = dm_data,
+dependent.var = "gvt_salary",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]][,c(3,4,5)]
+dm_data %>% filter(!is.na(gvt_salary)) %>% mutate(weight= weights(dm_data)) %>% group_by(displacement_status) %>% summarize(weightedMedian(gvt_salary,weight,na.rm = T))
+dm_data %>% mutate(weight= weights(dm_data)) %>% filter(!is.na(gvt_salary))  %>% group_by(displacement_status) %>% summarize(weightedMedian(gvt_salary,weight,na.rm = T))
+weighted_median()
+weighted_median
+map_to_result(data = dm_data,
+dependent.var = "gvt_salary",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]][,c(3,4,5)]
+dm_data %>% mutate(weight= weights(dm_data)) %>% filter(!is.na(gvt_salary))  %>% group_by(displacement_status) %>% summarize(weightedMedian(gvt_salary,weight,na.rm = T))
+dm_data %>% mutate(weight= weights(dm_data)) %>% filter(!is.na(gvt_salary), displacement_section=="returnee") %>% summarize(weightedMedian(gvt_salary,weight,na.rm = T))
+dm_data %>% mutate(weight= weights(dm_data)) %>% filter(!is.na(gvt_salary), displacement_status=="returnee") %>% summarize(weightedMedian(gvt_salary,weight,na.rm = T))
+dm_data$cash_modality
+dm_data %>% summarize((cash_modality[!is.na(cash_modality)] > 0) * dm_weights(., "cash_modality")))
+dm_data %>% summarize((cash_modality[!is.na(cash_modality)] > 0) * dm_weights(., "cash_modality"))
+dm_data %>% summarize(sum((cash_modality[!is.na(cash_modality)] > 0) * dm_weights(., "cash_modality")))
+direct_case <- map_to_case(hypothesis.type = "direct_reporting_sum",
+dependent.var.type = "numerical")
+map_to_result(data = dm_data,
+dependent.var = "cash_modality",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+dm_data %>% summarize(sum((cash_modality[!is.na(cash_modality)] > 0) * dm_weights(., "cash_modality"))/sum(dm_weights(., "cash_modality")))
+direct_case <- map_to_case(hypothesis.type = "direct_reporting",
+dependent.var.type = "numerical")
+map_to_result(data = dm_data,
+dependent.var = "cash_modality",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+dm_data <- dm_data %>% mutate(received_cash_excluding_0 = ifelse(cash_modality ==0,NA,cash_modality))
+map_to_result(data = dm_data,
+dependent.var = "received_cash_excluding_0",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+dm_data$cash_modality
+mode(dm_data$cash_modality)
+table(dm_data$cash_modality)
+table(dm_data$received_cash_excluding_0)
+median(dm_data$received_cash_excluding_0)
+median(dm_data$received_cash_excluding_0,na.rm = T)
+mean(dm_data$received_cash_excluding_0,na.rm = T)
+group_diff_case <- map_to_case(hypothesis.type = "group_difference",
+dependent.var.type = "categorical",
+independent.var.type = "categorical")
+map_to_result(data = dm_data,
+dependent.var = "obtaining_cash_challenge",
+independent.var = "displacement_status",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]][,c(3,4,5)]
+direct_case <- map_to_case(hypothesis.type = "direct_reporting",
+dependent.var.type = "categorical")
+map_to_result(data = dm_data,
+dependent.var = "obtaining_cash_challenge_reasons",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+many_records <- read.csv("./input/unmet_needs_records_v6.csv")
+dm_data <- dm_data %>% recode_batch(tos = many_records$to_values,
+wheres = many_records$conditions,
+targets = many_records$target_variables,
+questionnaire = questionnaire) %>%
+end_recoding()
+dm_data <- dm_data %>% mutate(
+wash_sector = case_when(
+rowSums(select(.,wash_index_1:wash_index_2) %>% mutate_all(~.x %in% NA)) == 2 ~ NA_real_,
+rowSums(select(.,wash_index_1:wash_index_2),na.rm = T) > 0 ~ 1,
+rowSums(select(.,wash_index_1:wash_index_2),na.rm = T) == 0 ~ 0
+),
+shelter_sector = case_when(
+rowSums(select(.,shelter_index_1:shelter_index_3) %>% mutate_all(~.x %in% NA)) == 3 ~ NA_real_,
+rowSums(select(.,shelter_index_1:shelter_index_3),na.rm = T) > 0 ~ 1,
+rowSums(select(.,shelter_index_1:shelter_index_3),na.rm = T) == 0 ~ 0
+),
+#cash_sector = case_when(
+# rowSums(select(.,cash_index_1:cash_index_2) %>% mutate_all(~.x %in% NA)) == 2 ~ NA_real_,
+#rowSums(select(.,cash_index_1:cash_index_2),na.rm = T) > 0 ~ 1,
+#rowSums(select(.,cash_index_1:cash_index_2),na.rm = T) == 0 ~ 0
+#),
+protection_sector = case_when(
+rowSums(select(.,protection_index_1:protection_index_9) %>% mutate_all(~.x %in% NA)) == 10 ~ NA_real_,
+rowSums(select(.,protection_index_1:protection_index_9),na.rm = T) > 0 ~ 1,
+rowSums(select(.,protection_index_1:protection_index_9),na.rm = T) == 0 ~ 0
+),
+nb_sectors_inneed = wash_sector+shelter_sector+food_sector+education_sector+health_sector+protection_sector,
+inneed_one_sectors = ifelse(nb_sectors_inneed == 1, 1,0),
+inneed_two_sectors = ifelse(nb_sectors_inneed == 2, 1,0),
+inneed_three_sectors = ifelse(nb_sectors_inneed == 3, 1,0),
+inneed_four_sectors = ifelse(nb_sectors_inneed == 4, 1,0),
+inneed_five_sectors = ifelse(nb_sectors_inneed == 5, 1,0),
+inneed_six_sectors = ifelse(nb_sectors_inneed == 6, 1,0)
+)
+dm_data %>% summarise(
+wash_sector = weightedMean(wash_sector,weights(dm_data),na.rm = T) *100,
+shelter_sector = weightedMean(shelter_sector,weights(dm_data),na.rm = T) *100
+)
+direct_case <- map_to_case(hypothesis.type = "direct_reporting_sum",
+dependent.var.type = "numerical")
+map_to_result(data = dm_data,
+dependent.var = "wash_sector",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+direct_case <- map_to_case(hypothesis.type = "direct_reporting",
+dependent.var.type = "numerical")
+map_to_result(data = dm_data,
+dependent.var = "wash_sector",
+case = direct_case,
+weighting = weights,
+questionnaire = questionnaire
+)[[2]]
+dm_data %>% mutate(
+weights = weights(dm_data)) %>% group_by(mantika_label) %>% summarise(
+wash_sector = weightedMean(wash_sector,weights,na.rm = T) *100)
+group_diff_case <- map_to_case(hypothesis.type = "group_difference",
+dependent.var.type = "categorical",
+independent.var.type = "categorical")
+map_to_result(data = dm_data,
+dependent.var = "wash_sector",
+independent.var = "mantika_label",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]][,c(3,4,5)]
+group_diff_case <- map_to_case(hypothesis.type = "group_difference",
+dependent.var.type = "numerical",
+independent.var.type = "categorical")
+map_to_result(data = dm_data,
+dependent.var = "wash_sector",
+independent.var = "mantika_label",
+case = group_diff_case,
+weighting = weights,
+questionnaire = questionnaire)[[2]][,c(3,4,5)]
+dm_data %>% mutate(
+weights = weights(dm_data)) %>% group_by(mantika_label) %>% summarise(
+wash_sector = weightedMean(wash_sector,weights,na.rm = T) *100)
+sm_selected(dm_data$food_source, any = c("market_cash", "market_cheque"))
+sm_selected(dm_data$food_source, all = c("market_cash", "market_cheque"))
