@@ -1,0 +1,2017 @@
+data,Libya,idp,non_displaced,returnee
+strata.names,,,,
+Tripoli_non_displaced,20.37,0,23.84,0
+Benghazi_non_displaced,13.12,0,15.35,0
+Aljfara_non_displaced,7.8,0,9.13,0
+Misrata_non_displaced,7.78,0,9.11,0
+Zwara_non_displaced,7.21,0,8.44,0
+Azzawya_non_displaced,7.2,0,8.43,0
+Benghazi_returnee,4.5,0,0,45.43
+Derna_non_displaced,4.25,0,4.97,0
+Ejdabia_non_displaced,3.9,0,4.56,0
+Al Jabal Al Gharbi_non_displaced,3.24,0,3.79,0
+Sebha_non_displaced,2.57,0,3,0
+Ubari_non_displaced,1.93,0,2.26,0
+Sirt_non_displaced,1.88,0,2.2,0
+Sirt_returnee,1.51,0,0,15.25
+Tripoli_returnee,1.24,0,0,12.51
+Wadi Ashshati_non_displaced,1.17,0,1.37,0
+Murzuq_non_displaced,0.98,0,1.14,0
+Derna_returnee,0.93,0,0,9.4
+Tripoli_idp,0.91,19.54,0,0
+Alkufra_non_displaced,0.88,0,1.03,0
+Aljufra_non_displaced,0.72,0,0.84,0
+Ubari_returnee,0.7,0,0,7.05
+Benghazi_idp,0.63,13.67,0,0
+Misrata_idp,0.6,12.92,0,0
+Ghat_non_displaced,0.45,0,0.52,0
+Aljfara_idp,0.39,8.41,0,0
+Ejdabia_idp,0.33,7.2,0,0
+Zwara_returnee,0.32,0,0,3.26
+Sebha_idp,0.32,6.85,0,0
+Azzawya_idp,0.27,5.86,0,0
+Al Jabal Al Gharbi_returnee,0.27,0,0,2.74
+Al Jabal Al Gharbi_idp,0.21,4.59,0,0
+Sirt_idp,0.21,4.42,0,0
+Ghat_idp,0.2,4.39,0,0
+Misrata_returnee,0.17,0,0,1.71
+Zwara_idp,0.16,3.43,0,0
+Alkufra_idp,0.13,2.76,0,0
+Aljfara_returnee,0.13,0,0,1.27
+Murzuq_idp,0.11,2.41,0,0
+Ubari_idp,0.08,1.78,0,0
+Sebha_returnee,0.05,0,0,0.48
+Wadi Ashshati_idp,0.03,0.64,0,0
+Derna_idp,0.03,0.61,0,0
+Alkufra_returnee,0.03,0,0,0.26
+Ghat_returnee,0.02,0,0,0.25
+Aljufra_idp,0.02,0.5,0,0
+Ejdabia_returnee,0.01,0,0,0.13
+Azzawya_returnee,0.01,0,0,0.11
+Murzuq_returnee,0.01,0,0,0.1
+Wadi Ashshati_returnee,0.01,0,0,0.05
+mantika_label,,,,
+Tripoli,22.52,19.54,23.84,12.51
+Benghazi,18.26,13.67,15.35,45.43
+Misrata,8.55,12.92,9.11,1.71
+Aljfara,8.32,8.41,9.13,1.27
+Zwara,7.7,3.43,8.44,3.26
+Azzawya,7.49,5.86,8.43,0.11
+Derna,5.21,0.61,4.97,9.4
+Ejdabia,4.24,7.2,4.56,0.13
+Al Jabal Al Gharbi,3.73,4.59,3.79,2.74
+Sirt,3.59,4.42,2.2,15.25
+Sebha,2.93,6.85,3,0.48
+Ubari,2.71,1.78,2.26,7.05
+Wadi Ashshati,1.21,0.64,1.37,0.05
+Murzuq,1.1,2.41,1.14,0.1
+Alkufra,1.04,2.76,1.03,0.26
+Aljufra,0.74,0.5,0.84,0
+Ghat,0.68,4.39,0.52,0.25
+Is the interviewee the head of household? ,,,,
+Yes,87.42,88.48,87.38,87.26
+No,12.58,11.52,12.62,12.74
+How old is the head of the household?,,,,
+Average,48.03,47.07,47.96,49.06
+What is the sex of the head of household?,,,,
+Male,94.19,93.49,94.62,90.86
+Female,5.81,6.51,5.38,9.14
+Was your household living in this baladiya prior to 2011?,,,,
+Yes,91.28,0,95.23,100
+No,8.72,100,4.77,0
+Has your household been displaced from this baladiya since 2011 as a result of the conflict?,,,,
+No,89.6,NA,100,0
+Yes,10.4,NA,0,100
+Has your household been displaced from your baladiya of origin because of the conflict?,,,,
+No,94.09,0,100,NA
+Yes,5.91,100,0,NA
+How many people live in your household (including the interviewee)?,,,,
+Average,5.14,5.12,5.16,4.97
+Infants 0-5years: (male),,,,
+Average,0.32,0.35,0.33,0.24
+Children 6-14 years: (male),,,,
+Average,0.54,0.5,0.52,0.68
+Youth 15-17 years: (male),,,,
+Average,0.33,0.31,0.33,0.32
+Adults 18-64: (male),,,,
+Average,1.46,1.49,1.46,1.42
+Elderly 65+ years: (male),,,,
+Average,0.1,0.08,0.1,0.1
+nb_male,,,,
+Average,2.74,2.73,2.74,2.76
+under18_male,,,,
+Average,1.19,1.16,1.18,1.24
+over18_male,,,,
+Average,1.56,1.57,1.56,1.52
+school_aged_boys,,,,
+Average,0.86,0.81,0.85,1
+Infants 0-5years: (female),,,,
+Average,0.28,0.27,0.29,0.2
+Children 6-14 years: (female),,,,
+Average,0.39,0.38,0.39,0.38
+Youth 15-17 years: (female),,,,
+Average,0.25,0.25,0.26,0.18
+Adults 18-64: (female),,,,
+Average,1.4,1.42,1.4,1.4
+Elderly 65+ years: (female),,,,
+Average,0.08,0.07,0.08,0.05
+nb_female,,,,
+Average,2.4,2.4,2.42,2.21
+under18_female,,,,
+Average,0.92,0.9,0.93,0.77
+over18_female,,,,
+Average,1.48,1.5,1.48,1.45
+nb_ind_hh,,,,
+Average,5.14,5.12,5.16,4.97
+nb_under18,,,,
+Average,2.1,2.06,2.12,2.01
+nb_over18,,,,
+Average,3.04,3.06,3.04,2.96
+school_aged_girls,,,,
+Average,0.64,0.63,0.65,0.56
+Is your household currently hosting any individuals that have been displaced from another baladiya?,,,,
+No,96.11,95.19,95.92,98.22
+Yes,3.89,4.81,4.08,1.78
+How many? ,,,,
+Average,3.82,3.08,4,2.57
+How many of these hosted persons are under 18?,,,,
+Average,0.76,0.55,0.79,0.57
+1. Male infants (aged 0-5 years),,,,
+Average,0.27,0.3,0.27,0.29
+2. Male children (aged 6-14 years),,,,
+Average,0.37,0.55,0.37,0.16
+3. Male youths (aged 15-17 years),,,,
+Average,0.12,0.03,0.13,0
+4. Female infants (aged 0-5 years),,,,
+Average,0.28,0.14,0.27,0.44
+5. Female children (aged 6-14 years),,,,
+Average,0.19,0.01,0.21,0.01
+6. Female youths (aged 15-17 years),,,,
+Average,0.14,0.01,0.15,0
+seperated_children_calc,,,,
+Average,1.36,1.04,1.41,0.9
+1. Male infants (aged 0-5 years),,,,
+Average,0.03,0,0.02,0.11
+2. Male children (aged 6-14 years),,,,
+Average,0,0,0,0.08
+3. Male youths (aged 15-17 years),,,,
+Average,0,0,0,0
+4. Female infants (aged 0-5 years),,,,
+Average,0,0,0,0.09
+5. Female children (aged 6-14 years),,,,
+Average,0,0,0,0
+6. Female youths (aged 15-17 years),,,,
+Average,0,0,0,0
+unaccompanied_children_calc,,,,
+Average,0.04,0,0.02,0.27
+minors_displaced_calc,,,,
+Average,1.4,1.04,1.43,1.17
+"1. Cereals, grains, and tubers (including wheat bread, pasta, rice, couscous, potatoes, etc.)",,,,
+Average,5.91,5.88,5.93,5.74
+"2. Legumes and nuts (including beans, chickpeas, peas, nuts, etc.)",,,,
+Average,4.48,4.35,4.51,4.32
+"3. Milk and dairy products (including milk, cheese, sour cream, yoghurt, etc.)",,,,
+Average,5.53,5.31,5.58,5.19
+"4. Eggs, meat, fish (including beef, chicken, lamb, canned fish, fresh fish, etc.)",,,,
+Average,4.72,4.47,4.79,4.26
+"5. Vegetables and leaves (including onions, lettuce, tomatoes, cucumbers, red peppers, spinach, etc.)",,,,
+Average,5.88,5.88,5.88,5.89
+"6. Fruits (including bananas, apples, cherries, dates, lemons, apricots, pears, etc.)",,,,
+Average,3.33,2.95,3.39,3.02
+"7. Oil and fat (including vegetable oil, butter, margarine, lard, etc.)",,,,
+Average,5.83,5.71,5.89,5.33
+"8. Sugar and sweets (including sugar, honey, jam, cakes, cookies, sweets, sugary drinks, etc.)",,,,
+Average,5,5.03,5.08,4.26
+"9. Condiments and spices (including garlic, tomato paste, and small quantities of items from other food groups)",,,,
+Average,6.2,5.99,6.2,6.21
+What are the top three sources from which your household typically acquires food?,,,,
+Market (purchased on credit),27,31,25,36
+Don't know,0,0,0,0
+Market (purchased with cheque),55,58,55,60
+Own production,9,3,10,3
+Prefer not to answer,0,0,0,0
+"Received as food aid through government, UN, NGOs, civil society, etc.",3,10,3,2
+"Borrowing food from relatives, hosts, or external parties",0,1,0,1
+Work or barter for food,11,13,11,3
+Received as gift from friends or relatives,2,3,2,0
+"Gathering, hunting, or fishing",1,1,1,0
+Other (specify),3,3,4,1
+Zakat,1,1,1,0
+Market (purchased with cash) ,88,84,88,93
+"1. Rely on less preferred, less expensive food?",,,,
+Average,1.42,1.52,1.42,1.44
+2. Borrow food or rely on help from friends or relatives?,,,,
+Average,0.16,0.24,0.15,0.24
+3. Reduce the number of meals eaten per day?,,,,
+Average,0.92,1.12,0.91,0.98
+4. Reduce the size of portions or meals?,,,,
+Average,0.89,1.27,0.87,0.9
+5. Reduce the quantity consumed by adults so children could eat?,,,,
+Average,0.28,0.31,0.27,0.4
+"Does your household engage in some form of agricultural production (crop farming, gardening, livestock production, raising animals, fishing, etc.) for income generation or for food consumption?",,,,
+"Yes, crop production",12,6,13,4
+"Yes, fishing/fisheries",3,1,3,3
+"Yes, livestock production",12,5,14,4
+No,80,89,78,91
+Did your household engage in such activities prior to 2011 but had to give them up?,,,,
+No,94.2,90.21,94.49,93.54
+Yes,5.8,9.79,5.51,6.46
+What types of agricultural activities was your household engaged in?,,,,
+Crop production,46,41,45,54
+Livestock production,57,58,57,62
+Other (specify),0,0,0,0
+Fishing/fisheries,9,8,10,6
+What year did your household give them up?,,,,
+2011,37.44,39.26,36.32,45.15
+2015,31.42,16.67,32.15,32.83
+2013,10.94,2.07,12.67,1.96
+2014,6.81,15.79,6.11,7.87
+2017,5.96,4.11,6.79,0.52
+2012,4.76,7.72,4.1,8.35
+2016,2.18,6.49,1.76,3.32
+2019,0.34,6.5,0,0
+2018,0.16,1.38,0.1,0
+What were the main challenges that made your household abandon crop production?,,,,
+Unable to access or afford fuel/tools/machinery,8,5,10,1
+Unable to access or afford labor,8,3,10,1
+Crops stolen/seized/destroyed,31,20,30,38
+Unable to access or afford clean water resources,9,5,10,1
+Had to leave our land due to displacement,11,66,7,18
+Unable to access or afford seeds,23,15,27,1
+"Pests (rats, insects, birds, etc.) and diseases",0,0,0,0
+Other (specify),1,0,0,10
+"Not economically viable (i.e., production costs too high compared to benefits)",6,0,7,1
+"Unable to access markets, storage and processing facilities",0,0,0,0
+Power cuts,12,24,12,1
+Unable to access or afford land,45,22,48,32
+Insecurity,33,14,34,30
+Unable to access or afford fertilizers and pesticides,26,7,31,3
+"What were the main challenges that made your household abandon livestock production?
+",,,,
+"Lack of veterinary services, vaccines, and medicines",12,23,13,1
+Lack of access to fodder/animal feed/pasture,20,36,17,33
+Have had to sell or slaughter animals for own consumption,20,26,21,13
+Animals have been stolen,20,27,21,15
+Animals have been affected by diseases,16,3,18,6
+Other (specify),16,22,14,24
+Animals have died,7,7,6,12
+Lack of access to water,4,25,3,3
+Lack of labor to care for animals ,35,22,40,10
+What were the main challenges that made your household abandon fishing/fisheries?,,,,
+Insecurity increased,87,20,100,37
+Unable to access or afford fuel,3,15,0,13
+Unable to access markets/sell production,6,0,0,49
+Equipment damaged or stolen,4,57,0,0
+Pollution increased,0,0,0,0
+Catches decreased,1,15,0,0
+Other (specify),5,2,0,37
+Unable to access or afford labour,0,0,0,0
+Unable to access or afford equipment,4,62,0,0
+"How many individuals did your household employ to support production in the last 12 months, including seasonal workers?",,,,
+Average,15.06,235.93,2,29.46
+How much land does your household cultivate in hectares?,,,,
+Average,2054.45,1161.48,2323.84,129.83
+What are the main crops your household grows?,,,,
+Maize,3,1,3,4
+Melons,7,11,7,2
+Cotton,0,0,1,0
+Cauliflower,1,0,1,0
+Fodder crops,12,17,12,4
+Olives,44,32,48,13
+Dates,35,30,38,10
+Cucumbers,15,25,16,4
+Leafy greens,26,36,28,5
+Other (specify),3,2,3,2
+"Pulses (beans, chickpeas, nuts, etc.)",6,6,4,19
+Barley,27,19,22,73
+Irrigated wheat,21,11,21,26
+Oil seeds,21,4,25,0
+Peppers,21,28,22,6
+"Citrus fruits (lemons, oranges, etc.)",38,23,42,12
+Rainfed wheat,7,13,6,10
+Medicinal and aromatic plants,0,0,0,0
+Onions,22,26,24,8
+Tomatoes,26,36,28,13
+Potatoes or other tubers,11,15,12,1
+Has the ongoing conflict since 2014 negatively affected your household's crop production?,,,,
+Yes,74.53,63.72,78.1,48.54
+No,25.47,36.28,21.9,51.46
+How has it negatively affected your household's crop production?,,,,
+Unable to access or afford fuel/tools/machinery,11,6,9,37
+Unable to access or afford labor,11,5,12,10
+Crops stolen/seized/destroyed,5,11,3,21
+Unable to access or afford clean water resources,3,5,3,3
+Had to leave our land due to displacement,6,55,3,24
+Unable to access or afford seeds,9,18,7,34
+"Pests (rats, insects, birds, etc.) and diseases",2,3,2,0
+Other (specify),0,0,0,0
+"Not economically viable (i.e., production costs too high compared to benefits)",7,2,7,5
+"Unable to access markets, storage and processing facilities",4,14,4,2
+Power cuts,39,19,41,31
+Unable to access or afford land,17,7,17,14
+Insecurity,36,24,38,17
+Unable to access or afford fertilizers and pesticides,20,32,18,41
+1. Cattle/cows,,,,
+Average,1.81,1.18,1.79,2.69
+2. Donkeys/Horses,,,,
+Average,0.24,0.18,0.24,0.25
+3. Sheep,,,,
+Average,26.52,93.42,22.11,38.96
+4. Goats,,,,
+Average,7.98,27.04,6.94,8.02
+5. Poultry,,,,
+Average,11.78,8.43,6.4,99.71
+6. Camels,,,,
+Average,0.46,0.47,0.46,0.57
+7. Bee hives,,,,
+Average,0.82,0.18,0.9,0.16
+8. Other (specify),,,,
+Average,0.02,0,0.02,0.04
+Has the ongoing conflict since 2014 negatively affected your household's production?,,,,
+Yes,67.39,61.01,67.55,70.34
+No,32.61,38.99,32.45,29.66
+How has it negatively affected your household's production?,,,,
+"Lack of veterinary services, vaccines, and medicines",26,29,25,45
+Lack of access to fodder/animal feed/pasture,48,50,48,48
+Have had to sell or slaughter animals for own consumption,34,21,35,30
+Animals have been stolen,13,26,11,22
+Animals have been affected by diseases,16,17,17,12
+Other (specify),1,12,1,0
+Animals have died,16,3,17,5
+Lack of access to water,9,1,10,1
+Lack of labor to care for animals ,26,6,28,15
+What type of shelter does your household live in?,,,,
+House,73.34,57.88,74.36,71.82
+Apartment,24.66,36.02,23.88,26.08
+Unfinished room(s),1.26,2.19,1.23,1.17
+Connection house,0.24,2,0.15,0.15
+Other (specify),0.23,0.03,0.27,0
+"Private building not usually used for shelter (basement, garage, store, warehouse, work site, etc.)",0.08,0.13,0,0.76
+Prefer not to answer,0.07,0,0.08,0
+"Public building not usually used for shelter (school, mosque, etc.)",0.06,1.31,0,0
+Hotel,0.03,0,0.04,0
+Tent or caravan,0.01,0.28,0,0.01
+Temporary shelter provided by INGO or local NGO,0,0.09,0,0
+Camp or informal settlement for displaced persons,0,0.08,0,0
+How many rooms are in your household's shelter?,,,,
+Average,3.85,3.48,3.86,3.93
+How would you describe your household's occupancy status?,,,,
+Ownership ,87.78,16.87,91.86,85.79
+Rental (with written contract),5.08,25.36,3.84,6.3
+Rental (with verbal agreement),3.45,29.37,1.94,4.31
+Being hosted for free,2.31,24.18,1.17,1.86
+Housing provided by public authority,0.86,2.52,0.79,0.7
+Housing provided by employer,0.2,0.38,0.21,0.01
+Squatting (without consent of owner),0.14,0.99,0,0.91
+Other (specify),0.13,0.06,0.13,0.13
+Don't know,0.04,0,0.05,0
+Prefer not to answer,0.01,0.27,0,0
+How much does your household's rental property cost per month (in LYD)?,,,,
+Average,522.12,481.99,531.13,463.23
+Has the rent increased or decreased since the beginning of 2019?,,,,
+No change,63.68,58.9,61.74,82.64
+Increased,29.74,27.24,31.5,15.77
+Decreased,4.8,4.78,5.19,1.47
+Don't know,1.67,9.08,1.44,0.12
+Prefer not to answer,0.11,0,0.13,0
+Who is hosting your household for free?,,,,
+Family,85.49,47.87,87.29,92.45
+Friends,6.61,45.76,3.7,5.47
+Other (specify),5.58,5.03,6.21,2.08
+Prefer not to answer,2.32,1.33,2.79,0
+Question for enumerator: How would you describe the overall condition of this household's shelter?,,,,
+No damage / negligible damage,79.45,72.32,82.28,58.34
+"Light damage (repairs needed, but shelter is livable)",16.01,21.49,13.78,32.67
+Medium damage,3.18,4.77,2.64,7.04
+Heavy damage (shelter is not livable without repairs),1.09,0.98,1.02,1.68
+Destroyed (shelter needs to be reconstructed),0.28,0.44,0.27,0.27
+"If your household owns a house, property or land, where are your proof of ownership documents?",,,,
+Physically with me,61.02,44.89,61.83,61.58
+Not with me but in a secure place,27.28,33.22,27.72,20.67
+"We do not own a house, land or property",6.36,9.7,6.04,7.58
+We never obtained ownership documents,2.6,2.51,2.34,4.9
+Lost,1.41,6.86,0.83,3.84
+Prefer not to answer,0.8,1.21,0.73,1.25
+Don't know,0.5,1.1,0.51,0.11
+Stolen or confiscated,0.03,0.51,0,0.08
+Has your household experienced eviction or the threat of eviction within the past 6 months?,,,,
+No,96.89,90.03,97.27,96.84
+"Yes, have been recently evicted",1.25,4.29,1.19,0.37
+"Yes, have been threatened with eviction",1.05,4,0.8,1.87
+Don't know,0.72,0.76,0.69,0.92
+Prefer not to answer,0.09,0.92,0.05,0
+Why do you think your household was evicted / is being threatened with eviction?,,,,
+"Forced eviction, i.e. from armed group pressure or land-grabbing",6,32,2,12
+"Punitive measures or retaliatory ""law and order"" actions",2,1,1,4
+Request to vacate from owner of buidling/land,8,18,1,34
+Authorities requested our household to leave ,20,4,25,3
+Discrimination based on ethnicity/tribe,8,4,10,5
+No documentation to prove legal ownership,1,7,0,0
+Host family no longer able to host our family,1,10,0,0
+Land acquisitions,0,1,0,0
+Clearance of camp/public space by authorities,4,3,0,27
+Other (specify),34,3,45,0
+Cannot afford rent,22,28,17,45
+1. Mattresses,,,,
+My household owns enough of this and does not need more,72.17,57.82,74.05,62.73
+My household owns this but needs another / more,25.91,36.86,24.14,36.01
+My household does not own this object,1.12,4.13,0.95,1.13
+Don't know,0.39,0.23,0.43,0.13
+My household does not need this object,0.38,0.15,0.43,0
+Prefer not to answer,0.04,0.81,0,0
+2. Blankets,,,,
+My household owns enough of this and does not need more,71.79,57.56,73.55,63.25
+My household owns this but needs another / more,27.03,37.06,25.47,35.84
+My household does not own this object,0.59,4.25,0.38,0.72
+My household does not need this object,0.34,0,0.39,0.06
+Don't know,0.14,0.26,0.13,0.12
+Prefer not to answer,0.1,0.67,0.08,0
+Other (specify),0.01,0.2,0,0
+"3. Bedding items (sheets, pillows)",,,,
+My household owns enough of this and does not need more,73.9,58.35,75.85,64.37
+My household owns this but needs another / more,24.29,35.85,22.6,33.46
+My household does not own this object,1.11,4.8,0.8,2.03
+My household does not need this object,0.47,0.17,0.53,0.03
+Don't know,0.14,0.16,0.14,0.11
+Prefer not to answer,0.1,0.67,0.08,0
+4. Clothing for cold weather,,,,
+My household owns enough of this and does not need more,68.69,56.66,70.01,62.9
+My household owns this but needs another / more,28.4,31.73,27.6,33.74
+My household does not own this object,2.17,10.33,1.65,2.87
+My household does not need this object,0.34,0.15,0.39,0
+Don't know,0.21,0.24,0.19,0.38
+Prefer not to answer,0.19,0.89,0.16,0.11
+5. Heating systems,,,,
+My household owns enough of this and does not need more,62.01,42.78,63.87,54.98
+My household owns this but needs another / more,25.74,28.81,25.18,29.06
+My household does not own this object,11.3,27.68,9.93,15.43
+Don't know,0.47,0.02,0.5,0.38
+My household does not need this object,0.44,0,0.51,0
+Prefer not to answer,0.04,0.71,0,0.11
+Other (specify),0,0,0,0.03
+6. Gas/electric stove ,,,,
+My household owns enough of this and does not need more,70.64,61.58,71.86,64.38
+My household owns this but needs another / more,23.77,29.31,22.73,30.21
+My household does not own this object,5.17,7.97,5,5.27
+My household does not need this object,0.28,0.17,0.32,0.03
+Prefer not to answer,0.11,0.67,0.08,0.11
+Don't know,0.01,0.06,0.01,0
+Other (specify),0.01,0.23,0,0
+7. Cooking set/items                                   ,,,,
+My household owns enough of this and does not need more,69.87,59.13,70.92,65.86
+My household owns this but needs another / more,27.22,35.57,26.44,30.04
+My household does not own this object,2.1,4.25,1.81,3.6
+My household does not need this object,0.5,0.17,0.57,0
+Don't know,0.16,0.1,0.18,0
+Prefer not to answer,0.11,0.78,0.08,0.11
+Other (specify),0.04,0,0,0.39
+8. Mosquito nets                                                     ,,,,
+My household does not own this object,43.44,54.43,42.67,44.95
+My household owns enough of this and does not need more,39.16,29.55,40.16,35.03
+My household owns this but needs another / more,15.97,14.72,15.68,19.07
+Don't know,0.63,0.37,0.71,0.07
+My household does not need this object,0.61,0.15,0.71,0
+Prefer not to answer,0.11,0.78,0.08,0.11
+Other (specify),0.08,0,0,0.77
+"9. Water storage containers (water tank, jerry cans, etc.)",,,,
+My household owns enough of this and does not need more,72.31,63.52,73.49,66.32
+My household owns this but needs another / more,21.78,27.03,20.92,26.73
+My household does not own this object,5.06,8.3,4.68,6.81
+My household does not need this object,0.48,0.32,0.54,0.03
+Don't know,0.26,0.04,0.3,0
+Prefer not to answer,0.11,0.78,0.08,0.11
+10. Solar lamp,,,,
+My household does not own this object,69.83,67.78,70.39,65.96
+My household owns enough of this and does not need more,19.37,19.08,19.34,19.79
+My household owns this but needs another / more,9.65,11.61,9.16,12.99
+Don't know,0.57,0.56,0.51,1.15
+My household does not need this object,0.52,0.17,0.6,0
+Prefer not to answer,0.05,0.78,0,0.11
+Other (specify),0,0.03,0,0
+11. Mobile phone (smart phone),,,,
+My household owns enough of this and does not need more,69.18,59.47,70.15,65.41
+My household owns this but needs another / more,26.94,32.74,26.28,29.84
+My household does not own this object,3.55,6.96,3.24,4.64
+My household does not need this object,0.22,0.05,0.25,0
+Prefer not to answer,0.11,0.78,0.08,0.11
+Don't know,0,0,0,0
+12. Mobile phone (non-smart phone),,,,
+My household owns enough of this and does not need more,46.63,41.96,47.64,40.09
+My household does not own this object,34.25,33.89,33.33,42.34
+My household owns this but needs another / more,18.23,23.02,18.1,17.07
+My household does not need this object,0.64,0.23,0.74,0
+Don't know,0.14,0.11,0.11,0.39
+Prefer not to answer,0.11,0.78,0.08,0.11
+13. Radio,,,,
+My household owns enough of this and does not need more,45.63,37.23,46.11,45.41
+My household does not own this object,38.75,47.49,37.59,44.63
+My household owns this but needs another / more,14.79,13.95,15.49,9.22
+My household does not need this object,0.56,0.36,0.63,0.03
+Prefer not to answer,0.19,0.78,0.16,0.2
+Other (specify),0.07,0,0.02,0.52
+Don't know,0.01,0.18,0,0
+14. TV,,,,
+My household owns enough of this and does not need more,72.42,58.72,73.96,65.51
+My household owns this but needs another / more,25.78,35.5,24.54,31.92
+My household does not own this object,1.43,4.93,1.12,2.46
+My household does not need this object,0.2,0.08,0.23,0
+Prefer not to answer,0.11,0.78,0.08,0.11
+Don't know,0.07,0,0.08,0
+15. Desktop or laptop computer,,,,
+My household owns enough of this and does not need more,42.9,26.61,44.67,35.25
+My household does not own this object,37.06,52.68,35.24,45.45
+My household owns this but needs another / more,19.85,19.77,19.99,18.71
+Don't know,0.12,0.04,0.09,0.38
+Prefer not to answer,0.06,0.78,0,0.2
+Other (specify),0.01,0,0.01,0
+My household does not need this object,0.01,0.12,0,0
+Generator,,,,
+My household does not own this object,52.62,72.05,50.67,60.37
+My household owns enough of this and does not need more,30.04,14.3,31.24,27.01
+My household owns this but needs another / more,17.14,12.64,17.92,12.51
+Prefer not to answer,0.18,0.78,0.16,0.11
+Other (specify),0.01,0.06,0.01,0
+Don't know,0,0.1,0,0
+My household does not need this object,0,0.06,0,0
+17. Construction materials and equipment,,,,
+My household does not own this object,55.8,71.89,53.81,65.44
+My household owns enough of this and does not need more,22.49,14.21,23.15,20.64
+My household owns this but needs another / more,20.75,12.6,22,13.81
+My household does not need this object,0.45,0.16,0.52,0
+Don't know,0.32,0.36,0.36,0
+Other (specify),0.14,0,0.16,0
+Prefer not to answer,0.05,0.78,0,0.11
+What is the most common source of electricity used by your household? ,,,,
+Public network connected to shelter (government grid),98.4,98.06,98.44,98.19
+Generator,1.22,0.88,1.26,1
+No source of electricity in shelter,0.17,0.36,0.1,0.64
+Prefer not to answer,0.11,0.67,0.08,0.17
+Don't know,0.1,0,0.11,0
+Other (specify),0.01,0.03,0.01,0
+Power cuts,,,,
+Average,6.9,6.9,7,5.96
+Do you have reliable mobile phone network coverage at your current dwelling?,,,,
+"Yes, mobile network coverage exists and is reliable at this dwelling.",79.16,75.7,80,73.6
+"No, mobile network coverage exists but is not reliable at this dwelling. ",19.81,22.98,19.08,24.58
+"No, mobile network coverage does not exist at this dwelling.",0.88,0.59,0.81,1.62
+Don't know,0.15,0.72,0.11,0.2
+1. Permanent job with annual/monthly/weekly wage,,,,
+Average,1,0.9,1.02,0.86
+2. Temporary job with weekly/daily/monthly wage,,,,
+Average,0.1,0.13,0.09,0.11
+3. Daily labour,,,,
+Average,0.09,0.08,0.08,0.17
+4. Permanent job (government payroll) without regular attendance,,,,
+Average,0.18,0.19,0.18,0.17
+5. Other (specify),,,,
+Average,0.01,0.01,0.01,0
+calcul_jobs_adults_male_nb,,,,
+Average,1.37,1.31,1.38,1.31
+1. Government or public sector,,,,
+Average,0.98,0.95,0.99,0.89
+2. Libyan-owned business (private sector),,,,
+Average,0.21,0.18,0.21,0.27
+3. Foreign-owned business (private sector),,,,
+Average,0.02,0.01,0.02,0.01
+"4. Libyan non-profit sector (Libyan NGO, civil society organization, etc.)",,,,
+Average,0,0.01,0,0
+"5. International non-profit sector (international NGO, UN agency, etc.)",,,,
+Average,0,0,0,0
+6. Own business or family business,,,,
+Average,0.09,0.08,0.1,0.06
+7. Informal or irregular labour,,,,
+Average,0.06,0.07,0.05,0.08
+8. Other (please specify),,,,
+Average,0,0.01,0,0
+calcul_type_institution_male,,,,
+Average,1.37,1.31,1.38,1.31
+1. Permanent job with annual/monthly/weekly wage,,,,
+Average,0.52,0.44,0.53,0.5
+2. Temporary job with weekly/daily/monthly wage,,,,
+Average,0.05,0.05,0.05,0.02
+3. Daily labour,,,,
+Average,0.02,0.03,0.02,0.03
+4. Permanent job (government payroll) without regular attendance,,,,
+Average,0.16,0.17,0.16,0.11
+5. Other (specify),,,,
+Average,0,0,0,0
+calcul_jobs_adults_female_nb,,,,
+Average,0.74,0.69,0.76,0.66
+1. Government or public sector,,,,
+Average,0.63,0.56,0.64,0.57
+2. Libyan-owned business (private sector),,,,
+Average,0.08,0.06,0.08,0.04
+3. Foreign-owned business (private sector),,,,
+Average,0,0.01,0,0
+"4. Libyan non-profit sector (Libyan NGO, civil society organization, etc.)",,,,
+Average,0,0,0,0
+"5. International non-profit sector (international NGO, UN agency, etc.)",,,,
+Average,0,0,0,0
+6. Own business or family business,,,,
+Average,0.02,0.03,0.01,0.03
+7. Informal or irregular labour,,,,
+Average,0.02,0.03,0.02,0.02
+8. Other (please specify),,,,
+Average,0,0,0,0
+calcul_type_institution_female,,,,
+Average,0.75,0.69,0.76,0.65
+1. Permanent job with annual/monthly/weekly wage,,,,
+Average,0.01,0.01,0.01,0.01
+2. Temporary job with weekly/daily/monthly wage,,,,
+Average,0.02,0.02,0.02,0.03
+3. Daily labour,,,,
+Average,0.02,0.02,0.02,0.01
+4. Other (specify),,,,
+Average,0,0,0,0
+calcul_jobs_minors_male_nb,,,,
+Average,0.05,0.06,0.05,0.05
+1. Permanent job with annual/monthly/weekly wage,,,,
+Average,0.01,0,0.01,0.01
+2. Temporary job with weekly/daily/monthly wage,,,,
+Average,0,0.01,0,0
+3. Daily labour,,,,
+Average,0,0,0,0
+4. Other (specify),,,,
+Average,0,0,0,0
+calcul_jobs_minors_female_nb,,,,
+Average,0.02,0.01,0.02,0.01
+1. Government salary,,,,
+Average,1641.89,1459.66,1654.81,1615.8
+2. Government social benefits or assistance (including pensions),,,,
+Average,87.74,86.52,90.28,66.48
+3. Non-government salaried work,,,,
+Average,1132.11,959.23,1158.99,981.36
+4. Casual or daily labour,,,,
+Average,630.27,663.77,611.86,880.3
+5. Income from own business or commerce,,,,
+Average,1872.12,1881.9,1756.86,3026.42
+6. Remittances,,,,
+Average,70.74,92.97,68.89,76.24
+7. Support from family and friends (not including remittances),,,,
+Average,12.47,40.58,11.23,10.04
+8. Humanitarian assistance,,,,
+Average,2.87,6.75,2.7,2.58
+Zakat,,,,
+Average,4.63,8.7,4.67,2.4
+10. Other (specify),,,,
+Average,23.62,6.84,27.04,1.98
+1. Cash,,,,
+Average,53.07,51.28,53.47,50.43
+Bank transfers,,,,
+Average,21.49,22.45,21.4,21.76
+Cheques ,,,,
+Average,21.64,21.87,21.39,23.67
+4. Phone top-up cards,,,,
+Average,1.59,1.58,1.49,2.48
+Prepaid or gift card,,,,
+Average,1.42,1.17,1.48,0.96
+"6. Other in-kind (e.g., food)",,,,
+Average,0.66,1.55,0.61,0.66
+7. Other (specify),,,,
+Average,0.13,0.11,0.14,0.04
+calc_modality_receipt_income,,,,
+Average,100,100,100,100
+Did your household face any challenges obtaining enough money to meet its needs over the last 30 days?,,,,
+No,56.82,45.8,57.03,60.17
+Yes,42.13,52.83,41.86,39.5
+Don't know,0.66,0.56,0.72,0.22
+Prefer not to answer,0.39,0.81,0.4,0.11
+What were the main challenges to obtaining enough money to meet your household's needs in the last 30 days?,,,,
+Unable to withdraw enough money from bank account,74,75,76,60
+Salary or wages not regularly paid,48,46,48,52
+Don't know,0,0,0,0
+Lack of work opportunity,11,18,10,21
+No currently functioning banks/financial institutions in my area,1,2,1,0
+Prefer not to answer,0,0,0,0
+Salary or wages too low,35,41,35,39
+Other (specify),0,0,0,0
+Did your household withdraw any money from banks or ATMs in the last 30 days?,,,,
+Yes,51.48,45.92,53.48,36.85
+"No, unable to withdraw any money",33.95,39.18,32.05,47.82
+Did not attempt to withdraw any money,12.32,10.85,12.44,11.91
+Do not have a bank account,1.58,3.19,1.31,3.14
+Prefer not to answer,0.52,0.33,0.59,0
+Don't know,0.16,0.53,0.13,0.28
+"How much money, in LYD, did your household withdraw in total over the last 30 days?",,,,
+Average,1377.88,1149.32,1413.79,1175.22
+When was the last time your household was able to withdraw any money from banks or ATMs?,,,,
+1-2 months ago,42.41,38.99,42.28,45.2
+2-3 months ago,41.38,37.5,41.09,45.76
+3-6 months ago,10.5,17.37,10.62,6.23
+More than 6 months ago,4.62,4.82,4.95,1.7
+Prefer not to answer,0.83,0.12,0.97,0
+Don't know,0.24,1.19,0.09,1.11
+1. Food items,,,,
+Average,569.44,505.39,571.3,583.4
+2. Rent,,,,
+Average,520.73,472.58,530.83,456.21
+3. Shelter maintenance,,,,
+Average,89.31,51.31,69.49,277.85
+4. Water (from all sources combined),,,,
+Average,47.76,39.33,48.8,42.76
+"5. Non-food household items (hygiene items, blankets, lightbulbs, etc.)",,,,
+Average,67.72,60.68,69.45,56.03
+6. Utilities (electricity and gas connections),,,,
+Average,17.38,13.42,17.3,19.95
+"7. Fuel (for cooking, for vehicles, etc.)",,,,
+Average,80.03,79.44,81.35,68.95
+"8. Health-related expenditures (healthcare, medicine, etc.)",,,,
+Average,128.81,91.95,133.15,108.63
+"9. Education-related expenditures (school fees, supplies, uniforms, etc.)",,,,
+Average,72.84,57.08,71.99,87.51
+10. Transportation ,,,,
+Average,11.55,8.35,11.41,14.24
+11. Mobile phone credit,,,,
+Average,64.53,55.75,65.73,58.25
+"12. Productive assets (items used to help generate income, such as sewing machines, tools, etc.)",,,,
+Average,196.4,14.21,223.85,45.05
+13. Debt repayment,,,,
+Average,57.49,63.5,58.58,45.27
+14. All other expenditures (specify),,,,
+Average,84.64,55.68,42.39,462.27
+What is your household's total amount of debt (in LYD)?,,,,
+Average,2445.04,1800.01,2600.17,1728.79
+What was the primary reason for taking on debt?,,,,
+Accessing food,35.41,36.76,34.73,39.27
+Paying for other basic needs,22.65,13.25,24.04,17.92
+Paying for healthcare,14.59,23.88,13.73,15.86
+Other (specify),12.97,0.73,15.53,1.86
+Paying for rent,7.03,16.87,5.38,13.26
+Paying for shelter maintenance,2.33,2.01,1.8,5.97
+Prefer not to answer,2.1,2.53,2.33,0.36
+Purchasing productive assets (for small business or income-generating activities),1.56,2.51,1.73,0.07
+Paying for education,0.47,0,0.17,2.67
+Purchasing non-productive assets,0.46,0.1,0.56,0
+Don't know,0.37,0.68,0,2.67
+Paying dowry/bride price,0.05,0.68,0,0.1
+What was the payment modality most commonly used by your household in the past 30 days?,,,,
+Cash (LYD),68.91,67.74,69.23,66.73
+Cheques ,20.97,21.9,20.62,23.58
+Prepaid or gift card,3.82,3.34,3.92,3.25
+Bank transfers,2.62,4.11,2.44,3.56
+Cash (foreign/non-LYD),1.5,1.08,1.64,0.54
+Credit or debit card,1.13,0.56,1.2,0.81
+Mobile money,0.87,0.78,0.8,1.53
+Vouchers,0.09,0.45,0.08,0
+Other (specify),0.07,0.04,0.08,0
+Does your household have access to a marketplace or grocery store in your mahalla or close to your mahalla?,,,,
+Yes,96.8,95.7,96.59,99.11
+No,3.15,3.83,3.41,0.65
+Don't know,0.03,0.22,0,0.24
+Prefer not to answer,0.01,0.25,0,0
+For how long does your household have to travel by car to get to the nearest marketplace or grocery store where you can find fresh produce?,,,,
+Less than 15 minutes,75.72,74.08,77,65.52
+15-29 minutes,22.47,24.17,21.51,29.91
+30-59 minutes,1.28,1.67,0.91,4.29
+Don't know,0.5,0.04,0.58,0.03
+1-2 hours,0.03,0.04,0,0.25
+"In the last 30 days, did anyone in your household face any barriers to consistently accessing marketplaces?",,,,
+Live too far from marketplace / no means of transport,1,2,1,2
+No barriers faced when accessing marketplace,96,95,96,96
+Prefer not to answer,0,0,0,0
+Insecurity travelling to and from marketplace,1,1,1,0
+Marketplace never open at a time when we can visit,0,0,0,0
+Other (specify),0,0,0,0
+Presence of explosive hazards,0,0,0,0
+Damage to roads leading to marketplace,1,1,1,1
+Curfew prevented access to market,1,0,1,0
+Damage to marketplace,1,0,1,1
+Don't know,0,0,0,0
+Transportation too expensive,1,1,1,2
+"In the last 30 days, did anyone in your household face any barriers to regularly purchasing specific items on the market?",,,,
+"Yes, some items are too expensive",36,41,36,33
+Don't know,0,0,0,0
+Prefer not to answer,0,0,0,0
+"Yes, we have no means of payment (e.g., not enough hard cash, vendors do not accept prepaid cards)",13,21,13,9
+Other (specify),1,0,0,1
+"No, no barrier faced when purchasing market items",56,46,56,62
+"Yes, some items are not available",9,9,9,6
+Which items were too expensive to afford? ,,,,
+Food items: fresh vegetables/fruits,63,64,63,68
+NFIs: Hygiene items for men,8,6,8,9
+NFIs: Household items,6,10,6,7
+NFIs: Fuel,18,21,19,11
+Food items: fresh fish/meat/eggs,84,85,84,81
+NFIs: Hygiene items for women,17,14,18,15
+Other (specify),0,0,0,0
+Water,2,2,1,2
+Medicine or health-related items,22,21,23,13
+Food items: other,38,54,38,31
+Which items were not consistently available?,,,,
+Food items: fresh vegetables/fruits,36,27,34,51
+NFIs: Hygiene items for men,1,2,1,2
+NFIs: Household items,5,3,6,5
+NFIs: Fuel,35,32,36,29
+Food items: fresh fish/meat/eggs,26,37,22,50
+NFIs: Hygiene items for women,3,3,3,7
+Other (specify),0,0,0,0
+Water,5,4,3,19
+Medicine or health-related items,33,35,35,22
+Food items: other,33,46,34,15
+What types of financial service providers does your household have access to in or around your mahalla?,,,,
+Don't know,3,4,3,4
+Prefer not to answer,0,0,0,0
+"Financial services provided by local businesses (e.g., petrol stations)",26,29,27,18
+Other (specify),1,1,1,1
+Financial services provided by members of the community,34,42,35,21
+Banks,77,67,77,78
+Hawala,13,16,12,20
+"1. Sold non-productive household assets or goods (TV, household appliance, furniture, gold, etc.)",,,,
+"No, had no need to use this coping strategy",52.91,51.58,54.15,42.86
+Not applicable/This coping strategy is not available to me,31.72,26.99,31.95,31.94
+Yes,13.11,16,11.97,21.64
+"No, have already exhausted this coping strategy and cannot use it again",2.26,5.43,1.93,3.56
+"2. Sold productive household assets or means of transport (sewing machine, wheelbarrow, car, etc.)",,,,
+"No, had no need to use this coping strategy",57.89,57.74,57.79,58.89
+Not applicable/This coping strategy is not available to me,31.43,28.26,31.91,28.78
+Yes,8.62,9.95,8.5,9.05
+"No, have already exhausted this coping strategy and cannot use it again",2.05,4.05,1.8,3.28
+3. Spent savings,,,,
+"No, had no need to use this coping strategy",42.67,35.14,42.36,48.86
+Yes,33.14,42.24,33.22,28.19
+Not applicable/This coping strategy is not available to me,18.22,14.2,18.68,16.1
+"No, have already exhausted this coping strategy and cannot use it again",5.98,8.43,5.74,6.85
+4. Borrowed money,,,,
+"No, had no need to use this coping strategy",56.56,49,56.91,57.05
+Yes,22.37,31.76,21.78,23.04
+Not applicable/This coping strategy is not available to me,18.41,14,18.76,17.46
+"No, have already exhausted this coping strategy and cannot use it again",2.67,5.24,2.55,2.44
+5. Purchased food on credit or borrowed food,,,,
+"No, had no need to use this coping strategy",54.12,46.14,54.8,51.99
+Not applicable/This coping strategy is not available to me,23.64,23.78,24.34,17.55
+Yes,20.78,28.21,19.5,28.35
+"No, have already exhausted this coping strategy and cannot use it again",1.46,1.86,1.37,2.11
+"6. Reduced expenditures on essential non-food items (water, hygiene items, etc.)",,,,
+"No, had no need to use this coping strategy",58.33,56.22,58.39,58.78
+Not applicable/This coping strategy is not available to me,27.75,24.04,28.44,23.49
+Yes,13.5,19.03,12.76,17.22
+"No, have already exhausted this coping strategy and cannot use it again",0.43,0.71,0.4,0.52
+7. Reduced expenses on health or medicine,,,,
+"No, had no need to use this coping strategy",61.3,61.57,61.78,57.04
+Not applicable/This coping strategy is not available to me,29.11,26.84,29.49,26.92
+Yes,8.59,10.27,7.73,15.24
+"No, have already exhausted this coping strategy and cannot use it again",1,1.32,1,0.8
+8. Child or children dropped out of school,,,,
+"No, had no need to use this coping strategy",59.44,63.24,58.96,61.83
+Not applicable/This coping strategy is not available to me,39.59,35.01,40.3,35.65
+Yes,0.71,1.45,0.6,1.26
+"No, have already exhausted this coping strategy and cannot use it again",0.26,0.29,0.14,1.25
+9. Delayed or skipped paying rent,,,,
+Yes,44.62,38.85,44.69,46.82
+"No, had no need to use this coping strategy",44.11,44.58,46.28,26.9
+Not applicable/This coping strategy is not available to me,8.22,10.03,7.95,9.43
+"No, have already exhausted this coping strategy and cannot use it again",3.05,6.53,1.08,16.86
+10. Asked strangers for money or food,,,,
+"No, had no need to use this coping strategy",65.06,67.03,65.17,63.18
+Not applicable/This coping strategy is not available to me,32.16,29.59,32.43,31.04
+Yes,2.39,3.01,2.08,4.77
+"No, have already exhausted this coping strategy and cannot use it again",0.39,0.37,0.32,1
+11. Took an additional job,,,,
+"No, had no need to use this coping strategy",41.41,36.41,42.01,38.56
+Yes,33.51,41.52,33.13,33.1
+Not applicable/This coping strategy is not available to me,24.64,21.68,24.39,28.19
+"No, have already exhausted this coping strategy and cannot use it again",0.44,0.39,0.47,0.16
+"12. HH adult member accepted socially degrading, exploitative, high-risk, or illegal work",,,,
+"No, had no need to use this coping strategy",63.37,63.51,63.09,65.71
+Not applicable/This coping strategy is not available to me,35.85,35.73,36.08,33.93
+Yes,0.49,0.76,0.49,0.35
+"No, have already exhausted this coping strategy and cannot use it again",0.29,0,0.34,0
+"13. HH minor member accepted socially degrading, exploitative, high-risk, or illegal work",,,,
+"No, had no need to use this coping strategy",61.93,61.35,61.23,68.31
+Not applicable/This coping strategy is not available to me,37.5,38.27,38.15,31.6
+Yes,0.51,0.27,0.57,0.07
+"No, have already exhausted this coping strategy and cannot use it again",0.05,0.12,0.05,0.03
+"14. Child marriage (i.e., marriage of a household member aged 17 or younger)",,,,
+"No, had no need to use this coping strategy",61.26,61.59,60.56,67.16
+Not applicable/This coping strategy is not available to me,38,37.24,38.69,32.38
+Yes,0.67,0.89,0.69,0.39
+"No, have already exhausted this coping strategy and cannot use it again",0.07,0.28,0.06,0.06
+15. Other (please specify),,,,
+"No, had no need to use this coping strategy",63.31,64.42,63.08,64.81
+Not applicable/This coping strategy is not available to me,36.49,35.57,36.69,35.19
+Yes,0.19,0.01,0.23,0
+What is the main reason why these coping strategies were used?,,,,
+Paying for healthcare,56,57,54,66
+Paying for education,27,23,26,43
+Accessing food,64,73,61,82
+Other (specify),2,1,2,1
+Paying for other basic needs,50,51,52,35
+Paying for shelter,11,42,9,17
+1. Boys (aged 6-14),,,,
+Average,1.27,1.23,1.25,1.47
+2. Girls (aged 6-14),,,,
+Average,1.2,1.19,1.19,1.33
+3. Male youths (aged 15-17),,,,
+Average,1.15,1.11,1.15,1.19
+4. Female youths (aged 15-17),,,,
+Average,1.09,1.14,1.09,1.12
+1. Boys (aged 6-14),,,,
+Average,1.28,1.21,1.26,1.49
+2. Girls (aged 6-14),,,,
+Average,1.2,1.19,1.19,1.29
+3. Male youths (aged 15-17),,,,
+Average,1.17,1.09,1.18,1.17
+4. Female youths (aged 15-17),,,,
+Average,1.11,1.12,1.11,1.1
+notattending_notenrolled_school_male,,,,
+Average,0.06,0.09,0.05,0.07
+notattending_notenrolled_school_female,,,,
+Average,0.04,0.05,0.04,0.04
+1. Less than 1 month,,,,
+Average,0.2,0.03,0.21,0.23
+2. 1-3 months,,,,
+Average,0.14,0.28,0.14,0.08
+3. 4-6 months,,,,
+Average,0.03,0.04,0.03,0
+4. More than 6 months,,,,
+Average,0.02,0.03,0.03,0
+5. Entire 2018-2019 school year ,,,,
+Average,0.15,0.22,0.14,0.18
+notattending_notenrolled_school_male_calc,,,,
+Average,0.54,0.6,0.54,0.49
+1. Less than 1 month,,,,
+Average,0.06,0.06,0.03,0.31
+2. 1-3 months,,,,
+Average,0.03,0.32,0.01,0.01
+3. 4-6 months,,,,
+Average,0.01,0.04,0,0.01
+4. More than 6 months,,,,
+Average,0.03,0,0.03,0.01
+5. Entire 2018-2019 school year ,,,,
+Average,0.06,0.06,0.07,0
+notattending_notenrolled_school_female_calc,,,,
+Average,0.18,0.48,0.14,0.34
+Have any children in your household ever faced any of these issues when attending school?,,,,
+No issues faced by children in the household when attending school,65,66,63,79
+Lack of functioning latrines,22,19,23,10
+Lack of separate and safe toilets for boys and girls,11,11,12,4
+Sexual violence or harassment,0,0,0,0
+Lack of accessibility for students living with disabilities,2,1,2,2
+Discrimination,1,2,1,1
+Poor quality of teachers,15,10,16,11
+Attempted recruitment by armed actors,0,0,0,1
+Lack of clean water,20,17,22,9
+Other (specify),0,1,0,1
+Overcrowding,14,12,14,12
+Don't know,0,1,0,0
+Violence from teachers (excluding sexual violence or harassment),4,2,5,3
+Prefer not to answer,0,0,0,0
+"School building conversion into other purposes (displaced accommodation, military barracks, etc.)",1,1,1,1
+Bullying/violence from other students (excluding sexual violence or harassment),2,3,2,4
+"Of the school-aged children who are neither enrolled in school nor attending school, why are they not attending school?",,,,
+Problems with safety and security,7,11,7,7
+"Problems with child's health or behavior, lack of documentation, child marriage or pregnancy, discrimination, or the need for the child to work at home or for a salary",12,8,12,14
+Don't know,28,20,26,44
+Prefer not to answer,24,15,27,7
+"Problems with quality, curriculum, or capacity",1,2,1,1
+"Problems with school infrastructure, or school is used for other purpose",12,23,11,15
+Other (specify),6,15,6,0
+"Problems with means, transport, materials, or food",13,11,13,15
+What are the specific problems around school infrastructure that have contributed to the school-aged children not attending school?,,,,
+"Lack of basic amenities at school (potable water, heat, electricity)",100,100,100,99
+Lack of infrastructure (school buildings or classrooms) to accommodate all children,20,7,21,25
+Local schools overcrowded/lack of space in local schools,17,0,18,9
+School is used for other purpose,0,0,0,0
+Lack of latrines separated by sex,35,14,37,18
+"What are the specific problems around means, transport, materials, or food that have contributed to the school-aged children not attending school?",,,,
+Lack of teaching and learning materials or supplies,9,0,11,3
+School fees or costs,42,40,51,11
+Distance or transport constraint,61,81,49,97
+Lack of food,22,2,30,0
+"What are the specific problems around quality, curriculum, or capacity that have contributed to the school-aged children not attending school?",,,,
+Poor quality of teaching,68,0,74,80
+"One or more school level is not available (pre-primary, primary, secondary, tertiary).",9,0,0,27
+Education is not seen as useful,10,100,0,0
+Language,0,0,0,0
+What is taught is not culturally or age appropriate,0,0,0,0
+Lack of teachers,61,0,100,7
+What are the specific problems around safety and security that have contributed to the school-aged children not attending school?,,,,
+The child joined an armed group or military.,5,8,6,0
+Displaced by conflict,3,40,0,5
+Insecurity on the way to school or in the area (real or perceived),90,58,90,100
+Violence at school,3,0,4,0
+Displaced by natural disaster,0,1,0,0
+"What are the specific problems around child vulnerabilities (health/behavior, documentation, etc.) that have contributed to the school-aged children not attending school?",,,,
+The child has a prolonged illness.,10,31,9,0
+"The child is pregnant, lactating, or has a child of her own.",0,0,0,21
+"Social discrimination (due to ethnicity, religion, poverty, gender, health, disability, or other)",1,8,0,9
+Child marriage,0,0,0,0
+The child works.,32,6,35,1
+The child is busy with chores.,10,5,10,43
+The child has been displaced,1,13,0,1
+Lack of documentation,0,0,0,9
+Suspended or expelled for performance or behaviour issues,14,0,16,2
+The child has a disability (access issue).,50,44,51,24
+Has your household experienced barriers to re-enrollment?,,,,
+Other (specify),62.06,74.43,NA,0
+"Yes, lack necessary documentation",21.67,6.06,NA,100
+"Yes, missed enrollment period due to displacement",9.74,11.68,NA,0
+"No, have not attempted to re-enroll",6.53,7.83,NA,0
+"Are the children in your household attending any kind of non-formal education, in other words, education that is completely out of the formal school system?",,,,
+Don't know,0,0,0,0
+No,60,63,59,67
+Prefer not to answer,0,0,0,0
+"Yes, non-formal education classes provided by private-sector businesses",25,16,26,25
+"Yes, non-formal education classes provided by the community",4,2,4,2
+"Yes, assistance from NGOs or other outside actors",0,0,0,0
+"Yes, non-formal education classes provided by a public school ",6,9,6,3
+"Yes, self-learning or homeschooling",11,15,10,14
+Other (specify),0,0,0,0
+What was the main source of drinking water used by members of this household over the past 30 days?,,,,
+Public network (connected to the shelter),51.69,55.56,50.73,58.18
+Bottled water,28.63,29.25,27.98,33.99
+"Protected well (e.g., in your house or in the mosque)",10.32,4.78,11.54,2.38
+Water trucking,6.81,7.71,6.97,4.98
+Unprotected well,1.11,1.09,1.21,0.27
+Tap accessible to the public  ,1.03,1.2,1.12,0.17
+Rainwater,0.25,0.11,0.29,0
+Other (specify),0.09,0.2,0.1,0
+Don't know,0.07,0.1,0.08,0.03
+"Surface water (lakes, ponds, rivers, etc.)",0,0,0,0
+How far is the main source of drinking water from your dwelling?,,,,
+Up to 100m,43.75,34.47,43.43,50.53
+101-200m,20.13,14.64,21.26,12.76
+500m or more,12.78,22.84,12.78,8.4
+201-300m,10.47,14.38,10.34,9.88
+301-400m,6.45,6.53,6.2,8.56
+401-500m,6.43,7.14,6,9.87
+"In the last month, has there been any time when your household did not have a sufficient quantity of drinking water to meet its daily needs?",,,,
+No,70.92,65.88,70.98,72.79
+Yes,28.36,33.83,28.23,26.95
+Don't know,0.71,0.28,0.79,0.26
+Prefer not to answer,0,0,0,0
+How would you describe the quality of the drinking water from the main source your household used during the last 30 days? ,,,,
+Water causes health issues (like diarrhea),1,1,1,1
+Don't know,0,0,0,0
+Prefer not to answer,0,0,0,0
+Water is discoloured,3,5,3,2
+Water is fine to drink ,75,74,75,79
+Smell is not good ,1,2,1,1
+Taste is not good ,22,22,22,20
+Other (specify),0,0,0,0
+"What methods does your household use, if any, to improve the quality of its drinking water?",,,,
+Don't know,3,0,3,0
+Prefer not to answer,1,1,1,0
+Boiling,5,3,5,2
+Other (specify),0,0,0,0
+"Disinfection (tablets, iodine, etc.)",5,6,6,1
+Water filters,52,49,51,64
+No treatment methods used,36,44,36,33
+"Over the past 7 days, on how many days did your household have access to water from the public network?",,,,
+Every day (7 days),47.07,46.42,46.8,49.66
+Most days (4-6 days),19.76,25.39,18.46,28.38
+Rarely (1-3 days),18.53,13.81,19.11,15.81
+Not at all (0 days),13.13,13.39,13.94,6.01
+Don't know,1.51,0.99,1.69,0.13
+What kind of toilet(s) does your household have access to inside its shelter or within easy reach?,,,,
+Pour toilet (Arabic or Western),27,37,28,16
+Flush toilet (Arabic or Western),82,72,81,89
+Other (specify),0,0,0,0
+Dry pit latrine (without water),0,1,0,1
+Prefer not to answer,0,0,0,0
+No toilet inside shelter or within easy reach,0,0,0,0
+Don't know,0,0,0,0
+How far is the nearest accessible toilet from your household's dwelling?,,,,
+301-400m,50,50,NA,NA
+500m or more,50,50,NA,NA
+How did your household most often dispose of its trash over the past 30 days?,,,,
+Buried or burned,9,9,9,10
+Don't know,0,0,0,0
+Left in the road or in a public place not designated for waste disposal,16,20,15,16
+Prefer not to answer,0,0,0,0
+Other (specify),0,0,0,0
+"Collected by the municipality, waste management service (private or public), or other authority ",37,37,37,42
+"Put in a public place designated for waste disposal, to be collected later",44,43,45,38
+How far is the trash disposal point from your household's dwelling?,,,,
+500m or more,27.54,20.94,29.77,11.45
+101-200m,21.15,17,20.53,28.44
+Up to 100m,19.41,17.5,17.95,32.88
+201-300m,12.36,17.64,11.6,16.37
+301-400m,11.51,16.11,11.78,7.05
+401-500m,8.03,10.82,8.37,3.81
+How frequently is your household's trash collected?,,,,
+More than once per week,62.25,64.96,60.71,73.62
+Once per week,28.08,27.53,28.8,22.41
+Once every two weeks,7.47,5.27,8.11,3.26
+Once per month,1.67,0.18,1.96,0.03
+Don't know,0.32,1.89,0.2,0.57
+Less frequently than once per month,0.19,0,0.22,0.03
+Other (specify),0.02,0.18,0,0.08
+"Among these products, are there any that your household requires but are unable to purchase?",,,,
+Water container (or Jerry can) ,1,2,1,2
+There are no hygiene products that we require but are unable to purchase,86,84,86,88
+Sanitary pads,4,6,4,4
+Toothpaste ,2,3,1,4
+Baby diapers                                               ,4,4,4,3
+Shampoo                                                     ,4,3,4,4
+"Disinfectant - surface cleaner (powder, liquid detergent)",8,10,8,8
+Clean toothbrushes     ,1,3,1,4
+Soap (liquid and bar)                                    ,5,6,5,5
+Dishwashing liquid ,2,3,2,2
+"If there were products in that list that your household requires but is unable to purchase, what is the main reason why your household can't purchase them?",,,,
+Other (specify),2,2,1,9
+Too expensive,87,86,87,87
+Quality not good,18,16,19,5
+Not available in the market ,3,1,3,7
+Can't reach the market ,2,0,3,1
+Have you or anyone in your household been ill in the past 15 days?,,,,
+No,71.13,69.54,70.94,73.51
+Yes,28.35,29,28.53,26.48
+Don't know,0.48,0.59,0.53,0
+Prefer not to answer,0.04,0.86,0,0.01
+Did you/they go to a health facility to access the needed health care?,,,,
+Yes,85.66,75.19,86.7,81.64
+No,14.07,24.65,12.99,18.36
+Prefer not to answer,0.18,0.16,0.2,0
+Don't know,0.1,0,0.11,0
+Does your household face any challenges accessing health care when you need it?,,,,
+No,74.77,70.31,74.41,79.91
+Yes,24.21,28.69,24.6,18.81
+Don't know,0.88,0.85,0.84,1.28
+Prefer not to answer,0.14,0.15,0.15,0
+What are the main reasons why your household has limited or no access to healthcare?,,,,
+"For females, denial of permission from family members to visit health facility",0,0,0,0
+Lack of means of transport to get to the healthcare facilities,2,5,1,16
+Route to health facilities is unsafe ,3,3,3,0
+Lack of private room(s) for receiving confidential care,4,2,4,5
+Distance to health facilities is too far,14,10,12,30
+No available health facilities that can accept new patients,9,6,9,2
+Prefer not to answer,1,0,1,0
+Lack of medical supplies,28,32,29,19
+Discrimination,2,1,2,0
+"For females, absence of male companion to accompany during visit to health facility",0,0,0,0
+Lack of medicines,40,39,41,24
+No/lack of money to pay for care,32,37,33,20
+Lack of medical staff in general,39,36,39,41
+Lack of documentation,0,0,0,0
+Lack of female medical staff in particular,22,14,24,10
+Don't know,0,0,0,0
+Other (specify),0,0,0,0
+Presence of explosive hazards,0,2,0,0
+Health facilities have been damaged or destroyed,10,12,8,19
+What does your household do when it does not have enough money to pay for all the healthcare that is needed?,,,,
+Don't know,0,0,0,0
+"Reduce expenditures on other HH needs (e.g., education, NFIs,  food)",11,8,10,18
+Prioritize emergency cases in the household to receive care,27,48,21,76
+Get medical treatment from individuals without professional training,1,1,1,0
+"Revert to informal medical alternatives (e.g., traditional medicine, home treatments)",52,51,53,46
+"Use expired medicine or recycle medical items (e.g., syringes)",0,0,0,0
+Travel to other mantikas for required medical treatment,13,10,14,6
+Other (specify),16,7,18,0
+Prioritize males rather than females to receive care,0,0,0,0
+Do not seek medical help,12,4,13,6
+Prioritize children rather than adults to receive care,8,5,9,1
+Prefer not to answer,0,0,0,0
+Travel abroad for required medical treatment,4,6,4,1
+Prioritize females rather than males to receive care,0,4,0,0
+How much time does it take your household to travel by car from your place of residence to the nearest health service provider?,,,,
+Less than 15 minutes,53.13,45.04,53.62,52.7
+15-29 minutes,37.22,46.14,36.98,35.13
+30-59 minutes,8.54,7.48,8.38,10.46
+1-2 hours,0.85,0.57,0.78,1.61
+Don't know,0.18,0.65,0.17,0.04
+More than 2 hours,0.07,0,0.07,0.06
+Prefer not to answer,0.01,0.12,0,0
+How many women in the household gave live birth during the 2 last years?,,,,
+Average,0.8,0.76,0.82,0.65
+Who assisted in the delivery or deliveries?,,,,
+Relatives / Friends ,0,1,0,0
+Don't know,1,1,1,0
+Prefer not to answer,0,2,0,0
+General practitioner,5,6,6,1
+Other (specify),0,0,0,0
+Uncertified midwife         ,0,1,0,0
+Nurse                                  ,6,7,5,17
+Obstetrician,93,91,92,96
+No one                                          ,0,0,0,0
+Certified midwife          ,9,14,9,2
+How many children born in the household within the last 2 years were fed using bottled milk or baby formula before the baby was 6 months of age?,,,,
+Average,0.94,0.9,0.94,0.97
+How many children in your household have vaccination cards?,,,,
+Average,0.87,0.84,0.89,0.72
+"How many children in your household have been required or recommended to get a particular vaccination, but have not been able to receive that vaccination?",,,,
+Average,0.2,0.22,0.21,0.16
+How much time does it take your household to travel by car from your place of residence to the nearest health facility that can provide vaccinations?,,,,
+Less than 15 minutes,44.72,44.18,44.74,44.81
+15-29 minutes,37.28,36.45,37.14,38.83
+30-59 minutes,9.95,8.32,10.25,8.08
+Don't know,6.51,10.58,6.46,5.08
+1-2 hours,0.94,0.34,0.77,2.64
+More than 2 hours,0.56,0.03,0.59,0.56
+Prefer not to answer,0.05,0.11,0.05,0
+Do any members of your household suffer from any medically-diagnosed chronic disease?,,,,
+No,63.98,66.7,63.06,70.64
+Yes,35.28,32.6,36.23,28.38
+Don't know,0.62,0.7,0.58,0.98
+Prefer not to answer,0.11,0,0.13,0
+Which diseases do they suffer from? ,,,,
+Joint pain (arthritis),11,12,10,14
+Stomach ulcers,3,3,4,1
+Asthma,6,5,5,8
+Don't know,0,0,0,0
+Prefer not to answer,1,1,1,0
+Epilepsy,2,2,2,3
+Heart disease,17,13,17,19
+Blood pressure ,44,48,43,45
+Chronic back pain (spinal cord),2,2,2,2
+Kidney failure,1,1,1,1
+Cataract ,2,1,2,6
+Other (specify),4,4,4,1
+Diabetes,57,62,56,58
+Do they have adequate access to the needed health care services to treat this condition?,,,,
+"Yes, adequate access",53.68,45.68,53.56,58.44
+"Limited access (only sometimes, limited quantity, etc.)",44.32,48.5,44.7,39.09
+No access,1.86,5.29,1.72,1.51
+Don't know,0.11,0,0.02,0.95
+Prefer not to answer,0.02,0.53,0,0
+What are the services that are not available (when needed or prescribed)?,,,,
+"Lack of availability of specialized medical investigation (fibroscopy, angiography, etc.)",13,13,11,33
+"Lack of availability of radiologic tests (X-ray, ultrasound, scan, MRI, etc.)",20,13,18,38
+Don't know,0,1,0,0
+Prefer not to answer,0,0,0,0
+Lack of availability of general practitioners for the follow-up,24,39,23,18
+Lack of availability of specialized consultation,46,38,48,33
+Other (specify),3,6,3,3
+"Lack of availability of biologic tests (blood test, urinary test, etc.)",6,5,5,13
+No access to the health facility,4,2,4,7
+Lack of availability of medicines ,59,64,60,41
+Do any members of your household suffer from any medically-diagnosed mental disorder?,,,,
+No,97.41,96.79,97.43,97.54
+Yes,2.01,2.42,2.06,1.39
+Don't know,0.47,0.62,0.43,0.72
+Prefer not to answer,0.11,0.16,0.08,0.35
+Do they have adequate access to mental health care services?,,,,
+Limited access and use this access,41,27.59,37.29,71.24
+"Yes, adequate access and use this access",40.82,30.55,44.11,22.48
+No access,15.52,12.5,17.06,6.27
+Limited or adequate access but do not use it due to the social stigma of suffering from a mental disorder,2.37,23.23,1.54,0
+Don't know,0.29,6.12,0,0
+What are the services that are not available (when needed or prescribed)?,,,,
+Don't know,0,0,0,0
+Lack of inpatient psychiatric care,47,0,52,29
+Prefer not to answer,0,0,0,0
+Other (specify),0,0,0,0
+"Lack of psychiatrists, psychologists, and psychotherapists",54,85,50,71
+Lack of skilled nurses,32,51,36,6
+No access to the health facility,14,1,13,26
+Lack of community-based services,10,3,11,8
+Lack of psychiatric medicines,41,26,38,62
+"In your household, are there any members that have physical or cognitive difficulties (for example: mobility, hearing, sight, communicating) which impact their ability to carry out day-to-day activities such as working, studyng, walking, getting dressed, and remembering things?",,,,
+Yes Male infants (aged 0-5 years) ,1,0,1,0
+Don't know,0,0,0,0
+Yes Male children (aged 6-14 years),1,0,1,0
+Yes Male elderly (aged 65+ years),0,0,0,0
+Prefer not to answer,0,0,0,0
+No,97,97,97,99
+Yes Female youths (aged 15-17 years) ,0,0,0,0
+Yes  Female adults (aged 18-64 years) ,0,0,0,0
+Yes Female children (aged 6-14 years),0,0,0,0
+Yes Male adults (aged 18-64 years) ,0,1,0,0
+Yes Female infants (aged 0-5 years) ,0,0,0,0
+Yes Male youths (aged 15-17 years),0,0,0,0
+Yes  Female elderly (aged 65+ years) ,0,0,0,0
+1. No difficulty carrying out daily activities,,,,
+Average,0.18,0,0.18,0.27
+2. Minor difficulties carrying out daily activities but does not need assistance or attention,,,,
+Average,0.35,0.16,0.37,0.17
+"3. Some difficulties carrying out daily activities and needs some assistance and attention (e.g., for 1-2 hours/day)",,,,
+Average,0.24,0.63,0.24,0
+"4. A lot of difficulty carrying out daily activiites and needs quite a bit of assistance and atention (e.g., for 3-6 hours/day)",,,,
+Average,0.02,0,0.02,0
+5. Cannot carry out daily activities independently and needs permanent assistance and attention,,,,
+Average,0.22,0,0.21,0.56
+physical_cognitive_difficulties_male_infant_calc,,,,
+Average,1.01,0.79,1.02,1
+What was the cause of the disability?,,,,
+"Congenital origin (i.e., present since birth)",83.71,100,82.21,100
+"Pregnancy complications (i.e., complications to the mother)",16.29,0,17.79,0
+1. No difficulty carrying out daily activities,,,,
+Average,0.1,NA,0.1,0
+2. Minor difficulties carrying out daily activities but does not need assistance or attention,,,,
+Average,0,NA,0,0
+"3. Some difficulties carrying out daily activities and needs some assistance and attention (e.g., for 1-2 hours/day)",,,,
+Average,0.24,NA,0.25,0.14
+"4. A lot of difficulty carrying out daily activiites and needs quite a bit of assistance and atention (e.g., for 3-6 hours/day)",,,,
+Average,0,NA,0,0
+5. Cannot carry out daily activities independently and needs permanent assistance and attention,,,,
+Average,0.66,NA,0.65,0.86
+physical_cognitive_difficulties_female_infant_calc,,,,
+Average,1,NA,1,1
+What was the cause of the disability?,,,,
+"Congenital origin (i.e., present since birth)",89.98,NA,89.67,100
+Illness,10.02,NA,10.33,0
+1. No difficulty carrying out daily activities,,,,
+Average,0.41,1,0.32,0.96
+2. Minor difficulties carrying out daily activities but does not need assistance or attention,,,,
+Average,0.07,0,0.08,0
+"3. Some difficulties carrying out daily activities and needs some assistance and attention (e.g., for 1-2 hours/day)",,,,
+Average,0.22,0,0.26,0
+"4. A lot of difficulty carrying out daily activiites and needs quite a bit of assistance and atention (e.g., for 3-6 hours/day)",,,,
+Average,0.02,0,0.01,0.04
+5. Cannot carry out daily activities independently and needs permanent assistance and attention,,,,
+Average,0.17,0,0.07,0.96
+physical_cognitive_difficulties_male_children_calc,,,,
+Average,0.88,1,0.74,1.96
+What was the cause of the disability?,,,,
+"Congenital origin (i.e., present since birth)",73.28,16.36,71.31,100
+Road accident,17.61,0,20.43,0
+Illness,8.59,61.7,8.26,0
+"Pregnancy complications (i.e., complications to the mother)",0.52,21.94,0,0
+1. No difficulty carrying out daily activities,,,,
+Average,0.72,0,0.72,NA
+2. Minor difficulties carrying out daily activities but does not need assistance or attention,,,,
+Average,0.37,1,0.37,NA
+"3. Some difficulties carrying out daily activities and needs some assistance and attention (e.g., for 1-2 hours/day)",,,,
+Average,0.09,0,0.1,NA
+"4. A lot of difficulty carrying out daily activiites and needs quite a bit of assistance and atention (e.g., for 3-6 hours/day)",,,,
+Average,0.06,0,0.06,NA
+5. Cannot carry out daily activities independently and needs permanent assistance and attention,,,,
+Average,0.48,0,0.48,NA
+physical_cognitive_difficulties_female_children_calc,,,,
+Average,1.72,1,1.72,NA
+What was the cause of the disability?,,,,
+"Congenital origin (i.e., present since birth)",93.04,100,93,NA
+Illness,6.96,0,7,NA
+1. No difficulty carrying out daily activities,,,,
+Average,0.65,0.61,0.66,0.42
+2. Minor difficulties carrying out daily activities but does not need assistance or attention,,,,
+Average,0.44,0.12,0.49,0.06
+"3. Some difficulties carrying out daily activities and needs some assistance and attention (e.g., for 1-2 hours/day)",,,,
+Average,0.37,0.49,0.36,0
+"4. A lot of difficulty carrying out daily activiites and needs quite a bit of assistance and atention (e.g., for 3-6 hours/day)",,,,
+Average,0,0,0,0
+5. Cannot carry out daily activities independently and needs permanent assistance and attention,,,,
+Average,0.11,0.28,0.08,0.93
+physical_cognitive_difficulties_male_adults_calc,,,,
+Average,1.57,1.49,1.58,1.41
+What was the cause of the disability?,,,,
+"Congenital origin (i.e., present since birth)",48.9,59.89,46.84,98.77
+Road accident,27.36,0,30.88,1.23
+Illness,14.86,15.44,15.04,0
+Shot from war weapon,7.77,13.64,7.24,0
+"Mine, unexploded ordnance (UXO), or improvised explosive device (IED)",0.72,7.21,0,0
+Domestic accident,0.38,3.81,0,0
+1. No difficulty carrying out daily activities,,,,
+Average,0.11,0,0.11,0
+2. Minor difficulties carrying out daily activities but does not need assistance or attention,,,,
+Average,0.33,1,0.31,0
+"3. Some difficulties carrying out daily activities and needs some assistance and attention (e.g., for 1-2 hours/day)",,,,
+Average,0,0,0,0.65
+"4. A lot of difficulty carrying out daily activiites and needs quite a bit of assistance and atention (e.g., for 3-6 hours/day)",,,,
+Average,0,0,0,0
+5. Cannot carry out daily activities independently and needs permanent assistance and attention,,,,
+Average,0.56,0,0.57,0.35
+physical_cognitive_difficulties_female_adults_calc,,,,
+Average,1,1,1,1
+What was the cause of the disability?,,,,
+Domestic accident,55.75,0,57.47,0
+"Congenital origin (i.e., present since birth)",41.36,0,42.53,35.03
+Other (specify),2.69,100,0,0
+Shot from war weapon,0.2,0,0,64.97
+1. No difficulty carrying out daily activities,,,,
+Average,0,0,0,0
+2. Minor difficulties carrying out daily activities but does not need assistance or attention,,,,
+Average,0.05,0,0.06,0
+"3. Some difficulties carrying out daily activities and needs some assistance and attention (e.g., for 1-2 hours/day)",,,,
+Average,0.77,0,0.94,0
+"4. A lot of difficulty carrying out daily activiites and needs quite a bit of assistance and atention (e.g., for 3-6 hours/day)",,,,
+Average,0.07,0.38,0,1
+5. Cannot carry out daily activities independently and needs permanent assistance and attention,,,,
+Average,0.11,0.62,0,0
+physical_cognitive_difficulties_male_elderly_calc,,,,
+Average,1,1,1,1
+What was the cause of the disability?,,,,
+Illness,90.4,46.67,100,0
+Other (specify),9.12,53.33,0,0
+Road accident,0.48,0,0,100
+1. No difficulty carrying out daily activities,,,,
+Average,0,0,0,0
+2. Minor difficulties carrying out daily activities but does not need assistance or attention,,,,
+Average,0.07,0.63,0,0
+"3. Some difficulties carrying out daily activities and needs some assistance and attention (e.g., for 1-2 hours/day)",,,,
+Average,0.88,0,1,0
+"4. A lot of difficulty carrying out daily activiites and needs quite a bit of assistance and atention (e.g., for 3-6 hours/day)",,,,
+Average,0.02,0.09,0,0.81
+5. Cannot carry out daily activities independently and needs permanent assistance and attention,,,,
+Average,0.03,0.28,0,0.19
+physical_cognitive_difficulties_female_elderly_calc,,,,
+Average,1,1,1,1
+What was the cause of the disability?,,,,
+Illness,96.7,71.5,100,100
+Other (specify),3.3,28.5,0,0
+Do they have adequate access to the health care that they need to treat or manage their condition?,,,,
+"Limited access (only sometimes, limited quantity, etc.)",63.34,68.15,59.98,93.71
+No access,17.29,14.28,18.61,5.91
+"Yes, adequate access",12.13,14.04,13.26,0.38
+Prefer not to answer,7.23,3.52,8.15,0
+What are the services that are not available (when needed or prescribed)?,,,,
+Don't know,8,0,9,0
+Lack of physical therapy and/or rehabilitation,70,64,68,94
+Prefer not to answer,0,0,0,0
+Lack of wheelchair,11,10,13,1
+Other (specify),17,9,20,0
+"Lack of other assistive devices (e.g., prosthetic limbs or hearing aids)",6,17,6,5
+Lack of psychosocial support,17,24,16,19
+"Among the members of your household who are younger than 18, has the conflict or the household's displacement caused negative changes in their behaviours?",,,,
+No,93.31,84.26,94.02,91.41
+Yes,5.77,14.61,5.12,7.28
+Don't know,0.55,0.51,0.59,0.22
+Prefer not to answer,0.37,0.63,0.27,1.09
+"For any children aged 0-12, what negative behaviour changes has the household observed?",,,,
+"Substance use/abuse (e.g., alcohol, drugs)",0,0,0,0
+No children in the household aged 0-12,39,27,41,22
+Changes in appetite or eating habits,16,7,17,4
+"New or recurring fears (e.g., fear of the dark, fear of being alone, fear of strangers)",24,27,23,24
+Going back to behaviors present in children of a younger age,1,0,1,0
+Withdrawn from family and friends ,3,14,2,7
+Nightmares or sleep disturbances,24,27,25,12
+Angry or aggressive outbursts,11,11,10,22
+Excessive crying,4,6,2,20
+No negative behavior changes in children aged 0-12,4,4,4,2
+Startled easily,10,13,9,13
+"Clinging, unwilling to let you out of sight",6,12,6,1
+New or recurrent bedwetting,13,13,13,11
+Upset stomach or vague stomach pain,1,1,1,4
+Headaches,1,0,1,1
+"For any children aged 13-17, what negative behaviour changes has the household observed?",,,,
+"Substance use/abuse (e.g., alcohol, drugs)",0,0,0,0
+Changes in appetite or eating habits,5,8,5,5
+"New or recurring fears (e.g., fear of the dark, fear of being alone, fear of strangers)",6,11,7,2
+Going back to behaviors present in children of a younger age,0,0,0,0
+Withdrawn from family and friends ,8,15,7,15
+Nightmares or sleep disturbances,12,11,12,12
+Angry or aggressive outbursts,3,21,1,6
+Excessive crying,0,1,0,0
+No children in the household aged 13-17,38,26,40,22
+Startled easily,27,13,28,16
+"Clinging, unwilling to let you out of sight",3,3,1,20
+No negative behavior changes in children aged 13-17,10,15,10,14
+New or recurrent bedwetting,8,3,9,0
+Upset stomach or vague stomach pain,2,1,2,1
+Headaches,0,6,0,3
+When was your household initially displaced from your baladiya? ,,,,
+2014,33.87,18.68,NA,40.97
+2015,17.22,9.66,NA,20.76
+2011,16.62,12.61,NA,18.5
+2019,15.05,41.77,NA,2.55
+2018,7.89,5.72,NA,8.9
+2016,4.11,4.29,NA,4.02
+2017,3.28,5.04,NA,2.45
+2013,1.07,1.4,NA,0.92
+2012,0.45,0.56,NA,0.4
+Prefer not to answer,0.28,0,NA,0.41
+Don't know,0.18,0.28,NA,0.13
+When did your household return to this baladiya after your most recent incidence of displacement?,,,,
+2017,31.59,NA,NA,31.59
+2018,25.57,NA,NA,25.57
+2016,16.81,NA,NA,16.81
+2015,11.05,NA,NA,11.05
+2019,7.8,NA,NA,7.8
+2012,2.35,NA,NA,2.35
+2014,1.87,NA,NA,1.87
+2011,1.63,NA,NA,1.63
+2013,0.49,NA,NA,0.49
+Don't know,0.46,NA,NA,0.46
+Prefer not to answer,0.38,NA,NA,0.38
+How many times has your household been displaced since 2011?,,,,
+Average,1.29,1.3,NA,1.29
+When did your household arrive in this baladiya? ,,,,
+2019,21.16,48.55,NA,8.34
+2017,20.88,9.57,NA,26.18
+2018,20.18,8.14,NA,25.81
+2016,9.52,6.84,NA,10.78
+2011,8.73,7.35,NA,9.38
+2015,6.24,9.01,NA,4.95
+Don't know,5.85,0.64,NA,8.29
+2012,2.92,2.31,NA,3.21
+2014,2.88,5.08,NA,1.85
+2013,1.05,2.38,NA,0.42
+Prefer not to answer,0.57,0.12,NA,0.78
+What mantika in Libya was your household living in before your displacement?,,,,
+Tripoli,29.14,29.14,NA,NA
+Benghazi,18.23,18.23,NA,NA
+Aljfara,16.23,16.23,NA,NA
+Misrata,8.9,8.9,NA,NA
+Ubari,4.38,4.38,NA,NA
+Ghat,4.32,4.32,NA,NA
+Murzuq,4.15,4.15,NA,NA
+Sirt,3.88,3.88,NA,NA
+Alkufra,3.1,3.1,NA,NA
+Al Jabal Al Gharbi,1.93,1.93,NA,NA
+Sebha,1.46,1.46,NA,NA
+Derna,1.31,1.31,NA,NA
+Azzawya,1.26,1.26,NA,NA
+Ejdabia,0.9,0.9,NA,NA
+Zwara,0.39,0.39,NA,NA
+Aljufra,0.29,0.29,NA,NA
+Wadi Ashshati,0.12,0.12,NA,NA
+What baladiya in Libya was your household living in before your displacement?,,,,
+Ain Zara,18.82,18.82,NA,NA
+Benghazi,18.18,18.18,NA,NA
+Tawargha,6.59,6.59,NA,NA
+Al Aziziya,5.04,5.04,NA,NA
+Qasr Bin Ghasheer,4.91,4.91,NA,NA
+Other (specify),4.35,4.35,NA,NA
+Ghat,4.32,4.32,NA,NA
+Murzuq,4.07,4.07,NA,NA
+Tripoli,3.9,3.9,NA,NA
+Ubari,3.83,3.83,NA,NA
+Sirt,3.77,3.77,NA,NA
+Alkufra,2.97,2.97,NA,NA
+Swani Bin Adam,2.91,2.91,NA,NA
+Abusliem,2.16,2.16,NA,NA
+Misrata,1.48,1.48,NA,NA
+Espeaa,1.36,1.36,NA,NA
+Sebha,1.28,1.28,NA,NA
+Derna,1.25,1.25,NA,NA
+Kikkla,0.87,0.87,NA,NA
+Suq Alkhamees,0.83,0.83,NA,NA
+Ejdabia,0.82,0.82,NA,NA
+Azzawya,0.73,0.73,NA,NA
+Tajoura,0.6,0.6,NA,NA
+Ghiryan,0.43,0.43,NA,NA
+Al Maya,0.39,0.39,NA,NA
+Alghrayfa,0.36,0.36,NA,NA
+Sidi Assayeh,0.36,0.36,NA,NA
+Zliten,0.3,0.3,NA,NA
+Aljufra,0.29,0.29,NA,NA
+Sabratha,0.23,0.23,NA,NA
+Abu Qurayn,0.23,0.23,NA,NA
+Janoub Azzawya,0.2,0.2,NA,NA
+Bani Waleed,0.19,0.19,NA,NA
+Bint Bayya,0.18,0.18,NA,NA
+Azzahra,0.18,0.18,NA,NA
+Arrayayna,0.16,0.16,NA,NA
+Gharb Azzawya,0.15,0.15,NA,NA
+Hrawa,0.11,0.11,NA,NA
+Tazirbu,0.11,0.11,NA,NA
+Aljmail,0.1,0.1,NA,NA
+Surman,0.09,0.09,NA,NA
+Al Qalaa,0.09,0.09,NA,NA
+Ashshgega,0.09,0.09,NA,NA
+Ashshwayrif,0.09,0.09,NA,NA
+Albrayga,0.08,0.08,NA,NA
+Algurdha Ashshati,0.06,0.06,NA,NA
+Algatroun,0.06,0.06,NA,NA
+Brak,0.05,0.05,NA,NA
+Gemienis,0.05,0.05,NA,NA
+Rigdaleen,0.05,0.05,NA,NA
+Azzintan,0.05,0.05,NA,NA
+Hai Alandalus,0.04,0.04,NA,NA
+"Nesma
+",0.04,0.04,NA,NA
+Suq Aljumaa,0.04,0.04,NA,NA
+Janzour,0.03,0.03,NA,NA
+Taraghin,0.03,0.03,NA,NA
+Umm arrazam,0.01,0.01,NA,NA
+Alqubba,0.01,0.01,NA,NA
+Edri,0.01,0.01,NA,NA
+What are the main reasons why your household left its baladiya of origin?,,,,
+Problems accessing housing,3,5,NA,2
+Flooding or other natural disaster,2,4,NA,0
+Prefer not to answer,1,0,NA,1
+No opportunity for work,3,5,NA,2
+Got evicted from dwelling                         ,11,18,NA,8
+Other (specify),0,0,NA,0
+Dwelling destroyed ,18,25,NA,14
+No security/conflict in the area,79,75,NA,81
+Problems accessing healthcare,9,8,NA,9
+Presence of explosive hazards,5,6,NA,4
+Problems accessing water,3,2,NA,3
+Problems accessing education,7,6,NA,8
+Threat of violence on the household,11,16,NA,8
+Don't know,0,0,NA,0
+Problems accessing electricity or energy,7,4,NA,8
+What are the main reasons why your household has not returned to its baladiya of origin?,,,,
+Don't know,0,0,NA,NA
+No security/conflict in the area                       ,57,57,NA,NA
+Flooding or other natural disaster,6,6,NA,NA
+Prefer not to answer,1,1,NA,NA
+Threat of violence on the household,19,19,NA,NA
+Problems accessing housing,9,9,NA,NA
+Loss of documentation has restricted movement,1,1,NA,NA
+Dwelling damaged or destroyed,43,43,NA,NA
+Problems accessing healthcare,15,15,NA,NA
+Presence of explosive hazards,6,6,NA,NA
+Problems accessing water,4,4,NA,NA
+Problems accessing education,12,12,NA,NA
+Other (specify),1,1,NA,NA
+No opportunity for work,10,10,NA,NA
+Problems accessing electricity or energy,5,5,NA,NA
+Why did your household choose to move or come back to this baladiya specifically?,,,,
+Cheaper rent prices in chosen area                               ,9,20,NA,4
+More secure environment,17,38,NA,7
+More opportunity for better health services,3,7,NA,1
+Don't know,0,0,NA,0
+Own property in chosen area,23,11,NA,29
+Better opportunity to move abroad ,0,1,NA,0
+Conflict is over in my baladiya,51,0,NA,75
+Prefer not to answer,0,1,NA,0
+Other (specify),1,1,NA,0
+My tribe is here   ,21,22,NA,21
+More opportunity for better education services,2,5,NA,1
+Better opportunity to move to another place within Libya ,1,2,NA,0
+Friends or family living here              ,36,47,NA,30
+More economic opportunities here                ,6,15,NA,2
+"1. House, property or land occupied by other persons",,,,
+No,94.75,NA,NA,94.75
+Yes,4.11,NA,NA,4.11
+Don't know,0.93,NA,NA,0.93
+Prefer not to answer,0.2,NA,NA,0.2
+2. Inability to prove legal ownership of the house/property ,,,,
+No,94.1,NA,NA,94.1
+Yes,4.71,NA,NA,4.71
+Don't know,0.89,NA,NA,0.89
+Prefer not to answer,0.3,NA,NA,0.3
+3. Hostility from the local community,,,,
+No,91.76,NA,NA,91.76
+Yes,5.38,NA,NA,5.38
+Don't know,2.41,NA,NA,2.41
+Prefer not to answer,0.45,NA,NA,0.45
+4. Lack of security in area,,,,
+No,75.08,NA,NA,75.08
+Yes,22.68,NA,NA,22.68
+Prefer not to answer,1.62,NA,NA,1.62
+Don't know,0.62,NA,NA,0.62
+5. Parts of house or property destroyed,,,,
+No,54.04,NA,NA,54.04
+Yes,44.66,NA,NA,44.66
+Don't know,0.72,NA,NA,0.72
+Prefer not to answer,0.58,NA,NA,0.58
+6. Valuables in house or property missing,,,,
+Yes,57.38,NA,NA,57.38
+No,41.5,NA,NA,41.5
+Prefer not to answer,0.82,NA,NA,0.82
+Don't know,0.31,NA,NA,0.31
+7. Inability to move freely in the area,,,,
+No,80.85,NA,NA,80.85
+Yes,17.65,NA,NA,17.65
+Don't know,1.11,NA,NA,1.11
+Prefer not to answer,0.39,NA,NA,0.39
+"8. Basic services at the HH level (e.g., electricity, water) which worked before displacement no longer working",,,,
+No,59.41,NA,NA,59.41
+Yes,39.64,NA,NA,39.64
+Don't know,0.58,NA,NA,0.58
+Prefer not to answer,0.37,NA,NA,0.37
+"9. Basic services at the community level (e.g., hospitals, health facilities, education) which worked before displacement no longer working",,,,
+No,60.41,NA,NA,60.41
+Yes,38.98,NA,NA,38.98
+Prefer not to answer,0.3,NA,NA,0.3
+Don't know,0.3,NA,NA,0.3
+10. Mobile phone network coverage which had worked before displacement no longer working,,,,
+No,61.5,NA,NA,61.5
+Yes,37.07,NA,NA,37.07
+Don't know,1.13,NA,NA,1.13
+Prefer not to answer,0.3,NA,NA,0.3
+11. Other (specify),,,,
+No,79.88,NA,NA,79.88
+Don't know,10.93,NA,NA,10.93
+Yes,8.76,NA,NA,8.76
+Prefer not to answer,0.42,NA,NA,0.42
+"What are your household's intentions, if any, to move to a new place of residence in the next 6 months? ",,,,
+Stay in the current baladiya of residence,52.35,24.87,NA,65.21
+Return to the baladiya of origin,40.29,68.87,NA,26.93
+Settle elsewhere within Libya,4.54,4.49,NA,4.57
+Move to a country outside of Libya,2.81,1.77,NA,3.3
+Where does your household plan to move to?,,,,
+EU,79.21,42.37,NA,95.69
+North Africa,17.22,50.74,NA,2.23
+Other (specify),3.57,6.89,NA,2.08
+Why does your household plan to move to a country outside of Libya?,,,,
+No opportunity for work in Libya,19,19,NA,19
+Don't know,0,0,NA,0
+No security or too much conflict in Libya,23,31,NA,19
+Prefer not to answer,6,20,NA,0
+Presence of explosive hazards in Libya,0,0,NA,0
+Friends or family live abroad,12,6,NA,15
+"Problems accessing principal services in Libya (e.g., health, education)",26,43,NA,19
+To study abroad,52,40,NA,58
+Other (specify),3,1,NA,3
+What are your household's top 3 priority needs?,,,,
+Access to means of communication (mobile phone network coverage or mobile phone credit),2,2,2,4
+Employment (livelihood opportunities),9,12,10,7
+"Legal assistance (e.g., civil documentation, house/land/property, family law)",0,1,0,0
+Don't know,0,0,0,1
+"Explosive hazard clearance, risk education, or services for survivors",1,0,0,1
+Education for children,6,6,6,7
+Gender-based violence support,0,0,0,0
+Medical care,52,50,53,45
+Shelter support,8,26,6,10
+"Psychosocial support (e.g., counseling)",1,1,1,1
+Child-friendly spaces or activities,5,2,6,2
+Sanitation services,6,3,6,8
+Other (specify),2,4,2,2
+Electricity or fuel,31,25,33,20
+Access to cash,73,83,71,78
+Water,16,13,17,10
+Household or hygiene items,1,0,1,0
+Prefer not to answer,1,0,1,1
+Food,48,50,48,51
+Vocational training,1,1,2,0
+Did your household receive humanitarian assistance during the previous 6 months?,,,,
+No,90.47,69.26,91.8,88.94
+Yes,8.23,29.51,6.83,10.35
+Don't know,0.85,1.1,0.87,0.6
+Prefer not to answer,0.45,0.12,0.5,0.11
+What was the modality of the assistance received?,,,,
+"Services (e.g., health care, education)",9,3,9,13
+cash,29,26,30,14
+Don't know,1,0,1,0
+Prefer not to answer,0,0,0,3
+vouchers,0,3,0,0
+Mixed (in-kind and cash/voucher),21,25,22,14
+Other (specify),0,1,0,0
+in kind,43,48,39,71
+Is your household satisfied with the aid you received?,,,,
+Yes,77.87,74.36,79.89,62.2
+No,18.89,19.93,18.26,23.87
+Don't know,2.62,3.33,1.82,9.11
+Prefer not to answer,0.61,2.39,0.03,4.81
+Why was your household not satisfied with the aid received?,,,,
+Quantity not enough,73.01,52.63,82.05,19.94
+Quality not good enough,26.03,32.05,17.95,80.06
+Other (specify),0.71,11.35,0,0
+Prefer not to answer,0.16,2.47,0,0
+Don't know,0.09,1.5,0,0
+"In the last year, did your household face any barriers to receiving humanitarian assistance?",,,,
+Not aware of any assistance,39,38,39,36
+Don't know,2,4,2,1
+No barriers faced in receiving humanitarian assistance / did not want to receive assistance,58,56,57,62
+Prefer not to answer,1,1,1,1
+Presence of explosive hazards,0,0,0,0
+Other (specify),0,0,0,0
+Checkpoints or roadblocks ,0,0,0,0
+Lack of consent from actor controlling territory ,0,0,0,0
+Damage to roads leading to area of assistance,0,0,0,0
+Insecurity travelling to area of assistance,0,1,1,0
+"If your household were to receive assistance in the future, what kind of assistance would you prefer to receive?",,,,
+Cash in hand,39.9,49.79,38.09,50.89
+Do not want to receive assistance,28.61,12.48,31.45,11.71
+"In-kind (house repairs, construction materials, NFIs, etc.)",12.64,16.14,11.97,16.79
+Mixed (cash and in-kind),10.74,17.01,10,14.18
+Don't know,3.09,1.81,3.35,1.46
+Cash via bank transfer,1.71,1.13,1.66,2.47
+Prefer not to answer,1.5,0.22,1.68,0.55
+Services,1.12,0.93,1.23,0.25
+Other (specify),0.42,0.31,0.43,0.38
+Voucher ,0.14,0.12,0.13,0.25
+Cash via e-transfer ,0.14,0.07,0.03,1.08
+What is your household's primary source of information on humanitarian assistance in your current baladiya of residence?,,,,
+TV,21.24,20.81,20.05,31.68
+Social media,18.53,14.47,18.77,18.4
+Community leaders,18.27,22.76,19.03,9.64
+Do not receive information on humanitarian assistance,16.02,7.49,17.46,7.61
+Charity organization,7.35,7.86,6.38,15.52
+Family members and friends,6.14,11.68,5.97,5.04
+Don't know,3.34,3.17,3.38,3.05
+Humanitarian organization,3.25,4.81,2.84,6.06
+Radio,3.06,4.17,3.23,1.07
+Government,2.34,2.37,2.53,0.63
+Prefer not to answer,0.45,0.4,0.36,1.3
+What type of information would your household like to receive from aid providers? ,,,,
+How to find work,12,14,12,9
+How to get healthcare/medical attention,34,37,33,36
+Don't know,3,2,3,3
+How to get more money/financial support,21,31,20,23
+"How to replace personal documentation (e.g., birth certificate, ID)",1,1,1,3
+Prefer not to answer,1,1,1,1
+Do not want to receive information from aid providers,22,12,24,12
+Information about possible return to place of origin/relocation,1,15,0,1
+Other (specify),1,0,0,1
+How to complain about the aid we are receiving,0,0,0,1
+How to register for aid,20,26,19,24
+Finding missing people,1,1,1,2
+How to get access to education,8,7,8,5
+Food prices,12,12,11,20
+The security situation here,27,23,27,32
+What is your household's preferred means of receiving the information?,,,,
+WhatsApp (or other mobile phone based platform),2,2,2,1
+Twitter,2,2,2,2
+Facebook,40,36,41,36
+In person / face-to-face (please specify from whom),8,11,9,3
+Prefer not to answer,1,1,1,1
+Loudspeakers,0,0,0,0
+Billboards,2,1,2,2
+Newspapers,1,1,1,1
+Other (specify),0,0,0,0
+Posters,2,2,2,1
+Other internet platforms,6,6,7,2
+SMS,16,17,15,22
+Television,41,40,42,34
+Phone call,40,45,40,33
+Leaflets,2,3,2,2
+Don't know,1,2,1,0
+In the last 6 months have you or anyone else in your household been asked about what aid you would like to receive?,,,,
+No,89.29,78.95,89.71,90.54
+Yes,5.87,17.38,5.36,4.92
+Don't know,4.32,3.33,4.44,3.79
+Prefer not to answer,0.52,0.35,0.5,0.75
+"How would your household prefer to provide feedback to aid providers about the quality, quantity and appropriateness of the aid you will receive?  ",,,,
+Letter,2,3,2,1
+Complaints/suggestions box,3,4,3,3
+Social media (specify site),8,7,8,5
+E-mail,2,1,2,1
+Prefer not to answer,4,0,4,2
+Phone call,28,34,28,25
+Face to face with member of the community ,53,63,52,56
+SMS,10,8,10,12
+Do not want to provide feedback,12,6,12,8
+Other (specify),0,0,1,0
+Don't know,3,2,3,2
+1. Property documents,,,,
+Everyone who needs this document has it,89.95,87.23,91.68,76.34
+Not everyone who needs this document has it,10.05,12.77,8.32,23.66
+2. Family book,,,,
+Everyone who needs this document has it,90.51,88.71,91.04,86.77
+Not everyone who needs this document has it,9.49,11.29,8.96,13.23
+3. Certificate of nationality,,,,
+Everyone who needs this document has it,95.38,92.89,95.37,96.62
+Not everyone who needs this document has it,4.62,7.11,4.63,3.38
+4. Passport,,,,
+Everyone who needs this document has it,76.39,72.91,77.77,66.13
+Not everyone who needs this document has it,23.61,27.09,22.23,33.87
+5. National identifier ,,,,
+Everyone who needs this document has it,98.67,94.94,98.86,98.86
+Not everyone who needs this document has it,1.33,5.06,1.14,1.14
+6. National ID card,,,,
+Everyone who needs this document has it,95.19,91.71,95.67,92.67
+Not everyone who needs this document has it,4.81,8.29,4.33,7.33
+7. Residence Certificate,,,,
+Everyone who needs this document has it,97.6,93.58,97.75,98.14
+Not everyone who needs this document has it,2.4,6.42,2.25,1.86
+8. Birth certificate,,,,
+Everyone who needs this document has it,98.75,93.57,98.97,99.31
+Not everyone who needs this document has it,1.25,6.43,1.03,0.69
+9. Other (please specify),,,,
+Everyone who needs this document has it,92.95,93.89,93.8,85.17
+Not everyone who needs this document has it,7.05,6.11,6.2,14.83
+Property documents,,,,
+This mahalla is currently unable to issue such documents.,32.29,21.83,34.21,21.23
+"We are in the process of obtaining or renewing it, so we will have it later.",24.53,30.62,21.61,45.98
+We are unable to obtain it in this mahalla or anywhere else.,16.56,8.76,15.84,26.16
+Prefer not to answer,13.13,0.25,15.03,3.36
+Don't know,9.96,0.99,11.53,1.05
+We lost it in the conflict.,3.53,37.55,1.77,2.22
+2. Family book,,,,
+This mahalla is currently unable to issue such documents.,47.81,30.64,52.2,20.31
+We are unable to obtain it in this mahalla or anywhere else.,22.55,26.64,21.83,26.64
+"We are in the process of obtaining or renewing it, so we will have it later.",21.4,19.1,20.97,25.59
+We lost it in the conflict.,7.14,22.38,3.78,27.41
+Don't know,1.07,0.62,1.23,0
+Prefer not to answer,0.03,0.62,0,0.05
+Certificate of nationality,,,,
+This mahalla is currently unable to issue such documents.,38.89,38.45,41.72,21.92
+"We are in the process of obtaining or renewing it, so we will have it later.",24.15,20.88,19.08,55.97
+Don't know,13.31,0.26,16.28,0
+We lost it in the conflict.,11.47,5.19,13.02,4.31
+We are unable to obtain it in this mahalla or anywhere else.,8.4,29.65,5.6,17.79
+Prefer not to answer,3.78,5.57,4.3,0
+Passport,,,,
+"We are in the process of obtaining or renewing it, so we will have it later.",53.4,33.76,56.81,33.23
+This mahalla is currently unable to issue such documents.,31.86,37.49,30.35,42.19
+We are unable to obtain it in this mahalla or anywhere else.,12.02,17.74,10.68,20.97
+We lost it in the conflict.,1.98,9.72,1.52,2.35
+Don't know,0.59,0.79,0.65,0
+Prefer not to answer,0.15,0.5,0,1.26
+5. National identifier,,,,
+"We are in the process of obtaining or renewing it, so we will have it later.",65.59,31.87,65.28,87.51
+Prefer not to answer,10.73,4.24,12.46,0.17
+This mahalla is currently unable to issue such documents.,9.15,28.08,8.66,2.31
+We are unable to obtain it in this mahalla or anywhere else.,8.44,32.18,6.6,10.02
+We lost it in the conflict.,6.09,3.64,7,0
+6. National ID card,,,,
+"We are in the process of obtaining or renewing it, so we will have it later.",63.59,30.63,67.65,44.1
+This mahalla is currently unable to issue such documents.,14.65,42.6,10.83,34.73
+Don't know,13.83,1.61,16.02,0.16
+We lost it in the conflict.,5.65,16.56,4.96,5.83
+We are unable to obtain it in this mahalla or anywhere else.,2.26,8.24,0.54,15.18
+Prefer not to answer,0.02,0.35,0,0
+Residence Certificate,,,,
+"We are in the process of obtaining or renewing it, so we will have it later.",44.98,44.18,48.6,8.04
+This mahalla is currently unable to issue such documents.,23.59,40.93,24.11,6.98
+Don't know,11.51,0,9.63,38.47
+Prefer not to answer,11.24,2.87,12.85,0
+We lost it in the conflict.,6.01,4.58,2.41,44.23
+We are unable to obtain it in this mahalla or anywhere else.,2.67,7.44,2.41,2.28
+Birth certificate,,,,
+"We are in the process of obtaining or renewing it, so we will have it later.",47.63,39.1,48.27,39.91
+This mahalla is currently unable to issue such documents.,28.83,48.02,28.05,16.27
+Prefer not to answer,11.93,0,12.85,0
+We lost it in the conflict.,10.84,5.02,10.83,26.11
+We are unable to obtain it in this mahalla or anywhere else.,0.71,6.67,0,17.71
+Don't know,0.06,1.19,0,0
+9. Other,,,,
+Don't know,33.8,16.64,36.91,20.13
+This mahalla is currently unable to issue such documents.,21.4,29.79,20.31,25.06
+"We are in the process of obtaining or renewing it, so we will have it later.",19.2,36.98,14.48,43.76
+Prefer not to answer,14.79,6.44,17.47,0
+We are unable to obtain it in this mahalla or anywhere else.,5.85,4.31,5.59,8.31
+We lost it in the conflict.,4.96,5.83,5.23,2.74
+Has the loss of your household's documentation affected its access to any of the following?,,,,
+Access to household's land or house,0,3,0,0
+"Access to household's property (e.g., household items, personal items)",1,3,0,2
+Movement or travel,26,49,30,5
+Loss of document did not affect our access to any services,24,32,6,74
+Health,24,6,34,2
+Education,32,6,47,1
+Assistance from humanitarian organisation,5,5,6,1
+Other (specify),0,1,0,0
+Prefer not to answer,3,0,0,14
+Assistance from government,16,11,21,3
+Food subsidies/assistance,0,2,0,1
+Access to salary,11,7,14,3
+Ability to get SIM card,11,0,16,1
+Don't know,9,4,12,3
+Has your household applied to get new documentation?,,,,
+No,51.72,37.58,55.42,46.96
+Yes,45.44,62.39,44.58,40.44
+Don't know,2.83,0.03,0,12.6
+Why hasn't your household applied to get new documentation?,,,,
+Not familiar with the procedures,21,17,24,10
+Safety risks to travel to civil registry ,1,8,0,0
+Don't know,0,0,0,0
+Process is too complicated and takes time ,30,48,22,55
+No functioning civil registry nearby,20,4,26,2
+Other (specify),1,16,0,0
+"Already have a different document that replaces the official one  (i.e., document replacing family book)",33,6,27,72
+Cannot access relevant authorities in area of displacement  ,1,16,0,0
+Prefer not to answer,0,0,0,0
+Presence of explosive hazards,,,,
+No,89.08,84.16,89.59,86.92
+Yes,6.14,8.46,5.68,8.97
+Don't know,4.61,6.31,4.65,3.51
+Prefer not to answer,0.18,1.07,0.08,0.6
+What course of action did your household take?,,,,
+Contacted local authorities,44.27,27.29,45.13,44.34
+No action taken,39.31,56.91,37.93,44.71
+"Self-help (i.e., cleared the explosive hazard themselves)",5.71,0.79,6.21,2.87
+Contacted hotline/emergency services                      ,4.62,10.91,4.7,0.11
+Contacted a mine action authority (specify),3.11,3.51,2.65,7.98
+Don't know,1.79,0.58,2.01,0
+Contacted an international organisation ,1.2,0,1.37,0
+Have any members of the household received any form of explosive hazards risk awareness?,,,,
+No,80.9,83.24,80.86,80.1
+Yes,14.92,12.03,14.68,18.36
+Don't know,4.1,3.99,4.46,1.08
+Prefer not to answer,0.08,0.74,0,0.46
+Has any member of your household been harmed as a result of being exposed to an explosive hazard in the past?,,,,
+"No, no one injured or killed",96.29,96.25,96.5,94.48
+"Yes, adult member(s) injured",2.04,2.44,2.02,2.11
+"Yes, adult member(s) killed",1.32,0.74,1.22,2.44
+Prefer not to answer,0.31,0.49,0.25,0.82
+"Yes, child/children killed",0.03,0,0.02,0.16
+"Yes, child/children injured",0,0.08,0,0
+"Has the affected person or anyone else in the household received any rehabilitation, health care, special assistance, or government assistance? ",,,,
+"Yes, support in physical therapy and functional rehabilitation",16,23,15,16
+"Yes, other type of assistance (specify)",3,1,3,0
+"Yes, donation of mobility devices (wheelchairs, crutches, etc.)",9,0,10,0
+Prefer not to answer,8,15,6,24
+"Yes, psychological and psychosocial support",8,10,7,17
+"Yes, financial support",24,5,25,16
+Assistance needed but none received,15,34,14,13
+"Yes, donation of prosthesis & orthotics (artificial limb, externally applied device, etc.)",0,2,0,0
+Do not need assistance,38,22,41,18
+From what source did they receive this assistance? ,,,,
+"Specialist healthcare (hospital, clinic, etc.)",33,40,33,31
+Ministry of Health,23,13,25,7
+Local NGO,6,1,5,16
+Ministry of Martyrs,22,7,22,31
+Social Solidarity Fund,6,9,6,2
+Private donations,3,1,3,5
+Family,6,8,7,0
+Municipal authorities,17,16,18,6
+Other (specify),0,0,0,0
+Martyrs' association,1,5,0,10
+Religious authorities,1,0,1,0
+Ministry of Social Affairs,4,17,4,1
+International NGO,5,2,5,14
+Other government,2,0,2,0
+Does your household have any missing family members?,,,,
+No,98.03,95.47,98.39,96.1
+Yes,1.53,3.41,1.4,1.75
+Don't know,0.29,0.78,0.14,1.29
+Prefer not to answer,0.16,0.34,0.07,0.87
+1. <18 minors,,,,
+Average,0,0,0,0
+2. 18+ adults,,,,
+Average,1.02,1.12,1,1.09
+How long have they been missing?,,,,
+More than 5 years,59.06,40.24,58.22,69.33
+3-5 years,18.87,33.67,20.46,6.22
+Less than 1 year,12.34,14.27,11.9,13.9
+1-2 years,9.73,11.82,9.42,10.56
+Have you observed or are you aware of any movement restrictions in your mahalla in the last three months?,,,,
+No,79.83,76.86,79.14,87.19
+Yes,16.5,18,17.47,7.46
+Don't know,2.91,4.36,2.64,4.54
+Prefer not to answer,0.76,0.78,0.75,0.81
+What are the causes of movement restrictions in your mahalla?,,,,
+Don't know,0,2,0,0
+Checkpoints,47,31,47,46
+Prefer not to answer,1,0,1,0
+Presence of explosive hazards,3,1,3,0
+General violence,9,15,9,17
+Lack of identity documents,1,0,2,0
+Other (specify),0,0,0,0
+Rules imposed by concerned authorities,16,6,16,21
+Activities of armed groups,61,85,60,61
