@@ -73,11 +73,12 @@ results <- from_analysisplan_map_to_output(data = lsg_three_four,
 summary.stats.list <- results$results
 
 
-## SUMMARY STATS LIST FORMATTED WITH p-VALUES ##
+## SUMMARY STATS LIST FORMATTED WITH p-VALUES ##s
 summary.stats.list %>%
   #lapply((map_to_labeled),questionnaire) %>%
   lapply(result_format_numbers) %>% 
   lapply(add_p_value_to_summary_table) %>% 
   resultlist_summary_statistics_as_one_table %>%
   
-  write.csv("./output/summary_stats_24012020.csv")
+  write.csv("./output/summary_stats_persector.csv")
+

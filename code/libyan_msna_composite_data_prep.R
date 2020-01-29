@@ -28,7 +28,7 @@ weights <-map_to_weighting(sampling.frame = sampling_frame,
                            sampling.frame.stratum.column = "strata.names",
                            data = data)
 
-analysisplan <- load_analysisplan(file = "./input/composite_indicators_analysisplan_24012020.csv")
+analysisplan <- load_analysisplan(file = "./input/composite_indicators_analysisplan2.csv")
 
 ci_prep_data <- data %>% mutate(
   problems_faced_returnees = str_concat("yes",

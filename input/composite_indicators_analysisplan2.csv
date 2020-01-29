@@ -1,0 +1,8 @@
+research.question,sub.research.question,repeat.for.variable,independent.variable,independent.variable.type,dependent.variable,dependent.variable.type,hypothesis.type,hypothesis
+,,,displacement_status,categorical,protection,numerical,group_difference,
+,,,displacement_status,categorical,shelter,numerical,group_difference,
+,,,displacement_status,categorical,fs,numerical,group_difference,
+,,,displacement_status,categorical,health,numerical,group_difference,
+,,,displacement_status,categorical,wash,numerical,group_difference,
+,,,displacement_status,categorical,education,numerical,group_difference,
+,,,displacement_status,categorical,capacity_gap,numerical,group_difference,
