@@ -9,18 +9,24 @@ source("code/functions.R")
 rounded_mean <- function(...){
   round(...,digits = 0)
 }
+Sys.setlocale("LC_ALL", "C")
 
-questions <- read.csv("./input/edited_survey_datamerge.csv", stringsAsFactors = F)
+#questions <- load_data("./input/edited_survey_datamerge.csv")
 choices <- read.csv("./input/edited_choices_datamerge.csv", stringsAsFactors = F)
+questions <- read.csv("./input/edited_survey_datamerge.csv" , stringsAsFactors = F)
+
+#choices <- load_data("./input/edited_choices_datamerge.csv")
+
 choices$label..English..en. <- gsub("^\\d+[.]\\s*","", choices$label..English..en.)
 data <- load_data(file = "./input/data.csv")
-data <- mutate_if(data, is.character, na_if, "")
+data <- mutate_if(data, is.character, na_if, "") # ibadal el vide eb NA fel strings
+
 sampling_frame <- load_samplingframe(file = "./input/sampling_frame.csv")
 
 questionnaire <- load_questionnaire(data = data,
                                     questions = questions,
                                     choices = choices,
-                                    choices.label.column.to.use = "label::English (en)")
+                                    choices.label.column.to.use = "label..English..en.")
 
 weights <-map_to_weighting(sampling.frame = sampling_frame,
                            data.stratum.column = "strata.names",
@@ -28,7 +34,7 @@ weights <-map_to_weighting(sampling.frame = sampling_frame,
                            sampling.frame.stratum.column = "strata.names",
                            data = data)
 
-analysisplan <- load_analysisplan(file = "./input/composite_indicators_analysisplan2.csv")
+analysisplan <- load_analysisplan(file = "./input/composite_indicators_analysisplan_24012020.csv") 
 
 ci_prep_data <- data %>% mutate(
   problems_faced_returnees = str_concat("yes",

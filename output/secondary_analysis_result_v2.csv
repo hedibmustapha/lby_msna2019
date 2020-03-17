@@ -1,0 +1,517 @@
+"","dependent.var","independent.var","dependent.var.value","independent.var.value","numbers","se","min","max","repeat.var","repeat.var.value","p.value"
+"1","request_1",NA,"no","NA","94% (93%-96%)",NA,0.931463143383323,0.956297078546309,NA,NA,NA
+"2","request_1",NA,"yes","NA","6% (4%-7%)",NA,0.0437029214536907,0.0685368566166773,NA,NA,NA
+"3","request_2",NA,"no","NA","99% (99%-100%)",NA,0.989188457541688,0.998566264287133,NA,NA,NA
+"4","request_2",NA,"yes","NA","1% (0%-1%)",NA,0.0014337357128671,0.010811542458312,NA,NA,NA
+"5","request_3",NA,"no","NA","71% (69%-74%)",NA,0.691982879730383,0.736596535452036,NA,NA,NA
+"6","request_3",NA,"yes","NA","29% (26%-31%)",NA,0.263403464547964,0.308017120269617,NA,NA,NA
+"7","request_4",NA,"no","NA","69% (67%-72%)",NA,0.669042564192051,0.720408512212268,NA,NA,NA
+"8","request_4",NA,"yes","NA","31% (28%-33%)",NA,0.279591487787732,0.330957435807949,NA,NA,NA
+"9","request_1","Displacement_status","no","idp","92% (91%-94%)",NA,0.906482365570338,0.940146074206722,NA,NA,0.114346736559143
+"10","request_1","Displacement_status","yes","idp","8% (6%-9%)",NA,0.059853925793278,0.0935176344296622,NA,NA,0.114346736559143
+"11","request_1","Displacement_status","no","non_displaced","95% (93%-96%)",NA,0.932498901171386,0.96099417963891,NA,NA,0.114346736559143
+"12","request_1","Displacement_status","yes","non_displaced","5% (4%-7%)",NA,0.0390058203610901,0.0675010988286143,NA,NA,0.114346736559143
+"13","request_1","Displacement_status","no","returnee","93% (91%-95%)",NA,0.905276286057384,0.952326144061161,NA,NA,0.114346736559143
+"14","request_1","Displacement_status","yes","returnee","7% (5%-9%)",NA,0.0476738559388387,0.0947237139426163,NA,NA,0.114346736559143
+"15","request_2","Displacement_status","no","idp","99% (98%-100%)",NA,0.983178414926424,0.99642407385642,NA,NA,0.0139498509624547
+"16","request_2","Displacement_status","yes","idp","1% (0%-2%)",NA,0.00357592614357974,0.0168215850735765,NA,NA,0.0139498509624547
+"17","request_2","Displacement_status","no","non_displaced","99% (99%-100%)",NA,0.987913300874887,0.998867583328508,NA,NA,0.0139498509624547
+"18","request_2","Displacement_status","yes","non_displaced","1% (0%-1%)",NA,0.001132416671492,0.0120866991251128,NA,NA,0.0139498509624547
+"19","request_2","Displacement_status","no","returnee","100% (100%-100%)",NA,0.999941685951984,1.00001891849095,NA,NA,0.0139498509624547
+"20","request_2","Displacement_status","yes","returnee","0%",NA,-1.89184909499632e-05,5.83140480164195e-05,NA,NA,0.0139498509624547
+"21","request_3","Displacement_status","no","idp","70% (67%-72%)",NA,0.669654493369184,0.721048855085819,NA,NA,0.0683110950742712
+"22","request_3","Displacement_status","yes","idp","30% (28%-33%)",NA,0.278951144914181,0.330345506630816,NA,NA,0.0683110950742712
+"23","request_3","Displacement_status","no","non_displaced","71% (68%-74%)",NA,0.684818515864016,0.73616614703356,NA,NA,0.0683110950742712
+"24","request_3","Displacement_status","yes","non_displaced","29% (26%-32%)",NA,0.263833852966439,0.315181484135984,NA,NA,0.0683110950742712
+"25","request_3","Displacement_status","no","returnee","76% (72%-80%)",NA,0.716580390353997,0.7951655237702,NA,NA,0.0683110950742712
+"26","request_3","Displacement_status","yes","returnee","24% (20%-28%)",NA,0.2048344762298,0.283419609646003,NA,NA,0.0683110950742712
+"27","request_4","Displacement_status","no","idp","64% (61%-67%)",NA,0.608264451035038,0.665636372335218,NA,NA,0.0193114241265664
+"28","request_4","Displacement_status","yes","idp","36% (33%-39%)",NA,0.334363627664782,0.391735548964962,NA,NA,0.0193114241265664
+"29","request_4","Displacement_status","no","non_displaced","70% (67%-73%)",NA,0.673002024491576,0.732183415358966,NA,NA,0.0193114241265664
+"30","request_4","Displacement_status","yes","non_displaced","30% (27%-33%)",NA,0.267816584641034,0.326997975508424,NA,NA,0.0193114241265664
+"31","request_4","Displacement_status","no","returnee","65% (61%-70%)",NA,0.610129177315868,0.69779565699479,NA,NA,0.0193114241265664
+"32","request_4","Displacement_status","yes","returnee","35% (30%-39%)",NA,0.30220434300521,0.389870822684132,NA,NA,0.0193114241265664
+"33","request_1","mantika_label","no","Al Jabal Al Gharbi","95% (92%-99%)",NA,0.91948864883343,0.986849095091574,NA,NA,2.17788697045384e-20
+"34","request_1","mantika_label","yes","Al Jabal Al Gharbi","5% (1%-8%)",NA,0.0131509049084257,0.0805113511665704,NA,NA,2.17788697045384e-20
+"35","request_1","mantika_label","no","Aljfara","98% (95%-101%)",NA,0.951277560340285,1.00529618362797,NA,NA,2.17788697045384e-20
+"36","request_1","mantika_label","yes","Aljfara","2% (-1%-5%)",NA,-0.00529618362797156,0.0487224396597152,NA,NA,2.17788697045384e-20
+"37","request_1","mantika_label","no","Aljufra","28% (20%-35%)",NA,0.195678450714714,0.354776345531418,NA,NA,2.17788697045384e-20
+"38","request_1","mantika_label","yes","Aljufra","72% (65%-80%)",NA,0.645223654468583,0.804321549285286,NA,NA,2.17788697045384e-20
+"39","request_1","mantika_label","no","Alkufra","99% (97%-100%)",NA,0.971000148218231,1.00204430577055,NA,NA,2.17788697045384e-20
+"40","request_1","mantika_label","yes","Alkufra","1% (0%-3%)",NA,-0.00204430577054915,0.0289998517817689,NA,NA,2.17788697045384e-20
+"41","request_1","mantika_label","no","Azzawya","100% (100%-100%)",NA,1,1,NA,NA,2.17788697045384e-20
+"42","request_1","mantika_label","no","Benghazi","93% (89%-96%)",NA,0.887707414395467,0.962618634582975,NA,NA,2.17788697045384e-20
+"43","request_1","mantika_label","yes","Benghazi","7% (4%-11%)",NA,0.0373813654170249,0.112292585604533,NA,NA,2.17788697045384e-20
+"44","request_1","mantika_label","no","Derna","99% (97%-100%)",NA,0.968786026480118,1.00214163144073,NA,NA,2.17788697045384e-20
+"45","request_1","mantika_label","yes","Derna","1% (0%-3%)",NA,-0.00214163144072788,0.0312139735198824,NA,NA,2.17788697045384e-20
+"46","request_1","mantika_label","no","Ejdabia","96% (93%-100%)",NA,0.933418195992154,0.995506450948724,NA,NA,2.17788697045384e-20
+"47","request_1","mantika_label","yes","Ejdabia","4% (0%-7%)",NA,0.00449354905127573,0.0665818040078459,NA,NA,2.17788697045384e-20
+"48","request_1","mantika_label","no","Ghat","72% (66%-78%)",NA,0.659575222573695,0.779867665574119,NA,NA,2.17788697045384e-20
+"49","request_1","mantika_label","yes","Ghat","28% (22%-34%)",NA,0.220132334425881,0.340424777426305,NA,NA,2.17788697045384e-20
+"50","request_1","mantika_label","no","Misrata","96% (93%-99%)",NA,0.93226224961124,0.993368780841876,NA,NA,2.17788697045384e-20
+"51","request_1","mantika_label","yes","Misrata","4% (1%-7%)",NA,0.0066312191581235,0.0677377503887598,NA,NA,2.17788697045384e-20
+"52","request_1","mantika_label","no","Murzuq","94% (89%-98%)",NA,0.892387201902672,0.979675848715232,NA,NA,2.17788697045384e-20
+"53","request_1","mantika_label","yes","Murzuq","6% (2%-11%)",NA,0.0203241512847684,0.107612798097328,NA,NA,2.17788697045384e-20
+"54","request_1","mantika_label","no","Sebha","100% (100%-100%)",NA,0.999153147375395,1.00013479341985,NA,NA,2.17788697045384e-20
+"55","request_1","mantika_label","yes","Sebha","0%",NA,-0.000134793419848773,0.000846852624604735,NA,NA,2.17788697045384e-20
+"56","request_1","mantika_label","no","Sirt","90% (86%-94%)",NA,0.859774900662358,0.937567709942065,NA,NA,2.17788697045384e-20
+"57","request_1","mantika_label","yes","Sirt","10% (6%-14%)",NA,0.0624322900579352,0.140225099337642,NA,NA,2.17788697045384e-20
+"58","request_1","mantika_label","no","Tripoli","94% (90%-98%)",NA,0.904135878075173,0.980324875333275,NA,NA,2.17788697045384e-20
+"59","request_1","mantika_label","yes","Tripoli","6% (2%-10%)",NA,0.019675124666725,0.0958641219248271,NA,NA,2.17788697045384e-20
+"60","request_1","mantika_label","no","Ubari","91% (88%-95%)",NA,0.880040985611637,0.948899446161839,NA,NA,2.17788697045384e-20
+"61","request_1","mantika_label","yes","Ubari","9% (5%-12%)",NA,0.0511005538381605,0.119959014388363,NA,NA,2.17788697045384e-20
+"62","request_1","mantika_label","no","Wadi Ashshati","98% (96%-100%)",NA,0.957315045866608,1.00482099618834,NA,NA,2.17788697045384e-20
+"63","request_1","mantika_label","yes","Wadi Ashshati","2% (0%-4%)",NA,-0.00482099618834465,0.0426849541333916,NA,NA,2.17788697045384e-20
+"64","request_1","mantika_label","no","Zwara","92% (87%-97%)",NA,0.871169468829073,0.969403385085874,NA,NA,2.17788697045384e-20
+"65","request_1","mantika_label","yes","Zwara","8% (3%-13%)",NA,0.0305966149141257,0.128830531170927,NA,NA,2.17788697045384e-20
+"66","request_2","mantika_label","no","Al Jabal Al Gharbi","100% (100%-100%)",NA,1,1,NA,NA,0.15568625766834
+"67","request_2","mantika_label","no","Aljfara","100% (100%-100%)",NA,0.997931669151998,1.00033005211166,NA,NA,0.15568625766834
+"68","request_2","mantika_label","yes","Aljfara","0%",NA,-0.000330052111664098,0.00206833084800231,NA,NA,0.15568625766834
+"69","request_2","mantika_label","no","Aljufra","100% (100%-100%)",NA,1,1,NA,NA,0.15568625766834
+"70","request_2","mantika_label","no","Alkufra","100% (100%-100%)",NA,1,1,NA,NA,0.15568625766834
+"71","request_2","mantika_label","no","Azzawya","100% (100%-100%)",NA,0.999922768863895,1.00002505565295,NA,NA,0.15568625766834
+"72","request_2","mantika_label","yes","Azzawya","0%",NA,-2.50556529543154e-05,7.72311361051518e-05,NA,NA,0.15568625766834
+"73","request_2","mantika_label","no","Benghazi","99% (98%-101%)",NA,0.981183711568766,1.00571084914828,NA,NA,0.15568625766834
+"74","request_2","mantika_label","yes","Benghazi","1% (-1%-2%)",NA,-0.00571084914828431,0.0188162884312336,NA,NA,0.15568625766834
+"75","request_2","mantika_label","no","Derna","99% (98%-101%)",NA,0.976786815469708,1.00753091984512,NA,NA,0.15568625766834
+"76","request_2","mantika_label","yes","Derna","1% (-1%-2%)",NA,-0.00753091984512048,0.0232131845302924,NA,NA,0.15568625766834
+"77","request_2","mantika_label","no","Ejdabia","97% (94%-100%)",NA,0.935685269862965,0.997596064454915,NA,NA,0.15568625766834
+"78","request_2","mantika_label","yes","Ejdabia","3% (0%-6%)",NA,0.00240393554508523,0.0643147301370347,NA,NA,0.15568625766834
+"79","request_2","mantika_label","no","Ghat","100% (100%-100%)",NA,1,1,NA,NA,0.15568625766834
+"80","request_2","mantika_label","no","Misrata","100% (100%-100%)",NA,0.996152458972494,1.00022116174743,NA,NA,0.15568625766834
+"81","request_2","mantika_label","yes","Misrata","0%",NA,-0.000221161747425495,0.00384754102750636,NA,NA,0.15568625766834
+"82","request_2","mantika_label","no","Murzuq","99% (97%-101%)",NA,0.973106274102074,1.0072839619848,NA,NA,0.15568625766834
+"83","request_2","mantika_label","yes","Murzuq","1% (-1%-3%)",NA,-0.00728396198480439,0.0268937258979261,NA,NA,0.15568625766834
+"84","request_2","mantika_label","no","Sebha","100% (100%-100%)",NA,1,1,NA,NA,0.15568625766834
+"85","request_2","mantika_label","no","Sirt","100% (100%-100%)",NA,1,1,NA,NA,0.15568625766834
+"86","request_2","mantika_label","no","Tripoli","99% (98%-101%)",NA,0.97565135886424,1.00736369657303,NA,NA,0.15568625766834
+"87","request_2","mantika_label","yes","Tripoli","1% (-1%-2%)",NA,-0.00736369657303152,0.0243486411357595,NA,NA,0.15568625766834
+"88","request_2","mantika_label","no","Ubari","99% (98%-101%)",NA,0.981366110650835,1.00565985253245,NA,NA,0.15568625766834
+"89","request_2","mantika_label","yes","Ubari","1% (-1%-2%)",NA,-0.00565985253245109,0.0186338893491653,NA,NA,0.15568625766834
+"90","request_2","mantika_label","no","Wadi Ashshati","100% (100%-100%)",NA,1,1,NA,NA,0.15568625766834
+"91","request_2","mantika_label","no","Zwara","99% (97%-101%)",NA,0.974334957187237,1.0080612948689,NA,NA,0.15568625766834
+"92","request_2","mantika_label","yes","Zwara","1% (-1%-3%)",NA,-0.00806129486890311,0.0256650428127634,NA,NA,0.15568625766834
+"93","request_3","mantika_label","no","Al Jabal Al Gharbi","44% (36%-52%)",NA,0.360512687779959,0.522063001941879,NA,NA,1.04940107595548e-40
+"94","request_3","mantika_label","yes","Al Jabal Al Gharbi","56% (48%-64%)",NA,0.477936998058121,0.639487312220041,NA,NA,1.04940107595548e-40
+"95","request_3","mantika_label","no","Aljfara","58% (48%-67%)",NA,0.48261435237965,0.670123000380979,NA,NA,1.04940107595548e-40
+"96","request_3","mantika_label","yes","Aljfara","42% (33%-52%)",NA,0.32987699961902,0.51738564762035,NA,NA,1.04940107595548e-40
+"97","request_3","mantika_label","no","Aljufra","11% (5%-16%)",NA,0.0511713453185404,0.160905081220267,NA,NA,1.04940107595548e-40
+"98","request_3","mantika_label","yes","Aljufra","89% (84%-95%)",NA,0.839094918779733,0.94882865468146,NA,NA,1.04940107595548e-40
+"99","request_3","mantika_label","no","Alkufra","51% (43%-59%)",NA,0.427524250207715,0.585676864133613,NA,NA,1.04940107595548e-40
+"100","request_3","mantika_label","yes","Alkufra","49% (41%-57%)",NA,0.414323135866387,0.572475749792285,NA,NA,1.04940107595548e-40
+"101","request_3","mantika_label","no","Azzawya","34% (26%-42%)",NA,0.25559508364155,0.420818664709121,NA,NA,1.04940107595548e-40
+"102","request_3","mantika_label","yes","Azzawya","66% (58%-74%)",NA,0.579181335290879,0.74440491635845,NA,NA,1.04940107595548e-40
+"103","request_3","mantika_label","no","Benghazi","78% (73%-84%)",NA,0.727805493763653,0.841337946869771,NA,NA,1.04940107595548e-40
+"104","request_3","mantika_label","yes","Benghazi","22% (16%-27%)",NA,0.158662053130229,0.272194506236347,NA,NA,1.04940107595548e-40
+"105","request_3","mantika_label","no","Derna","83% (77%-89%)",NA,0.766104194330442,0.886029776814183,NA,NA,1.04940107595548e-40
+"106","request_3","mantika_label","yes","Derna","17% (11%-23%)",NA,0.113970223185817,0.233895805669558,NA,NA,1.04940107595548e-40
+"107","request_3","mantika_label","no","Ejdabia","87% (82%-93%)",NA,0.81844701704257,0.929289713279526,NA,NA,1.04940107595548e-40
+"108","request_3","mantika_label","yes","Ejdabia","13% (7%-18%)",NA,0.0707102867204742,0.18155298295743,NA,NA,1.04940107595548e-40
+"109","request_3","mantika_label","no","Ghat","63% (56%-69%)",NA,0.561378089892789,0.693535649555124,NA,NA,1.04940107595548e-40
+"110","request_3","mantika_label","yes","Ghat","37% (31%-44%)",NA,0.306464350444876,0.438621910107211,NA,NA,1.04940107595548e-40
+"111","request_3","mantika_label","no","Misrata","86% (80%-92%)",NA,0.804629152907594,0.916880607717598,NA,NA,1.04940107595548e-40
+"112","request_3","mantika_label","yes","Misrata","14% (8%-20%)",NA,0.0831193922824015,0.195370847092406,NA,NA,1.04940107595548e-40
+"113","request_3","mantika_label","no","Murzuq","19% (12%-26%)",NA,0.12394931400954,0.261609936856598,NA,NA,1.04940107595548e-40
+"114","request_3","mantika_label","yes","Murzuq","81% (74%-88%)",NA,0.738390063143401,0.87605068599046,NA,NA,1.04940107595548e-40
+"115","request_3","mantika_label","no","Sebha","70% (62%-77%)",NA,0.619018281176492,0.772891053144591,NA,NA,1.04940107595548e-40
+"116","request_3","mantika_label","yes","Sebha","30% (23%-38%)",NA,0.227108946855409,0.380981718823508,NA,NA,1.04940107595548e-40
+"117","request_3","mantika_label","no","Sirt","89% (85%-93%)",NA,0.849431066134986,0.929541810579363,NA,NA,1.04940107595548e-40
+"118","request_3","mantika_label","yes","Sirt","11% (7%-15%)",NA,0.0704581894206374,0.150568933865014,NA,NA,1.04940107595548e-40
+"119","request_3","mantika_label","no","Tripoli","85% (79%-91%)",NA,0.78943594007721,0.910545792766407,NA,NA,1.04940107595548e-40
+"120","request_3","mantika_label","yes","Tripoli","15% (9%-21%)",NA,0.0894542072335929,0.21056405992279,NA,NA,1.04940107595548e-40
+"121","request_3","mantika_label","no","Ubari","59% (52%-66%)",NA,0.522023310415267,0.656780095490912,NA,NA,1.04940107595548e-40
+"122","request_3","mantika_label","yes","Ubari","41% (34%-48%)",NA,0.343219904509088,0.477976689584733,NA,NA,1.04940107595548e-40
+"123","request_3","mantika_label","no","Wadi Ashshati","81% (74%-88%)",NA,0.740638347444141,0.880647382125784,NA,NA,1.04940107595548e-40
+"124","request_3","mantika_label","yes","Wadi Ashshati","19% (12%-26%)",NA,0.119352617874216,0.259361652555859,NA,NA,1.04940107595548e-40
+"125","request_3","mantika_label","no","Zwara","59% (51%-68%)",NA,0.506657181463841,0.681449838746402,NA,NA,1.04940107595548e-40
+"126","request_3","mantika_label","yes","Zwara","41% (32%-49%)",NA,0.318550161253598,0.493342818536159,NA,NA,1.04940107595548e-40
+"127","request_4","mantika_label","no","Al Jabal Al Gharbi","74% (67%-81%)",NA,0.668490419527338,0.809649823010811,NA,NA,9.98870695553054e-09
+"128","request_4","mantika_label","yes","Al Jabal Al Gharbi","26% (19%-33%)",NA,0.190350176989189,0.331509580472663,NA,NA,9.98870695553054e-09
+"129","request_4","mantika_label","no","Aljfara","74% (66%-82%)",NA,0.656678743899911,0.823872451214371,NA,NA,9.98870695553054e-09
+"130","request_4","mantika_label","yes","Aljfara","26% (18%-34%)",NA,0.176127548785629,0.343321256100089,NA,NA,9.98870695553054e-09
+"131","request_4","mantika_label","no","Aljufra","89% (84%-95%)",NA,0.839094908109173,0.948828665352019,NA,NA,9.98870695553054e-09
+"132","request_4","mantika_label","yes","Aljufra","11% (5%-16%)",NA,0.051171334647981,0.160905091890827,NA,NA,9.98870695553054e-09
+"133","request_4","mantika_label","no","Alkufra","68% (61%-76%)",NA,0.609284367487993,0.757946204690408,NA,NA,9.98870695553054e-09
+"134","request_4","mantika_label","yes","Alkufra","32% (24%-39%)",NA,0.242053795309592,0.390715632512007,NA,NA,9.98870695553054e-09
+"135","request_4","mantika_label","no","Azzawya","76% (68%-83%)",NA,0.681054204683464,0.831316139162835,NA,NA,9.98870695553054e-09
+"136","request_4","mantika_label","yes","Azzawya","24% (17%-32%)",NA,0.168683860837165,0.318945795316536,NA,NA,9.98870695553054e-09
+"137","request_4","mantika_label","no","Benghazi","70% (64%-77%)",NA,0.640285858298028,0.767531024569303,NA,NA,9.98870695553054e-09
+"138","request_4","mantika_label","yes","Benghazi","30% (23%-36%)",NA,0.232468975430697,0.359714141701972,NA,NA,9.98870695553054e-09
+"139","request_4","mantika_label","no","Derna","44% (36%-52%)",NA,0.36056546770622,0.519939987243058,NA,NA,9.98870695553054e-09
+"140","request_4","mantika_label","yes","Derna","56% (48%-64%)",NA,0.480060012756942,0.63943453229378,NA,NA,9.98870695553054e-09
+"141","request_4","mantika_label","no","Ejdabia","73% (65%-80%)",NA,0.652422866614736,0.801214084754146,NA,NA,9.98870695553054e-09
+"142","request_4","mantika_label","yes","Ejdabia","27% (20%-35%)",NA,0.198785915245854,0.347577133385264,NA,NA,9.98870695553054e-09
+"143","request_4","mantika_label","no","Ghat","65% (58%-71%)",NA,0.583118502332061,0.71353342733378,NA,NA,9.98870695553054e-09
+"144","request_4","mantika_label","yes","Ghat","35% (29%-42%)",NA,0.28646657266622,0.416881497667939,NA,NA,9.98870695553054e-09
+"145","request_4","mantika_label","no","Misrata","85% (79%-91%)",NA,0.791755869589468,0.909874547202085,NA,NA,9.98870695553054e-09
+"146","request_4","mantika_label","yes","Misrata","15% (9%-21%)",NA,0.0901254527979153,0.208244130410532,NA,NA,9.98870695553054e-09
+"147","request_4","mantika_label","no","Murzuq","90% (85%-95%)",NA,0.854637014058353,0.95353032840219,NA,NA,9.98870695553054e-09
+"148","request_4","mantika_label","yes","Murzuq","10% (5%-15%)",NA,0.0464696715978106,0.145362985941647,NA,NA,9.98870695553054e-09
+"149","request_4","mantika_label","no","Sebha","62% (54%-70%)",NA,0.54352816589898,0.701025135333028,NA,NA,9.98870695553054e-09
+"150","request_4","mantika_label","yes","Sebha","38% (30%-46%)",NA,0.298974864666972,0.45647183410102,NA,NA,9.98870695553054e-09
+"151","request_4","mantika_label","no","Sirt","59% (53%-65%)",NA,0.529252892342329,0.651273842617833,NA,NA,9.98870695553054e-09
+"152","request_4","mantika_label","yes","Sirt","41% (35%-47%)",NA,0.348726157382167,0.470747107657671,NA,NA,9.98870695553054e-09
+"153","request_4","mantika_label","no","Tripoli","64% (56%-72%)",NA,0.562021098809113,0.723770728930771,NA,NA,9.98870695553054e-09
+"154","request_4","mantika_label","yes","Tripoli","36% (28%-44%)",NA,0.276229271069229,0.437978901190887,NA,NA,9.98870695553054e-09
+"155","request_4","mantika_label","no","Ubari","62% (56%-69%)",NA,0.556918686319653,0.692454168877511,NA,NA,9.98870695553054e-09
+"156","request_4","mantika_label","yes","Ubari","38% (31%-44%)",NA,0.307545831122489,0.443081313680347,NA,NA,9.98870695553054e-09
+"157","request_4","mantika_label","no","Wadi Ashshati","84% (77%-90%)",NA,0.769430428671753,0.901167101068465,NA,NA,9.98870695553054e-09
+"158","request_4","mantika_label","yes","Wadi Ashshati","16% (10%-23%)",NA,0.098832898931535,0.230569571328247,NA,NA,9.98870695553054e-09
+"159","request_4","mantika_label","no","Zwara","71% (63%-79%)",NA,0.630109116093411,0.791053529003537,NA,NA,9.98870695553054e-09
+"160","request_4","mantika_label","yes","Zwara","29% (21%-37%)",NA,0.208946470996463,0.369890883906589,NA,NA,9.98870695553054e-09
+"161","request_1","strata.names","no","Al Jabal Al Gharbi_idp","91% (85%-96%)",NA,0.852472215144095,0.96234259967072,NA,NA,2.79085512897662e-19
+"162","request_1","strata.names","yes","Al Jabal Al Gharbi_idp","9% (4%-15%)",NA,0.0376574003292803,0.147527784855905,NA,NA,2.79085512897662e-19
+"163","request_1","strata.names","no","Al Jabal Al Gharbi_non_displaced","96% (92%-99%)",NA,0.916928890482285,0.993785395232001,NA,NA,2.79085512897662e-19
+"164","request_1","strata.names","yes","Al Jabal Al Gharbi_non_displaced","4% (1%-8%)",NA,0.00621460476799889,0.0830711095177154,NA,NA,2.79085512897662e-19
+"165","request_1","strata.names","no","Al Jabal Al Gharbi_returnee","96% (93%-100%)",NA,0.927171102281977,0.998754823643949,NA,NA,2.79085512897662e-19
+"166","request_1","strata.names","yes","Al Jabal Al Gharbi_returnee","4% (0%-7%)",NA,0.00124517635605139,0.0728288977180227,NA,NA,2.79085512897662e-19
+"167","request_1","strata.names","no","Aljfara_idp","95% (91%-99%)",NA,0.913880038747429,0.993527368659978,NA,NA,2.79085512897662e-19
+"168","request_1","strata.names","yes","Aljfara_idp","5% (1%-9%)",NA,0.00647263134002142,0.0861199612525712,NA,NA,2.79085512897662e-19
+"169","request_1","strata.names","no","Aljfara_non_displaced","98% (95%-101%)",NA,0.95043907995259,1.00789425338074,NA,NA,2.79085512897662e-19
+"170","request_1","strata.names","yes","Aljfara_non_displaced","2% (-1%-5%)",NA,-0.00789425338074347,0.0495609200474101,NA,NA,2.79085512897662e-19
+"171","request_1","strata.names","no","Aljfara_returnee","100% (100%-100%)",NA,1,1,NA,NA,2.79085512897662e-19
+"172","request_1","strata.names","no","Aljufra_idp","38% (27%-49%)",NA,0.267661304996075,0.485585448250678,NA,NA,2.79085512897662e-19
+"173","request_1","strata.names","yes","Aljufra_idp","62% (51%-73%)",NA,0.514414551749322,0.732338695003924,NA,NA,2.79085512897662e-19
+"174","request_1","strata.names","no","Aljufra_non_displaced","27% (19%-35%)",NA,0.189870285090801,0.353989364032006,NA,NA,2.79085512897662e-19
+"175","request_1","strata.names","yes","Aljufra_non_displaced","73% (65%-81%)",NA,0.646010635967994,0.810129714909199,NA,NA,2.79085512897662e-19
+"176","request_1","strata.names","no","Alkufra_idp","95% (91%-99%)",NA,0.909739222757035,0.993173398602188,NA,NA,2.79085512897662e-19
+"177","request_1","strata.names","yes","Alkufra_idp","5% (1%-9%)",NA,0.00682660139781168,0.090260777242965,NA,NA,2.79085512897662e-19
+"178","request_1","strata.names","no","Alkufra_non_displaced","99% (97%-101%)",NA,0.974031239941566,1.00842490040931,NA,NA,2.79085512897662e-19
+"179","request_1","strata.names","yes","Alkufra_non_displaced","1% (-1%-3%)",NA,-0.00842490040931162,0.0259687600584344,NA,NA,2.79085512897662e-19
+"180","request_1","strata.names","no","Alkufra_returnee","100% (100%-100%)",NA,1,1,NA,NA,2.79085512897662e-19
+"181","request_1","strata.names","no","Azzawya_idp","100% (100%-100%)",NA,1,1,NA,NA,2.79085512897662e-19
+"182","request_1","strata.names","no","Azzawya_non_displaced","100% (100%-100%)",NA,1,1,NA,NA,2.79085512897662e-19
+"183","request_1","strata.names","no","Azzawya_returnee","100% (100%-100%)",NA,1,1,NA,NA,2.79085512897662e-19
+"184","request_1","strata.names","no","Benghazi_idp","96% (92%-99%)",NA,0.918373790458682,0.993906911295704,NA,NA,2.79085512897662e-19
+"185","request_1","strata.names","yes","Benghazi_idp","4% (1%-8%)",NA,0.00609308870429554,0.0816262095413185,NA,NA,2.79085512897662e-19
+"186","request_1","strata.names","no","Benghazi_non_displaced","92% (87%-97%)",NA,0.871321872704701,0.970783390453194,NA,NA,2.79085512897662e-19
+"187","request_1","strata.names","yes","Benghazi_non_displaced","8% (3%-13%)",NA,0.0292166095468062,0.128678127295299,NA,NA,2.79085512897662e-19
+"188","request_1","strata.names","no","Benghazi_returnee","93% (89%-98%)",NA,0.887580046648381,0.977966171839014,NA,NA,2.79085512897662e-19
+"189","request_1","strata.names","yes","Benghazi_returnee","7% (2%-11%)",NA,0.0220338281609857,0.112419953351619,NA,NA,2.79085512897662e-19
+"190","request_1","strata.names","no","Derna_idp","100% (100%-100%)",NA,1,1,NA,NA,2.79085512897662e-19
+"191","request_1","strata.names","no","Derna_non_displaced","99% (97%-101%)",NA,0.971534243782101,1.00923498698713,NA,NA,2.79085512897662e-19
+"192","request_1","strata.names","yes","Derna_non_displaced","1% (-1%-3%)",NA,-0.00923498698713003,0.0284657562178993,NA,NA,2.79085512897662e-19
+"193","request_1","strata.names","no","Derna_returnee","96% (93%-100%)",NA,0.926495374309972,0.998738270549841,NA,NA,2.79085512897662e-19
+"194","request_1","strata.names","yes","Derna_returnee","4% (0%-7%)",NA,0.00126172945015852,0.0735046256900284,NA,NA,2.79085512897662e-19
+"195","request_1","strata.names","no","Ejdabia_idp","95% (92%-99%)",NA,0.916187091360206,0.993722818549704,NA,NA,2.79085512897662e-19
+"196","request_1","strata.names","yes","Ejdabia_idp","5% (1%-8%)",NA,0.0062771814502958,0.0838129086397943,NA,NA,2.79085512897662e-19
+"197","request_1","strata.names","no","Ejdabia_non_displaced","97% (93%-100%)",NA,0.931574409993658,0.998860372615037,NA,NA,2.79085512897662e-19
+"198","request_1","strata.names","yes","Ejdabia_non_displaced","3% (0%-7%)",NA,0.00113962738496248,0.0684255900063419,NA,NA,2.79085512897662e-19
+"199","request_1","strata.names","no","Ejdabia_returnee","98% (95%-102%)",NA,0.950659355888975,1.01600731077769,NA,NA,2.79085512897662e-19
+"200","request_1","strata.names","yes","Ejdabia_returnee","2% (-2%-5%)",NA,-0.016007310777692,0.0493406441110254,NA,NA,2.79085512897662e-19
+"201","request_1","strata.names","no","Ghat_idp","64% (55%-73%)",NA,0.546034816380507,0.726692456346766,NA,NA,2.79085512897662e-19
+"202","request_1","strata.names","yes","Ghat_idp","36% (27%-45%)",NA,0.273307543653234,0.453965183619493,NA,NA,2.79085512897662e-19
+"203","request_1","strata.names","no","Ghat_non_displaced","75% (67%-84%)",NA,0.67373486978194,0.83535603930897,NA,NA,2.79085512897662e-19
+"204","request_1","strata.names","yes","Ghat_non_displaced","25% (16%-33%)",NA,0.16464396069103,0.32626513021806,NA,NA,2.79085512897662e-19
+"205","request_1","strata.names","no","Ghat_returnee","78% (68%-87%)",NA,0.681983690535477,0.870647888411892,NA,NA,2.79085512897662e-19
+"206","request_1","strata.names","yes","Ghat_returnee","22% (13%-32%)",NA,0.129352111588108,0.318016309464523,NA,NA,2.79085512897662e-19
+"207","request_1","strata.names","no","Misrata_idp","92% (87%-97%)",NA,0.873508091978201,0.971319494228695,NA,NA,2.79085512897662e-19
+"208","request_1","strata.names","yes","Misrata_idp","8% (3%-13%)",NA,0.0286805057713046,0.126491908021799,NA,NA,2.79085512897662e-19
+"209","request_1","strata.names","no","Misrata_non_displaced","97% (93%-100%)",NA,0.932160366733593,0.998874116025028,NA,NA,2.79085512897662e-19
+"210","request_1","strata.names","yes","Misrata_non_displaced","3% (0%-7%)",NA,0.00112588397497219,0.0678396332664071,NA,NA,2.79085512897662e-19
+"211","request_1","strata.names","no","Misrata_returnee","98% (96%-101%)",NA,0.956333820904002,1.00696893138958,NA,NA,2.79085512897662e-19
+"212","request_1","strata.names","yes","Misrata_returnee","2% (-1%-4%)",NA,-0.00696893138957624,0.0436661790959983,NA,NA,2.79085512897662e-19
+"213","request_1","strata.names","no","Murzuq_idp","97% (93%-100%)",NA,0.926944096590547,1.00409038616807,NA,NA,2.79085512897662e-19
+"214","request_1","strata.names","yes","Murzuq_idp","3% (0%-7%)",NA,-0.00409038616807394,0.0730559034094533,NA,NA,2.79085512897662e-19
+"215","request_1","strata.names","no","Murzuq_non_displaced","93% (88%-98%)",NA,0.883184783975245,0.980892885927668,NA,NA,2.79085512897662e-19
+"216","request_1","strata.names","yes","Murzuq_non_displaced","7% (2%-12%)",NA,0.0191071140723322,0.116815216024755,NA,NA,2.79085512897662e-19
+"217","request_1","strata.names","no","Murzuq_returnee","100% (100%-100%)",NA,1,1,NA,NA,2.79085512897662e-19
+"218","request_1","strata.names","no","Sebha_idp","100% (100%-100%)",NA,1,1,NA,NA,2.79085512897662e-19
+"219","request_1","strata.names","no","Sebha_non_displaced","100% (100%-100%)",NA,1,1,NA,NA,2.79085512897662e-19
+"220","request_1","strata.names","no","Sebha_returnee","98% (95%-101%)",NA,0.94829126695545,1.00823047217498,NA,NA,2.79085512897662e-19
+"221","request_1","strata.names","yes","Sebha_returnee","2% (-1%-5%)",NA,-0.00823047217498479,0.05170873304455,NA,NA,2.79085512897662e-19
+"222","request_1","strata.names","no","Sirt_idp","97% (94%-100%)",NA,0.939970896118557,1.00342533029654,NA,NA,2.79085512897662e-19
+"223","request_1","strata.names","yes","Sirt_idp","3% (0%-6%)",NA,-0.00342533029653747,0.0600291038814431,NA,NA,2.79085512897662e-19
+"224","request_1","strata.names","no","Sirt_non_displaced","87% (81%-93%)",NA,0.808443453894874,0.934675812160172,NA,NA,2.79085512897662e-19
+"225","request_1","strata.names","yes","Sirt_non_displaced","13% (7%-19%)",NA,0.0653241878398277,0.191556546105126,NA,NA,2.79085512897662e-19
+"226","request_1","strata.names","no","Sirt_returnee","92% (87%-97%)",NA,0.873508091978201,0.971319494228695,NA,NA,2.79085512897662e-19
+"227","request_1","strata.names","yes","Sirt_returnee","8% (3%-13%)",NA,0.0286805057713046,0.126491908021799,NA,NA,2.79085512897662e-19
+"228","request_1","strata.names","no","Tripoli_idp","88% (81%-94%)",NA,0.808480268791799,0.941519731208201,NA,NA,2.79085512897662e-19
+"229","request_1","strata.names","yes","Tripoli_idp","12% (6%-19%)",NA,0.0584802687917993,0.191519731208201,NA,NA,2.79085512897662e-19
+"230","request_1","strata.names","no","Tripoli_non_displaced","95% (90%-99%)",NA,0.904529702323931,0.988327440533212,NA,NA,2.79085512897662e-19
+"231","request_1","strata.names","yes","Tripoli_non_displaced","5% (1%-10%)",NA,0.0116725594667882,0.0954702976760689,NA,NA,2.79085512897662e-19
+"232","request_1","strata.names","no","Tripoli_returnee","92% (87%-97%)",NA,0.873508091978201,0.971319494228695,NA,NA,2.79085512897662e-19
+"233","request_1","strata.names","yes","Tripoli_returnee","8% (3%-13%)",NA,0.0286805057713046,0.126491908021799,NA,NA,2.79085512897662e-19
+"234","request_1","strata.names","no","Ubari_idp","97% (94%-100%)",NA,0.937629493710662,1.00354697687757,NA,NA,2.79085512897662e-19
+"235","request_1","strata.names","yes","Ubari_idp","3% (0%-6%)",NA,-0.00354697687757317,0.0623705062893379,NA,NA,2.79085512897662e-19
+"236","request_1","strata.names","no","Ubari_non_displaced","95% (91%-99%)",NA,0.906994913308295,0.988657260604749,NA,NA,2.79085512897662e-19
+"237","request_1","strata.names","yes","Ubari_non_displaced","5% (1%-9%)",NA,0.011342739395251,0.0930050866917055,NA,NA,2.79085512897662e-19
+"238","request_1","strata.names","no","Ubari_returnee","82% (74%-89%)",NA,0.74429700334667,0.887281944021751,NA,NA,2.79085512897662e-19
+"239","request_1","strata.names","yes","Ubari_returnee","18% (11%-26%)",NA,0.112718055978249,0.25570299665333,NA,NA,2.79085512897662e-19
+"240","request_1","strata.names","no","Wadi Ashshati_idp","93% (87%-98%)",NA,0.87462396525341,0.984199564158355,NA,NA,2.79085512897662e-19
+"241","request_1","strata.names","yes","Wadi Ashshati_idp","7% (2%-13%)",NA,0.0158004358416455,0.12537603474659,NA,NA,2.79085512897662e-19
+"242","request_1","strata.names","no","Wadi Ashshati_non_displaced","98% (96%-101%)",NA,0.957875451038115,1.00672631887339,NA,NA,2.79085512897662e-19
+"243","request_1","strata.names","yes","Wadi Ashshati_non_displaced","2% (-1%-4%)",NA,-0.00672631887338904,0.0421245489618846,NA,NA,2.79085512897662e-19
+"244","request_1","strata.names","no","Wadi Ashshati_returnee","100% (100%-100%)",NA,1,1,NA,NA,2.79085512897662e-19
+"245","request_1","strata.names","no","Zwara_idp","96% (92%-100%)",NA,0.922919534397263,0.998649093053717,NA,NA,2.79085512897662e-19
+"246","request_1","strata.names","yes","Zwara_idp","4% (0%-8%)",NA,0.00135090694628241,0.0770804656027372,NA,NA,2.79085512897662e-19
+"247","request_1","strata.names","no","Zwara_non_displaced","92% (86%-97%)",NA,0.864285343698618,0.969047989634715,NA,NA,2.79085512897662e-19
+"248","request_1","strata.names","yes","Zwara_non_displaced","8% (3%-14%)",NA,0.0309520103652852,0.135714656301382,NA,NA,2.79085512897662e-19
+"249","request_1","strata.names","no","Zwara_returnee","98% (96%-101%)",NA,0.95510146172507,1.00716268921833,NA,NA,2.79085512897662e-19
+"250","request_1","strata.names","yes","Zwara_returnee","2% (-1%-4%)",NA,-0.00716268921832625,0.04489853827493,NA,NA,2.79085512897662e-19
+"251","request_2","strata.names","no","Al Jabal Al Gharbi_idp","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"252","request_2","strata.names","no","Al Jabal Al Gharbi_non_displaced","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"253","request_2","strata.names","no","Al Jabal Al Gharbi_returnee","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"254","request_2","strata.names","no","Aljfara_idp","98% (96%-101%)",NA,0.95593063147992,1.00703233148304,NA,NA,0.103717282022442
+"255","request_2","strata.names","yes","Aljfara_idp","2% (-1%-4%)",NA,-0.0070323314830431,0.0440693685200801,NA,NA,0.103717282022442
+"256","request_2","strata.names","no","Aljfara_non_displaced","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"257","request_2","strata.names","no","Aljfara_returnee","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"258","request_2","strata.names","no","Aljufra_idp","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"259","request_2","strata.names","no","Aljufra_non_displaced","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"260","request_2","strata.names","no","Alkufra_idp","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"261","request_2","strata.names","no","Alkufra_non_displaced","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"262","request_2","strata.names","no","Alkufra_returnee","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"263","request_2","strata.names","no","Azzawya_idp","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"264","request_2","strata.names","no","Azzawya_non_displaced","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"265","request_2","strata.names","no","Azzawya_returnee","98% (95%-102%)",NA,0.948062494852073,1.01684978584968,NA,NA,0.103717282022442
+"266","request_2","strata.names","yes","Azzawya_returnee","2% (-2%-5%)",NA,-0.0168497858496819,0.0519375051479275,NA,NA,0.103717282022442
+"267","request_2","strata.names","no","Benghazi_idp","99% (97%-101%)",NA,0.974031247426036,1.00842489292484,NA,NA,0.103717282022442
+"268","request_2","strata.names","yes","Benghazi_idp","1% (-1%-3%)",NA,-0.00842489292484094,0.0259687525739637,NA,NA,0.103717282022442
+"269","request_2","strata.names","no","Benghazi_non_displaced","99% (97%-101%)",NA,0.97425706266581,1.00835163298636,NA,NA,0.103717282022442
+"270","request_2","strata.names","yes","Benghazi_non_displaced","1% (-1%-3%)",NA,-0.00835163298636404,0.0257429373341901,NA,NA,0.103717282022442
+"271","request_2","strata.names","no","Benghazi_returnee","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"272","request_2","strata.names","no","Derna_idp","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"273","request_2","strata.names","no","Derna_non_displaced","99% (97%-101%)",NA,0.971534251986232,1.009234978783,NA,NA,0.103717282022442
+"274","request_2","strata.names","yes","Derna_non_displaced","1% (-1%-3%)",NA,-0.00923497878299868,0.0284657480137679,NA,NA,0.103717282022442
+"275","request_2","strata.names","no","Derna_returnee","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"276","request_2","strata.names","no","Ejdabia_idp","98% (96%-101%)",NA,0.9571184975496,1.00684546641436,NA,NA,0.103717282022442
+"277","request_2","strata.names","yes","Ejdabia_idp","2% (-1%-4%)",NA,-0.00684546641436421,0.0428815024504002,NA,NA,0.103717282022442
+"278","request_2","strata.names","no","Ejdabia_non_displaced","97% (93%-100%)",NA,0.931574424635886,0.99886035797281,NA,NA,0.103717282022442
+"279","request_2","strata.names","yes","Ejdabia_non_displaced","3% (0%-7%)",NA,0.00113964202719036,0.068425575364114,NA,NA,0.103717282022442
+"280","request_2","strata.names","no","Ejdabia_returnee","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"281","request_2","strata.names","no","Ghat_idp","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"282","request_2","strata.names","no","Ghat_non_displaced","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"283","request_2","strata.names","no","Ghat_returnee","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"284","request_2","strata.names","no","Misrata_idp","97% (95%-100%)",NA,0.945121365573869,1.0031544964951,NA,NA,0.103717282022442
+"285","request_2","strata.names","yes","Misrata_idp","3% (0%-5%)",NA,-0.0031544964950964,0.0548786344261309,NA,NA,0.103717282022442
+"286","request_2","strata.names","no","Misrata_non_displaced","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"287","request_2","strata.names","no","Misrata_returnee","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"288","request_2","strata.names","no","Murzuq_idp","99% (97%-101%)",NA,0.965971979385841,1.01103951486703,NA,NA,0.103717282022442
+"289","request_2","strata.names","yes","Murzuq_idp","1% (-1%-3%)",NA,-0.0110395148670329,0.0340280206141593,NA,NA,0.103717282022442
+"290","request_2","strata.names","no","Murzuq_non_displaced","99% (97%-101%)",NA,0.971257885500662,1.00932463877118,NA,NA,0.103717282022442
+"291","request_2","strata.names","yes","Murzuq_non_displaced","1% (-1%-3%)",NA,-0.00932463877118314,0.0287421144993385,NA,NA,0.103717282022442
+"292","request_2","strata.names","no","Murzuq_returnee","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"293","request_2","strata.names","no","Sebha_idp","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"294","request_2","strata.names","no","Sebha_non_displaced","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"295","request_2","strata.names","no","Sebha_returnee","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"296","request_2","strata.names","no","Sirt_idp","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"297","request_2","strata.names","no","Sirt_non_displaced","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"298","request_2","strata.names","no","Sirt_returnee","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"299","request_2","strata.names","no","Tripoli_idp","99% (97%-101%)",NA,0.969480022748125,1.00990142055084,NA,NA,0.103717282022442
+"300","request_2","strata.names","yes","Tripoli_idp","1% (-1%-3%)",NA,-0.00990142055084396,0.0305199772518749,NA,NA,0.103717282022442
+"301","request_2","strata.names","no","Tripoli_non_displaced","99% (97%-101%)",NA,0.973567519701501,1.00857533744136,NA,NA,0.103717282022442
+"302","request_2","strata.names","yes","Tripoli_non_displaced","1% (-1%-3%)",NA,-0.00857533744135592,0.0264324802984988,NA,NA,0.103717282022442
+"303","request_2","strata.names","no","Tripoli_returnee","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"304","request_2","strata.names","no","Ubari_idp","99% (97%-101%)",NA,0.970976100064394,1.00941605679835,NA,NA,0.103717282022442
+"305","request_2","strata.names","yes","Ubari_idp","1% (-1%-3%)",NA,-0.00941605679835161,0.0290238999356065,NA,NA,0.103717282022442
+"306","request_2","strata.names","no","Ubari_non_displaced","99% (97%-101%)",NA,0.97425706266581,1.00835163298636,NA,NA,0.103717282022442
+"307","request_2","strata.names","yes","Ubari_non_displaced","1% (-1%-3%)",NA,-0.00835163298636406,0.0257429373341901,NA,NA,0.103717282022442
+"308","request_2","strata.names","no","Ubari_returnee","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"309","request_2","strata.names","no","Wadi Ashshati_idp","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"310","request_2","strata.names","no","Wadi Ashshati_non_displaced","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"311","request_2","strata.names","no","Wadi Ashshati_returnee","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"312","request_2","strata.names","no","Zwara_idp","99% (97%-101%)",NA,0.970976100064393,1.00941605679835,NA,NA,0.103717282022442
+"313","request_2","strata.names","yes","Zwara_idp","1% (-1%-3%)",NA,-0.00941605679835161,0.0290238999356065,NA,NA,0.103717282022442
+"314","request_2","strata.names","no","Zwara_non_displaced","99% (97%-101%)",NA,0.972840020243744,1.00881135590304,NA,NA,0.103717282022442
+"315","request_2","strata.names","yes","Zwara_non_displaced","1% (-1%-3%)",NA,-0.00881135590304462,0.0271599797562556,NA,NA,0.103717282022442
+"316","request_2","strata.names","no","Zwara_returnee","100% (100%-100%)",NA,1,1,NA,NA,0.103717282022442
+"317","request_3","strata.names","no","Al Jabal Al Gharbi_idp","54% (45%-64%)",NA,0.447186112192493,0.636926037340217,NA,NA,1.16865481914e-40
+"318","request_3","strata.names","yes","Al Jabal Al Gharbi_idp","46% (36%-55%)",NA,0.363073962659783,0.552813887807507,NA,NA,1.16865481914e-40
+"319","request_3","strata.names","no","Al Jabal Al Gharbi_non_displaced","44% (35%-53%)",NA,0.345191391249586,0.529808608750414,NA,NA,1.16865481914e-40
+"320","request_3","strata.names","yes","Al Jabal Al Gharbi_non_displaced","56% (47%-65%)",NA,0.470191391249586,0.654808608750414,NA,NA,1.16865481914e-40
+"321","request_3","strata.names","no","Al Jabal Al Gharbi_returnee","41% (31%-50%)",NA,0.314285023840544,0.500529790974271,NA,NA,1.16865481914e-40
+"322","request_3","strata.names","yes","Al Jabal Al Gharbi_returnee","59% (50%-69%)",NA,0.499470209025729,0.685714976159456,NA,NA,1.16865481914e-40
+"323","request_3","strata.names","no","Aljfara_idp","52% (42%-61%)",NA,0.42382212403817,0.613214912998867,NA,NA,1.16865481914e-40
+"324","request_3","strata.names","yes","Aljfara_idp","48% (39%-58%)",NA,0.386785087001133,0.57617787596183,NA,NA,1.16865481914e-40
+"325","request_3","strata.names","no","Aljfara_non_displaced","58% (48%-68%)",NA,0.479113658301512,0.678781078540593,NA,NA,1.16865481914e-40
+"326","request_3","strata.names","yes","Aljfara_non_displaced","42% (32%-52%)",NA,0.321218921459407,0.520886341698488,NA,NA,1.16865481914e-40
+"327","request_3","strata.names","no","Aljfara_returnee","60% (50%-69%)",NA,0.498783114136771,0.693136077782421,NA,NA,1.16865481914e-40
+"328","request_3","strata.names","yes","Aljfara_returnee","40% (31%-50%)",NA,0.306863922217579,0.501216885863229,NA,NA,1.16865481914e-40
+"329","request_3","strata.names","no","Aljufra_idp","13% (5%-21%)",NA,0.054275093066058,0.205465166674202,NA,NA,1.16865481914e-40
+"330","request_3","strata.names","yes","Aljufra_idp","87% (79%-95%)",NA,0.794534833325798,0.945724906933942,NA,NA,1.16865481914e-40
+"331","request_3","strata.names","no","Aljufra_non_displaced","11% (5%-16%)",NA,0.0486652942400242,0.161861021549449,NA,NA,1.16865481914e-40
+"332","request_3","strata.names","yes","Aljufra_non_displaced","89% (84%-95%)",NA,0.83813897845055,0.951334705759976,NA,NA,1.16865481914e-40
+"333","request_3","strata.names","no","Alkufra_idp","77% (68%-85%)",NA,0.684929583440984,0.849050999083287,NA,NA,1.16865481914e-40
+"334","request_3","strata.names","yes","Alkufra_idp","23% (15%-32%)",NA,0.150949000916712,0.315070416559016,NA,NA,1.16865481914e-40
+"335","request_3","strata.names","no","Alkufra_non_displaced","47% (38%-57%)",NA,0.381600706970005,0.565767714082626,NA,NA,1.16865481914e-40
+"336","request_3","strata.names","yes","Alkufra_non_displaced","53% (43%-62%)",NA,0.434232285917374,0.618399293029995,NA,NA,1.16865481914e-40
+"337","request_3","strata.names","no","Alkufra_returnee","34% (23%-44%)",NA,0.233203511413262,0.441796488586738,NA,NA,1.16865481914e-40
+"338","request_3","strata.names","yes","Alkufra_returnee","66% (56%-77%)",NA,0.558203511413262,0.766796488586738,NA,NA,1.16865481914e-40
+"339","request_3","strata.names","no","Azzawya_idp","32% (23%-41%)",NA,0.234526138086439,0.408331004770704,NA,NA,1.16865481914e-40
+"340","request_3","strata.names","yes","Azzawya_idp","68% (59%-77%)",NA,0.591668995229296,0.765473861913561,NA,NA,1.16865481914e-40
+"341","request_3","strata.names","no","Azzawya_non_displaced","34% (25%-42%)",NA,0.253189279003137,0.424776822691778,NA,NA,1.16865481914e-40
+"342","request_3","strata.names","yes","Azzawya_non_displaced","66% (58%-75%)",NA,0.575223177308222,0.746810720996863,NA,NA,1.16865481914e-40
+"343","request_3","strata.names","no","Azzawya_returnee","25% (13%-36%)",NA,0.13284683972134,0.358381230454098,NA,NA,1.16865481914e-40
+"344","request_3","strata.names","yes","Azzawya_returnee","75% (64%-87%)",NA,0.641618769545902,0.86715316027866,NA,NA,1.16865481914e-40
+"345","request_3","strata.names","no","Benghazi_idp","74% (66%-82%)",NA,0.662452386825467,0.824273276891347,NA,NA,1.16865481914e-40
+"346","request_3","strata.names","yes","Benghazi_idp","26% (18%-34%)",NA,0.175726723108653,0.337547613174533,NA,NA,1.16865481914e-40
+"347","request_3","strata.names","no","Benghazi_non_displaced","80% (73%-88%)",NA,0.729643849264744,0.877499007878113,NA,NA,1.16865481914e-40
+"348","request_3","strata.names","yes","Benghazi_non_displaced","20% (12%-27%)",NA,0.122500992121887,0.270356150735256,NA,NA,1.16865481914e-40
+"349","request_3","strata.names","no","Benghazi_returnee","74% (65%-82%)",NA,0.65471442710185,0.81537104298362,NA,NA,1.16865481914e-40
+"350","request_3","strata.names","yes","Benghazi_returnee","26% (18%-35%)",NA,0.184628957016379,0.34528557289815,NA,NA,1.16865481914e-40
+"351","request_3","strata.names","no","Derna_idp","91% (85%-98%)",NA,0.853767875714799,0.975500416968128,NA,NA,1.16865481914e-40
+"352","request_3","strata.names","yes","Derna_idp","9% (2%-15%)",NA,0.0244995830318724,0.146232124285201,NA,NA,1.16865481914e-40
+"353","request_3","strata.names","no","Derna_non_displaced","84% (77%-91%)",NA,0.76510765758734,0.907969265489583,NA,NA,1.16865481914e-40
+"354","request_3","strata.names","yes","Derna_non_displaced","16% (9%-23%)",NA,0.0920307345104166,0.23489234241266,NA,NA,1.16865481914e-40
+"355","request_3","strata.names","no","Derna_returnee","78% (70%-86%)",NA,0.696275178172351,0.855126690986527,NA,NA,1.16865481914e-40
+"356","request_3","strata.names","yes","Derna_returnee","22% (14%-30%)",NA,0.144873309013473,0.303724821827649,NA,NA,1.16865481914e-40
+"357","request_3","strata.names","no","Ejdabia_idp","82% (75%-89%)",NA,0.747979248838412,0.891660390801227,NA,NA,1.16865481914e-40
+"358","request_3","strata.names","yes","Ejdabia_idp","18% (11%-25%)",NA,0.108339609198773,0.252020751161588,NA,NA,1.16865481914e-40
+"359","request_3","strata.names","no","Ejdabia_non_displaced","88% (82%-94%)",NA,0.818222644921923,0.938299094208512,NA,NA,1.16865481914e-40
+"360","request_3","strata.names","yes","Ejdabia_non_displaced","12% (6%-18%)",NA,0.0617009057914877,0.181777355078077,NA,NA,1.16865481914e-40
+"361","request_3","strata.names","no","Ejdabia_returnee","95% (89%-101%)",NA,0.894374464902454,1.00562553509755,NA,NA,1.16865481914e-40
+"362","request_3","strata.names","yes","Ejdabia_returnee","5% (-1%-11%)",NA,-0.00562553509754644,0.105625535097546,NA,NA,1.16865481914e-40
+"363","request_3","strata.names","no","Ghat_idp","61% (52%-70%)",NA,0.52155363590139,0.703671589323835,NA,NA,1.16865481914e-40
+"364","request_3","strata.names","yes","Ghat_idp","39% (30%-48%)",NA,0.296328410676165,0.47844636409861,NA,NA,1.16865481914e-40
+"365","request_3","strata.names","no","Ghat_non_displaced","62% (53%-71%)",NA,0.53096839386885,0.712274849374393,NA,NA,1.16865481914e-40
+"366","request_3","strata.names","yes","Ghat_non_displaced","38% (29%-47%)",NA,0.287725150625607,0.46903160613115,NA,NA,1.16865481914e-40
+"367","request_3","strata.names","no","Ghat_returnee","86% (78%-94%)",NA,0.778452015236908,0.935833699048806,NA,NA,1.16865481914e-40
+"368","request_3","strata.names","yes","Ghat_returnee","14% (6%-22%)",NA,0.0641663009511939,0.221547984763092,NA,NA,1.16865481914e-40
+"369","request_3","strata.names","no","Misrata_idp","74% (66%-82%)",NA,0.658504785144478,0.819756084420739,NA,NA,1.16865481914e-40
+"370","request_3","strata.names","yes","Misrata_idp","26% (18%-34%)",NA,0.180243915579261,0.341495214855522,NA,NA,1.16865481914e-40
+"371","request_3","strata.names","no","Misrata_non_displaced","87% (81%-93%)",NA,0.809348378606712,0.932030931738116,NA,NA,1.16865481914e-40
+"372","request_3","strata.names","yes","Misrata_non_displaced","13% (7%-19%)",NA,0.0679690682618842,0.190651621393288,NA,NA,1.16865481914e-40
+"373","request_3","strata.names","no","Misrata_returnee","83% (76%-90%)",NA,0.764818218160858,0.904906552481344,NA,NA,1.16865481914e-40
+"374","request_3","strata.names","yes","Misrata_returnee","17% (10%-24%)",NA,0.095093447518656,0.235181781839142,NA,NA,1.16865481914e-40
+"375","request_3","strata.names","no","Murzuq_idp","18% (10%-27%)",NA,0.10200989623312,0.265806195720903,NA,NA,1.16865481914e-40
+"376","request_3","strata.names","yes","Murzuq_idp","82% (73%-90%)",NA,0.734193804279097,0.89799010376688,NA,NA,1.16865481914e-40
+"377","request_3","strata.names","no","Murzuq_non_displaced","19% (12%-27%)",NA,0.117390862722608,0.270958651840499,NA,NA,1.16865481914e-40
+"378","request_3","strata.names","yes","Murzuq_non_displaced","81% (73%-88%)",NA,0.729041348159501,0.882609137277392,NA,NA,1.16865481914e-40
+"379","request_3","strata.names","no","Murzuq_returnee","15% (4%-27%)",NA,0.0391022576369368,0.268590050055371,NA,NA,1.16865481914e-40
+"380","request_3","strata.names","yes","Murzuq_returnee","85% (73%-96%)",NA,0.731409949944629,0.960897742363063,NA,NA,1.16865481914e-40
+"381","request_3","strata.names","no","Sebha_idp","85% (78%-91%)",NA,0.781447548410559,0.914981023018013,NA,NA,1.16865481914e-40
+"382","request_3","strata.names","yes","Sebha_idp","15% (9%-22%)",NA,0.0850189769819873,0.218552451589441,NA,NA,1.16865481914e-40
+"383","request_3","strata.names","no","Sebha_non_displaced","68% (59%-76%)",NA,0.588174081890745,0.763177269460606,NA,NA,1.16865481914e-40
+"384","request_3","strata.names","yes","Sebha_non_displaced","32% (24%-41%)",NA,0.236822730539394,0.411825918109255,NA,NA,1.16865481914e-40
+"385","request_3","strata.names","no","Sebha_returnee","77% (69%-86%)",NA,0.68548424533291,0.857994015536655,NA,NA,1.16865481914e-40
+"386","request_3","strata.names","yes","Sebha_returnee","23% (14%-31%)",NA,0.142005984463345,0.31451575466709,NA,NA,1.16865481914e-40
+"387","request_3","strata.names","no","Sirt_idp","92% (86%-97%)",NA,0.86176576083693,0.968422918408353,NA,NA,1.16865481914e-40
+"388","request_3","strata.names","yes","Sirt_idp","8% (3%-14%)",NA,0.0315770815916469,0.13823423916307,NA,NA,1.16865481914e-40
+"389","request_3","strata.names","no","Sirt_non_displaced","85% (79%-92%)",NA,0.786450983858477,0.919971034490147,NA,NA,1.16865481914e-40
+"390","request_3","strata.names","yes","Sirt_non_displaced","15% (8%-21%)",NA,0.0800289655098528,0.213549016141523,NA,NA,1.16865481914e-40
+"391","request_3","strata.names","no","Sirt_returnee","93% (88%-98%)",NA,0.884710769508535,0.977358196008706,NA,NA,1.16865481914e-40
+"392","request_3","strata.names","yes","Sirt_returnee","7% (2%-12%)",NA,0.0226418039912937,0.115289230491465,NA,NA,1.16865481914e-40
+"393","request_3","strata.names","no","Tripoli_idp","81% (74%-89%)",NA,0.736647990740808,0.892217988640636,NA,NA,1.16865481914e-40
+"394","request_3","strata.names","yes","Tripoli_idp","19% (11%-26%)",NA,0.107782011359365,0.263352009259192,NA,NA,1.16865481914e-40
+"395","request_3","strata.names","no","Tripoli_non_displaced","85% (78%-91%)",NA,0.781447548410559,0.914981023018013,NA,NA,1.16865481914e-40
+"396","request_3","strata.names","yes","Tripoli_non_displaced","15% (9%-22%)",NA,0.0850189769819873,0.218552451589441,NA,NA,1.16865481914e-40
+"397","request_3","strata.names","no","Tripoli_returnee","91% (85%-96%)",NA,0.851612793989453,0.958732033596754,NA,NA,1.16865481914e-40
+"398","request_3","strata.names","yes","Tripoli_returnee","9% (4%-15%)",NA,0.0412679664032464,0.148387206010547,NA,NA,1.16865481914e-40
+"399","request_3","strata.names","no","Ubari_idp","30% (21%-39%)",NA,0.214198820865402,0.3936443163895,NA,NA,1.16865481914e-40
+"400","request_3","strata.names","yes","Ubari_idp","70% (61%-79%)",NA,0.6063556836105,0.785801179134598,NA,NA,1.16865481914e-40
+"401","request_3","strata.names","no","Ubari_non_displaced","64% (55%-73%)",NA,0.551846920246804,0.728854834139161,NA,NA,1.16865481914e-40
+"402","request_3","strata.names","yes","Ubari_non_displaced","36% (27%-45%)",NA,0.271145165860839,0.448153079753196,NA,NA,1.16865481914e-40
+"403","request_3","strata.names","no","Ubari_returnee","48% (39%-57%)",NA,0.390301612099429,0.574610668602326,NA,NA,1.16865481914e-40
+"404","request_3","strata.names","yes","Ubari_returnee","52% (43%-61%)",NA,0.425389331397675,0.609698387900571,NA,NA,1.16865481914e-40
+"405","request_3","strata.names","no","Wadi Ashshati_idp","68% (58%-78%)",NA,0.578074131706325,0.779068725436532,NA,NA,1.16865481914e-40
+"406","request_3","strata.names","yes","Wadi Ashshati_idp","32% (22%-42%)",NA,0.220931274563468,0.421925868293675,NA,NA,1.16865481914e-40
+"407","request_3","strata.names","no","Wadi Ashshati_non_displaced","81% (74%-89%)",NA,0.742103398343872,0.886215185726925,NA,NA,1.16865481914e-40
+"408","request_3","strata.names","yes","Wadi Ashshati_non_displaced","19% (11%-26%)",NA,0.113784814273075,0.257896601656128,NA,NA,1.16865481914e-40
+"409","request_3","strata.names","no","Wadi Ashshati_returnee","78% (64%-92%)",NA,0.640012145738741,0.915543409816814,NA,NA,1.16865481914e-40
+"410","request_3","strata.names","yes","Wadi Ashshati_returnee","22% (8%-36%)",NA,0.0844565901831859,0.359987854261259,NA,NA,1.16865481914e-40
+"411","request_3","strata.names","no","Zwara_idp","75% (66%-83%)",NA,0.660084907651891,0.830111170779481,NA,NA,1.16865481914e-40
+"412","request_3","strata.names","yes","Zwara_idp","25% (17%-34%)",NA,0.169888829220519,0.339915092348109,NA,NA,1.16865481914e-40
+"413","request_3","strata.names","no","Zwara_non_displaced","59% (50%-69%)",NA,0.499470209025729,0.685714976159456,NA,NA,1.16865481914e-40
+"414","request_3","strata.names","yes","Zwara_non_displaced","41% (31%-50%)",NA,0.314285023840544,0.500529790974271,NA,NA,1.16865481914e-40
+"415","request_3","strata.names","no","Zwara_returnee","55% (46%-65%)",NA,0.456791414995352,0.647970489766552,NA,NA,1.16865481914e-40
+"416","request_3","strata.names","yes","Zwara_returnee","45% (35%-54%)",NA,0.352029510233448,0.543208585004648,NA,NA,1.16865481914e-40
+"417","request_4","strata.names","no","Al Jabal Al Gharbi_idp","63% (54%-72%)",NA,0.538108305487256,0.721150953772003,NA,NA,4.30427347056446e-09
+"418","request_4","strata.names","yes","Al Jabal Al Gharbi_idp","37% (28%-46%)",NA,0.278849046227997,0.461891694512744,NA,NA,4.30427347056446e-09
+"419","request_4","strata.names","no","Al Jabal Al Gharbi_non_displaced","75% (67%-83%)",NA,0.66942642492144,0.83057357507856,NA,NA,4.30427347056446e-09
+"420","request_4","strata.names","yes","Al Jabal Al Gharbi_non_displaced","25% (17%-33%)",NA,0.16942642492144,0.33057357507856,NA,NA,4.30427347056446e-09
+"421","request_4","strata.names","no","Al Jabal Al Gharbi_returnee","69% (61%-78%)",NA,0.60714219287189,0.781746696016999,NA,NA,4.30427347056446e-09
+"422","request_4","strata.names","yes","Al Jabal Al Gharbi_returnee","31% (22%-39%)",NA,0.218253303983001,0.39285780712811,NA,NA,4.30427347056446e-09
+"423","request_4","strata.names","no","Aljfara_idp","81% (74%-89%)",NA,0.738852071239426,0.887316153059639,NA,NA,4.30427347056446e-09
+"424","request_4","strata.names","yes","Aljfara_idp","19% (11%-26%)",NA,0.112683846940361,0.261147928760574,NA,NA,4.30427347056446e-09
+"425","request_4","strata.names","no","Aljfara_non_displaced","74% (65%-83%)",NA,0.647802140493448,0.825882070032868,NA,NA,4.30427347056446e-09
+"426","request_4","strata.names","yes","Aljfara_non_displaced","26% (17%-35%)",NA,0.174117929967132,0.352197859506552,NA,NA,4.30427347056446e-09
+"427","request_4","strata.names","no","Aljfara_returnee","73% (64%-82%)",NA,0.639075814165486,0.815469640379969,NA,NA,4.30427347056446e-09
+"428","request_4","strata.names","yes","Aljfara_returnee","27% (18%-36%)",NA,0.184530359620031,0.360924185834514,NA,NA,4.30427347056446e-09
+"429","request_4","strata.names","no","Aljufra_idp","87% (79%-95%)",NA,0.794534818624005,0.945724921635735,NA,NA,4.30427347056446e-09
+"430","request_4","strata.names","yes","Aljufra_idp","13% (5%-21%)",NA,0.0542750783642651,0.205465181375995,NA,NA,4.30427347056446e-09
+"431","request_4","strata.names","no","Aljufra_non_displaced","89% (84%-95%)",NA,0.838138967443345,0.951334716767181,NA,NA,4.30427347056446e-09
+"432","request_4","strata.names","yes","Aljufra_non_displaced","11% (5%-16%)",NA,0.0486652832328192,0.161861032556655,NA,NA,4.30427347056446e-09
+"433","request_4","strata.names","no","Alkufra_idp","71% (62%-80%)",NA,0.620544027798968,0.796931700356371,NA,NA,4.30427347056446e-09
+"434","request_4","strata.names","yes","Alkufra_idp","29% (20%-38%)",NA,0.203068299643629,0.379455972201031,NA,NA,4.30427347056446e-09
+"435","request_4","strata.names","no","Alkufra_non_displaced","68% (59%-76%)",NA,0.58908992925162,0.761787263730836,NA,NA,4.30427347056446e-09
+"436","request_4","strata.names","yes","Alkufra_non_displaced","32% (24%-41%)",NA,0.238212736269164,0.41091007074838,NA,NA,4.30427347056446e-09
+"437","request_4","strata.names","no","Alkufra_returnee","84% (76%-92%)",NA,0.756130989991347,0.918869010008652,NA,NA,4.30427347056446e-09
+"438","request_4","strata.names","yes","Alkufra_returnee","16% (8%-24%)",NA,0.0811309899913474,0.243869010008653,NA,NA,4.30427347056446e-09
+"439","request_4","strata.names","no","Azzawya_idp","80% (73%-88%)",NA,0.729643834887239,0.877499022255617,NA,NA,4.30427347056446e-09
+"440","request_4","strata.names","yes","Azzawya_idp","20% (12%-27%)",NA,0.122500977744382,0.27035616511276,NA,NA,4.30427347056446e-09
+"441","request_4","strata.names","no","Azzawya_non_displaced","75% (68%-83%)",NA,0.676205321720331,0.832269254550855,NA,NA,4.30427347056446e-09
+"442","request_4","strata.names","yes","Azzawya_non_displaced","25% (17%-32%)",NA,0.167730745449145,0.323794678279669,NA,NA,4.30427347056446e-09
+"443","request_4","strata.names","no","Azzawya_returnee","86% (77%-95%)",NA,0.768652001933029,0.950646243681006,NA,NA,4.30427347056446e-09
+"444","request_4","strata.names","yes","Azzawya_returnee","14% (5%-23%)",NA,0.0493537563189942,0.231347998066971,NA,NA,4.30427347056446e-09
+"445","request_4","strata.names","no","Benghazi_idp","68% (60%-77%)",NA,0.595105625379783,0.767726233027297,NA,NA,4.30427347056446e-09
+"446","request_4","strata.names","yes","Benghazi_idp","32% (23%-40%)",NA,0.232273766972703,0.404894374620217,NA,NA,4.30427347056446e-09
+"447","request_4","strata.names","no","Benghazi_non_displaced","72% (63%-80%)",NA,0.633353169468206,0.800275149115864,NA,NA,4.30427347056446e-09
+"448","request_4","strata.names","yes","Benghazi_non_displaced","28% (20%-37%)",NA,0.199724850884136,0.366646830531794,NA,NA,4.30427347056446e-09
+"449","request_4","strata.names","no","Benghazi_returnee","67% (58%-75%)",NA,0.584235634287815,0.754747416559643,NA,NA,4.30427347056446e-09
+"450","request_4","strata.names","yes","Benghazi_returnee","33% (25%-42%)",NA,0.245252583440357,0.415764365712185,NA,NA,4.30427347056446e-09
+"451","request_4","strata.names","no","Derna_idp","43% (32%-53%)",NA,0.319088497914159,0.534570038671207,NA,NA,4.30427347056446e-09
+"452","request_4","strata.names","yes","Derna_idp","57% (47%-68%)",NA,0.465429961328793,0.680911502085842,NA,NA,4.30427347056446e-09
+"453","request_4","strata.names","no","Derna_non_displaced","42% (33%-52%)",NA,0.327642841356857,0.518511004796989,NA,NA,4.30427347056446e-09
+"454","request_4","strata.names","yes","Derna_non_displaced","58% (48%-67%)",NA,0.481488995203011,0.672357158643143,NA,NA,4.30427347056446e-09
+"455","request_4","strata.names","no","Derna_returnee","52% (42%-61%)",NA,0.423276396195659,0.614459452860945,NA,NA,4.30427347056446e-09
+"456","request_4","strata.names","yes","Derna_returnee","48% (39%-58%)",NA,0.385540547139055,0.576723603804341,NA,NA,4.30427347056446e-09
+"457","request_4","strata.names","no","Ejdabia_idp","58% (49%-67%)",NA,0.489195690997576,0.674440672638788,NA,NA,4.30427347056446e-09
+"458","request_4","strata.names","yes","Ejdabia_idp","42% (33%-51%)",NA,0.325559327361213,0.510804309002424,NA,NA,4.30427347056446e-09
+"459","request_4","strata.names","no","Ejdabia_non_displaced","74% (66%-82%)",NA,0.658504769464327,0.819756100100891,NA,NA,4.30427347056446e-09
+"460","request_4","strata.names","yes","Ejdabia_non_displaced","26% (18%-34%)",NA,0.18024389989911,0.341495230535673,NA,NA,4.30427347056446e-09
+"461","request_4","strata.names","no","Ejdabia_returnee","77% (66%-87%)",NA,0.658717532153159,0.874615801180174,NA,NA,4.30427347056446e-09
+"462","request_4","strata.names","yes","Ejdabia_returnee","23% (13%-34%)",NA,0.125384198819826,0.341282467846841,NA,NA,4.30427347056446e-09
+"463","request_4","strata.names","no","Ghat_idp","68% (59%-76%)",NA,0.588174064873354,0.763177286477997,NA,NA,4.30427347056446e-09
+"464","request_4","strata.names","yes","Ghat_idp","32% (24%-41%)",NA,0.236822713522003,0.411825935126646,NA,NA,4.30427347056446e-09
+"465","request_4","strata.names","no","Ghat_non_displaced","65% (56%-74%)",NA,0.555627103775327,0.735281987133764,NA,NA,4.30427347056446e-09
+"466","request_4","strata.names","yes","Ghat_non_displaced","35% (26%-44%)",NA,0.264718012866236,0.444372896224673,NA,NA,4.30427347056446e-09
+"467","request_4","strata.names","no","Ghat_returnee","47% (36%-59%)",NA,0.360655048120301,0.58671337293233,NA,NA,4.30427347056446e-09
+"468","request_4","strata.names","yes","Ghat_returnee","53% (41%-64%)",NA,0.413286627067669,0.639344951879699,NA,NA,4.30427347056446e-09
+"469","request_4","strata.names","no","Misrata_idp","82% (75%-89%)",NA,0.748574372526677,0.889356661956082,NA,NA,4.30427347056446e-09
+"470","request_4","strata.names","yes","Misrata_idp","18% (11%-25%)",NA,0.110643338043918,0.251425627473323,NA,NA,4.30427347056446e-09
+"471","request_4","strata.names","no","Misrata_non_displaced","85% (79%-92%)",NA,0.788795282681039,0.918101269043099,NA,NA,4.30427347056446e-09
+"472","request_4","strata.names","yes","Misrata_non_displaced","15% (8%-21%)",NA,0.0818987309569009,0.211204717318961,NA,NA,4.30427347056446e-09
+"473","request_4","strata.names","no","Misrata_returnee","84% (77%-91%)",NA,0.773571314065497,0.911613871119688,NA,NA,4.30427347056446e-09
+"474","request_4","strata.names","yes","Misrata_returnee","16% (9%-23%)",NA,0.0883861288803119,0.226428685934503,NA,NA,4.30427347056446e-09
+"475","request_4","strata.names","no","Murzuq_idp","83% (75%-91%)",NA,0.747732168045881,0.907440245747222,NA,NA,4.30427347056446e-09
+"476","request_4","strata.names","yes","Murzuq_idp","17% (9%-25%)",NA,0.0925597542527775,0.252267831954119,NA,NA,4.30427347056446e-09
+"477","request_4","strata.names","no","Murzuq_non_displaced","91% (86%-97%)",NA,0.857806114398097,0.967436604048505,NA,NA,4.30427347056446e-09
+"478","request_4","strata.names","yes","Murzuq_non_displaced","9% (3%-14%)",NA,0.0325633959514952,0.142193885601903,NA,NA,4.30427347056446e-09
+"479","request_4","strata.names","no","Murzuq_returnee","92% (84%-101%)",NA,0.838332923004813,1.00782092314903,NA,NA,4.30427347056446e-09
+"480","request_4","strata.names","yes","Murzuq_returnee","8% (-1%-16%)",NA,-0.00782092314903353,0.161667076995187,NA,NA,4.30427347056446e-09
+"481","request_4","strata.names","no","Sebha_idp","42% (33%-51%)",NA,0.327813914761059,0.511471799524655,NA,NA,4.30427347056446e-09
+"482","request_4","strata.names","yes","Sebha_idp","58% (49%-67%)",NA,0.488528200475345,0.672186085238941,NA,NA,4.30427347056446e-09
+"483","request_4","strata.names","no","Sebha_non_displaced","65% (56%-74%)",NA,0.559414164458281,0.737883132839017,NA,NA,4.30427347056446e-09
+"484","request_4","strata.names","yes","Sebha_non_displaced","35% (26%-44%)",NA,0.262116867160983,0.440585835541719,NA,NA,4.30427347056446e-09
+"485","request_4","strata.names","no","Sebha_returnee","55% (45%-66%)",NA,0.452201681286053,0.65649397088786,NA,NA,4.30427347056446e-09
+"486","request_4","strata.names","yes","Sebha_returnee","45% (34%-55%)",NA,0.34350602911214,0.547798318713947,NA,NA,4.30427347056446e-09
+"487","request_4","strata.names","no","Sirt_idp","29% (21%-38%)",NA,0.205423738464326,0.379481921913033,NA,NA,4.30427347056446e-09
+"488","request_4","strata.names","yes","Sirt_idp","71% (62%-79%)",NA,0.620518078086967,0.794576261535674,NA,NA,4.30427347056446e-09
+"489","request_4","strata.names","no","Sirt_non_displaced","63% (54%-72%)",NA,0.542105382185008,0.723949663686551,NA,NA,4.30427347056446e-09
+"490","request_4","strata.names","yes","Sirt_non_displaced","37% (28%-46%)",NA,0.276050336313448,0.457894617814992,NA,NA,4.30427347056446e-09
+"491","request_4","strata.names","no","Sirt_returnee","58% (49%-67%)",NA,0.48728739852219,0.667885015270913,NA,NA,4.30427347056446e-09
+"492","request_4","strata.names","yes","Sirt_returnee","42% (33%-51%)",NA,0.332114984729087,0.51271260147781,NA,NA,4.30427347056446e-09
+"493","request_4","strata.names","no","Tripoli_idp","47% (37%-57%)",NA,0.372722380443485,0.574646040609146,NA,NA,4.30427347056446e-09
+"494","request_4","strata.names","yes","Tripoli_idp","53% (43%-63%)",NA,0.425353959390853,0.627277619556515,NA,NA,4.30427347056446e-09
+"495","request_4","strata.names","no","Tripoli_non_displaced","64% (55%-73%)",NA,0.553697110164669,0.732017175549617,NA,NA,4.30427347056446e-09
+"496","request_4","strata.names","yes","Tripoli_non_displaced","36% (27%-45%)",NA,0.267982824450383,0.446302889835331,NA,NA,4.30427347056446e-09
+"497","request_4","strata.names","no","Tripoli_returnee","77% (69%-84%)",NA,0.689986936737637,0.844495821883053,NA,NA,4.30427347056446e-09
+"498","request_4","strata.names","yes","Tripoli_returnee","23% (16%-31%)",NA,0.155504178116947,0.310013063262363,NA,NA,4.30427347056446e-09
+"499","request_4","strata.names","no","Ubari_idp","83% (76%-91%)",NA,0.760634648856666,0.90603201781,NA,NA,4.30427347056446e-09
+"500","request_4","strata.names","yes","Ubari_idp","17% (9%-24%)",NA,0.0939679821899998,0.239365351143334,NA,NA,4.30427347056446e-09
+"501","request_4","strata.names","no","Ubari_non_displaced","62% (53%-71%)",NA,0.533420335630775,0.712193699456944,NA,NA,4.30427347056446e-09
+"502","request_4","strata.names","yes","Ubari_non_displaced","38% (29%-47%)",NA,0.287806300543056,0.466579664369225,NA,NA,4.30427347056446e-09
+"503","request_4","strata.names","no","Ubari_returnee","61% (52%-70%)",NA,0.515118454019241,0.695407861770233,NA,NA,4.30427347056446e-09
+"504","request_4","strata.names","yes","Ubari_returnee","39% (30%-48%)",NA,0.304592138229767,0.484881545980759,NA,NA,4.30427347056446e-09
+"505","request_4","strata.names","no","Wadi Ashshati_idp","66% (56%-77%)",NA,0.560290943722412,0.765010261096865,NA,NA,4.30427347056446e-09
+"506","request_4","strata.names","yes","Wadi Ashshati_idp","34% (23%-44%)",NA,0.234989738903135,0.439709056277588,NA,NA,4.30427347056446e-09
+"507","request_4","strata.names","no","Wadi Ashshati_non_displaced","84% (77%-91%)",NA,0.772918205966182,0.908497723237358,NA,NA,4.30427347056446e-09
+"508","request_4","strata.names","yes","Wadi Ashshati_non_displaced","16% (9%-23%)",NA,0.0915022767626422,0.227081794033818,NA,NA,4.30427347056446e-09
+"509","request_4","strata.names","no","Wadi Ashshati_returnee","61% (45%-77%)",NA,0.449566556774299,0.772655665447923,NA,NA,4.30427347056446e-09
+"510","request_4","strata.names","yes","Wadi Ashshati_returnee","39% (23%-55%)",NA,0.227344334552077,0.5504334432257,NA,NA,4.30427347056446e-09
+"511","request_4","strata.names","no","Zwara_idp","65% (55%-74%)",NA,0.553837375050173,0.740280272008651,NA,NA,4.30427347056446e-09
+"512","request_4","strata.names","yes","Zwara_idp","35% (26%-45%)",NA,0.259719727991349,0.446162624949827,NA,NA,4.30427347056446e-09
+"513","request_4","strata.names","no","Zwara_non_displaced","71% (63%-80%)",NA,0.62722679817998,0.798699127745947,NA,NA,4.30427347056446e-09
+"514","request_4","strata.names","yes","Zwara_non_displaced","29% (20%-37%)",NA,0.201300872254054,0.372773201820021,NA,NA,4.30427347056446e-09
+"515","request_4","strata.names","no","Zwara_returnee","69% (60%-78%)",NA,0.600091964221787,0.777266526344251,NA,NA,4.30427347056446e-09
+"516","request_4","strata.names","yes","Zwara_returnee","31% (22%-40%)",NA,0.222733473655749,0.399908035778213,NA,NA,4.30427347056446e-09

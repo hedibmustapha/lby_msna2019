@@ -10,24 +10,24 @@ lsg_three_four <- composite_data %>% mutate(
   health = ifelse(health_score>=3,1,0),
   wash = ifelse(health_score>=3,1,0),
   education = ifelse(education_score>=3,1,0),
-  capacity_gap = ifelse(capacity_gap_score>=3,1,0),
+  capacity_gap = ifelse(capacity_gap_score>=4,1,0),
   vul_atlease_one = ifelse(protection+shelter+fs+health+wash+education+capacity_gap>=1,"yes","no")
 )
 
 setnames(x = lsg_three_four,
          old = c("protection", "shelter", "fs", "health", "wash", "education", "capacity_gap"),
-         new = c("Protection", "Shelter_NFI", "FSL", "Health", "WASH", "Education", "Capacity_gap"))
+         new = c("Protection", "Shelter_NFIs", "FSL", "Health", "WASH", "Education", "Capacity_gap"))
 
 plot_set_percentages(data = filter(lsg_three_four,vul_atlease_one=="yes"),
-                     varnames = c("Protection","Shelter_NFI","FSL","Health","WASH","Education","Capacity_gap"),
+                     varnames = c("Protection","Shelter_NFIs","FSL","Health","WASH","Education","Capacity_gap"),
                      mutually_exclusive_sets = T,
                      exclude_unique = F,
                      round_to_1_percent = F,
-                     nintersects = 5,
+                     nintersects = 12,
                      weighting_function = weights)
 
 
-plots <- Setviz_data %>% filter(vul_atlease_one =="yes") %>%
+plots <- lsg_three_four %>% filter(vul_atlease_one =="yes") %>%
               split(.$mantika_label) %>% purrr::map(plot_set_percentages,
               varnames = c("Protection","Shelter_NFI","FSL","Health","WASH","Education","Capacity_gap"),
               mutually_exclusive_sets = T,
@@ -35,8 +35,9 @@ plots <- Setviz_data %>% filter(vul_atlease_one =="yes") %>%
               round_to_1_percent = T,
               nintersects = 12)
 
-filenames<- unique(Setviz_data$mantika_label)
+filenames<- unique(lsg_three_four$mantika_label)
 filenames <- filenames[order(filenames)]
+
 purrr::map2(plots,filenames,function(plot, fn){
   on.exit({dev.off()})
   pdf(paste0("./intersection_",fn,".pdf"))

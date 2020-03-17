@@ -1,6 +1,5 @@
 many_records <- read.csv("./input/libyan_msna_composite_indicator_v1.csv")
 
-
 ci_data <- ci_prep_data %>% recode_batch(tos = many_records$to_values,
                                          wheres = many_records$conditions,
                                          targets = many_records$target_variables,
@@ -55,6 +54,7 @@ composite_data <- ci_data %>%
          capacity_gap_score = capacitygap_index1
   )
 
+
 lsg_three_four <- composite_data %>% mutate(
   protection = ifelse(protection_score >=3,1,0),
   shelter = ifelse(shelter_nfi_score >=3,1,0),
@@ -62,10 +62,9 @@ lsg_three_four <- composite_data %>% mutate(
   health = ifelse(health_score>=3,1,0),
   wash = ifelse(health_score>=3,1,0),
   education = ifelse(education_score>=3,1,0),
-  capacity_gap = ifelse(capacity_gap_score>=4,1,0),
+  capacity_gap = ifelse(capacity_gap_score>=3,1,0),
   vul_atlease_one = ifelse(protection+shelter+fs+health+wash+education+capacity_gap>=1,"yes","no")
 )
-
 
 results <- from_analysisplan_map_to_output(data = lsg_three_four,
                                            analysisplan = analysisplan,
@@ -73,7 +72,7 @@ results <- from_analysisplan_map_to_output(data = lsg_three_four,
                                            questionnaire = questionnaire
 )
 
-map_to_master_table(results_object = results$results, filename = "./output/composite_indicators_results_25022020.csv")
+#map_to_master_table(results_object = results$results, filename = "./output/composite_indicators_results_24012020.csv")
 
 summary.stats.list <- results$results
 
@@ -85,5 +84,5 @@ summary.stats.list %>%
   lapply(add_p_value_to_summary_table) %>% 
   resultlist_summary_statistics_as_one_table %>%
   
-  write.csv("./output/composite_indicators_results_25022020v2.csv")
+  write.csv("./newoutput/summary_stats_persector(CapacityGap3)v3.csv")
 

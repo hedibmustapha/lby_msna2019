@@ -1,0 +1,2071 @@
+,dependent.var,independent.var,dependent.var.value,independent.var.value,numbers,se,min,max,repeat.var,repeat.var.value,p.value
+dependent.var,preexisting_vulnerability_score,NA,NA,NA,NA% ,NA,NA,NA,NA,NA,NA
+dependent.var1,impact_score,NA,NA,NA,NA% ,NA,NA,NA,NA,NA,NA
+dependent.var2,protection_score,NA,NA,NA,NA% ,NA,NA,NA,NA,NA,NA
+dependent.var3,shelter_nfi_score,NA,NA,NA,NA% ,NA,NA,NA,NA,NA,NA
+dependent.var4,fs_score,NA,NA,NA,NA% ,NA,NA,NA,NA,NA,NA
+dependent.var5,health_score,NA,NA,NA,NA% ,NA,NA,NA,NA,NA,NA
+dependent.var6,wash_score,NA,NA,NA,NA% ,NA,NA,NA,NA,NA,NA
+dependent.var7,education_score,NA,NA,NA,NA% ,NA,NA,NA,NA,NA,NA
+dependent.var8,capacity_gap_score,NA,NA,NA,NA% ,NA,NA,NA,NA,NA,NA
+1,vul_atlease_one,NA,no,NA,39% (36%-41%),NA,0.360914645,0.414590695,NA,NA,NA
+2,,NA,yes,NA,61% (59%-64%),NA,0.585409305,0.639085355,NA,NA,NA
+191,,mantika_label,1,Al Jabal Al Gharbi,88% (82%-93%),NA,0.820312142,0.930036443,NA,NA,NA
+210,,mantika_label,2,Al Jabal Al Gharbi,3% (0%-6%),NA,0.001661215,0.061279147,NA,NA,NA
+3,,mantika_label,3,Al Jabal Al Gharbi,9% (5%-14%),NA,0.045392655,0.141318398,NA,NA,NA
+4,,mantika_label,1,Aljfara,96% (92%-100%),NA,0.919808031,0.995335439,NA,NA,NA
+5,,mantika_label,2,Aljfara,0%,NA,-0.000315686,0.001490543,NA,NA,NA
+6,,mantika_label,3,Aljfara,4% (0%-8%),NA,0.004086831,0.079594842,NA,NA,NA
+7,,mantika_label,1,Aljufra,28% (20%-35%),NA,0.195678485,0.354776311,NA,NA,NA
+8,,mantika_label,3,Aljufra,72% (65%-80%),NA,0.645223689,0.804321515,NA,NA,NA
+9,,mantika_label,1,Alkufra,98% (96%-100%),NA,0.955173427,0.998129295,NA,NA,NA
+10,,mantika_label,2,Alkufra,1% (-1%-2%),NA,-0.005137406,0.024879138,NA,NA,NA
+11,,mantika_label,3,Alkufra,1% (0%-3%),NA,-0.002044299,0.028999845,NA,NA,NA
+12,,mantika_label,1,Azzawya,97% (95%-100%),NA,0.947423346,1.002354235,NA,NA,NA
+13,,mantika_label,2,Azzawya,3% (0%-5%),NA,-0.002354235,0.052576654,NA,NA,NA
+14,,mantika_label,1,Benghazi,90% (85%-94%),NA,0.85231668,0.939498772,NA,NA,NA
+15,,mantika_label,2,Benghazi,1% (0%-2%),NA,-0.004293512,0.021545873,NA,NA,NA
+16,,mantika_label,3,Benghazi,10% (5%-14%),NA,0.053425563,0.137506625,NA,NA,NA
+17,,mantika_label,1,Derna,97% (95%-100%),NA,0.951262876,0.997287479,NA,NA,NA
+18,,mantika_label,2,Derna,1% (-1%-3%),NA,-0.006203471,0.025233255,NA,NA,NA
+19,,mantika_label,3,Derna,2% (0%-3%),NA,-0.000763672,0.033183534,NA,NA,NA
+20,,mantika_label,1,Ejdabia,94% (90%-98%),NA,0.89773887,0.978722736,NA,NA,NA
+21,,mantika_label,2,Ejdabia,1% (-1%-2%),NA,-0.007669063,0.023638995,NA,NA,NA
+22,,mantika_label,3,Ejdabia,5% (2%-9%),NA,0.016096798,0.091471664,NA,NA,NA
+23,,mantika_label,1,Ghat,67% (61%-74%),NA,0.61012633,0.735520661,NA,NA,NA
+24,,mantika_label,2,Ghat,1% (0%-3%),NA,-0.00262523,0.031710171,NA,NA,NA
+25,,mantika_label,3,Ghat,31% (25%-37%),NA,0.250457709,0.373879512,NA,NA,NA
+26,,mantika_label,4,Ghat,0%,NA,-0.00044701,0.001377857,NA,NA,NA
+27,,mantika_label,1,Misrata,96% (93%-99%),NA,0.929401468,0.990665964,NA,NA,NA
+28,,mantika_label,3,Misrata,4% (1%-7%),NA,0.009334036,0.070598532,NA,NA,NA
+29,,mantika_label,1,Murzuq,89% (84%-95%),NA,0.836079389,0.94726624,NA,NA,NA
+30,,mantika_label,2,Murzuq,2% (-1%-4%),NA,-0.005498353,0.042385032,NA,NA,NA
+31,,mantika_label,3,Murzuq,9% (4%-14%),NA,0.03859779,0.141169902,NA,NA,NA
+32,,mantika_label,1,Sebha,99% (98%-101%),NA,0.97593038,1.00687599,NA,NA,NA
+33,,mantika_label,2,Sebha,1% (-1%-2%),NA,-0.007224579,0.02370615,NA,NA,NA
+34,,mantika_label,3,Sebha,0%,NA,-0.000134793,0.000846852,NA,NA,NA
+35,,mantika_label,1,Sirt,85% (80%-90%),NA,0.804481938,0.895871003,NA,NA,NA
+36,,mantika_label,2,Sirt,1% (0%-3%),NA,-0.000686185,0.026929597,NA,NA,NA
+37,,mantika_label,3,Sirt,14% (9%-18%),NA,0.092547074,0.180856574,NA,NA,NA
+38,,mantika_label,1,Tripoli,90% (85%-95%),NA,0.847986607,0.948566081,NA,NA,NA
+39,,mantika_label,2,Tripoli,2% (-1%-4%),NA,-0.005738313,0.038878095,NA,NA,NA
+40,,mantika_label,3,Tripoli,9% (4%-13%),NA,0.039187244,0.131120286,NA,NA,NA
+41,,mantika_label,1,Ubari,87% (83%-91%),NA,0.82591062,0.912804668,NA,NA,NA
+42,,mantika_label,2,Ubari,3% (0%-5%),NA,0.00139337,0.04930998,NA,NA,NA
+43,,mantika_label,3,Ubari,11% (7%-14%),NA,0.068061724,0.142519638,NA,NA,NA
+44,,mantika_label,1,Wadi Ashshati,98% (96%-100%),NA,0.957315056,1.004820986,NA,NA,NA
+45,,mantika_label,3,Wadi Ashshati,2% (0%-4%),NA,-0.004820986,0.042684944,NA,NA,NA
+46,,mantika_label,1,Zwara,90% (85%-96%),NA,0.85012371,0.956692256,NA,NA,NA
+47,,mantika_label,3,Zwara,10% (4%-15%),NA,0.043307744,0.14987629,NA,NA,NA
+192,,mantika_label,1,Al Jabal Al Gharbi,65% (58%-73%),NA,0.578583691,0.729759762,NA,NA,1.35E-41
+211,,mantika_label,2,Al Jabal Al Gharbi,2% (0%-5%),NA,0.002811956,0.04628612,NA,NA,1.35E-41
+310,,mantika_label,3,Al Jabal Al Gharbi,32% (25%-40%),NA,0.24688065,0.395677823,NA,NA,1.35E-41
+410,,mantika_label,1,Aljfara,72% (63%-80%),NA,0.634443287,0.80236954,NA,NA,1.35E-41
+510,,mantika_label,2,Aljfara,0% (0%-1%),NA,0.001365243,0.005683903,NA,NA,1.35E-41
+610,,mantika_label,3,Aljfara,28% (19%-36%),NA,0.194108723,0.362029304,NA,NA,1.35E-41
+710,,mantika_label,1,Aljufra,97% (97%-97%),NA,0.969613843,0.97393629,NA,NA,1.35E-41
+810,,mantika_label,3,Aljufra,3% (3%-3%),NA,0.02606371,0.030386157,NA,NA,1.35E-41
+910,,mantika_label,1,Alkufra,96% (95%-98%),NA,0.945860878,0.981303485,NA,NA,1.35E-41
+1010,,mantika_label,2,Alkufra,0% (0%-1%),NA,0.001198645,0.008612376,NA,NA,1.35E-41
+1110,,mantika_label,3,Alkufra,3% (1%-5%),NA,0.014057764,0.048966851,NA,NA,1.35E-41
+1210,,mantika_label,1,Azzawya,92% (87%-97%),NA,0.873256752,0.965985881,NA,NA,1.35E-41
+1310,,mantika_label,2,Azzawya,1% (-1%-2%),NA,-0.007104342,0.024918284,NA,NA,1.35E-41
+1410,,mantika_label,3,Azzawya,7% (3%-12%),NA,0.027556617,0.115386807,NA,NA,1.35E-41
+1510,,mantika_label,1,Benghazi,94% (92%-96%),NA,0.921977412,0.957768753,NA,NA,1.35E-41
+1610,,mantika_label,2,Benghazi,1% (0%-2%),NA,0.001433317,0.019301293,NA,NA,1.35E-41
+1710,,mantika_label,3,Benghazi,5% (3%-7%),NA,0.033984931,0.065534295,NA,NA,1.35E-41
+1810,,mantika_label,1,Derna,92% (91%-94%),NA,0.90601055,0.939451091,NA,NA,1.35E-41
+193,,mantika_label,2,Derna,5% (4%-7%),NA,0.03648256,0.067422977,NA,NA,1.35E-41
+201,,mantika_label,3,Derna,3% (1%-4%),NA,0.014553292,0.036079529,NA,NA,1.35E-41
+212,,mantika_label,1,Ejdabia,94% (94%-95%),NA,0.935872144,0.948954276,NA,NA,1.35E-41
+221,,mantika_label,2,Ejdabia,0%,NA,-0.000635847,0.002153596,NA,NA,1.35E-41
+231,,mantika_label,3,Ejdabia,6% (5%-6%),NA,0.050220605,0.063435228,NA,NA,1.35E-41
+241,,mantika_label,1,Ghat,94% (92%-97%),NA,0.918547391,0.966304125,NA,NA,1.35E-41
+251,,mantika_label,2,Ghat,2% (0%-3%),NA,0.001571446,0.032906058,NA,NA,1.35E-41
+261,,mantika_label,3,Ghat,4% (2%-6%),NA,0.021529571,0.059141409,NA,NA,1.35E-41
+271,,mantika_label,1,Misrata,85% (79%-90%),NA,0.791823606,0.901035389,NA,NA,1.35E-41
+281,,mantika_label,2,Misrata,0%,NA,-0.000183161,0.002484594,NA,NA,1.35E-41
+291,,mantika_label,3,Misrata,15% (10%-21%),NA,0.097814554,0.207025018,NA,NA,1.35E-41
+301,,mantika_label,1,Murzuq,74% (67%-82%),NA,0.668017174,0.817598484,NA,NA,1.35E-41
+311,,mantika_label,2,Murzuq,2% (0%-4%),NA,0.004374615,0.041345722,NA,NA,1.35E-41
+321,,mantika_label,3,Murzuq,23% (16%-31%),NA,0.160717766,0.307946239,NA,NA,1.35E-41
+331,,mantika_label,1,Sebha,60% (53%-68%),NA,0.525643653,0.681695717,NA,NA,1.35E-41
+341,,mantika_label,2,Sebha,2% (0%-3%),NA,-0.000328326,0.032141886,NA,NA,1.35E-41
+351,,mantika_label,3,Sebha,38% (30%-46%),NA,0.302805856,0.458041214,NA,NA,1.35E-41
+361,,mantika_label,1,Sirt,82% (78%-86%),NA,0.783960267,0.862663337,NA,NA,1.35E-41
+371,,mantika_label,2,Sirt,10% (7%-13%),NA,0.066991936,0.132100934,NA,NA,1.35E-41
+381,,mantika_label,3,Sirt,8% (5%-10%),NA,0.052399712,0.101883813,NA,NA,1.35E-41
+391,,mantika_label,1,Tripoli,73% (65%-80%),NA,0.652741183,0.802238424,NA,NA,1.35E-41
+401,,mantika_label,2,Tripoli,0%,NA,4.33E-05,0.00339651,NA,NA,1.35E-41
+411,,mantika_label,3,Tripoli,27% (20%-35%),NA,0.196045388,0.345535222,NA,NA,1.35E-41
+421,,mantika_label,1,Ubari,81% (77%-84%),NA,0.765731929,0.844428848,NA,NA,1.35E-41
+431,,mantika_label,2,Ubari,4% (3%-6%),NA,0.027751675,0.06038626,NA,NA,1.35E-41
+441,,mantika_label,3,Ubari,15% (11%-19%),NA,0.111979243,0.189722046,NA,NA,1.35E-41
+451,,mantika_label,1,Wadi Ashshati,97% (94%-99%),NA,0.94141966,0.989105287,NA,NA,1.35E-41
+461,,mantika_label,2,Wadi Ashshati,0%,NA,0.000181133,0.002292504,NA,NA,1.35E-41
+471,,mantika_label,3,Wadi Ashshati,3% (1%-6%),NA,0.009653896,0.05734752,NA,NA,1.35E-41
+48,,mantika_label,1,Zwara,79% (72%-86%),NA,0.722550572,0.864713481,NA,NA,1.35E-41
+49,,mantika_label,2,Zwara,8% (4%-13%),NA,0.035778423,0.133295992,NA,NA,1.35E-41
+50,,mantika_label,3,Zwara,12% (6%-18%),NA,0.064445382,0.17921615,NA,NA,1.35E-41
+194,,mantika_label,1,Al Jabal Al Gharbi,73% (66%-80%),NA,0.664448646,0.802978476,NA,NA,2.32E-16
+213,,mantika_label,2,Al Jabal Al Gharbi,9% (5%-14%),NA,0.050008329,0.138365874,NA,NA,2.32E-16
+312,,mantika_label,3,Al Jabal Al Gharbi,17% (11%-23%),NA,0.112626891,0.231571783,NA,NA,2.32E-16
+412,,mantika_label,1,Aljfara,83% (76%-90%),NA,0.759407336,0.900249387,NA,NA,2.32E-16
+511,,mantika_label,2,Aljfara,11% (5%-16%),NA,0.049168668,0.164630101,NA,NA,2.32E-16
+611,,mantika_label,3,Aljfara,6% (2%-11%),NA,0.017532008,0.109012499,NA,NA,2.32E-16
+711,,mantika_label,1,Aljufra,97% (94%-100%),NA,0.942986104,1.000313276,NA,NA,2.32E-16
+811,,mantika_label,2,Aljufra,0%,NA,-0.000143416,0.002597758,NA,NA,2.32E-16
+911,,mantika_label,3,Aljufra,3% (0%-6%),NA,-0.001511207,0.055757484,NA,NA,2.32E-16
+1011,,mantika_label,1,Alkufra,77% (71%-84%),NA,0.705539526,0.838740765,NA,NA,2.32E-16
+1111,,mantika_label,2,Alkufra,18% (12%-24%),NA,0.116165135,0.238873931,NA,NA,2.32E-16
+1211,,mantika_label,3,Alkufra,5% (2%-8%),NA,0.017449313,0.083231329,NA,NA,2.32E-16
+1311,,mantika_label,1,Azzawya,84% (78%-90%),NA,0.776263184,0.904536184,NA,NA,2.32E-16
+1411,,mantika_label,2,Azzawya,7% (3%-12%),NA,0.028457164,0.121069969,NA,NA,2.32E-16
+1511,,mantika_label,3,Azzawya,8% (4%-13%),NA,0.03622959,0.133443909,NA,NA,2.32E-16
+1611,,mantika_label,1,Benghazi,71% (64%-77%),NA,0.643768152,0.770752336,NA,NA,2.32E-16
+1711,,mantika_label,2,Benghazi,22% (16%-28%),NA,0.162871415,0.279888498,NA,NA,2.32E-16
+1811,,mantika_label,3,Benghazi,7% (4%-11%),NA,0.037041133,0.105678466,NA,NA,2.32E-16
+195,,mantika_label,1,Derna,89% (85%-93%),NA,0.845568665,0.934712924,NA,NA,2.32E-16
+202,,mantika_label,2,Derna,9% (5%-13%),NA,0.048441363,0.131897272,NA,NA,2.32E-16
+214,,mantika_label,3,Derna,2% (0%-4%),NA,0.002156043,0.037223733,NA,NA,2.32E-16
+222,,mantika_label,1,Ejdabia,90% (85%-95%),NA,0.854235084,0.94588999,NA,NA,2.32E-16
+232,,mantika_label,2,Ejdabia,4% (1%-8%),NA,0.007734347,0.076668557,NA,NA,2.32E-16
+242,,mantika_label,3,Ejdabia,6% (3%-9%),NA,0.026082222,0.0893898,NA,NA,2.32E-16
+252,,mantika_label,1,Ghat,85% (80%-90%),NA,0.801474161,0.897741241,NA,NA,2.32E-16
+262,,mantika_label,2,Ghat,12% (7%-16%),NA,0.072850092,0.159873139,NA,NA,2.32E-16
+272,,mantika_label,3,Ghat,3% (1%-6%),NA,0.010404209,0.057657158,NA,NA,2.32E-16
+282,,mantika_label,1,Misrata,85% (79%-91%),NA,0.791994486,0.907367869,NA,NA,2.32E-16
+292,,mantika_label,2,Misrata,8% (4%-12%),NA,0.036056894,0.116114831,NA,NA,2.32E-16
+302,,mantika_label,3,Misrata,7% (3%-12%),NA,0.029636388,0.118829531,NA,NA,2.32E-16
+313,,mantika_label,1,Murzuq,79% (72%-86%),NA,0.716637531,0.859206333,NA,NA,2.32E-16
+322,,mantika_label,2,Murzuq,7% (3%-11%),NA,0.026337325,0.114162329,NA,NA,2.32E-16
+332,,mantika_label,3,Murzuq,14% (8%-20%),NA,0.080577316,0.203079166,NA,NA,2.32E-16
+342,,mantika_label,1,Sebha,89% (84%-94%),NA,0.840288929,0.939382586,NA,NA,2.32E-16
+352,,mantika_label,2,Sebha,8% (4%-12%),NA,0.035279819,0.116318515,NA,NA,2.32E-16
+362,,mantika_label,3,Sebha,3% (0%-6%),NA,0.003748083,0.064982068,NA,NA,2.32E-16
+372,,mantika_label,1,Sirt,85% (80%-89%),NA,0.800050093,0.890500863,NA,NA,2.32E-16
+382,,mantika_label,2,Sirt,15% (11%-20%),NA,0.10790533,0.198313152,NA,NA,2.32E-16
+392,,mantika_label,3,Sirt,0%,NA,-0.000195494,0.003426056,NA,NA,2.32E-16
+402,,mantika_label,1,Tripoli,92% (87%-96%),NA,0.872008417,0.963852873,NA,NA,2.32E-16
+413,,mantika_label,2,Tripoli,6% (2%-10%),NA,0.020325931,0.102013858,NA,NA,2.32E-16
+422,,mantika_label,3,Tripoli,2% (0%-4%),NA,-0.001560674,0.043359596,NA,NA,2.32E-16
+432,,mantika_label,1,Ubari,77% (71%-83%),NA,0.708952962,0.826948924,NA,NA,2.32E-16
+442,,mantika_label,2,Ubari,14% (9%-19%),NA,0.093641011,0.192145247,NA,NA,2.32E-16
+452,,mantika_label,3,Ubari,9% (5%-13%),NA,0.049715458,0.128596397,NA,NA,2.32E-16
+462,,mantika_label,1,Wadi Ashshati,96% (93%-100%),NA,0.92853825,0.995107602,NA,NA,2.32E-16
+472,,mantika_label,2,Wadi Ashshati,1% (-1%-3%),NA,-0.006483149,0.027306015,NA,NA,2.32E-16
+481,,mantika_label,3,Wadi Ashshati,3% (0%-6%),NA,-0.001180759,0.05671204,NA,NA,2.32E-16
+491,,mantika_label,1,Zwara,69% (61%-78%),NA,0.612463183,0.776465164,NA,NA,2.32E-16
+501,,mantika_label,2,Zwara,10% (5%-16%),NA,0.048419647,0.155104324,NA,NA,2.32E-16
+51,,mantika_label,3,Zwara,20% (13%-28%),NA,0.131578355,0.275969326,NA,NA,2.32E-16
+196,,mantika_label,1,Al Jabal Al Gharbi,81% (74%-87%),NA,0.74291131,0.869203425,NA,NA,NA
+215,,mantika_label,2,Al Jabal Al Gharbi,3% (1%-6%),NA,0.005116371,0.057542441,NA,NA,NA
+314,,mantika_label,3,Al Jabal Al Gharbi,12% (7%-17%),NA,0.065083109,0.168607913,NA,NA,NA
+414,,mantika_label,4,Al Jabal Al Gharbi,5% (1%-8%),NA,0.012369394,0.079166037,NA,NA,NA
+512,,mantika_label,1,Aljfara,94% (90%-99%),NA,0.901851691,0.985929245,NA,NA,NA
+612,,mantika_label,2,Aljfara,2% (0%-4%),NA,-0.003650529,0.035101057,NA,NA,NA
+712,,mantika_label,3,Aljfara,3% (0%-6%),NA,-0.002242603,0.06347086,NA,NA,NA
+812,,mantika_label,4,Aljfara,1% (-1%-3%),NA,-0.009383612,0.028923891,NA,NA,NA
+912,,mantika_label,1,Aljufra,100% (100%-100%),NA,1,1,NA,NA,NA
+1012,,mantika_label,1,Alkufra,97% (94%-100%),NA,0.944977969,0.996325759,NA,NA,NA
+1112,,mantika_label,2,Alkufra,3% (0%-5%),NA,0.003063092,0.054382726,NA,NA,NA
+1212,,mantika_label,3,Alkufra,0%,NA,-0.000235984,0.001486437,NA,NA,NA
+1312,,mantika_label,1,Azzawya,93% (89%-98%),NA,0.89344539,0.976029822,NA,NA,NA
+1412,,mantika_label,2,Azzawya,7% (2%-11%),NA,0.023970178,0.10655461,NA,NA,NA
+1512,,mantika_label,1,Benghazi,94% (91%-97%),NA,0.913461813,0.972840238,NA,NA,NA
+1612,,mantika_label,2,Benghazi,3% (1%-5%),NA,0.007503035,0.052665583,NA,NA,NA
+1712,,mantika_label,3,Benghazi,3% (1%-5%),NA,0.006904429,0.046624902,NA,NA,NA
+1812,,mantika_label,1,Derna,93% (89%-97%),NA,0.890915329,0.971866475,NA,NA,NA
+197,,mantika_label,2,Derna,7% (2%-11%),NA,0.024954039,0.105436681,NA,NA,NA
+203,,mantika_label,3,Derna,0% (0%-1%),NA,-0.001206606,0.008034083,NA,NA,NA
+216,,mantika_label,1,Ejdabia,96% (93%-99%),NA,0.929783059,0.99214252,NA,NA,NA
+223,,mantika_label,2,Ejdabia,3% (0%-6%),NA,0.001811029,0.056035052,NA,NA,NA
+233,,mantika_label,3,Ejdabia,1% (-1%-3%),NA,-0.005720947,0.025949287,NA,NA,NA
+243,,mantika_label,1,Ghat,85% (81%-89%),NA,0.812422248,0.887357724,NA,NA,NA
+253,,mantika_label,2,Ghat,4% (2%-6%),NA,0.015628594,0.060617876,NA,NA,NA
+263,,mantika_label,3,Ghat,8% (5%-11%),NA,0.048914636,0.105210273,NA,NA,NA
+273,,mantika_label,4,Ghat,3% (1%-5%),NA,0.014981639,0.05486701,NA,NA,NA
+283,,mantika_label,1,Misrata,94% (91%-97%),NA,0.906123346,0.974674392,NA,NA,NA
+293,,mantika_label,2,Misrata,6% (2%-9%),NA,0.023648392,0.092159797,NA,NA,NA
+303,,mantika_label,3,Misrata,0%,NA,0.000236464,0.003157609,NA,NA,NA
+315,,mantika_label,1,Murzuq,91% (87%-94%),NA,0.873289786,0.943379638,NA,NA,NA
+323,,mantika_label,2,Murzuq,9% (5%-12%),NA,0.05427537,0.124389507,NA,NA,NA
+333,,mantika_label,3,Murzuq,0% (0%-1%),NA,-0.00088218,0.005547879,NA,NA,NA
+343,,mantika_label,1,Sebha,97% (96%-99%),NA,0.955966726,0.990412106,NA,NA,NA
+353,,mantika_label,2,Sebha,3% (1%-4%),NA,0.009587894,0.044033274,NA,NA,NA
+363,,mantika_label,1,Sirt,94% (91%-97%),NA,0.913555676,0.96899443,NA,NA,NA
+373,,mantika_label,2,Sirt,5% (3%-8%),NA,0.027329185,0.082582731,NA,NA,NA
+383,,mantika_label,3,Sirt,0% (0%-1%),NA,0.001057225,0.006480752,NA,NA,NA
+393,,mantika_label,1,Tripoli,93% (88%-97%),NA,0.882021342,0.969050714,NA,NA,NA
+403,,mantika_label,2,Tripoli,3% (0%-6%),NA,0.00368797,0.058416324,NA,NA,NA
+415,,mantika_label,3,Tripoli,4% (1%-8%),NA,0.008576663,0.078246988,NA,NA,NA
+423,,mantika_label,1,Ubari,93% (90%-96%),NA,0.900531254,0.956903984,NA,NA,NA
+433,,mantika_label,2,Ubari,6% (3%-8%),NA,0.03322842,0.084434337,NA,NA,NA
+443,,mantika_label,3,Ubari,1% (0%-2%),NA,8.33E-05,0.024818722,NA,NA,NA
+453,,mantika_label,1,Wadi Ashshati,95% (91%-99%),NA,0.912449114,0.986579907,NA,NA,NA
+463,,mantika_label,2,Wadi Ashshati,4% (1%-7%),NA,0.007414633,0.074041618,NA,NA,NA
+473,,mantika_label,3,Wadi Ashshati,1% (-1%-3%),NA,-0.007123773,0.026638501,NA,NA,NA
+482,,mantika_label,1,Zwara,82% (76%-89%),NA,0.755808736,0.890151011,NA,NA,NA
+492,,mantika_label,2,Zwara,17% (10%-23%),NA,0.102472981,0.233963524,NA,NA,NA
+502,,mantika_label,3,Zwara,1% (-1%-3%),NA,-0.008061295,0.025665043,NA,NA,NA
+198,,mantika_label,1,Al Jabal Al Gharbi,45% (37%-53%),NA,0.369798559,0.531496598,NA,NA,2.56E-35
+217,,mantika_label,2,Al Jabal Al Gharbi,53% (44%-61%),NA,0.444341985,0.606050987,NA,NA,2.56E-35
+316,,mantika_label,3,Al Jabal Al Gharbi,1% (-1%-2%),NA,-0.007394373,0.022792294,NA,NA,2.56E-35
+416,,mantika_label,4,Al Jabal Al Gharbi,2% (0%-4%),NA,-0.004842898,0.037756848,NA,NA,2.56E-35
+513,,mantika_label,1,Aljfara,57% (48%-66%),NA,0.476122189,0.662983045,NA,NA,2.56E-35
+613,,mantika_label,2,Aljfara,43% (34%-52%),NA,0.335277225,0.522140984,NA,NA,2.56E-35
+713,,mantika_label,4,Aljfara,0%,NA,5.84E-05,0.003418116,NA,NA,2.56E-35
+813,,mantika_label,1,Aljufra,1% (-1%-3%),NA,-0.008159531,0.025150805,NA,NA,2.56E-35
+913,,mantika_label,2,Aljufra,97% (94%-100%),NA,0.944242516,1.001511207,NA,NA,2.56E-35
+1013,,mantika_label,3,Aljufra,2% (-1%-4%),NA,-0.005271087,0.041707976,NA,NA,2.56E-35
+1113,,mantika_label,4,Aljufra,0%,NA,-0.000392874,0.001210988,NA,NA,2.56E-35
+1213,,mantika_label,1,Alkufra,55% (47%-63%),NA,0.471182157,0.628873349,NA,NA,2.56E-35
+1313,,mantika_label,2,Alkufra,44% (36%-52%),NA,0.35781905,0.515169898,NA,NA,2.56E-35
+1413,,mantika_label,3,Alkufra,1% (0%-3%),NA,-0.003080793,0.027631734,NA,NA,2.56E-35
+1513,,mantika_label,4,Alkufra,0%,NA,-0.001154737,0.003559341,NA,NA,2.56E-35
+1613,,mantika_label,1,Azzawya,23% (15%-30%),NA,0.15183956,0.298425938,NA,NA,2.56E-35
+1713,,mantika_label,2,Azzawya,74% (67%-82%),NA,0.665464004,0.819036141,NA,NA,2.56E-35
+1813,,mantika_label,3,Azzawya,1% (-1%-2%),NA,-0.007831693,0.024140282,NA,NA,2.56E-35
+199,,mantika_label,4,Azzawya,2% (0%-5%),NA,-0.002987984,0.051913752,NA,NA,2.56E-35
+204,,mantika_label,1,Benghazi,70% (63%-76%),NA,0.634099734,0.760724669,NA,NA,2.56E-35
+218,,mantika_label,2,Benghazi,29% (23%-36%),NA,0.230572324,0.356797125,NA,NA,2.56E-35
+224,,mantika_label,3,Benghazi,0% (0%-1%),NA,-0.001029482,0.010541786,NA,NA,2.56E-35
+234,,mantika_label,4,Benghazi,0% (0%-1%),NA,-0.001577292,0.009871136,NA,NA,2.56E-35
+244,,mantika_label,1,Derna,19% (13%-25%),NA,0.130492592,0.251245944,NA,NA,2.56E-35
+254,,mantika_label,2,Derna,81% (75%-87%),NA,0.746982016,0.867799491,NA,NA,2.56E-35
+264,,mantika_label,3,Derna,0% (0%-1%),NA,-0.00154389,0.005023847,NA,NA,2.56E-35
+274,,mantika_label,1,Ejdabia,74% (67%-82%),NA,0.669244666,0.816329857,NA,NA,2.56E-35
+284,,mantika_label,2,Ejdabia,25% (18%-32%),NA,0.176537749,0.321917796,NA,NA,2.56E-35
+294,,mantika_label,3,Ejdabia,1% (-1%-2%),NA,-0.007669063,0.023638995,NA,NA,2.56E-35
+304,,mantika_label,1,Ghat,64% (58%-71%),NA,0.581633348,0.707543649,NA,NA,2.56E-35
+317,,mantika_label,2,Ghat,34% (28%-40%),NA,0.277051696,0.401931031,NA,NA,2.56E-35
+324,,mantika_label,4,Ghat,2% (0%-3%),NA,0.001052389,0.030787887,NA,NA,2.56E-35
+334,,mantika_label,1,Misrata,40% (32%-48%),NA,0.319119754,0.483817478,NA,NA,2.56E-35
+344,,mantika_label,2,Misrata,60% (51%-68%),NA,0.513745962,0.678481634,NA,NA,2.56E-35
+354,,mantika_label,3,Misrata,0%,NA,7.89E-05,0.004756236,NA,NA,2.56E-35
+364,,mantika_label,1,Murzuq,41% (33%-50%),NA,0.328778661,0.500373075,NA,NA,2.56E-35
+374,,mantika_label,2,Murzuq,56% (48%-65%),NA,0.478337304,0.650958583,NA,NA,2.56E-35
+384,,mantika_label,3,Murzuq,2% (0%-4%),NA,-0.004438356,0.043657883,NA,NA,2.56E-35
+394,,mantika_label,4,Murzuq,0%,NA,-0.001120278,0.003453128,NA,NA,2.56E-35
+404,,mantika_label,1,Sebha,48% (40%-56%),NA,0.397940331,0.562687419,NA,NA,2.56E-35
+417,,mantika_label,2,Sebha,51% (43%-59%),NA,0.426505547,0.591289259,NA,NA,2.56E-35
+424,,mantika_label,4,Sebha,1% (-1%-3%),NA,-0.005008288,0.026585731,NA,NA,2.56E-35
+434,,mantika_label,1,Sirt,56% (50%-62%),NA,0.497855763,0.621778582,NA,NA,2.56E-35
+444,,mantika_label,2,Sirt,40% (34%-46%),NA,0.33902421,0.460914836,NA,NA,2.56E-35
+454,,mantika_label,3,Sirt,1% (0%-2%),NA,-0.003142714,0.023382338,NA,NA,2.56E-35
+464,,mantika_label,4,Sirt,3% (1%-5%),NA,0.01054667,0.049640314,NA,NA,2.56E-35
+474,,mantika_label,1,Tripoli,56% (48%-65%),NA,0.479499423,0.647278038,NA,NA,2.56E-35
+483,,mantika_label,2,Tripoli,44% (35%-52%),NA,0.352721962,0.520500577,NA,NA,2.56E-35
+493,,mantika_label,1,Ubari,27% (21%-33%),NA,0.206835186,0.33247275,NA,NA,2.56E-35
+503,,mantika_label,2,Ubari,72% (65%-78%),NA,0.653529874,0.780616075,NA,NA,2.56E-35
+514,,mantika_label,3,Ubari,1% (0%-3%),NA,-0.001062131,0.027608246,NA,NA,2.56E-35
+52,,mantika_label,1,Wadi Ashshati,63% (55%-72%),NA,0.548182211,0.720235267,NA,NA,2.56E-35
+53,,mantika_label,2,Wadi Ashshati,31% (23%-40%),NA,0.230559787,0.395589349,NA,NA,2.56E-35
+54,,mantika_label,3,Wadi Ashshati,1% (-1%-3%),NA,-0.008251953,0.025435684,NA,NA,2.56E-35
+55,,mantika_label,4,Wadi Ashshati,4% (1%-8%),NA,0.007122579,0.081127075,NA,NA,2.56E-35
+56,,mantika_label,1,Zwara,48% (39%-57%),NA,0.392681532,0.569647213,NA,NA,2.56E-35
+57,,mantika_label,2,Zwara,47% (39%-56%),NA,0.385510863,0.562185963,NA,NA,2.56E-35
+58,,mantika_label,3,Zwara,1% (-1%-3%),NA,-0.007501872,0.026285987,NA,NA,2.56E-35
+59,,mantika_label,4,Zwara,4% (0%-7%),NA,0.002327083,0.068863231,NA,NA,2.56E-35
+1100,,mantika_label,1,Al Jabal Al Gharbi,51% (43%-59%),NA,0.429791553,0.59241793,NA,NA,9.90E-71
+219,,mantika_label,2,Al Jabal Al Gharbi,8% (4%-13%),NA,0.041006747,0.125966382,NA,NA,9.90E-71
+318,,mantika_label,3,Al Jabal Al Gharbi,30% (22%-37%),NA,0.22289123,0.373204475,NA,NA,9.90E-71
+418,,mantika_label,4,Al Jabal Al Gharbi,11% (6%-15%),NA,0.062348006,0.152373678,NA,NA,9.90E-71
+515,,mantika_label,1,Aljfara,56% (47%-66%),NA,0.466383723,0.656012799,NA,NA,9.90E-71
+614,,mantika_label,2,Aljfara,1% (-1%-3%),NA,-0.007296973,0.031981742,NA,NA,9.90E-71
+714,,mantika_label,3,Aljfara,37% (28%-47%),NA,0.279757433,0.465143884,NA,NA,9.90E-71
+814,,mantika_label,4,Aljfara,5% (1%-10%),NA,0.01122097,0.096796421,NA,NA,9.90E-71
+914,,mantika_label,1,Aljufra,96% (92%-99%),NA,0.91969191,0.992897378,NA,NA,9.90E-71
+1014,,mantika_label,2,Aljufra,1% (-1%-3%),NA,-0.008159562,0.025150835,NA,NA,9.90E-71
+1114,,mantika_label,3,Aljufra,4% (0%-7%),NA,0.002315903,0.068103535,NA,NA,9.90E-71
+1214,,mantika_label,1,Alkufra,34% (27%-41%),NA,0.265429863,0.406535228,NA,NA,9.90E-71
+1314,,mantika_label,2,Alkufra,2% (0%-4%),NA,-0.000775702,0.041509619,NA,NA,9.90E-71
+1414,,mantika_label,3,Alkufra,64% (57%-71%),NA,0.57068688,0.714209506,NA,NA,9.90E-71
+1514,,mantika_label,4,Alkufra,0%,NA,-0.001154741,0.003559346,NA,NA,9.90E-71
+1614,,mantika_label,1,Azzawya,27% (19%-35%),NA,0.191049499,0.346206426,NA,NA,9.90E-71
+1714,,mantika_label,2,Azzawya,3% (0%-5%),NA,-0.002302203,0.052628973,NA,NA,9.90E-71
+1814,,mantika_label,3,Azzawya,66% (57%-74%),NA,0.573492477,0.739672289,NA,NA,9.90E-71
+1910,,mantika_label,4,Azzawya,5% (1%-9%),NA,0.011304008,0.08794853,NA,NA,9.90E-71
+205,,mantika_label,1,Benghazi,87% (82%-91%),NA,0.81696417,0.913886157,NA,NA,9.90E-71
+2110,,mantika_label,2,Benghazi,3% (1%-5%),NA,0.005119011,0.045584455,NA,NA,9.90E-71
+225,,mantika_label,3,Benghazi,9% (5%-13%),NA,0.047255403,0.130376107,NA,NA,9.90E-71
+235,,mantika_label,4,Benghazi,2% (0%-4%),NA,0.001039839,0.039774857,NA,NA,9.90E-71
+245,,mantika_label,1,Derna,82% (77%-88%),NA,0.76678977,0.882116138,NA,NA,9.90E-71
+255,,mantika_label,2,Derna,1% (-1%-3%),NA,-0.0062139,0.025275589,NA,NA,9.90E-71
+265,,mantika_label,3,Derna,16% (11%-22%),NA,0.108266731,0.22041254,NA,NA,9.90E-71
+275,,mantika_label,4,Derna,0%,NA,-0.001610243,0.004963375,NA,NA,9.90E-71
+285,,mantika_label,1,Ejdabia,87% (81%-92%),NA,0.809535446,0.923701611,NA,NA,9.90E-71
+295,,mantika_label,2,Ejdabia,6% (2%-10%),NA,0.021685124,0.102727803,NA,NA,9.90E-71
+305,,mantika_label,3,Ejdabia,6% (2%-9%),NA,0.017387271,0.092901848,NA,NA,9.90E-71
+319,,mantika_label,4,Ejdabia,2% (-1%-4%),NA,-0.006026286,0.038087183,NA,NA,9.90E-71
+325,,mantika_label,1,Ghat,22% (16%-28%),NA,0.163980103,0.278717122,NA,NA,9.90E-71
+335,,mantika_label,2,Ghat,3% (0%-5%),NA,0.004897898,0.047396714,NA,NA,9.90E-71
+345,,mantika_label,3,Ghat,75% (69%-81%),NA,0.692671068,0.811385452,NA,NA,9.90E-71
+355,,mantika_label,4,Ghat,0%,NA,-0.000456998,0.001408641,NA,NA,9.90E-71
+365,,mantika_label,1,Misrata,72% (65%-80%),NA,0.648619209,0.796524261,NA,NA,9.90E-71
+375,,mantika_label,2,Misrata,16% (10%-22%),NA,0.102261098,0.223288166,NA,NA,9.90E-71
+385,,mantika_label,3,Misrata,10% (5%-15%),NA,0.049157451,0.147170167,NA,NA,9.90E-71
+395,,mantika_label,4,Misrata,2% (-1%-4%),NA,-0.005218419,0.038198067,NA,NA,9.90E-71
+405,,mantika_label,1,Murzuq,86% (80%-92%),NA,0.802566559,0.921998289,NA,NA,9.90E-71
+419,,mantika_label,2,Murzuq,2% (-1%-4%),NA,-0.005498398,0.042385076,NA,NA,9.90E-71
+425,,mantika_label,3,Murzuq,3% (0%-5%),NA,0.001126308,0.050206696,NA,NA,9.90E-71
+435,,mantika_label,4,Murzuq,9% (4%-15%),NA,0.042181176,0.145034294,NA,NA,9.90E-71
+445,,mantika_label,1,Sebha,77% (70%-84%),NA,0.700022032,0.839546507,NA,NA,9.90E-71
+455,,mantika_label,2,Sebha,6% (2%-10%),NA,0.018198128,0.097996388,NA,NA,9.90E-71
+465,,mantika_label,3,Sebha,16% (10%-22%),NA,0.099476299,0.220891197,NA,NA,9.90E-71
+475,,mantika_label,4,Sebha,1% (0%-3%),NA,-0.003973599,0.027843049,NA,NA,9.90E-71
+484,,mantika_label,1,Sirt,88% (84%-92%),NA,0.844712305,0.923654216,NA,NA,9.90E-71
+494,,mantika_label,2,Sirt,5% (3%-8%),NA,0.02687223,0.082593686,NA,NA,9.90E-71
+504,,mantika_label,3,Sirt,6% (3%-8%),NA,0.026154776,0.084277694,NA,NA,9.90E-71
+516,,mantika_label,4,Sirt,1% (0%-2%),NA,-0.003641104,0.015376197,NA,NA,9.90E-71
+521,,mantika_label,1,Tripoli,91% (86%-96%),NA,0.861162145,0.957563723,NA,NA,9.90E-71
+531,,mantika_label,2,Tripoli,2% (0%-4%),NA,-0.003974041,0.04082291,NA,NA,9.90E-71
+541,,mantika_label,3,Tripoli,6% (2%-10%),NA,0.018366137,0.100035368,NA,NA,9.90E-71
+551,,mantika_label,4,Tripoli,1% (0%-3%),NA,-0.003091784,0.029115541,NA,NA,9.90E-71
+561,,mantika_label,1,Ubari,60% (54%-67%),NA,0.535009924,0.666634653,NA,NA,9.90E-71
+571,,mantika_label,2,Ubari,2% (1%-4%),NA,0.006013541,0.03979204,NA,NA,9.90E-71
+581,,mantika_label,3,Ubari,37% (30%-43%),NA,0.302514154,0.432922199,NA,NA,9.90E-71
+591,,mantika_label,4,Ubari,1% (0%-2%),NA,-0.004522986,0.021636475,NA,NA,9.90E-71
+60,,mantika_label,1,Wadi Ashshati,84% (78%-91%),NA,0.779838551,0.908646337,NA,NA,9.90E-71
+61,,mantika_label,2,Wadi Ashshati,0%,NA,0.000787413,0.003878659,NA,NA,9.90E-71
+62,,mantika_label,3,Wadi Ashshati,13% (7%-19%),NA,0.067043497,0.185733447,NA,NA,9.90E-71
+63,,mantika_label,4,Wadi Ashshati,3% (0%-6%),NA,-0.00192126,0.055993356,NA,NA,9.90E-71
+64,,mantika_label,1,Zwara,84% (78%-91%),NA,0.775060282,0.906645645,NA,NA,9.90E-71
+65,,mantika_label,2,Zwara,1% (-1%-3%),NA,-0.007111131,0.027630488,NA,NA,9.90E-71
+66,,mantika_label,3,Zwara,11% (6%-17%),NA,0.056540788,0.170172661,NA,NA,9.90E-71
+67,,mantika_label,4,Zwara,4% (0%-7%),NA,0.001402405,0.069658862,NA,NA,9.90E-71
+1101,,mantika_label,1,Al Jabal Al Gharbi,76% (69%-82%),NA,0.687801795,0.822650005,NA,NA,NA
+220,,mantika_label,2,Al Jabal Al Gharbi,23% (17%-30%),NA,0.168075679,0.300969515,NA,NA,NA
+320,,mantika_label,3,Al Jabal Al Gharbi,1% (-1%-3%),NA,-0.005046582,0.025549588,NA,NA,NA
+420,,mantika_label,1,Aljfara,91% (85%-96%),NA,0.854688473,0.959294506,NA,NA,NA
+517,,mantika_label,2,Aljfara,6% (2%-10%),NA,0.016670544,0.100811372,NA,NA,NA
+615,,mantika_label,3,Aljfara,3% (0%-7%),NA,0.00133696,0.067198145,NA,NA,NA
+715,,mantika_label,1,Aljufra,16% (9%-22%),NA,0.091838439,0.222185631,NA,NA,NA
+815,,mantika_label,2,Aljufra,84% (78%-91%),NA,0.777814369,0.908161561,NA,NA,NA
+915,,mantika_label,1,Alkufra,94% (90%-98%),NA,0.903614474,0.975434227,NA,NA,NA
+1015,,mantika_label,2,Alkufra,5% (2%-8%),NA,0.015623984,0.075462269,NA,NA,NA
+1115,,mantika_label,3,Alkufra,1% (-1%-4%),NA,-0.005675724,0.03554077,NA,NA,NA
+1215,,mantika_label,1,Azzawya,44% (36%-53%),NA,0.357708108,0.531313453,NA,NA,NA
+1315,,mantika_label,2,Azzawya,54% (45%-63%),NA,0.451424672,0.625535587,NA,NA,NA
+1415,,mantika_label,3,Azzawya,2% (-1%-4%),NA,-0.005519575,0.039537756,NA,NA,NA
+1515,,mantika_label,1,Benghazi,95% (92%-98%),NA,0.916057238,0.977991673,NA,NA,NA
+1615,,mantika_label,2,Benghazi,5% (2%-8%),NA,0.022008327,0.083942762,NA,NA,NA
+1715,,mantika_label,1,Derna,71% (65%-78%),NA,0.645978878,0.776314943,NA,NA,NA
+1815,,mantika_label,2,Derna,29% (22%-35%),NA,0.223685057,0.354021122,NA,NA,NA
+1911,,mantika_label,1,Ejdabia,88% (82%-93%),NA,0.82276404,0.933434789,NA,NA,NA
+206,,mantika_label,2,Ejdabia,12% (7%-18%),NA,0.066565211,0.17723596,NA,NA,NA
+2111,,mantika_label,1,Ghat,67% (61%-73%),NA,0.609771667,0.729582629,NA,NA,NA
+226,,mantika_label,2,Ghat,28% (22%-34%),NA,0.221745318,0.340233722,NA,NA,NA
+236,,mantika_label,3,Ghat,5% (3%-7%),NA,0.028550503,0.07011616,NA,NA,NA
+246,,mantika_label,1,Misrata,93% (89%-97%),NA,0.891551154,0.971410666,NA,NA,NA
+256,,mantika_label,2,Misrata,7% (3%-11%),NA,0.028589334,0.108448846,NA,NA,NA
+266,,mantika_label,1,Murzuq,77% (70%-84%),NA,0.69523628,0.840451404,NA,NA,NA
+276,,mantika_label,2,Murzuq,23% (16%-30%),NA,0.159548596,0.30476372,NA,NA,NA
+286,,mantika_label,1,Sebha,86% (80%-91%),NA,0.797505351,0.913354519,NA,NA,NA
+296,,mantika_label,2,Sebha,14% (9%-20%),NA,0.086645481,0.202494649,NA,NA,NA
+306,,mantika_label,1,Sirt,93% (90%-96%),NA,0.896585333,0.961180997,NA,NA,NA
+3110,,mantika_label,2,Sirt,7% (4%-10%),NA,0.038819003,0.103414667,NA,NA,NA
+326,,mantika_label,1,Tripoli,96% (93%-99%),NA,0.929700266,0.992512638,NA,NA,NA
+336,,mantika_label,2,Tripoli,2% (0%-4%),NA,-0.000244605,0.044772561,NA,NA,NA
+346,,mantika_label,3,Tripoli,2% (-1%-4%),NA,-0.005683208,0.038942348,NA,NA,NA
+356,,mantika_label,1,Ubari,53% (47%-60%),NA,0.465309759,0.603360366,NA,NA,NA
+366,,mantika_label,2,Ubari,47% (40%-53%),NA,0.396639634,0.534690241,NA,NA,NA
+376,,mantika_label,1,Wadi Ashshati,76% (69%-84%),NA,0.686330093,0.837823296,NA,NA,NA
+386,,mantika_label,2,Wadi Ashshati,24% (16%-31%),NA,0.162055795,0.31354902,NA,NA,NA
+396,,mantika_label,4,Wadi Ashshati,0%,NA,-0.000116115,0.000357911,NA,NA,NA
+406,,mantika_label,1,Zwara,69% (61%-78%),NA,0.612869522,0.776868914,NA,NA,NA
+4110,,mantika_label,2,Zwara,27% (19%-35%),NA,0.190271617,0.348377205,NA,NA,NA
+426,,mantika_label,3,Zwara,4% (0%-7%),NA,0.002540513,0.069072228,NA,NA,NA
+1102,,mantika_label,1,Al Jabal Al Gharbi,70% (63%-78%),NA,0.628704709,0.776195966,NA,NA,2.02E-42
+227,,mantika_label,2,Al Jabal Al Gharbi,19% (12%-25%),NA,0.124623102,0.250735004,NA,NA,2.02E-42
+327,,mantika_label,3,Al Jabal Al Gharbi,6% (2%-10%),NA,0.02469383,0.097844401,NA,NA,2.02E-42
+427,,mantika_label,4,Al Jabal Al Gharbi,5% (1%-8%),NA,0.012387823,0.084815165,NA,NA,2.02E-42
+518,,mantika_label,1,Aljfara,70% (62%-79%),NA,0.618777379,0.790511403,NA,NA,2.02E-42
+616,,mantika_label,2,Aljfara,24% (16%-32%),NA,0.163665021,0.324951086,NA,NA,2.02E-42
+716,,mantika_label,3,Aljfara,3% (0%-6%),NA,-0.002211979,0.063488251,NA,NA,2.02E-42
+816,,mantika_label,4,Aljfara,2% (-1%-5%),NA,-0.006561805,0.047380643,NA,NA,2.02E-42
+916,,mantika_label,1,Aljufra,11% (6%-17%),NA,0.055688703,0.169288427,NA,NA,2.02E-42
+1016,,mantika_label,2,Aljufra,89% (83%-94%),NA,0.830711573,0.944311297,NA,NA,2.02E-42
+1116,,mantika_label,1,Alkufra,61% (53%-69%),NA,0.530065672,0.686444677,NA,NA,2.02E-42
+1216,,mantika_label,2,Alkufra,37% (30%-45%),NA,0.296709854,0.452105543,NA,NA,2.02E-42
+1316,,mantika_label,3,Alkufra,2% (0%-4%),NA,-0.003536352,0.038210607,NA,NA,2.02E-42
+1416,,mantika_label,1,Azzawya,45% (36%-54%),NA,0.363990037,0.537610583,NA,NA,2.02E-42
+1516,,mantika_label,2,Azzawya,48% (40%-57%),NA,0.396350998,0.570774814,NA,NA,2.02E-42
+1616,,mantika_label,3,Azzawya,2% (0%-5%),NA,-0.002987984,0.051913752,NA,NA,2.02E-42
+1716,,mantika_label,4,Azzawya,4% (1%-8%),NA,0.006038642,0.076309157,NA,NA,2.02E-42
+1816,,mantika_label,1,Benghazi,87% (82%-92%),NA,0.824654327,0.918387945,NA,NA,2.02E-42
+1912,,mantika_label,2,Benghazi,6% (3%-9%),NA,0.028185224,0.091916632,NA,NA,2.02E-42
+207,,mantika_label,3,Benghazi,6% (3%-10%),NA,0.027537261,0.099806308,NA,NA,2.02E-42
+2112,,mantika_label,4,Benghazi,0% (0%-1%),NA,-0.001029482,0.010541786,NA,NA,2.02E-42
+228,,mantika_label,1,Derna,76% (69%-83%),NA,0.685942453,0.826407917,NA,NA,2.02E-42
+237,,mantika_label,2,Derna,20% (13%-26%),NA,0.133851484,0.264682075,NA,NA,2.02E-42
+247,,mantika_label,4,Derna,4% (1%-8%),NA,0.010390976,0.078725094,NA,NA,2.02E-42
+257,,mantika_label,1,Ejdabia,89% (83%-94%),NA,0.833848845,0.941017014,NA,NA,2.02E-42
+267,,mantika_label,2,Ejdabia,5% (1%-9%),NA,0.012567,0.087707556,NA,NA,2.02E-42
+277,,mantika_label,3,Ejdabia,6% (2%-10%),NA,0.021228227,0.102211888,NA,NA,2.02E-42
+287,,mantika_label,4,Ejdabia,0%,NA,-0.000681656,0.002101125,NA,NA,2.02E-42
+297,,mantika_label,1,Ghat,70% (64%-76%),NA,0.643151128,0.764389133,NA,NA,2.02E-42
+307,,mantika_label,2,Ghat,27% (21%-33%),NA,0.214638451,0.332254525,NA,NA,2.02E-42
+3111,,mantika_label,3,Ghat,2% (0%-4%),NA,0.001641914,0.042994001,NA,NA,2.02E-42
+328,,mantika_label,4,Ghat,0%,NA,-0.00044701,0.001377857,NA,NA,2.02E-42
+337,,mantika_label,1,Misrata,69% (62%-77%),NA,0.615450834,0.769840681,NA,NA,2.02E-42
+347,,mantika_label,2,Misrata,30% (23%-38%),NA,0.225942913,0.380288266,NA,NA,2.02E-42
+357,,mantika_label,3,Misrata,0%,NA,0.000821629,0.004029298,NA,NA,2.02E-42
+367,,mantika_label,4,Misrata,0%,NA,-0.000221162,0.003847541,NA,NA,2.02E-42
+377,,mantika_label,1,Murzuq,31% (23%-39%),NA,0.226118937,0.385913508,NA,NA,2.02E-42
+387,,mantika_label,2,Murzuq,61% (52%-69%),NA,0.522317151,0.692031314,NA,NA,2.02E-42
+397,,mantika_label,3,Murzuq,6% (2%-11%),NA,0.020546563,0.107839615,NA,NA,2.02E-42
+407,,mantika_label,4,Murzuq,2% (0%-5%),NA,-0.001646955,0.046879868,NA,NA,2.02E-42
+4111,,mantika_label,1,Sebha,80% (73%-86%),NA,0.728333746,0.861903425,NA,NA,2.02E-42
+428,,mantika_label,2,Sebha,17% (11%-24%),NA,0.110676592,0.237157773,NA,NA,2.02E-42
+436,,mantika_label,3,Sebha,2% (0%-4%),NA,-0.002263682,0.041902645,NA,NA,2.02E-42
+446,,mantika_label,4,Sebha,1% (0%-3%),NA,-0.004659881,0.026949384,NA,NA,2.02E-42
+456,,mantika_label,1,Sirt,95% (92%-98%),NA,0.917897617,0.975073993,NA,NA,2.02E-42
+466,,mantika_label,2,Sirt,2% (0%-4%),NA,0.004725953,0.042214419,NA,NA,2.02E-42
+476,,mantika_label,3,Sirt,3% (1%-5%),NA,0.007861277,0.052226742,NA,NA,2.02E-42
+485,,mantika_label,1,Tripoli,84% (78%-91%),NA,0.781799312,0.905706082,NA,NA,2.02E-42
+495,,mantika_label,2,Tripoli,13% (8%-19%),NA,0.075539383,0.193496088,NA,NA,2.02E-42
+505,,mantika_label,3,Tripoli,2% (0%-4%),NA,-0.001614023,0.043293587,NA,NA,2.02E-42
+519,,mantika_label,4,Tripoli,0%,NA,-0.000346441,0.002126012,NA,NA,2.02E-42
+522,,mantika_label,1,Ubari,68% (61%-74%),NA,0.613683302,0.738033324,NA,NA,2.02E-42
+532,,mantika_label,2,Ubari,26% (20%-32%),NA,0.198841169,0.316115235,NA,NA,2.02E-42
+542,,mantika_label,3,Ubari,5% (2%-8%),NA,0.024882063,0.084631982,NA,NA,2.02E-42
+552,,mantika_label,4,Ubari,1% (0%-2%),NA,0.002132941,0.021679985,NA,NA,2.02E-42
+562,,mantika_label,1,Wadi Ashshati,69% (61%-78%),NA,0.61110072,0.776165566,NA,NA,2.02E-42
+572,,mantika_label,2,Wadi Ashshati,28% (20%-36%),NA,0.195500499,0.356072755,NA,NA,2.02E-42
+582,,mantika_label,3,Wadi Ashshati,1% (-1%-3%),NA,-0.006721905,0.027061178,NA,NA,2.02E-42
+592,,mantika_label,4,Wadi Ashshati,2% (0%-4%),NA,-0.003364769,0.044185955,NA,NA,2.02E-42
+601,,mantika_label,1,Zwara,46% (37%-55%),NA,0.369360637,0.545792718,NA,NA,2.02E-42
+617,,mantika_label,2,Zwara,47% (38%-56%),NA,0.382086349,0.55875949,NA,NA,2.02E-42
+621,,mantika_label,3,Zwara,5% (1%-9%),NA,0.012849011,0.093548799,NA,NA,2.02E-42
+631,,mantika_label,4,Zwara,2% (0%-4%),NA,-0.004967439,0.042570435,NA,NA,2.02E-42
+1103,,mantika_label,no,Al Jabal Al Gharbi,16% (10%-22%),NA,0.098535592,0.221166895,NA,NA,6.10E-30
+229,,mantika_label,yes,Al Jabal Al Gharbi,84% (78%-90%),NA,0.778833105,0.901464408,NA,NA,6.10E-30
+329,,mantika_label,no,Aljfara,30% (21%-39%),NA,0.211530568,0.385997375,NA,NA,6.10E-30
+429,,mantika_label,yes,Aljfara,70% (61%-79%),NA,0.614002625,0.788469432,NA,NA,6.10E-30
+520,,mantika_label,yes,Aljufra,100% (100%-100%),NA,1,1,NA,NA,6.10E-30
+618,,mantika_label,no,Alkufra,19% (13%-25%),NA,0.132988244,0.247443442,NA,NA,6.10E-30
+717,,mantika_label,yes,Alkufra,81% (75%-87%),NA,0.752556558,0.867011756,NA,NA,6.10E-30
+817,,mantika_label,no,Azzawya,9% (4%-13%),NA,0.03759117,0.134832158,NA,NA,6.10E-30
+917,,mantika_label,yes,Azzawya,91% (87%-96%),NA,0.865167842,0.96240883,NA,NA,6.10E-30
+1017,,mantika_label,no,Benghazi,46% (39%-53%),NA,0.390936331,0.532429228,NA,NA,6.10E-30
+1117,,mantika_label,yes,Benghazi,54% (47%-61%),NA,0.467570772,0.609063669,NA,NA,6.10E-30
+1217,,mantika_label,no,Derna,26% (19%-33%),NA,0.18634321,0.3263877,NA,NA,6.10E-30
+1317,,mantika_label,yes,Derna,74% (67%-81%),NA,0.6736123,0.81365679,NA,NA,6.10E-30
+1417,,mantika_label,no,Ejdabia,57% (48%-65%),NA,0.48375926,0.650776823,NA,NA,6.10E-30
+1517,,mantika_label,yes,Ejdabia,43% (35%-52%),NA,0.349223177,0.51624074,NA,NA,6.10E-30
+1617,,mantika_label,no,Ghat,11% (7%-16%),NA,0.070626931,0.159245109,NA,NA,6.10E-30
+1717,,mantika_label,yes,Ghat,89% (84%-93%),NA,0.840754891,0.929373069,NA,NA,6.10E-30
+1817,,mantika_label,no,Misrata,66% (58%-74%),NA,0.582307517,0.738043163,NA,NA,6.10E-30
+1913,,mantika_label,yes,Misrata,34% (26%-42%),NA,0.261956837,0.417692483,NA,NA,6.10E-30
+208,,mantika_label,no,Murzuq,9% (4%-14%),NA,0.035916474,0.138200355,NA,NA,6.10E-30
+2113,,mantika_label,yes,Murzuq,91% (86%-96%),NA,0.861799645,0.964083526,NA,NA,6.10E-30
+2210,,mantika_label,no,Sebha,32% (24%-39%),NA,0.24015685,0.394369809,NA,NA,6.10E-30
+238,,mantika_label,yes,Sebha,68% (61%-76%),NA,0.605630191,0.75984315,NA,NA,6.10E-30
+248,,mantika_label,no,Sirt,47% (41%-53%),NA,0.406539577,0.531643557,NA,NA,6.10E-30
+258,,mantika_label,yes,Sirt,53% (47%-59%),NA,0.468356443,0.593460423,NA,NA,6.10E-30
+268,,mantika_label,no,Tripoli,48% (40%-57%),NA,0.399533256,0.568322903,NA,NA,6.10E-30
+278,,mantika_label,yes,Tripoli,52% (43%-60%),NA,0.431677097,0.600466744,NA,NA,6.10E-30
+288,,mantika_label,no,Ubari,19% (14%-25%),NA,0.136272289,0.251189218,NA,NA,6.10E-30
+298,,mantika_label,yes,Ubari,81% (75%-86%),NA,0.748810782,0.863727711,NA,NA,6.10E-30
+308,,mantika_label,no,Wadi Ashshati,65% (56%-73%),NA,0.560015887,0.731245591,NA,NA,6.10E-30
+3112,,mantika_label,yes,Wadi Ashshati,35% (27%-44%),NA,0.268754409,0.439984113,NA,NA,6.10E-30
+3210,,mantika_label,no,Zwara,26% (19%-34%),NA,0.185469538,0.343576112,NA,NA,6.10E-30
+338,,mantika_label,yes,Zwara,74% (66%-81%),NA,0.656423888,0.814530462,NA,NA,6.10E-30
+1104,,mantika_label,1,Al Jabal Al Gharbi,21% (15%-28%),NA,0.145620629,0.281690165,NA,NA,1.51E-50
+230,,mantika_label,2,Al Jabal Al Gharbi,8% (3%-12%),NA,0.032421452,0.120026975,NA,NA,1.51E-50
+330,,mantika_label,3,Al Jabal Al Gharbi,70% (63%-78%),NA,0.628875322,0.778557375,NA,NA,1.51E-50
+430,,mantika_label,4,Al Jabal Al Gharbi,1% (0%-1%),NA,0.002673715,0.010134368,NA,NA,1.51E-50
+523,,mantika_label,1,Aljfara,28% (19%-36%),NA,0.19488904,0.364725383,NA,NA,1.51E-50
+619,,mantika_label,2,Aljfara,11% (5%-16%),NA,0.047725971,0.163159662,NA,NA,1.51E-50
+718,,mantika_label,3,Aljfara,59% (50%-69%),NA,0.500090492,0.685629463,NA,NA,1.51E-50
+818,,mantika_label,4,Aljfara,2% (-1%-5%),NA,-0.005113319,0.048893308,NA,NA,1.51E-50
+918,,mantika_label,3,Aljufra,92% (88%-97%),NA,0.878947997,0.97039576,NA,NA,1.51E-50
+1018,,mantika_label,4,Aljufra,8% (3%-12%),NA,0.02960424,0.121052003,NA,NA,1.51E-50
+1118,,mantika_label,1,Alkufra,24% (17%-30%),NA,0.174625538,0.304899372,NA,NA,1.51E-50
+1218,,mantika_label,2,Alkufra,20% (13%-26%),NA,0.132025713,0.260693409,NA,NA,1.51E-50
+1318,,mantika_label,3,Alkufra,53% (45%-61%),NA,0.453763632,0.611737308,NA,NA,1.51E-50
+1418,,mantika_label,4,Alkufra,3% (1%-6%),NA,0.005275256,0.056979771,NA,NA,1.51E-50
+1518,,mantika_label,1,Azzawya,9% (4%-14%),NA,0.042945281,0.14443781,NA,NA,1.51E-50
+1618,,mantika_label,2,Azzawya,7% (2%-11%),NA,0.023683376,0.111427968,NA,NA,1.51E-50
+1718,,mantika_label,3,Azzawya,83% (76%-90%),NA,0.764767327,0.895729148,NA,NA,1.51E-50
+1818,,mantika_label,4,Azzawya,1% (-1%-2%),NA,-0.007494151,0.024503241,NA,NA,1.51E-50
+1914,,mantika_label,1,Benghazi,47% (40%-54%),NA,0.397190571,0.53613333,NA,NA,1.51E-50
+209,,mantika_label,2,Benghazi,7% (3%-10%),NA,0.034008533,0.098651778,NA,NA,1.51E-50
+2114,,mantika_label,3,Benghazi,43% (36%-50%),NA,0.359589442,0.4971785,NA,NA,1.51E-50
+2211,,mantika_label,4,Benghazi,4% (1%-6%),NA,0.014494369,0.062753477,NA,NA,1.51E-50
+239,,mantika_label,1,Derna,12% (6%-17%),NA,0.063970241,0.166903486,NA,NA,1.51E-50
+249,,mantika_label,2,Derna,18% (12%-24%),NA,0.116256108,0.236281818,NA,NA,1.51E-50
+259,,mantika_label,3,Derna,65% (58%-73%),NA,0.576476231,0.728093161,NA,NA,1.51E-50
+269,,mantika_label,4,Derna,6% (2%-9%),NA,0.02087885,0.091140105,NA,NA,1.51E-50
+279,,mantika_label,1,Ejdabia,62% (54%-70%),NA,0.538761302,0.702575372,NA,NA,1.51E-50
+289,,mantika_label,2,Ejdabia,5% (1%-9%),NA,0.011833081,0.086923727,NA,NA,1.51E-50
+299,,mantika_label,3,Ejdabia,32% (24%-40%),NA,0.240610093,0.397648615,NA,NA,1.51E-50
+309,,mantika_label,4,Ejdabia,1% (-1%-3%),NA,-0.005068902,0.026716711,NA,NA,1.51E-50
+3113,,mantika_label,1,Ghat,23% (17%-29%),NA,0.171030352,0.286423526,NA,NA,1.51E-50
+3211,,mantika_label,2,Ghat,46% (39%-52%),NA,0.38772625,0.522961468,NA,NA,1.51E-50
+339,,mantika_label,3,Ghat,28% (22%-34%),NA,0.220820466,0.341077673,NA,NA,1.51E-50
+348,,mantika_label,4,Ghat,3% (1%-6%),NA,0.009797404,0.060162861,NA,NA,1.51E-50
+358,,mantika_label,1,Misrata,35% (27%-43%),NA,0.267967071,0.428199071,NA,NA,1.51E-50
+368,,mantika_label,2,Misrata,41% (33%-49%),NA,0.329262801,0.494038871,NA,NA,1.51E-50
+378,,mantika_label,3,Misrata,21% (15%-28%),NA,0.147373241,0.278470919,NA,NA,1.51E-50
+388,,mantika_label,4,Misrata,3% (0%-5%),NA,0.000783239,0.053904787,NA,NA,1.51E-50
+398,,mantika_label,1,Murzuq,7% (2%-12%),NA,0.024213052,0.116784342,NA,NA,1.51E-50
+408,,mantika_label,2,Murzuq,4% (0%-7%),NA,0.001628894,0.068377221,NA,NA,1.51E-50
+4112,,mantika_label,3,Murzuq,82% (75%-88%),NA,0.746747048,0.884023647,NA,NA,1.51E-50
+4210,,mantika_label,4,Murzuq,8% (3%-13%),NA,0.032466181,0.125759616,NA,NA,1.51E-50
+437,,mantika_label,1,Sebha,15% (9%-21%),NA,0.086566462,0.20736504,NA,NA,1.51E-50
+447,,mantika_label,2,Sebha,24% (17%-31%),NA,0.16688548,0.306585963,NA,NA,1.51E-50
+457,,mantika_label,3,Sebha,62% (53%-70%),NA,0.534596199,0.695708848,NA,NA,1.51E-50
+467,,mantika_label,4,Sebha,0%,NA,-0.000783501,0.003075508,NA,NA,1.51E-50
+477,,mantika_label,1,Sirt,48% (42%-54%),NA,0.420557885,0.54493418,NA,NA,1.51E-50
+486,,mantika_label,2,Sirt,4% (1%-6%),NA,0.011385111,0.058741629,NA,NA,1.51E-50
+496,,mantika_label,3,Sirt,44% (38%-50%),NA,0.376657589,0.500651022,NA,NA,1.51E-50
+506,,mantika_label,4,Sirt,4% (2%-7%),NA,0.018663599,0.068408985,NA,NA,1.51E-50
+5110,,mantika_label,1,Tripoli,46% (38%-55%),NA,0.377093655,0.545173065,NA,NA,1.51E-50
+524,,mantika_label,2,Tripoli,9% (4%-13%),NA,0.038077219,0.13426794,NA,NA,1.51E-50
+533,,mantika_label,3,Tripoli,37% (29%-46%),NA,0.293080291,0.45647558,NA,NA,1.51E-50
+543,,mantika_label,4,Tripoli,8% (3%-12%),NA,0.032063794,0.123768456,NA,NA,1.51E-50
+553,,mantika_label,1,Ubari,22% (16%-28%),NA,0.158101632,0.277753393,NA,NA,1.51E-50
+563,,mantika_label,2,Ubari,9% (5%-13%),NA,0.050599376,0.129501675,NA,NA,1.51E-50
+573,,mantika_label,3,Ubari,63% (56%-70%),NA,0.561566575,0.697003991,NA,NA,1.51E-50
+583,,mantika_label,4,Ubari,6% (3%-9%),NA,0.033613702,0.091859655,NA,NA,1.51E-50
+593,,mantika_label,1,Wadi Ashshati,58% (49%-67%),NA,0.4914729,0.668225203,NA,NA,1.51E-50
+602,,mantika_label,2,Wadi Ashshati,15% (8%-21%),NA,0.082850038,0.208350969,NA,NA,1.51E-50
+6110,,mantika_label,3,Wadi Ashshati,26% (19%-34%),NA,0.185608234,0.34281243,NA,NA,1.51E-50
+622,,mantika_label,4,Wadi Ashshati,1% (-1%-3%),NA,-0.006558273,0.027238499,NA,NA,1.51E-50
+632,,mantika_label,1,Zwara,24% (17%-32%),NA,0.166248849,0.319022005,NA,NA,1.51E-50
+641,,mantika_label,2,Zwara,8% (3%-12%),NA,0.031728341,0.124180431,NA,NA,1.51E-50
+651,,mantika_label,3,Zwara,60% (51%-69%),NA,0.512383447,0.686099656,NA,NA,1.51E-50
+661,,mantika_label,4,Zwara,8% (3%-13%),NA,0.031461431,0.12887584,NA,NA,1.51E-50
+1105,,Displacement_status,1,idp,90% (88%-92%),NA,0.883461793,0.921069712,NA,NA,0.351377199
+240,,Displacement_status,2,idp,1% (0%-1%),NA,0.002087731,0.012772252,NA,NA,0.351377199
+340,,Displacement_status,3,idp,9% (7%-11%),NA,0.072107893,0.10850062,NA,NA,0.351377199
+438,,Displacement_status,1,non_displaced,92% (90%-93%),NA,0.899000576,0.934924208,NA,NA,0.351377199
+525,,Displacement_status,2,non_displaced,1% (0%-2%),NA,0.004442274,0.018792517,NA,NA,0.351377199
+620,,Displacement_status,3,non_displaced,7% (5%-9%),NA,0.05472252,0.088117905,NA,NA,0.351377199
+719,,Displacement_status,1,returnee,90% (88%-93%),NA,0.8753076,0.928447521,NA,NA,0.351377199
+819,,Displacement_status,2,returnee,1% (0%-2%),NA,-0.000700671,0.016326621,NA,NA,0.351377199
+919,,Displacement_status,3,returnee,9% (6%-12%),NA,0.064878909,0.115676619,NA,NA,0.351377199
+1019,,Displacement_status,4,returnee,0%,NA,-3.04E-05,9.38E-05,NA,NA,0.351377199
+1106,,Displacement_status,1,idp,43% (40%-46%),NA,0.399161477,0.45525869,NA,NA,4.07E-71
+250,,Displacement_status,2,idp,3% (2%-4%),NA,0.022754409,0.041738186,NA,NA,4.07E-71
+349,,Displacement_status,3,idp,54% (51%-57%),NA,0.512428285,0.568658953,NA,NA,4.07E-71
+439,,Displacement_status,1,non_displaced,85% (82%-87%),NA,0.824095186,0.871704272,NA,NA,4.07E-71
+526,,Displacement_status,2,non_displaced,1% (0%-1%),NA,0.004055812,0.013516219,NA,NA,4.07E-71
+623,,Displacement_status,3,non_displaced,14% (12%-17%),NA,0.119856121,0.16677239,NA,NA,4.07E-71
+720,,Displacement_status,1,returnee,79% (76%-82%),NA,0.756767898,0.817702943,NA,NA,4.07E-71
+820,,Displacement_status,2,returnee,10% (8%-13%),NA,0.079992092,0.125060789,NA,NA,4.07E-71
+920,,Displacement_status,3,returnee,11% (9%-13%),NA,0.087723644,0.132752634,NA,NA,4.07E-71
+1107,,Displacement_status,1,idp,77% (75%-80%),NA,0.74815869,0.796614071,NA,NA,0.004918476
+260,,Displacement_status,2,idp,13% (11%-15%),NA,0.114928087,0.153135245,NA,NA,0.004918476
+350,,Displacement_status,3,idp,9% (8%-11%),NA,0.076574401,0.110589506,NA,NA,0.004918476
+440,,Displacement_status,1,non_displaced,83% (81%-86%),NA,0.810419603,0.85547587,NA,NA,0.004918476
+527,,Displacement_status,2,non_displaced,10% (8%-12%),NA,0.082624589,0.12081138,NA,NA,0.004918476
+624,,Displacement_status,3,non_displaced,7% (5%-8%),NA,0.051434442,0.079234115,NA,NA,0.004918476
+721,,Displacement_status,1,returnee,77% (73%-81%),NA,0.733895845,0.813467984,NA,NA,0.004918476
+821,,Displacement_status,2,returnee,15% (12%-19%),NA,0.117102266,0.185658144,NA,NA,0.004918476
+921,,Displacement_status,3,returnee,7% (5%-10%),NA,0.049124471,0.10075129,NA,NA,0.004918476
+1108,,Displacement_status,1,idp,79% (77%-81%),NA,0.766204502,0.813929766,NA,NA,1.05E-10
+270,,Displacement_status,2,idp,16% (14%-18%),NA,0.140265428,0.183135156,NA,NA,1.05E-10
+359,,Displacement_status,3,idp,4% (3%-6%),NA,0.031699424,0.056010164,NA,NA,1.05E-10
+448,,Displacement_status,4,idp,0% (0%-1%),NA,0.00188618,0.00686938,NA,NA,1.05E-10
+528,,Displacement_status,1,non_displaced,93% (92%-95%),NA,0.915992279,0.948190066,NA,NA,1.05E-10
+625,,Displacement_status,2,non_displaced,4% (3%-6%),NA,0.031060002,0.055174643,NA,NA,1.05E-10
+722,,Displacement_status,3,non_displaced,2% (1%-3%),NA,0.011349189,0.032880339,NA,NA,1.05E-10
+822,,Displacement_status,4,non_displaced,0% (0%-1%),NA,0.000316021,0.005037461,NA,NA,1.05E-10
+922,,Displacement_status,1,returnee,92% (90%-95%),NA,0.895646531,0.945461901,NA,NA,1.05E-10
+1020,,Displacement_status,2,returnee,4% (3%-6%),NA,0.027068313,0.061848263,NA,NA,1.05E-10
+1119,,Displacement_status,3,returnee,3% (1%-5%),NA,0.013867893,0.050783963,NA,NA,1.05E-10
+1219,,Displacement_status,4,returnee,0%,NA,0.001152763,0.004170373,NA,NA,1.05E-10
+1109,,Displacement_status,1,idp,41% (38%-44%),NA,0.379698564,0.438220016,NA,NA,2.73E-05
+280,,Displacement_status,2,idp,57% (54%-60%),NA,0.542807028,0.601772785,NA,NA,2.73E-05
+360,,Displacement_status,3,idp,1% (0%-2%),NA,0.003681823,0.015003072,NA,NA,2.73E-05
+449,,Displacement_status,4,idp,1% (1%-1%),NA,0.005013987,0.013802725,NA,NA,2.73E-05
+529,,Displacement_status,1,non_displaced,51% (48%-54%),NA,0.479505541,0.541516453,NA,NA,2.73E-05
+626,,Displacement_status,2,non_displaced,48% (45%-51%),NA,0.448187662,0.510309523,NA,NA,2.73E-05
+723,,Displacement_status,3,non_displaced,0% (0%-1%),NA,0.000955852,0.00584938,NA,NA,2.73E-05
+823,,Displacement_status,4,non_displaced,1% (0%-1%),NA,0.002815965,0.010859623,NA,NA,2.73E-05
+923,,Displacement_status,1,returnee,57% (53%-61%),NA,0.528362045,0.614992963,NA,NA,2.73E-05
+1021,,Displacement_status,2,returnee,40% (36%-44%),NA,0.356232875,0.440652779,NA,NA,2.73E-05
+1120,,Displacement_status,3,returnee,1% (0%-2%),NA,7.12E-05,0.02189668,NA,NA,2.73E-05
+1220,,Displacement_status,4,returnee,2% (1%-3%),NA,0.00617867,0.031612823,NA,NA,2.73E-05
+1121,,Displacement_status,1,idp,71% (69%-73%),NA,0.686402321,0.734084638,NA,NA,0.000238291
+290,,Displacement_status,2,idp,6% (5%-7%),NA,0.045282576,0.072893767,NA,NA,0.000238291
+369,,Displacement_status,3,idp,20% (18%-22%),NA,0.180229199,0.217985363,NA,NA,0.000238291
+450,,Displacement_status,4,idp,3% (2%-4%),NA,0.020368738,0.042753399,NA,NA,0.000238291
+530,,Displacement_status,1,non_displaced,75% (73%-78%),NA,0.730396045,0.776132719,NA,NA,0.000238291
+627,,Displacement_status,2,non_displaced,4% (3%-5%),NA,0.02512486,0.046117086,NA,NA,0.000238291
+724,,Displacement_status,3,non_displaced,19% (17%-21%),NA,0.166131943,0.206561188,NA,NA,0.000238291
+824,,Displacement_status,4,non_displaced,2% (2%-3%),NA,0.015796951,0.033739209,NA,NA,0.000238291
+924,,Displacement_status,1,returnee,81% (78%-84%),NA,0.779301379,0.839716191,NA,NA,0.000238291
+1022,,Displacement_status,2,returnee,5% (3%-6%),NA,0.028326362,0.064451335,NA,NA,0.000238291
+1122,,Displacement_status,3,returnee,11% (9%-13%),NA,0.089584493,0.13304038,NA,NA,0.000238291
+1221,,Displacement_status,4,returnee,3% (2%-5%),NA,0.018371324,0.047208537,NA,NA,0.000238291
+1123,,Displacement_status,1,idp,79% (77%-81%),NA,0.770836213,0.81271899,NA,NA,0.00223599
+2100,,Displacement_status,2,idp,19% (17%-21%),NA,0.169589596,0.210743893,NA,NA,0.00223599
+370,,Displacement_status,3,idp,2% (1%-2%),NA,0.012109236,0.024002072,NA,NA,0.00223599
+458,,Displacement_status,1,non_displaced,84% (83%-86%),NA,0.825211051,0.860080331,NA,NA,0.00223599
+534,,Displacement_status,2,non_displaced,15% (13%-16%),NA,0.129144469,0.16125545,NA,NA,0.00223599
+628,,Displacement_status,3,non_displaced,1% (0%-2%),NA,0.004533264,0.019775436,NA,NA,0.00223599
+725,,Displacement_status,1,returnee,84% (81%-86%),NA,0.813654229,0.858016009,NA,NA,0.00223599
+825,,Displacement_status,2,returnee,16% (14%-18%),NA,0.139341309,0.183498751,NA,NA,0.00223599
+925,,Displacement_status,3,returnee,0% (0%-1%),NA,0.000319697,0.005140569,NA,NA,0.00223599
+1023,,Displacement_status,4,returnee,0%,NA,-1.41E-05,4.36E-05,NA,NA,0.00223599
+1124,,Displacement_status,1,idp,75% (73%-78%),NA,0.727270492,0.775569917,NA,NA,2.00E-06
+2101,,Displacement_status,2,idp,19% (17%-21%),NA,0.172817852,0.212896668,NA,NA,2.00E-06
+379,,Displacement_status,3,idp,4% (3%-5%),NA,0.025147117,0.052250072,NA,NA,2.00E-06
+459,,Displacement_status,4,idp,2% (1%-2%),NA,0.009483834,0.024564048,NA,NA,2.00E-06
+535,,Displacement_status,1,non_displaced,73% (70%-75%),NA,0.70081682,0.751951347,NA,NA,2.00E-06
+629,,Displacement_status,2,non_displaced,23% (20%-25%),NA,0.20351656,0.250878071,NA,NA,2.00E-06
+726,,Displacement_status,3,non_displaced,3% (2%-5%),NA,0.022860481,0.045650874,NA,NA,2.00E-06
+826,,Displacement_status,4,non_displaced,1% (1%-2%),NA,0.00686115,0.017464697,NA,NA,2.00E-06
+926,,Displacement_status,1,returnee,84% (81%-87%),NA,0.805801023,0.865788934,NA,NA,2.00E-06
+1024,,Displacement_status,2,returnee,12% (9%-14%),NA,0.091484999,0.141793381,NA,NA,2.00E-06
+1125,,Displacement_status,3,returnee,3% (2%-5%),NA,0.01706306,0.04625324,NA,NA,2.00E-06
+1222,,Displacement_status,4,returnee,2% (0%-3%),NA,0.004392039,0.027423325,NA,NA,2.00E-06
+1126,,Displacement_status,1,idp,24% (21%-26%),NA,0.209466034,0.261436015,NA,NA,0.004157729
+2102,,Displacement_status,2,idp,13% (11%-15%),NA,0.110514069,0.147920939,NA,NA,0.004157729
+380,,Displacement_status,3,idp,58% (55%-61%),NA,0.553764523,0.613521333,NA,NA,0.004157729
+460,,Displacement_status,4,idp,5% (4%-7%),NA,0.03745415,0.065922937,NA,NA,0.004157729
+536,,Displacement_status,1,non_displaced,35% (32%-38%),NA,0.319381871,0.380544812,NA,NA,0.004157729
+630,,Displacement_status,2,non_displaced,12% (10%-14%),NA,0.100897146,0.138837093,NA,NA,0.004157729
+727,,Displacement_status,3,non_displaced,49% (46%-52%),NA,0.457604526,0.518840351,NA,NA,0.004157729
+827,,Displacement_status,4,non_displaced,4% (3%-6%),NA,0.027536197,0.056358005,NA,NA,0.004157729
+927,,Displacement_status,1,returnee,38% (33%-42%),NA,0.334092727,0.422072536,NA,NA,0.004157729
+1025,,Displacement_status,2,returnee,10% (8%-13%),NA,0.075249173,0.129202912,NA,NA,0.004157729
+1127,,Displacement_status,3,returnee,46% (41%-50%),NA,0.410202969,0.501121345,NA,NA,0.004157729
+1223,,Displacement_status,4,returnee,6% (4%-9%),NA,0.040539471,0.087518868,NA,NA,0.004157729
+1128,,Displacement_status,no,idp,29% (26%-31%),NA,0.258126098,0.31392944,NA,NA,0.007299592
+2103,,Displacement_status,yes,idp,71% (69%-74%),NA,0.68607056,0.741873902,NA,NA,0.007299592
+389,,Displacement_status,no,non_displaced,39% (36%-42%),NA,0.361305317,0.423201926,NA,NA,0.007299592
+468,,Displacement_status,yes,non_displaced,61% (58%-64%),NA,0.576798074,0.638694683,NA,NA,0.007299592
+537,,Displacement_status,no,returnee,40% (35%-44%),NA,0.351872611,0.44146147,NA,NA,0.007299592
+633,,Displacement_status,yes,returnee,60% (56%-65%),NA,0.55853853,0.648127389,NA,NA,0.007299592
+1129,,strata.names,1,Al Jabal Al Gharbi_idp,91% (85%-96%),NA,0.852472239,0.962342576,NA,NA,NA
+2104,,strata.names,3,Al Jabal Al Gharbi_idp,9% (4%-15%),NA,0.037657424,0.147527761,NA,NA,NA
+390,,strata.names,1,Al Jabal Al Gharbi_non_displaced,87% (80%-93%),NA,0.804403888,0.930109386,NA,NA,NA
+469,,strata.names,2,Al Jabal Al Gharbi_non_displaced,4% (0%-7%),NA,0.001168076,0.069628384,NA,NA,NA
+538,,strata.names,3,Al Jabal Al Gharbi_non_displaced,10% (4%-15%),NA,0.042433793,0.152256472,NA,NA,NA
+634,,strata.names,1,Al Jabal Al Gharbi_returnee,94% (90%-99%),NA,0.901032111,0.987856778,NA,NA,NA
+728,,strata.names,2,Al Jabal Al Gharbi_returnee,1% (-1%-3%),NA,-0.008892943,0.027411461,NA,NA,NA
+828,,strata.names,3,Al Jabal Al Gharbi_returnee,5% (1%-9%),NA,0.006472649,0.086119944,NA,NA,NA
+928,,strata.names,1,Aljfara_idp,94% (89%-98%),NA,0.888524928,0.981845442,NA,NA,NA
+1026,,strata.names,2,Aljfara_idp,1% (-1%-3%),NA,-0.008892943,0.027411461,NA,NA,NA
+1130,,strata.names,3,Aljfara_idp,6% (1%-10%),NA,0.012143222,0.098967889,NA,NA,NA
+1224,,strata.names,1,Aljfara_non_displaced,96% (92%-100%),NA,0.918140933,0.998525733,NA,NA,NA
+1319,,strata.names,3,Aljfara_non_displaced,4% (0%-8%),NA,0.001474267,0.081859067,NA,NA,NA
+1419,,strata.names,1,Aljfara_returnee,98% (95%-101%),NA,0.951936403,1.007659557,NA,NA,NA
+1519,,strata.names,2,Aljfara_returnee,1% (-1%-3%),NA,-0.009701392,0.029903412,NA,NA,NA
+1619,,strata.names,3,Aljfara_returnee,1% (-1%-3%),NA,-0.009701392,0.029903412,NA,NA,NA
+1719,,strata.names,1,Aljufra_idp,38% (27%-49%),NA,0.267661352,0.485585401,NA,NA,NA
+1819,,strata.names,3,Aljufra_idp,62% (51%-73%),NA,0.514414599,0.732338648,NA,NA,NA
+1915,,strata.names,1,Aljufra_non_displaced,27% (19%-35%),NA,0.189870321,0.353989328,NA,NA,NA
+2010,,strata.names,3,Aljufra_non_displaced,73% (65%-81%),NA,0.646010672,0.810129679,NA,NA,NA
+2115,,strata.names,1,Alkufra_idp,93% (88%-98%),NA,0.883184805,0.980892865,NA,NA,NA
+2212,,strata.names,2,Alkufra_idp,2% (-1%-5%),NA,-0.007367511,0.046202463,NA,NA,NA
+2310,,strata.names,3,Alkufra_idp,5% (1%-9%),NA,0.00682662,0.090260759,NA,NA,NA
+2410,,strata.names,1,Alkufra_non_displaced,98% (96%-101%),NA,0.95824401,1.006668271,NA,NA,NA
+2510,,strata.names,2,Alkufra_non_displaced,1% (-1%-3%),NA,-0.008424893,0.025968753,NA,NA,NA
+2610,,strata.names,3,Alkufra_non_displaced,1% (-1%-3%),NA,-0.008424893,0.025968753,NA,NA,NA
+2710,,strata.names,1,Alkufra_returnee,100% (100%-100%),NA,1,1,NA,NA,NA
+2810,,strata.names,1,Azzawya_idp,98% (96%-101%),NA,0.95750035,1.006785364,NA,NA,NA
+2910,,strata.names,2,Azzawya_idp,2% (-1%-4%),NA,-0.006785364,0.04249965,NA,NA,NA
+3010,,strata.names,1,Azzawya_non_displaced,97% (95%-100%),NA,0.946047197,1.003105345,NA,NA,NA
+3114,,strata.names,2,Azzawya_non_displaced,3% (0%-5%),NA,-0.003105345,0.053952803,NA,NA,NA
+3212,,strata.names,1,Azzawya_returnee,100% (100%-100%),NA,1,1,NA,NA,NA
+3310,,strata.names,1,Benghazi_idp,94% (89%-98%),NA,0.894322375,0.982870608,NA,NA,NA
+3410,,strata.names,2,Benghazi_idp,1% (-1%-3%),NA,-0.008424893,0.025968753,NA,NA,NA
+3510,,strata.names,3,Benghazi_idp,5% (1%-9%),NA,0.011450616,0.093812542,NA,NA,NA
+3610,,strata.names,1,Benghazi_non_displaced,89% (83%-95%),NA,0.828816584,0.945096459,NA,NA,NA
+3710,,strata.names,2,Benghazi_non_displaced,1% (-1%-3%),NA,-0.008351633,0.025742937,NA,NA,NA
+3810,,strata.names,3,Benghazi_non_displaced,10% (5%-16%),NA,0.04821563,0.160480022,NA,NA,NA
+399,,strata.names,1,Benghazi_returnee,92% (87%-97%),NA,0.865896299,0.966036474,NA,NA,NA
+409,,strata.names,2,Benghazi_returnee,1% (-1%-2%),NA,-0.008070906,0.024877629,NA,NA,NA
+4113,,strata.names,3,Benghazi_returnee,8% (3%-12%),NA,0.027912201,0.123348303,NA,NA,NA
+4211,,strata.names,1,Derna_idp,100% (100%-100%),NA,1,1,NA,NA,NA
+4310,,strata.names,1,Derna_non_displaced,98% (95%-101%),NA,0.954240517,1.007297945,NA,NA,NA
+4410,,strata.names,2,Derna_non_displaced,1% (-1%-3%),NA,-0.009234979,0.028465748,NA,NA,NA
+4510,,strata.names,3,Derna_non_displaced,1% (-1%-3%),NA,-0.009234979,0.028465748,NA,NA,NA
+4610,,strata.names,1,Derna_returnee,94% (90%-99%),NA,0.90011731,0.987733157,NA,NA,NA
+478,,strata.names,2,Derna_returnee,1% (-1%-3%),NA,-0.008976054,0.027667643,NA,NA,NA
+487,,strata.names,3,Derna_returnee,5% (1%-9%),NA,0.006540505,0.086917439,NA,NA,NA
+497,,strata.names,1,Ejdabia_idp,93% (88%-98%),NA,0.879588963,0.976266893,NA,NA,NA
+507,,strata.names,3,Ejdabia_idp,7% (2%-12%),NA,0.023733107,0.120411037,NA,NA,NA
+5111,,strata.names,1,Ejdabia_non_displaced,94% (90%-98%),NA,0.895230518,0.983030352,NA,NA,NA
+5210,,strata.names,2,Ejdabia_non_displaced,1% (-1%-3%),NA,-0.008351633,0.025742937,NA,NA,NA
+539,,strata.names,3,Ejdabia_non_displaced,5% (1%-9%),NA,0.011342757,0.093005069,NA,NA,NA
+544,,strata.names,1,Ejdabia_returnee,93% (87%-100%),NA,0.869668469,0.996998198,NA,NA,NA
+554,,strata.names,3,Ejdabia_returnee,7% (0%-13%),NA,0.003001802,0.130331531,NA,NA,NA
+564,,strata.names,1,Ghat_idp,60% (51%-70%),NA,0.512171758,0.695035449,NA,NA,NA
+574,,strata.names,2,Ghat_idp,1% (-1%-3%),NA,-0.008652593,0.026670611,NA,NA,NA
+584,,strata.names,3,Ghat_idp,39% (30%-48%),NA,0.296328481,0.478446294,NA,NA,NA
+594,,strata.names,1,Ghat_non_displaced,71% (62%-79%),NA,0.620528197,0.790186089,NA,NA,NA
+603,,strata.names,2,Ghat_non_displaced,2% (-1%-4%),NA,-0.006785364,0.04249965,NA,NA,NA
+6111,,strata.names,3,Ghat_non_displaced,28% (19%-36%),NA,0.193533286,0.360038143,NA,NA,NA
+6210,,strata.names,1,Ghat_returnee,65% (55%-76%),NA,0.547559173,0.760133135,NA,NA,NA
+635,,strata.names,3,Ghat_returnee,33% (23%-44%),NA,0.228015614,0.438651053,NA,NA,NA
+642,,strata.names,4,Ghat_returnee,1% (-1%-4%),NA,-0.012313305,0.037954331,NA,NA,NA
+652,,strata.names,1,Misrata_idp,89% (83%-95%),NA,0.830262828,0.945599241,NA,NA,NA
+662,,strata.names,3,Misrata_idp,11% (5%-17%),NA,0.054400759,0.169737172,NA,NA,NA
+671,,strata.names,1,Misrata_non_displaced,97% (93%-100%),NA,0.932160381,0.998874102,NA,NA,NA
+68,,strata.names,3,Misrata_non_displaced,3% (0%-7%),NA,0.001125898,0.067839619,NA,NA,NA
+69,,strata.names,1,Misrata_returnee,96% (93%-100%),NA,0.927834537,0.998770968,NA,NA,NA
+70,,strata.names,3,Misrata_returnee,4% (0%-7%),NA,0.001229032,0.072165463,NA,NA,NA
+71,,strata.names,1,Murzuq_idp,95% (91%-100%),NA,0.909748492,0.998297485,NA,NA,NA
+72,,strata.names,2,Murzuq_idp,1% (-1%-3%),NA,-0.011039515,0.034028021,NA,NA,NA
+73,,strata.names,3,Murzuq_idp,3% (0%-7%),NA,-0.004090369,0.073055887,NA,NA,NA
+74,,strata.names,1,Murzuq_non_displaced,88% (82%-95%),NA,0.821218233,0.945772058,NA,NA,NA
+75,,strata.names,2,Murzuq_non_displaced,2% (-1%-5%),NA,-0.007367511,0.046202463,NA,NA,NA
+76,,strata.names,3,Murzuq_non_displaced,10% (4%-15%),NA,0.039615257,0.1545595,NA,NA,NA
+77,,strata.names,1,Murzuq_returnee,100% (100%-100%),NA,1,1,NA,NA,NA
+78,,strata.names,1,Sebha_idp,100% (100%-100%),NA,1,1,NA,NA,NA
+79,,strata.names,1,Sebha_non_displaced,99% (97%-101%),NA,0.973329389,1.008652593,NA,NA,NA
+80,,strata.names,2,Sebha_non_displaced,1% (-1%-3%),NA,-0.008652593,0.026670611,NA,NA,NA
+81,,strata.names,1,Sebha_returnee,96% (91%-100%),NA,0.914611912,0.998431567,NA,NA,NA
+82,,strata.names,2,Sebha_returnee,2% (-1%-5%),NA,-0.008230459,0.05170872,NA,NA,NA
+83,,strata.names,3,Sebha_returnee,2% (-1%-5%),NA,-0.008230459,0.05170872,NA,NA,NA
+84,,strata.names,1,Sirt_idp,94% (90%-99%),NA,0.899185446,0.987607006,NA,NA,NA
+85,,strata.names,2,Sirt_idp,2% (-1%-4%),NA,-0.007162678,0.044898527,NA,NA,NA
+86,,strata.names,3,Sirt_idp,4% (0%-7%),NA,0.001278706,0.074192992,NA,NA,NA
+87,,strata.names,1,Sirt_non_displaced,82% (74%-89%),NA,0.743496643,0.88953088,NA,NA,NA
+88,,strata.names,2,Sirt_non_displaced,1% (-1%-3%),NA,-0.008811356,0.02715998,NA,NA,NA
+89,,strata.names,3,Sirt_non_displaced,17% (10%-25%),NA,0.102744938,0.245878916,NA,NA,NA
+90,,strata.names,1,Sirt_returnee,88% (82%-94%),NA,0.819756438,0.938864252,NA,NA,NA
+91,,strata.names,2,Sirt_returnee,2% (-1%-4%),NA,-0.006555148,0.041037906,NA,NA,NA
+92,,strata.names,3,Sirt_returnee,10% (5%-16%),NA,0.047774145,0.159122407,NA,NA,NA
+93,,strata.names,1,Tripoli_idp,85% (77%-92%),NA,0.773017532,0.917704117,NA,NA,NA
+94,,strata.names,2,Tripoli_idp,1% (-1%-3%),NA,-0.009901421,0.030519977,NA,NA,NA
+95,,strata.names,3,Tripoli_idp,14% (7%-21%),NA,0.074014768,0.214645026,NA,NA,NA
+96,,strata.names,1,Tripoli_non_displaced,90% (85%-96%),NA,0.846408566,0.957162862,NA,NA,NA
+97,,strata.names,2,Tripoli_non_displaced,2% (-1%-4%),NA,-0.006785364,0.04249965,NA,NA,NA
+98,,strata.names,3,Tripoli_non_displaced,8% (3%-13%),NA,0.029773113,0.130941172,NA,NA,NA
+99,,strata.names,1,Tripoli_returnee,88% (82%-94%),NA,0.819756438,0.938864252,NA,NA,NA
+100,,strata.names,3,Tripoli_returnee,12% (6%-18%),NA,0.061135748,0.180243562,NA,NA,NA
+101,,strata.names,1,Ubari_idp,95% (91%-99%),NA,0.908862844,0.99309794,NA,NA,NA
+102,,strata.names,2,Ubari_idp,2% (-1%-5%),NA,-0.007438416,0.046654102,NA,NA,NA
+103,,strata.names,3,Ubari_idp,3% (0%-6%),NA,-0.003546963,0.062370492,NA,NA,NA
+104,,strata.names,1,Ubari_non_displaced,90% (85%-96%),NA,0.850345084,0.958350568,NA,NA,NA
+105,,strata.names,2,Ubari_non_displaced,3% (0%-7%),NA,0.001139642,0.068425575,NA,NA,NA
+106,,strata.names,3,Ubari_non_displaced,6% (2%-10%),NA,0.016969648,0.104769482,NA,NA,NA
+107,,strata.names,1,Ubari_returnee,76% (68%-84%),NA,0.684751677,0.841564112,NA,NA,NA
+108,,strata.names,3,Ubari_returnee,24% (16%-32%),NA,0.158435888,0.315248323,NA,NA,NA
+109,,strata.names,1,Wadi Ashshati_idp,93% (87%-98%),NA,0.874623989,0.98419954,NA,NA,NA
+110,,strata.names,3,Wadi Ashshati_idp,7% (2%-13%),NA,0.01580046,0.125376011,NA,NA,NA
+111,,strata.names,1,Wadi Ashshati_non_displaced,98% (96%-101%),NA,0.957875462,1.006726308,NA,NA,NA
+112,,strata.names,3,Wadi Ashshati_non_displaced,2% (-1%-4%),NA,-0.006726308,0.042124538,NA,NA,NA
+113,,strata.names,1,Wadi Ashshati_returnee,100% (100%-100%),NA,1,1,NA,NA,NA
+114,,strata.names,1,Zwara_idp,96% (92%-100%),NA,0.922919551,0.998649077,NA,NA,NA
+115,,strata.names,3,Zwara_idp,4% (0%-8%),NA,0.001350923,0.077080449,NA,NA,NA
+116,,strata.names,1,Zwara_non_displaced,90% (84%-96%),NA,0.84225958,0.955905557,NA,NA,NA
+117,,strata.names,3,Zwara_non_displaced,10% (4%-16%),NA,0.044094443,0.15774042,NA,NA,NA
+118,,strata.names,1,Zwara_returnee,97% (94%-100%),NA,0.93997091,1.003425316,NA,NA,NA
+119,,strata.names,3,Zwara_returnee,3% (0%-6%),NA,-0.003425316,0.06002909,NA,NA,NA
+1131,,strata.names,1,Al Jabal Al Gharbi_idp,39% (30%-48%),NA,0.29649696,0.481280818,NA,NA,NA
+2105,,strata.names,2,Al Jabal Al Gharbi_idp,2% (-1%-4%),NA,-0.007032331,0.044069369,NA,NA,NA
+3100,,strata.names,3,Al Jabal Al Gharbi_idp,59% (50%-69%),NA,0.499470281,0.685714904,NA,NA,NA
+470,,strata.names,1,Al Jabal Al Gharbi_non_displaced,68% (60%-77%),NA,0.595105709,0.767726149,NA,NA,NA
+540,,strata.names,2,Al Jabal Al Gharbi_non_displaced,2% (-1%-4%),NA,-0.006726308,0.042124538,NA,NA,NA
+636,,strata.names,3,Al Jabal Al Gharbi_non_displaced,30% (22%-39%),NA,0.215924151,0.38584576,NA,NA,NA
+729,,strata.names,1,Al Jabal Al Gharbi_returnee,54% (44%-63%),NA,0.442536033,0.631538041,NA,NA,NA
+829,,strata.names,2,Al Jabal Al Gharbi_returnee,11% (5%-17%),NA,0.051549881,0.170672342,NA,NA,NA
+929,,strata.names,3,Al Jabal Al Gharbi_returnee,35% (26%-44%),NA,0.261345671,0.442358033,NA,NA,NA
+1027,,strata.names,1,Aljfara_idp,49% (40%-59%),NA,0.395995653,0.585485828,NA,NA,NA
+1132,,strata.names,2,Aljfara_idp,6% (1%-10%),NA,0.012143222,0.098967889,NA,NA,NA
+1225,,strata.names,3,Aljfara_idp,45% (36%-55%),NA,0.359349454,0.548057954,NA,NA,NA
+1320,,strata.names,1,Aljfara_non_displaced,73% (64%-82%),NA,0.639783503,0.818549831,NA,NA,NA
+1420,,strata.names,3,Aljfara_non_displaced,27% (18%-36%),NA,0.181450169,0.360216497,NA,NA,NA
+1520,,strata.names,1,Aljfara_returnee,76% (67%-84%),NA,0.672708321,0.842443195,NA,NA,NA
+1620,,strata.names,2,Aljfara_returnee,6% (1%-11%),NA,0.013353872,0.10785825,NA,NA,NA
+1720,,strata.names,3,Aljfara_returnee,18% (11%-26%),NA,0.105437489,0.258198875,NA,NA,NA
+1820,,strata.names,1,Aljufra_idp,10% (4%-17%),NA,0.035280153,0.172512054,NA,NA,NA
+1916,,strata.names,3,Aljufra_idp,90% (83%-96%),NA,0.827487946,0.964719847,NA,NA,NA
+2011,,strata.names,1,Aljufra_non_displaced,100% (100%-100%),NA,1,1,NA,NA,NA
+2116,,strata.names,1,Alkufra_idp,79% (71%-87%),NA,0.706852378,0.865963156,NA,NA,NA
+2213,,strata.names,2,Alkufra_idp,2% (-1%-5%),NA,-0.007367511,0.046202463,NA,NA,NA
+2311,,strata.names,3,Alkufra_idp,19% (12%-27%),NA,0.117390922,0.270958592,NA,NA,NA
+2411,,strata.names,1,Alkufra_non_displaced,99% (97%-101%),NA,0.974031247,1.008424893,NA,NA,NA
+2511,,strata.names,3,Alkufra_non_displaced,1% (-1%-3%),NA,-0.008424893,0.025968753,NA,NA,NA
+2611,,strata.names,1,Alkufra_returnee,90% (83%-97%),NA,0.833830055,0.966169945,NA,NA,NA
+2711,,strata.names,2,Alkufra_returnee,10% (3%-17%),NA,0.033830055,0.166169945,NA,NA,NA
+2811,,strata.names,1,Azzawya_idp,81% (74%-89%),NA,0.739872031,0.885127969,NA,NA,NA
+2911,,strata.names,2,Azzawya_idp,2% (-1%-4%),NA,-0.006785364,0.04249965,NA,NA,NA
+3011,,strata.names,3,Azzawya_idp,17% (10%-24%),NA,0.099804851,0.239480863,NA,NA,NA
+3115,,strata.names,1,Azzawya_non_displaced,92% (88%-97%),NA,0.875621331,0.971836296,NA,NA,NA
+3213,,strata.names,2,Azzawya_non_displaced,1% (-1%-3%),NA,-0.008139303,0.025088456,NA,NA,NA
+3311,,strata.names,3,Azzawya_non_displaced,7% (2%-11%),NA,0.02223286,0.113360361,NA,NA,NA
+3411,,strata.names,1,Azzawya_returnee,88% (79%-96%),NA,0.791208869,0.963177096,NA,NA,NA
+3511,,strata.names,2,Azzawya_returnee,7% (0%-14%),NA,0.003256025,0.137094852,NA,NA,NA
+3611,,strata.names,3,Azzawya_returnee,5% (-1%-11%),NA,-0.005866513,0.111129671,NA,NA,NA
+3711,,strata.names,1,Benghazi_idp,11% (5%-16%),NA,0.048665338,0.161860978,NA,NA,NA
+3811,,strata.names,3,Benghazi_idp,89% (84%-95%),NA,0.838139022,0.951334662,NA,NA,NA
+3910,,strata.names,1,Benghazi_non_displaced,99% (97%-101%),NA,0.974257063,1.008351633,NA,NA,NA
+4010,,strata.names,3,Benghazi_non_displaced,1% (-1%-3%),NA,-0.008351633,0.025742937,NA,NA,NA
+4114,,strata.names,1,Benghazi_returnee,91% (86%-96%),NA,0.855290519,0.959835531,NA,NA,NA
+4212,,strata.names,2,Benghazi_returnee,4% (1%-8%),NA,0.005808974,0.078224639,NA,NA,NA
+4311,,strata.names,3,Benghazi_returnee,5% (1%-9%),NA,0.010930821,0.089909515,NA,NA,NA
+4411,,strata.names,1,Derna_idp,2% (-1%-6%),NA,-0.009211104,0.057991592,NA,NA,NA
+4511,,strata.names,2,Derna_idp,1% (-1%-4%),NA,-0.011712656,0.0361029,NA,NA,NA
+4611,,strata.names,3,Derna_idp,96% (92%-100%),NA,0.922519572,1.004309697,NA,NA,NA
+479,,strata.names,1,Derna_non_displaced,100% (100%-100%),NA,1,1,NA,NA,NA
+488,,strata.names,1,Derna_returnee,60% (50%-69%),NA,0.504775199,0.691486483,NA,NA,NA
+498,,strata.names,2,Derna_returnee,29% (20%-38%),NA,0.203341456,0.376097796,NA,NA,NA
+508,,strata.names,3,Derna_returnee,11% (5%-17%),NA,0.052064157,0.172234908,NA,NA,NA
+5112,,strata.names,1,Ejdabia_idp,27% (19%-35%),NA,0.187259034,0.353281507,NA,NA,NA
+5211,,strata.names,2,Ejdabia_idp,1% (-1%-3%),NA,-0.008652593,0.026670611,NA,NA,NA
+5310,,strata.names,3,Ejdabia_idp,72% (64%-80%),NA,0.636859808,0.804581634,NA,NA,NA
+545,,strata.names,1,Ejdabia_non_displaced,100% (100%-100%),NA,1,1,NA,NA,NA
+555,,strata.names,1,Ejdabia_returnee,97% (92%-101%),NA,0.920851971,1.012481362,NA,NA,NA
+565,,strata.names,2,Ejdabia_returnee,2% (-2%-5%),NA,-0.016007297,0.04934063,NA,NA,NA
+575,,strata.names,3,Ejdabia_returnee,2% (-2%-5%),NA,-0.016007297,0.04934063,NA,NA,NA
+585,,strata.names,1,Ghat_idp,84% (77%-91%),NA,0.768939067,0.906736608,NA,NA,NA
+595,,strata.names,2,Ghat_idp,4% (0%-7%),NA,0.001197842,0.07087423,NA,NA,NA
+604,,strata.names,3,Ghat_idp,13% (6%-19%),NA,0.064070147,0.188182105,NA,NA,NA
+6112,,strata.names,1,Ghat_non_displaced,99% (97%-101%),NA,0.97356752,1.008575337,NA,NA,NA
+6211,,strata.names,2,Ghat_non_displaced,1% (-1%-3%),NA,-0.008575337,0.02643248,NA,NA,NA
+637,,strata.names,1,Ghat_returnee,92% (86%-98%),NA,0.863544306,0.98260954,NA,NA,NA
+643,,strata.names,2,Ghat_returnee,1% (-1%-4%),NA,-0.012313305,0.037954331,NA,NA,NA
+653,,strata.names,3,Ghat_returnee,6% (1%-12%),NA,0.00938087,0.118824258,NA,NA,NA
+663,,strata.names,1,Misrata_idp,51% (42%-60%),NA,0.417228393,0.600012986,NA,NA,NA
+672,,strata.names,2,Misrata_idp,1% (-1%-3%),NA,-0.008279636,0.025521015,NA,NA,NA
+681,,strata.names,3,Misrata_idp,48% (39%-57%),NA,0.391407097,0.574110144,NA,NA,NA
+691,,strata.names,1,Misrata_non_displaced,88% (82%-94%),NA,0.819756438,0.938864252,NA,NA,NA
+701,,strata.names,3,Misrata_non_displaced,12% (6%-18%),NA,0.061135748,0.180243562,NA,NA,NA
+7110,,strata.names,1,Misrata_returnee,53% (44%-63%),NA,0.437983187,0.626236996,NA,NA,NA
+7210,,strata.names,2,Misrata_returnee,3% (0%-6%),NA,-0.003339362,0.058385233,NA,NA,NA
+731,,strata.names,3,Misrata_returnee,44% (35%-53%),NA,0.346718602,0.534015343,NA,NA,NA
+741,,strata.names,1,Murzuq_idp,61% (51%-71%),NA,0.506047124,0.71234368,NA,NA,NA
+751,,strata.names,2,Murzuq_idp,14% (7%-21%),NA,0.065034674,0.210827394,NA,NA,NA
+761,,strata.names,3,Murzuq_idp,25% (16%-34%),NA,0.160986873,0.344760253,NA,NA,NA
+771,,strata.names,1,Murzuq_non_displaced,76% (67%-84%),NA,0.674060528,0.840502579,NA,NA,NA
+781,,strata.names,2,Murzuq_non_displaced,1% (-1%-3%),NA,-0.009324639,0.028742114,NA,NA,NA
+791,,strata.names,3,Murzuq_non_displaced,23% (15%-32%),NA,0.150949064,0.315070353,NA,NA,NA
+801,,strata.names,1,Murzuq_returnee,82% (70%-94%),NA,0.69846763,0.942558011,NA,NA,NA
+8110,,strata.names,2,Murzuq_returnee,3% (-2%-8%),NA,-0.02462661,0.075908661,NA,NA,NA
+8210,,strata.names,3,Murzuq_returnee,15% (4%-27%),NA,0.039102347,0.268589961,NA,NA,NA
+831,,strata.names,1,Sebha_idp,18% (11%-25%),NA,0.107305415,0.249837442,NA,NA,NA
+841,,strata.names,2,Sebha_idp,6% (2%-11%),NA,0.017458046,0.107541954,NA,NA,NA
+851,,strata.names,3,Sebha_idp,76% (68%-84%),NA,0.6793374,0.838519743,NA,NA,NA
+861,,strata.names,1,Sebha_non_displaced,66% (57%-75%),NA,0.568965142,0.746350173,NA,NA,NA
+871,,strata.names,2,Sebha_non_displaced,1% (-1%-3%),NA,-0.008652593,0.026670611,NA,NA,NA
+881,,strata.names,3,Sebha_non_displaced,33% (25%-42%),NA,0.245218207,0.421448459,NA,NA,NA
+891,,strata.names,1,Sebha_returnee,53% (43%-64%),NA,0.430072592,0.635144799,NA,NA,NA
+901,,strata.names,2,Sebha_returnee,8% (2%-13%),NA,0.021598686,0.130575227,NA,NA,NA
+9110,,strata.names,3,Sebha_returnee,39% (29%-49%),NA,0.291006917,0.491601778,NA,NA,NA
+9210,,strata.names,1,Sirt_idp,27% (19%-36%),NA,0.188295142,0.35887467,NA,NA,NA
+931,,strata.names,2,Sirt_idp,3% (0%-6%),NA,-0.003425316,0.06002909,NA,NA,NA
+941,,strata.names,3,Sirt_idp,70% (61%-79%),NA,0.610283103,0.785943312,NA,NA,NA
+951,,strata.names,1,Sirt_non_displaced,96% (93%-100%),NA,0.927834537,0.998770968,NA,NA,NA
+961,,strata.names,3,Sirt_non_displaced,4% (0%-7%),NA,0.001229032,0.072165463,NA,NA,NA
+971,,strata.names,1,Sirt_returnee,72% (64%-81%),NA,0.642430644,0.805845218,NA,NA,NA
+981,,strata.names,2,Sirt_returnee,23% (16%-31%),NA,0.155504253,0.310012988,NA,NA,NA
+991,,strata.names,3,Sirt_returnee,4% (1%-8%),NA,0.00597621,0.080230687,NA,NA,NA
+1001,,strata.names,1,Tripoli_idp,47% (37%-57%),NA,0.374316629,0.574136979,NA,NA,NA
+10110,,strata.names,2,Tripoli_idp,3% (0%-7%),NA,-0.003711558,0.065567228,NA,NA,NA
+1028,,strata.names,3,Tripoli_idp,49% (39%-59%),NA,0.394807505,0.594883217,NA,NA,NA
+1031,,strata.names,1,Tripoli_non_displaced,73% (65%-81%),NA,0.649740221,0.814545494,NA,NA,NA
+1041,,strata.names,3,Tripoli_non_displaced,27% (19%-35%),NA,0.185454506,0.350259779,NA,NA,NA
+1051,,strata.names,1,Tripoli_returnee,84% (77%-90%),NA,0.768550506,0.903863287,NA,NA,NA
+1061,,strata.names,2,Tripoli_returnee,1% (-1%-3%),NA,-0.008279636,0.025521015,NA,NA,NA
+1071,,strata.names,3,Tripoli_returnee,16% (9%-22%),NA,0.088981946,0.221362881,NA,NA,NA
+1081,,strata.names,1,Ubari_idp,25% (17%-34%),NA,0.169888895,0.339915026,NA,NA,NA
+1091,,strata.names,2,Ubari_idp,33% (24%-43%),NA,0.241376052,0.425290615,NA,NA,NA
+11010,,strata.names,3,Ubari_idp,41% (32%-51%),NA,0.31576001,0.507769402,NA,NA,NA
+11110,,strata.names,1,Ubari_non_displaced,94% (90%-98%),NA,0.895230518,0.983030352,NA,NA,NA
+11210,,strata.names,3,Ubari_non_displaced,6% (2%-10%),NA,0.016969648,0.104769482,NA,NA,NA
+1133,,strata.names,1,Ubari_returnee,50% (41%-59%),NA,0.407788763,0.592211237,NA,NA,NA
+1141,,strata.names,2,Ubari_returnee,13% (7%-19%),NA,0.069238169,0.193919726,NA,NA,NA
+1151,,strata.names,3,Ubari_returnee,37% (28%-46%),NA,0.279460005,0.4573821,NA,NA,NA
+1161,,strata.names,1,Wadi Ashshati_idp,31% (21%-40%),NA,0.207320882,0.404443824,NA,NA,NA
+1171,,strata.names,2,Wadi Ashshati_idp,4% (0%-7%),NA,-0.004175421,0.074763656,NA,NA,NA
+1181,,strata.names,3,Wadi Ashshati_idp,66% (56%-76%),NA,0.557411959,0.7602351,NA,NA,NA
+1191,,strata.names,1,Wadi Ashshati_non_displaced,98% (96%-101%),NA,0.957875462,1.006726308,NA,NA,NA
+120,,strata.names,3,Wadi Ashshati_non_displaced,2% (-1%-4%),NA,-0.006726308,0.042124538,NA,NA,NA
+121,,strata.names,1,Wadi Ashshati_returnee,92% (83%-101%),NA,0.825079602,1.008253731,NA,NA,NA
+122,,strata.names,2,Wadi Ashshati_returnee,8% (-1%-17%),NA,-0.008253731,0.174920398,NA,NA,NA
+123,,strata.names,1,Zwara_idp,69% (60%-78%),NA,0.595760414,0.776788605,NA,NA,NA
+124,,strata.names,2,Zwara_idp,2% (-1%-5%),NA,-0.007438416,0.046654102,NA,NA,NA
+125,,strata.names,3,Zwara_idp,29% (21%-38%),NA,0.20523457,0.383000725,NA,NA,NA
+126,,strata.names,1,Zwara_non_displaced,80% (72%-87%),NA,0.722449487,0.873880788,NA,NA,NA
+127,,strata.names,2,Zwara_non_displaced,8% (3%-13%),NA,0.030648657,0.134488958,NA,NA,NA
+128,,strata.names,3,Zwara_non_displaced,12% (6%-18%),NA,0.058126541,0.180405569,NA,NA,NA
+129,,strata.names,1,Zwara_returnee,75% (66%-83%),NA,0.661924886,0.828641152,NA,NA,NA
+130,,strata.names,2,Zwara_returnee,16% (9%-23%),NA,0.090171716,0.230583001,NA,NA,NA
+131,,strata.names,3,Zwara_returnee,9% (4%-15%),NA,0.038416918,0.150262327,NA,NA,NA
+1134,,strata.names,1,Al Jabal Al Gharbi_idp,64% (55%-73%),NA,0.54785685,0.729920928,NA,NA,5.21E-17
+2106,,strata.names,2,Al Jabal Al Gharbi_idp,18% (10%-25%),NA,0.103763816,0.248088036,NA,NA,5.21E-17
+3101,,strata.names,3,Al Jabal Al Gharbi_idp,19% (11%-26%),NA,0.111565534,0.258804836,NA,NA,5.21E-17
+480,,strata.names,1,Al Jabal Al Gharbi_non_displaced,76% (68%-84%),NA,0.682067472,0.840056422,NA,NA,5.21E-17
+546,,strata.names,2,Al Jabal Al Gharbi_non_displaced,8% (3%-13%),NA,0.029492253,0.129799782,NA,NA,5.21E-17
+638,,strata.names,3,Al Jabal Al Gharbi_non_displaced,16% (9%-23%),NA,0.091502342,0.227081728,NA,NA,5.21E-17
+730,,strata.names,1,Al Jabal Al Gharbi_returnee,48% (39%-58%),NA,0.38678516,0.576177803,NA,NA,5.21E-17
+830,,strata.names,2,Al Jabal Al Gharbi_returnee,20% (13%-28%),NA,0.127373225,0.280034183,NA,NA,5.21E-17
+930,,strata.names,3,Al Jabal Al Gharbi_returnee,31% (23%-40%),NA,0.226792509,0.40283712,NA,NA,5.21E-17
+1029,,strata.names,1,Aljfara_idp,74% (66%-82%),NA,0.657686573,0.823794909,NA,NA,5.21E-17
+1135,,strata.names,2,Aljfara_idp,17% (10%-24%),NA,0.096035736,0.237297597,NA,NA,5.21E-17
+1226,,strata.names,3,Aljfara_idp,9% (4%-15%),NA,0.037657424,0.147527761,NA,NA,5.21E-17
+1321,,strata.names,1,Aljfara_non_displaced,83% (76%-91%),NA,0.758374121,0.908292546,NA,NA,5.21E-17
+1421,,strata.names,2,Aljfara_non_displaced,10% (4%-17%),NA,0.042724113,0.16560922,NA,NA,5.21E-17
+1521,,strata.names,3,Aljfara_non_displaced,6% (1%-11%),NA,0.013812563,0.111187437,NA,NA,5.21E-17
+1621,,strata.names,1,Aljfara_returnee,89% (83%-95%),NA,0.826652768,0.951125009,NA,NA,5.21E-17
+1721,,strata.names,2,Aljfara_returnee,9% (3%-15%),NA,0.033978283,0.147839898,NA,NA,5.21E-17
+1821,,strata.names,3,Aljfara_returnee,2% (-1%-5%),NA,-0.007659557,0.048063597,NA,NA,5.21E-17
+1917,,strata.names,1,Aljufra_idp,91% (84%-97%),NA,0.844443134,0.973738684,NA,NA,5.21E-17
+2012,,strata.names,2,Aljufra_idp,4% (0%-8%),NA,-0.004553264,0.082475342,NA,NA,5.21E-17
+2117,,strata.names,3,Aljufra_idp,5% (0%-10%),NA,0.002042717,0.101853386,NA,NA,5.21E-17
+2214,,strata.names,1,Aljufra_non_displaced,97% (94%-100%),NA,0.944163207,1.003205214,NA,NA,5.21E-17
+2312,,strata.names,3,Aljufra_non_displaced,3% (0%-6%),NA,-0.003205214,0.055836793,NA,NA,5.21E-17
+2412,,strata.names,1,Alkufra_idp,81% (73%-88%),NA,0.729041408,0.882609078,NA,NA,5.21E-17
+2512,,strata.names,2,Alkufra_idp,11% (5%-17%),NA,0.046843794,0.166748439,NA,NA,5.21E-17
+2612,,strata.names,3,Alkufra_idp,9% (3%-14%),NA,0.032563449,0.142193832,NA,NA,5.21E-17
+2712,,strata.names,1,Alkufra_non_displaced,77% (69%-85%),NA,0.69454835,0.849311299,NA,NA,5.21E-17
+2812,,strata.names,2,Alkufra_non_displaced,18% (11%-26%),NA,0.112718087,0.255702966,NA,NA,5.21E-17
+2912,,strata.names,3,Alkufra_non_displaced,4% (1%-8%),NA,0.006093105,0.081626193,NA,NA,5.21E-17
+3012,,strata.names,1,Alkufra_returnee,61% (51%-72%),NA,0.505044557,0.719955443,NA,NA,5.21E-17
+3116,,strata.names,2,Alkufra_returnee,30% (20%-40%),NA,0.198923739,0.401076261,NA,NA,5.21E-17
+3214,,strata.names,3,Alkufra_returnee,9% (3%-15%),NA,0.025175331,0.149824669,NA,NA,5.21E-17
+3312,,strata.names,1,Azzawya_idp,88% (81%-94%),NA,0.813460975,0.936539025,NA,NA,5.21E-17
+3412,,strata.names,2,Azzawya_idp,4% (0%-7%),NA,0.001182787,0.070245784,NA,NA,5.21E-17
+3512,,strata.names,3,Azzawya_idp,9% (4%-14%),NA,0.036224933,0.142346496,NA,NA,5.21E-17
+3612,,strata.names,1,Azzawya_non_displaced,84% (77%-91%),NA,0.772367975,0.905598127,NA,NA,5.21E-17
+3712,,strata.names,2,Azzawya_non_displaced,8% (3%-12%),NA,0.028163704,0.124378669,NA,NA,5.21E-17
+3812,,strata.names,3,Azzawya_non_displaced,8% (3%-14%),NA,0.034269173,0.135222352,NA,NA,5.21E-17
+3911,,strata.names,1,Azzawya_returnee,91% (84%-99%),NA,0.838171716,0.986389688,NA,NA,5.21E-17
+4011,,strata.names,2,Azzawya_returnee,5% (-1%-11%),NA,-0.005866513,0.111129671,NA,NA,5.21E-17
+4115,,strata.names,3,Azzawya_returnee,4% (-1%-8%),NA,-0.013115999,0.083291438,NA,NA,5.21E-17
+4213,,strata.names,1,Benghazi_idp,66% (57%-75%),NA,0.570402015,0.745387459,NA,NA,5.21E-17
+4312,,strata.names,2,Benghazi_idp,26% (18%-34%),NA,0.181947941,0.344367849,NA,NA,5.21E-17
+4412,,strata.names,3,Benghazi_idp,8% (3%-13%),NA,0.029216631,0.128678106,NA,NA,5.21E-17
+4512,,strata.names,1,Benghazi_non_displaced,70% (62%-79%),NA,0.620559258,0.788136394,NA,NA,5.21E-17
+4612,,strata.names,2,Benghazi_non_displaced,23% (16%-31%),NA,0.156956374,0.312608843,NA,NA,5.21E-17
+4710,,strata.names,3,Benghazi_non_displaced,6% (2%-10%),NA,0.016969648,0.104769482,NA,NA,5.21E-17
+489,,strata.names,1,Benghazi_returnee,72% (64%-80%),NA,0.641896529,0.803481622,NA,NA,5.21E-17
+499,,strata.names,2,Benghazi_returnee,18% (11%-25%),NA,0.107670691,0.245270485,NA,NA,5.21E-17
+509,,strata.names,3,Benghazi_returnee,10% (5%-16%),NA,0.046496835,0.155183837,NA,NA,5.21E-17
+5113,,strata.names,1,Derna_idp,95% (90%-100%),NA,0.904297784,0.998141241,NA,NA,5.21E-17
+5212,,strata.names,2,Derna_idp,2% (-1%-6%),NA,-0.009211104,0.057991592,NA,NA,5.21E-17
+5311,,strata.names,3,Derna_idp,2% (-1%-6%),NA,-0.009211104,0.057991592,NA,NA,5.21E-17
+547,,strata.names,1,Derna_non_displaced,92% (87%-97%),NA,0.871603657,0.974550189,NA,NA,5.21E-17
+556,,strata.names,2,Derna_non_displaced,7% (2%-12%),NA,0.018908735,0.115706649,NA,NA,5.21E-17
+566,,strata.names,3,Derna_non_displaced,1% (-1%-3%),NA,-0.009234979,0.028465748,NA,NA,5.21E-17
+576,,strata.names,1,Derna_returnee,74% (65%-82%),NA,0.654620945,0.822014569,NA,NA,5.21E-17
+586,,strata.names,2,Derna_returnee,20% (12%-27%),NA,0.120634969,0.271888396,NA,NA,5.21E-17
+596,,strata.names,3,Derna_returnee,7% (2%-11%),NA,0.018337425,0.112503696,NA,NA,5.21E-17
+605,,strata.names,1,Ejdabia_idp,65% (56%-74%),NA,0.559414251,0.737883046,NA,NA,5.21E-17
+6113,,strata.names,2,Ejdabia_idp,3% (0%-6%),NA,-0.003284391,0.057338445,NA,NA,5.21E-17
+6212,,strata.names,3,Ejdabia_idp,32% (24%-41%),NA,0.236822798,0.41182585,NA,NA,5.21E-17
+639,,strata.names,1,Ejdabia_non_displaced,92% (87%-97%),NA,0.872424363,0.971053898,NA,NA,5.21E-17
+644,,strata.names,2,Ejdabia_non_displaced,4% (1%-8%),NA,0.006034096,0.080922425,NA,NA,5.21E-17
+654,,strata.names,3,Ejdabia_non_displaced,3% (0%-7%),NA,0.001139642,0.068425575,NA,NA,5.21E-17
+664,,strata.names,1,Ejdabia_returnee,87% (78%-95%),NA,0.779906081,0.953427252,NA,NA,5.21E-17
+673,,strata.names,2,Ejdabia_returnee,5% (-1%-11%),NA,-0.005625492,0.105625492,NA,NA,5.21E-17
+682,,strata.names,3,Ejdabia_returnee,8% (1%-15%),NA,0.012792245,0.153874422,NA,NA,5.21E-17
+692,,strata.names,1,Ghat_idp,83% (76%-90%),NA,0.758423674,0.899233984,NA,NA,5.21E-17
+702,,strata.names,2,Ghat_idp,12% (6%-18%),NA,0.05701103,0.177223205,NA,NA,5.21E-17
+7111,,strata.names,3,Ghat_idp,5% (1%-10%),NA,0.011786801,0.096321307,NA,NA,5.21E-17
+7211,,strata.names,1,Ghat_non_displaced,86% (79%-92%),NA,0.792029639,0.922256076,NA,NA,5.21E-17
+732,,strata.names,2,Ghat_non_displaced,12% (6%-18%),NA,0.056469155,0.175673702,NA,NA,5.21E-17
+742,,strata.names,3,Ghat_non_displaced,3% (0%-6%),NA,-0.003257572,0.056829,NA,NA,5.21E-17
+752,,strata.names,1,Ghat_returnee,88% (81%-96%),NA,0.813238284,0.955992485,NA,NA,5.21E-17
+762,,strata.names,2,Ghat_returnee,12% (4%-19%),NA,0.044007515,0.186761716,NA,NA,5.21E-17
+772,,strata.names,1,Misrata_idp,70% (61%-78%),NA,0.614364129,0.782187595,NA,NA,5.21E-17
+782,,strata.names,2,Misrata_idp,25% (17%-33%),NA,0.170840183,0.329159817,NA,NA,5.21E-17
+792,,strata.names,3,Misrata_idp,5% (1%-9%),NA,0.011236902,0.092211374,NA,NA,5.21E-17
+802,,strata.names,1,Misrata_non_displaced,86% (80%-93%),NA,0.799030425,0.925107506,NA,NA,5.21E-17
+8111,,strata.names,2,Misrata_non_displaced,6% (2%-10%),NA,0.016812847,0.103876808,NA,NA,5.21E-17
+8211,,strata.names,3,Misrata_non_displaced,8% (3%-13%),NA,0.028680527,0.126491887,NA,NA,5.21E-17
+832,,strata.names,1,Misrata_returnee,82% (74%-89%),NA,0.743496643,0.88953088,NA,NA,5.21E-17
+842,,strata.names,2,Misrata_returnee,18% (11%-26%),NA,0.11046912,0.256503357,NA,NA,5.21E-17
+852,,strata.names,1,Murzuq_idp,82% (73%-90%),NA,0.734193868,0.89799004,NA,NA,5.21E-17
+862,,strata.names,2,Murzuq_idp,9% (3%-15%),NA,0.030867821,0.153040225,NA,NA,5.21E-17
+872,,strata.names,3,Murzuq_idp,9% (3%-15%),NA,0.030867821,0.153040225,NA,NA,5.21E-17
+882,,strata.names,1,Murzuq_non_displaced,79% (71%-87%),NA,0.706852378,0.865963156,NA,NA,5.21E-17
+892,,strata.names,2,Murzuq_non_displaced,7% (2%-12%),NA,0.019107135,0.116815195,NA,NA,5.21E-17
+902,,strata.names,3,Murzuq_non_displaced,15% (8%-21%),NA,0.077160691,0.214101445,NA,NA,5.21E-17
+9111,,strata.names,1,Murzuq_returnee,62% (46%-77%),NA,0.460664097,0.770105134,NA,NA,5.21E-17
+9211,,strata.names,2,Murzuq_returnee,5% (-2%-12%),NA,-0.018865501,0.121429603,NA,NA,5.21E-17
+932,,strata.names,3,Murzuq_returnee,33% (18%-48%),NA,0.183414908,0.483251758,NA,NA,5.21E-17
+942,,strata.names,1,Sebha_idp,80% (73%-88%),NA,0.729643907,0.877498951,NA,NA,5.21E-17
+952,,strata.names,2,Sebha_idp,18% (11%-25%),NA,0.107305415,0.249837442,NA,NA,5.21E-17
+962,,strata.names,3,Sebha_idp,2% (-1%-4%),NA,-0.006785364,0.04249965,NA,NA,5.21E-17
+972,,strata.names,1,Sebha_non_displaced,90% (85%-96%),NA,0.845050012,0.95675179,NA,NA,5.21E-17
+982,,strata.names,2,Sebha_non_displaced,6% (2%-11%),NA,0.017627132,0.108498994,NA,NA,5.21E-17
+992,,strata.names,3,Sebha_non_displaced,4% (0%-7%),NA,0.001197842,0.07087423,NA,NA,5.21E-17
+1002,,strata.names,1,Sebha_returnee,87% (80%-94%),NA,0.800353415,0.93877702,NA,NA,5.21E-17
+10111,,strata.names,2,Sebha_returnee,8% (2%-13%),NA,0.021598686,0.130575227,NA,NA,5.21E-17
+10210,,strata.names,3,Sebha_returnee,5% (1%-10%),NA,0.007758206,0.100937446,NA,NA,5.21E-17
+1032,,strata.names,1,Sirt_idp,77% (69%-85%),NA,0.693515778,0.853654034,NA,NA,5.21E-17
+1042,,strata.names,2,Sirt_idp,20% (12%-27%),NA,0.121857622,0.274368793,NA,NA,5.21E-17
+1052,,strata.names,3,Sirt_idp,3% (0%-6%),NA,-0.003425316,0.06002909,NA,NA,5.21E-17
+1062,,strata.names,1,Sirt_non_displaced,83% (75%-90%),NA,0.754121084,0.897255062,NA,NA,5.21E-17
+1072,,strata.names,2,Sirt_non_displaced,17% (10%-25%),NA,0.102744938,0.245878916,NA,NA,5.21E-17
+1082,,strata.names,1,Sirt_returnee,88% (82%-94%),NA,0.819756438,0.938864252,NA,NA,5.21E-17
+1092,,strata.names,2,Sirt_returnee,12% (6%-18%),NA,0.061135748,0.180243562,NA,NA,5.21E-17
+11011,,strata.names,1,Tripoli_idp,90% (84%-96%),NA,0.836064956,0.957749477,NA,NA,5.21E-17
+11111,,strata.names,2,Tripoli_idp,2% (-1%-5%),NA,-0.007814432,0.049051546,NA,NA,5.21E-17
+11211,,strata.names,3,Tripoli_idp,8% (3%-14%),NA,0.027433303,0.13751515,NA,NA,5.21E-17
+1136,,strata.names,1,Tripoli_non_displaced,92% (87%-97%),NA,0.869058828,0.970226887,NA,NA,5.21E-17
+1142,,strata.names,2,Tripoli_non_displaced,6% (2%-11%),NA,0.017458046,0.107541954,NA,NA,5.21E-17
+1152,,strata.names,3,Tripoli_non_displaced,2% (-1%-4%),NA,-0.006785364,0.04249965,NA,NA,5.21E-17
+1162,,strata.names,1,Tripoli_returnee,91% (85%-96%),NA,0.851612835,0.958731992,NA,NA,5.21E-17
+1172,,strata.names,2,Tripoli_returnee,7% (2%-12%),NA,0.02264184,0.115289195,NA,NA,5.21E-17
+1182,,strata.names,3,Tripoli_returnee,3% (0%-5%),NA,-0.003154496,0.054878634,NA,NA,5.21E-17
+1192,,strata.names,1,Ubari_idp,87% (81%-94%),NA,0.807497284,0.937600755,NA,NA,5.21E-17
+1201,,strata.names,2,Ubari_idp,5% (1%-9%),NA,0.00690206,0.091137156,NA,NA,5.21E-17
+12110,,strata.names,3,Ubari_idp,8% (3%-13%),NA,0.02598673,0.130876015,NA,NA,5.21E-17
+1227,,strata.names,1,Ubari_non_displaced,77% (69%-84%),NA,0.687391157,0.843043626,NA,NA,5.21E-17
+1231,,strata.names,2,Ubari_non_displaced,15% (8%-21%),NA,0.082657201,0.212994973,NA,NA,5.21E-17
+1241,,strata.names,3,Ubari_non_displaced,9% (4%-14%),NA,0.035219974,0.13869307,NA,NA,5.21E-17
+1251,,strata.names,1,Ubari_returnee,76% (68%-84%),NA,0.684751677,0.841564112,NA,NA,5.21E-17
+1261,,strata.names,2,Ubari_returnee,14% (8%-20%),NA,0.076291602,0.204410153,NA,NA,5.21E-17
+1271,,strata.names,3,Ubari_returnee,10% (4%-15%),NA,0.04203796,0.150944496,NA,NA,5.21E-17
+1281,,strata.names,1,Wadi Ashshati_idp,87% (80%-94%),NA,0.798791169,0.942385302,NA,NA,5.21E-17
+1291,,strata.names,2,Wadi Ashshati_idp,6% (1%-11%),NA,0.008493812,0.109153247,NA,NA,5.21E-17
+1301,,strata.names,3,Wadi Ashshati_idp,7% (2%-13%),NA,0.01580046,0.125376011,NA,NA,5.21E-17
+13110,,strata.names,1,Wadi Ashshati_non_displaced,96% (93%-100%),NA,0.930371616,0.998831924,NA,NA,5.21E-17
+132,,strata.names,2,Wadi Ashshati_non_displaced,1% (-1%-3%),NA,-0.008499449,0.026198565,NA,NA,5.21E-17
+133,,strata.names,3,Wadi Ashshati_non_displaced,3% (0%-6%),NA,-0.003231183,0.056328528,NA,NA,5.21E-17
+134,,strata.names,1,Wadi Ashshati_returnee,86% (75%-98%),NA,0.746511698,0.975710524,NA,NA,5.21E-17
+135,,strata.names,2,Wadi Ashshati_returnee,8% (-1%-17%),NA,-0.008253731,0.174920398,NA,NA,5.21E-17
+136,,strata.names,3,Wadi Ashshati_returnee,6% (-2%-13%),NA,-0.020349552,0.131460663,NA,NA,5.21E-17
+137,,strata.names,1,Zwara_idp,82% (75%-90%),NA,0.749164494,0.89789433,NA,NA,5.21E-17
+138,,strata.names,2,Zwara_idp,8% (3%-13%),NA,0.02598673,0.130876015,NA,NA,5.21E-17
+139,,strata.names,3,Zwara_idp,10% (4%-16%),NA,0.040031452,0.156046979,NA,NA,5.21E-17
+140,,strata.names,1,Zwara_non_displaced,69% (60%-78%),NA,0.600678758,0.775468031,NA,NA,5.21E-17
+141,,strata.names,2,Zwara_non_displaced,10% (4%-16%),NA,0.044094443,0.15774042,NA,NA,5.21E-17
+142,,strata.names,3,Zwara_non_displaced,21% (13%-29%),NA,0.134038049,0.287980299,NA,NA,5.21E-17
+143,,strata.names,1,Zwara_returnee,77% (69%-85%),NA,0.693515778,0.853654034,NA,NA,5.21E-17
+144,,strata.names,2,Zwara_returnee,13% (7%-20%),NA,0.067300015,0.196850928,NA,NA,5.21E-17
+145,,strata.names,3,Zwara_returnee,9% (4%-15%),NA,0.038416918,0.150262327,NA,NA,5.21E-17
+1137,,strata.names,1,Al Jabal Al Gharbi_idp,78% (70%-86%),NA,0.698985676,0.85656988,NA,NA,NA
+2107,,strata.names,2,Al Jabal Al Gharbi_idp,12% (6%-18%),NA,0.058700803,0.182039938,NA,NA,NA
+3102,,strata.names,3,Al Jabal Al Gharbi_idp,9% (4%-15%),NA,0.037657424,0.147527761,NA,NA,NA
+490,,strata.names,4,Al Jabal Al Gharbi_idp,1% (-1%-3%),NA,-0.008892943,0.027411461,NA,NA,NA
+548,,strata.names,1,Al Jabal Al Gharbi_non_displaced,81% (74%-89%),NA,0.742103454,0.88621513,NA,NA,NA
+640,,strata.names,2,Al Jabal Al Gharbi_non_displaced,3% (0%-6%),NA,-0.003231183,0.056328528,NA,NA,NA
+733,,strata.names,3,Al Jabal Al Gharbi_non_displaced,12% (6%-17%),NA,0.05593747,0.174151026,NA,NA,NA
+833,,strata.names,4,Al Jabal Al Gharbi_non_displaced,4% (1%-8%),NA,0.006153269,0.082342306,NA,NA,NA
+933,,strata.names,1,Al Jabal Al Gharbi_returnee,73% (65%-82%),NA,0.647487152,0.815475811,NA,NA,NA
+1030,,strata.names,2,Al Jabal Al Gharbi_returnee,2% (-1%-4%),NA,-0.007032331,0.044069369,NA,NA,NA
+1138,,strata.names,3,Al Jabal Al Gharbi_returnee,16% (9%-23%),NA,0.088386196,0.226428619,NA,NA,NA
+1228,,strata.names,4,Al Jabal Al Gharbi_returnee,9% (4%-15%),NA,0.037657424,0.147527761,NA,NA,NA
+1322,,strata.names,1,Aljfara_idp,85% (78%-92%),NA,0.784524532,0.919179172,NA,NA,NA
+1422,,strata.names,2,Aljfara_idp,12% (6%-18%),NA,0.058700803,0.182039938,NA,NA,NA
+1522,,strata.names,3,Aljfara_idp,3% (0%-6%),NA,-0.003367535,0.058923091,NA,NA,NA
+1622,,strata.names,1,Aljfara_non_displaced,95% (90%-99%),NA,0.903225085,0.992608249,NA,NA,NA
+1722,,strata.names,2,Aljfara_non_displaced,1% (-1%-3%),NA,-0.01000456,0.030837894,NA,NA,NA
+1822,,strata.names,3,Aljfara_non_displaced,3% (0%-7%),NA,-0.0037463,0.0662463,NA,NA,NA
+1918,,strata.names,4,Aljfara_non_displaced,1% (-1%-3%),NA,-0.01000456,0.030837894,NA,NA,NA
+2013,,strata.names,1,Aljfara_returnee,98% (95%-101%),NA,0.951936403,1.007659557,NA,NA,NA
+2118,,strata.names,2,Aljfara_returnee,2% (-1%-5%),NA,-0.007659557,0.048063597,NA,NA,NA
+2215,,strata.names,1,Aljufra_idp,100% (100%-100%),NA,1,1,NA,NA,NA
+2313,,strata.names,1,Aljufra_non_displaced,100% (100%-100%),NA,1,1,NA,NA,NA
+2413,,strata.names,1,Alkufra_idp,95% (91%-99%),NA,0.909739241,0.99317338,NA,NA,NA
+2513,,strata.names,2,Alkufra_idp,5% (1%-9%),NA,0.00682662,0.090260759,NA,NA,NA
+2613,,strata.names,1,Alkufra_non_displaced,97% (94%-100%),NA,0.944163207,1.003205214,NA,NA,NA
+2713,,strata.names,2,Alkufra_non_displaced,3% (0%-6%),NA,-0.003205214,0.055836793,NA,NA,NA
+2813,,strata.names,1,Alkufra_returnee,96% (92%-100%),NA,0.920595996,1.004404004,NA,NA,NA
+2913,,strata.names,2,Alkufra_returnee,1% (-1%-4%),NA,-0.012005472,0.037005472,NA,NA,NA
+3013,,strata.names,3,Alkufra_returnee,2% (-1%-6%),NA,-0.009435931,0.059435931,NA,NA,NA
+3117,,strata.names,1,Azzawya_idp,78% (70%-85%),NA,0.699303293,0.854268136,NA,NA,NA
+3215,,strata.names,2,Azzawya_idp,22% (15%-30%),NA,0.145731864,0.300696707,NA,NA,NA
+3313,,strata.names,1,Azzawya_non_displaced,94% (90%-98%),NA,0.897863687,0.983492245,NA,NA,NA
+3413,,strata.names,2,Azzawya_non_displaced,6% (2%-10%),NA,0.016507755,0.102136313,NA,NA,NA
+3513,,strata.names,1,Azzawya_returnee,95% (89%-101%),NA,0.888870329,1.005866513,NA,NA,NA
+3613,,strata.names,2,Azzawya_returnee,5% (-1%-11%),NA,-0.005866513,0.111129671,NA,NA,NA
+3713,,strata.names,1,Benghazi_idp,86% (80%-92%),NA,0.795589847,0.923708398,NA,NA,NA
+3813,,strata.names,2,Benghazi_idp,9% (4%-14%),NA,0.035548719,0.139889878,NA,NA,NA
+3912,,strata.names,3,Benghazi_idp,5% (1%-9%),NA,0.011450616,0.093812542,NA,NA,NA
+4012,,strata.names,1,Benghazi_non_displaced,96% (92%-99%),NA,0.919077575,0.993965904,NA,NA,NA
+4116,,strata.names,2,Benghazi_non_displaced,3% (0%-6%),NA,-0.003179655,0.055353568,NA,NA,NA
+4214,,strata.names,3,Benghazi_non_displaced,2% (-1%-4%),NA,-0.006611226,0.041393834,NA,NA,NA
+4313,,strata.names,1,Benghazi_returnee,92% (87%-97%),NA,0.865896299,0.966036474,NA,NA,NA
+4413,,strata.names,2,Benghazi_returnee,3% (0%-7%),NA,0.001086445,0.066140446,NA,NA,NA
+4513,,strata.names,3,Benghazi_returnee,5% (1%-9%),NA,0.010930821,0.089909515,NA,NA,NA
+4613,,strata.names,1,Derna_idp,94% (89%-99%),NA,0.88690167,0.99114711,NA,NA,NA
+4711,,strata.names,2,Derna_idp,5% (0%-10%),NA,0.001858759,0.095702216,NA,NA,NA
+4810,,strata.names,3,Derna_idp,1% (-1%-4%),NA,-0.011712656,0.0361029,NA,NA,NA
+4910,,strata.names,1,Derna_non_displaced,93% (88%-98%),NA,0.884293351,0.981091265,NA,NA,NA
+5010,,strata.names,2,Derna_non_displaced,7% (2%-12%),NA,0.018908735,0.115706649,NA,NA,NA
+5114,,strata.names,1,Derna_returnee,93% (88%-98%),NA,0.875151958,0.975315332,NA,NA,NA
+5213,,strata.names,2,Derna_returnee,6% (1%-10%),NA,0.012266843,0.09988269,NA,NA,NA
+5312,,strata.names,3,Derna_returnee,2% (-1%-4%),NA,-0.007096907,0.044480084,NA,NA,NA
+549,,strata.names,1,Ejdabia_idp,91% (86%-96%),NA,0.856392581,0.963427239,NA,NA,NA
+557,,strata.names,2,Ejdabia_idp,6% (2%-11%),NA,0.017627132,0.108498994,NA,NA,NA
+567,,strata.names,3,Ejdabia_idp,3% (0%-6%),NA,-0.003284391,0.057338445,NA,NA,NA
+577,,strata.names,1,Ejdabia_non_displaced,97% (93%-100%),NA,0.931574425,0.998860358,NA,NA,NA
+587,,strata.names,2,Ejdabia_non_displaced,3% (0%-6%),NA,-0.003179655,0.055353568,NA,NA,NA
+597,,strata.names,3,Ejdabia_non_displaced,1% (-1%-3%),NA,-0.008351633,0.025742937,NA,NA,NA
+606,,strata.names,1,Ejdabia_returnee,100% (100%-100%),NA,1,1,NA,NA,NA
+6114,,strata.names,1,Ghat_idp,62% (53%-71%),NA,0.530968464,0.712274779,NA,NA,NA
+6213,,strata.names,2,Ghat_idp,8% (3%-13%),NA,0.030059362,0.1321028,NA,NA,NA
+6310,,strata.names,3,Ghat_idp,21% (13%-28%),NA,0.131447376,0.282967039,NA,NA,NA
+645,,strata.names,4,Ghat_idp,9% (4%-14%),NA,0.036572761,0.143607419,NA,NA,NA
+655,,strata.names,1,Ghat_non_displaced,96% (92%-99%),NA,0.916928907,0.993785379,NA,NA,NA
+665,,strata.names,2,Ghat_non_displaced,2% (-1%-4%),NA,-0.006785364,0.04249965,NA,NA,NA
+674,,strata.names,3,Ghat_non_displaced,2% (-1%-4%),NA,-0.006785364,0.04249965,NA,NA,NA
+683,,strata.names,4,Ghat_non_displaced,1% (-1%-3%),NA,-0.008575337,0.02643248,NA,NA,NA
+693,,strata.names,1,Ghat_returnee,82% (73%-91%),NA,0.734776053,0.906249588,NA,NA,NA
+703,,strata.names,2,Ghat_returnee,5% (0%-10%),NA,0.002003384,0.100560719,NA,NA,NA
+7112,,strata.names,3,Ghat_returnee,8% (2%-14%),NA,0.01739046,0.136455694,NA,NA,NA
+7212,,strata.names,4,Ghat_returnee,5% (0%-10%),NA,0.002003384,0.100560719,NA,NA,NA
+734,,strata.names,1,Misrata_idp,73% (65%-81%),NA,0.651860866,0.813656375,NA,NA,NA
+743,,strata.names,2,Misrata_idp,26% (18%-34%),NA,0.178571671,0.338669708,NA,NA,NA
+753,,strata.names,3,Misrata_idp,1% (-1%-3%),NA,-0.008279636,0.025521015,NA,NA,NA
+763,,strata.names,1,Misrata_non_displaced,96% (92%-99%),NA,0.919769313,0.99402379,NA,NA,NA
+773,,strata.names,2,Misrata_non_displaced,4% (1%-8%),NA,0.00597621,0.080230687,NA,NA,NA
+783,,strata.names,1,Misrata_returnee,92% (87%-97%),NA,0.865511042,0.969351343,NA,NA,NA
+793,,strata.names,2,Misrata_returnee,3% (0%-6%),NA,-0.003339362,0.058385233,NA,NA,NA
+803,,strata.names,3,Misrata_returnee,6% (1%-10%),NA,0.012022056,0.098069688,NA,NA,NA
+8112,,strata.names,1,Murzuq_idp,45% (34%-55%),NA,0.343143237,0.553408488,NA,NA,NA
+8212,,strata.names,2,Murzuq_idp,53% (42%-63%),NA,0.423210615,0.63426065,NA,NA,NA
+834,,strata.names,3,Murzuq_idp,2% (-1%-5%),NA,-0.008693236,0.054670247,NA,NA,NA
+843,,strata.names,1,Murzuq_non_displaced,96% (92%-100%),NA,0.923662278,0.998667819,NA,NA,NA
+853,,strata.names,2,Murzuq_non_displaced,4% (0%-8%),NA,0.001332181,0.076337722,NA,NA,NA
+863,,strata.names,1,Murzuq_returnee,87% (77%-98%),NA,0.765473365,0.978116378,NA,NA,NA
+873,,strata.names,2,Murzuq_returnee,13% (2%-23%),NA,0.021883622,0.234526635,NA,NA,NA
+883,,strata.names,1,Sebha_idp,83% (76%-90%),NA,0.760519137,0.900195149,NA,NA,NA
+893,,strata.names,2,Sebha_idp,17% (10%-24%),NA,0.099804851,0.239480863,NA,NA,NA
+903,,strata.names,1,Sebha_non_displaced,99% (97%-101%),NA,0.973329389,1.008652593,NA,NA,NA
+9112,,strata.names,2,Sebha_non_displaced,1% (-1%-3%),NA,-0.008652593,0.026670611,NA,NA,NA
+9212,,strata.names,1,Sebha_returnee,97% (93%-100%),NA,0.93089069,1.003891919,NA,NA,NA
+934,,strata.names,2,Sebha_returnee,3% (0%-7%),NA,-0.003891919,0.06910931,NA,NA,NA
+943,,strata.names,1,Sirt_idp,79% (71%-87%),NA,0.714863226,0.870042434,NA,NA,NA
+953,,strata.names,2,Sirt_idp,14% (7%-21%),NA,0.074825859,0.208193009,NA,NA,NA
+963,,strata.names,3,Sirt_idp,7% (2%-11%),NA,0.018524001,0.113551471,NA,NA,NA
+973,,strata.names,1,Sirt_non_displaced,94% (90%-99%),NA,0.901930312,0.987977944,NA,NA,NA
+983,,strata.names,2,Sirt_non_displaced,6% (1%-10%),NA,0.012022056,0.098069688,NA,NA,NA
+993,,strata.names,1,Sirt_returnee,96% (92%-99%),NA,0.919769313,0.99402379,NA,NA,NA
+1003,,strata.names,2,Sirt_returnee,4% (1%-8%),NA,0.00597621,0.080230687,NA,NA,NA
+10112,,strata.names,1,Tripoli_idp,81% (74%-89%),NA,0.736648051,0.892217928,NA,NA,NA
+10211,,strata.names,2,Tripoli_idp,13% (7%-20%),NA,0.06585631,0.202184927,NA,NA,NA
+1033,,strata.names,3,Tripoli_idp,5% (1%-10%),NA,0.007305423,0.095787361,NA,NA,NA
+1043,,strata.names,1,Tripoli_non_displaced,93% (88%-98%),NA,0.880649397,0.97649346,NA,NA,NA
+1053,,strata.names,2,Tripoli_non_displaced,3% (0%-6%),NA,-0.003257572,0.056829,NA,NA,NA
+1063,,strata.names,3,Tripoli_non_displaced,4% (1%-8%),NA,0.006214621,0.083071093,NA,NA,NA
+1073,,strata.names,1,Tripoli_returnee,96% (92%-99%),NA,0.919769313,0.99402379,NA,NA,NA
+1083,,strata.names,2,Tripoli_returnee,3% (0%-5%),NA,-0.003154496,0.054878634,NA,NA,NA
+1093,,strata.names,3,Tripoli_returnee,2% (-1%-4%),NA,-0.006555148,0.041037906,NA,NA,NA
+11012,,strata.names,1,Ubari_idp,36% (27%-46%),NA,0.268956564,0.456533632,NA,NA,NA
+11112,,strata.names,2,Ubari_idp,43% (33%-53%),NA,0.334760222,0.527984876,NA,NA,NA
+11212,,strata.names,3,Ubari_idp,21% (13%-28%),NA,0.127006446,0.28475826,NA,NA,NA
+1139,,strata.names,1,Ubari_non_displaced,97% (93%-100%),NA,0.931574425,0.998860358,NA,NA,NA
+1143,,strata.names,2,Ubari_non_displaced,3% (0%-6%),NA,-0.003179655,0.055353568,NA,NA,NA
+1153,,strata.names,3,Ubari_non_displaced,1% (-1%-3%),NA,-0.008351633,0.025742937,NA,NA,NA
+1163,,strata.names,1,Ubari_returnee,89% (84%-95%),NA,0.838139022,0.951334662,NA,NA,NA
+1173,,strata.names,2,Ubari_returnee,11% (5%-16%),NA,0.048665338,0.161860978,NA,NA,NA
+1183,,strata.names,1,Wadi Ashshati_idp,71% (61%-80%),NA,0.608419274,0.803345432,NA,NA,NA
+1193,,strata.names,2,Wadi Ashshati_idp,25% (15%-34%),NA,0.154802927,0.33931472,NA,NA,NA
+1202,,strata.names,3,Wadi Ashshati_idp,5% (0%-9%),NA,0.001762078,0.092355569,NA,NA,NA
+12111,,strata.names,1,Wadi Ashshati_non_displaced,96% (92%-99%),NA,0.917657694,0.993846731,NA,NA,NA
+1229,,strata.names,2,Wadi Ashshati_non_displaced,4% (0%-7%),NA,0.001168076,0.069628384,NA,NA,NA
+1232,,strata.names,3,Wadi Ashshati_non_displaced,1% (-1%-3%),NA,-0.008499449,0.026198565,NA,NA,NA
+1242,,strata.names,1,Wadi Ashshati_returnee,94% (87%-102%),NA,0.868539337,1.020349552,NA,NA,NA
+1252,,strata.names,2,Wadi Ashshati_returnee,6% (-2%-13%),NA,-0.020349552,0.131460663,NA,NA,NA
+1262,,strata.names,1,Zwara_idp,65% (55%-74%),NA,0.553837465,0.740280182,NA,NA,NA
+1272,,strata.names,2,Zwara_idp,34% (25%-44%),NA,0.250526029,0.43574848,NA,NA,NA
+1282,,strata.names,3,Zwara_idp,1% (-1%-3%),NA,-0.009416057,0.0290239,NA,NA,NA
+1292,,strata.names,1,Zwara_non_displaced,83% (75%-90%),NA,0.754121084,0.897255062,NA,NA,NA
+1302,,strata.names,2,Zwara_non_displaced,17% (10%-24%),NA,0.095093502,0.235181728,NA,NA,NA
+13111,,strata.names,3,Zwara_non_displaced,1% (-1%-3%),NA,-0.008811356,0.02715998,NA,NA,NA
+1323,,strata.names,1,Zwara_returnee,85% (78%-92%),NA,0.780565558,0.91754765,NA,NA,NA
+1331,,strata.names,2,Zwara_returnee,15% (8%-22%),NA,0.08245235,0.219434442,NA,NA,NA
+1140,,strata.names,1,Al Jabal Al Gharbi_idp,29% (20%-37%),NA,0.201300955,0.372773119,NA,NA,NA
+2108,,strata.names,2,Al Jabal Al Gharbi_idp,69% (61%-78%),NA,0.607142277,0.781746611,NA,NA,NA
+3103,,strata.names,4,Al Jabal Al Gharbi_idp,2% (-1%-4%),NA,-0.007032331,0.044069369,NA,NA,NA
+4100,,strata.names,1,Al Jabal Al Gharbi_non_displaced,49% (39%-58%),NA,0.394136331,0.579314996,NA,NA,NA
+550,,strata.names,2,Al Jabal Al Gharbi_non_displaced,49% (39%-58%),NA,0.394136331,0.579314996,NA,NA,NA
+646,,strata.names,3,Al Jabal Al Gharbi_non_displaced,1% (-1%-3%),NA,-0.008499449,0.026198565,NA,NA,NA
+735,,strata.names,4,Al Jabal Al Gharbi_non_displaced,2% (-1%-4%),NA,-0.006726308,0.042124538,NA,NA,NA
+835,,strata.names,1,Al Jabal Al Gharbi_returnee,15% (8%-22%),NA,0.080820828,0.215475468,NA,NA,NA
+935,,strata.names,2,Al Jabal Al Gharbi_returnee,85% (78%-92%),NA,0.784524532,0.919179172,NA,NA,NA
+1034,,strata.names,1,Aljfara_idp,44% (34%-53%),NA,0.341223398,0.529146972,NA,NA,NA
+1144,,strata.names,2,Aljfara_idp,53% (43%-62%),NA,0.43316279,0.622392766,NA,NA,NA
+1230,,strata.names,4,Aljfara_idp,4% (0%-7%),NA,0.001245192,0.072828882,NA,NA,NA
+1324,,strata.names,1,Aljfara_non_displaced,57% (47%-67%),NA,0.473423489,0.672409845,NA,NA,NA
+1423,,strata.names,2,Aljfara_non_displaced,43% (33%-53%),NA,0.327590155,0.526576511,NA,NA,NA
+1523,,strata.names,1,Aljfara_returnee,78% (70%-86%),NA,0.695447129,0.860108426,NA,NA,NA
+1623,,strata.names,2,Aljfara_returnee,22% (14%-30%),NA,0.139891574,0.304552871,NA,NA,NA
+1723,,strata.names,2,Aljufra_idp,95% (90%-100%),NA,0.898146614,0.997957283,NA,NA,NA
+1823,,strata.names,3,Aljufra_idp,4% (0%-8%),NA,-0.004553264,0.082475342,NA,NA,NA
+1919,,strata.names,4,Aljufra_idp,1% (-1%-4%),NA,-0.012473218,0.038447244,NA,NA,NA
+2014,,strata.names,1,Aljufra_non_displaced,1% (-1%-3%),NA,-0.008424893,0.025968753,NA,NA,NA
+2119,,strata.names,2,Aljufra_non_displaced,97% (94%-100%),NA,0.944163207,1.003205214,NA,NA,NA
+2216,,strata.names,3,Aljufra_non_displaced,2% (-1%-4%),NA,-0.006668271,0.04175599,NA,NA,NA
+2314,,strata.names,1,Alkufra_idp,45% (35%-54%),NA,0.350100878,0.543103005,NA,NA,NA
+2414,,strata.names,2,Alkufra_idp,50% (41%-60%),NA,0.40780281,0.601905928,NA,NA,NA
+2514,,strata.names,3,Alkufra_idp,4% (0%-8%),NA,0.001332181,0.076337722,NA,NA,NA
+2614,,strata.names,4,Alkufra_idp,1% (-1%-3%),NA,-0.009324639,0.028742114,NA,NA,NA
+2714,,strata.names,1,Alkufra_non_displaced,56% (47%-65%),NA,0.469890258,0.652916759,NA,NA,NA
+2814,,strata.names,2,Alkufra_non_displaced,43% (34%-52%),NA,0.338526047,0.521123076,NA,NA,NA
+2914,,strata.names,3,Alkufra_non_displaced,1% (-1%-3%),NA,-0.008424893,0.025968753,NA,NA,NA
+3014,,strata.names,1,Alkufra_returnee,68% (57%-78%),NA,0.571692206,0.778307794,NA,NA,NA
+3118,,strata.names,2,Alkufra_returnee,32% (22%-43%),NA,0.221692206,0.428307794,NA,NA,NA
+3216,,strata.names,1,Azzawya_idp,13% (7%-20%),NA,0.070555457,0.197301686,NA,NA,NA
+3314,,strata.names,2,Azzawya_idp,87% (80%-93%),NA,0.802698314,0.929444543,NA,NA,NA
+3414,,strata.names,1,Azzawya_non_displaced,23% (15%-30%),NA,0.152679198,0.30494792,NA,NA,NA
+3514,,strata.names,2,Azzawya_non_displaced,74% (66%-82%),NA,0.657521991,0.81705428,NA,NA,NA
+3614,,strata.names,3,Azzawya_non_displaced,1% (-1%-3%),NA,-0.008139303,0.025088456,NA,NA,NA
+3714,,strata.names,4,Azzawya_non_displaced,3% (0%-5%),NA,-0.003105345,0.053952803,NA,NA,NA
+3814,,strata.names,1,Azzawya_returnee,7% (0%-14%),NA,0.003256025,0.137094852,NA,NA,NA
+3913,,strata.names,2,Azzawya_returnee,93% (86%-100%),NA,0.862905148,0.996743975,NA,NA,NA
+4013,,strata.names,1,Benghazi_idp,55% (46%-64%),NA,0.46093263,0.644330528,NA,NA,NA
+4117,,strata.names,2,Benghazi_idp,43% (34%-52%),NA,0.338526047,0.521123076,NA,NA,NA
+4215,,strata.names,3,Benghazi_idp,2% (-1%-4%),NA,-0.006668271,0.04175599,NA,NA,NA
+4314,,strata.names,1,Benghazi_non_displaced,71% (63%-80%),NA,0.629988304,0.796098653,NA,NA,NA
+4414,,strata.names,2,Benghazi_non_displaced,29% (20%-37%),NA,0.203901347,0.370011696,NA,NA,NA
+4514,,strata.names,1,Benghazi_returnee,67% (59%-76%),NA,0.587557402,0.756980413,NA,NA,NA
+4614,,strata.names,2,Benghazi_returnee,29% (21%-38%),NA,0.211886042,0.376349252,NA,NA,NA
+4712,,strata.names,3,Benghazi_returnee,2% (-1%-4%),NA,-0.006392478,0.040005924,NA,NA,NA
+4811,,strata.names,4,Benghazi_returnee,2% (-1%-4%),NA,-0.006392478,0.040005924,NA,NA,NA
+4911,,strata.names,1,Derna_idp,12% (5%-19%),NA,0.050671997,0.193230442,NA,NA,NA
+5011,,strata.names,2,Derna_idp,87% (79%-94%),NA,0.791616349,0.940090968,NA,NA,NA
+5115,,strata.names,3,Derna_idp,1% (-1%-4%),NA,-0.011712656,0.0361029,NA,NA,NA
+5214,,strata.names,1,Derna_non_displaced,16% (9%-23%),NA,0.09203079,0.234892287,NA,NA,NA
+5313,,strata.names,2,Derna_non_displaced,84% (77%-91%),NA,0.765107713,0.90796921,NA,NA,NA
+5410,,strata.names,1,Derna_returnee,32% (23%-41%),NA,0.229099149,0.406414869,NA,NA,NA
+558,,strata.names,2,Derna_returnee,67% (58%-76%),NA,0.583563228,0.762231165,NA,NA,NA
+568,,strata.names,3,Derna_returnee,1% (-1%-3%),NA,-0.008976054,0.027667643,NA,NA,NA
+578,,strata.names,1,Ejdabia_idp,68% (59%-76%),NA,0.58817415,0.763177202,NA,NA,NA
+588,,strata.names,2,Ejdabia_idp,32% (24%-41%),NA,0.236822798,0.41182585,NA,NA,NA
+598,,strata.names,1,Ejdabia_non_displaced,75% (67%-83%),NA,0.668090715,0.827561459,NA,NA,NA
+607,,strata.names,2,Ejdabia_non_displaced,24% (16%-32%),NA,0.164675498,0.322281023,NA,NA,NA
+6115,,strata.names,3,Ejdabia_non_displaced,1% (-1%-3%),NA,-0.008351633,0.025742937,NA,NA,NA
+6214,,strata.names,1,Ejdabia_returnee,97% (92%-101%),NA,0.920851971,1.012481362,NA,NA,NA
+6311,,strata.names,2,Ejdabia_returnee,3% (-1%-8%),NA,-0.012481362,0.079148029,NA,NA,NA
+647,,strata.names,1,Ghat_idp,53% (44%-62%),NA,0.438257355,0.624805708,NA,NA,NA
+656,,strata.names,2,Ghat_idp,44% (35%-53%),NA,0.34862442,0.534258463,NA,NA,NA
+666,,strata.names,4,Ghat_idp,3% (0%-6%),NA,-0.003284391,0.057338445,NA,NA,NA
+675,,strata.names,1,Ghat_non_displaced,71% (62%-79%),NA,0.620528197,0.790186089,NA,NA,NA
+684,,strata.names,2,Ghat_non_displaced,29% (20%-37%),NA,0.201653482,0.369775089,NA,NA,NA
+694,,strata.names,4,Ghat_non_displaced,1% (-1%-3%),NA,-0.008575337,0.02643248,NA,NA,NA
+704,,strata.names,1,Ghat_returnee,47% (36%-59%),NA,0.362799646,0.585918303,NA,NA,NA
+7113,,strata.names,2,Ghat_returnee,47% (36%-59%),NA,0.362799646,0.585918303,NA,NA,NA
+7213,,strata.names,4,Ghat_returnee,5% (0%-10%),NA,0.002003384,0.100560719,NA,NA,NA
+736,,strata.names,1,Misrata_idp,21% (13%-28%),NA,0.132843034,0.280950069,NA,NA,NA
+744,,strata.names,2,Misrata_idp,76% (68%-84%),NA,0.680391918,0.836849461,NA,NA,NA
+754,,strata.names,3,Misrata_idp,3% (0%-7%),NA,0.001125898,0.067839619,NA,NA,NA
+764,,strata.names,1,Misrata_non_displaced,42% (33%-51%),NA,0.332115072,0.512712514,NA,NA,NA
+774,,strata.names,2,Misrata_non_displaced,58% (49%-67%),NA,0.487287486,0.667884928,NA,NA,NA
+784,,strata.names,1,Misrata_returnee,13% (7%-19%),NA,0.065324215,0.191556519,NA,NA,NA
+794,,strata.names,2,Misrata_returnee,87% (81%-93%),NA,0.808443481,0.934675785,NA,NA,NA
+804,,strata.names,1,Murzuq_idp,36% (26%-46%),NA,0.255080135,0.457563544,NA,NA,NA
+8113,,strata.names,2,Murzuq_idp,61% (51%-71%),NA,0.506047124,0.71234368,NA,NA,NA
+8213,,strata.names,3,Murzuq_idp,2% (-1%-5%),NA,-0.008693236,0.054670247,NA,NA,NA
+836,,strata.names,4,Murzuq_idp,1% (-1%-3%),NA,-0.011039515,0.034028021,NA,NA,NA
+844,,strata.names,1,Murzuq_non_displaced,42% (32%-51%),NA,0.321750677,0.51320078,NA,NA,NA
+854,,strata.names,2,Murzuq_non_displaced,56% (47%-66%),NA,0.466826812,0.65938678,NA,NA,NA
+864,,strata.names,3,Murzuq_non_displaced,2% (-1%-5%),NA,-0.007367511,0.046202463,NA,NA,NA
+874,,strata.names,1,Murzuq_returnee,79% (67%-92%),NA,0.6664548,0.923288789,NA,NA,NA
+884,,strata.names,2,Murzuq_returnee,21% (8%-33%),NA,0.076711211,0.3335452,NA,NA,NA
+894,,strata.names,1,Sebha_idp,35% (26%-44%),NA,0.259566623,0.436861948,NA,NA,NA
+904,,strata.names,2,Sebha_idp,62% (53%-72%),NA,0.534916092,0.715083908,NA,NA,NA
+9113,,strata.names,4,Sebha_idp,3% (0%-6%),NA,-0.003257572,0.056829,NA,NA,NA
+9213,,strata.names,1,Sebha_non_displaced,50% (40%-59%),NA,0.402039084,0.588951907,NA,NA,NA
+936,,strata.names,2,Sebha_non_displaced,50% (40%-59%),NA,0.402039084,0.588951907,NA,NA,NA
+944,,strata.names,4,Sebha_non_displaced,1% (-1%-3%),NA,-0.008652593,0.026670611,NA,NA,NA
+954,,strata.names,1,Sebha_returnee,54% (44%-65%),NA,0.441112625,0.645843897,NA,NA,NA
+964,,strata.names,2,Sebha_returnee,46% (35%-56%),NA,0.354156103,0.558887375,NA,NA,NA
+974,,strata.names,1,Sirt_idp,28% (20%-37%),NA,0.196836192,0.369201544,NA,NA,NA
+984,,strata.names,2,Sirt_idp,69% (60%-78%),NA,0.60009205,0.77726644,NA,NA,NA
+994,,strata.names,3,Sirt_idp,1% (-1%-3%),NA,-0.009060734,0.027928658,NA,NA,NA
+1004,,strata.names,4,Sirt_idp,2% (-1%-4%),NA,-0.007162678,0.044898527,NA,NA,NA
+10113,,strata.names,1,Sirt_non_displaced,57% (48%-66%),NA,0.475383123,0.662231556,NA,NA,NA
+10212,,strata.names,2,Sirt_non_displaced,41% (32%-51%),NA,0.319966447,0.505721626,NA,NA,NA
+1035,,strata.names,3,Sirt_non_displaced,2% (-1%-4%),NA,-0.00696892,0.043666168,NA,NA,NA
+1044,,strata.names,1,Sirt_returnee,59% (50%-68%),NA,0.496169852,0.676243941,NA,NA,NA
+1054,,strata.names,2,Sirt_returnee,34% (26%-43%),NA,0.257934955,0.431720217,NA,NA,NA
+1064,,strata.names,4,Sirt_returnee,7% (2%-12%),NA,0.02264184,0.115289195,NA,NA,NA
+1074,,strata.names,1,Tripoli_idp,51% (41%-61%),NA,0.405116783,0.605192495,NA,NA,NA
+1084,,strata.names,2,Tripoli_idp,49% (39%-59%),NA,0.394807505,0.594883217,NA,NA,NA
+1094,,strata.names,1,Tripoli_non_displaced,55% (46%-65%),NA,0.46106873,0.646074127,NA,NA,NA
+11013,,strata.names,2,Tripoli_non_displaced,45% (35%-54%),NA,0.353925873,0.53893127,NA,NA,NA
+11113,,strata.names,1,Tripoli_returnee,77% (69%-84%),NA,0.689987012,0.844495747,NA,NA,NA
+11213,,strata.names,2,Tripoli_returnee,23% (16%-31%),NA,0.155504253,0.310012988,NA,NA,NA
+11310,,strata.names,1,Ubari_idp,9% (3%-14%),NA,0.032906025,0.143564564,NA,NA,NA
+1145,,strata.names,2,Ubari_idp,90% (84%-96%),NA,0.843953021,0.959968548,NA,NA,NA
+1154,,strata.names,3,Ubari_idp,1% (-1%-3%),NA,-0.009416057,0.0290239,NA,NA,NA
+1164,,strata.names,1,Ubari_non_displaced,30% (21%-38%),NA,0.211863606,0.379440742,NA,NA,NA
+1174,,strata.names,2,Ubari_non_displaced,70% (61%-78%),NA,0.611166744,0.780137603,NA,NA,NA
+1184,,strata.names,3,Ubari_non_displaced,1% (-1%-3%),NA,-0.008351633,0.025742937,NA,NA,NA
+1194,,strata.names,1,Ubari_returnee,22% (14%-30%),NA,0.142989555,0.295606936,NA,NA,NA
+1203,,strata.names,2,Ubari_returnee,75% (68%-83%),NA,0.675001187,0.833770743,NA,NA,NA
+12112,,strata.names,3,Ubari_returnee,3% (0%-6%),NA,-0.003205214,0.055836793,NA,NA,NA
+12210,,strata.names,1,Wadi Ashshati_idp,14% (7%-22%),NA,0.06669529,0.215657651,NA,NA,NA
+1233,,strata.names,2,Wadi Ashshati_idp,81% (73%-90%),NA,0.728150699,0.895378712,NA,NA,NA
+1243,,strata.names,4,Wadi Ashshati_idp,5% (0%-9%),NA,0.001762078,0.092355569,NA,NA,NA
+1253,,strata.names,1,Wadi Ashshati_non_displaced,65% (56%-73%),NA,0.557433342,0.734602056,NA,NA,NA
+1263,,strata.names,2,Wadi Ashshati_non_displaced,30% (22%-39%),NA,0.215924151,0.38584576,NA,NA,NA
+1273,,strata.names,3,Wadi Ashshati_non_displaced,1% (-1%-3%),NA,-0.008499449,0.026198565,NA,NA,NA
+1283,,strata.names,4,Wadi Ashshati_non_displaced,4% (1%-8%),NA,0.006153269,0.082342306,NA,NA,NA
+1293,,strata.names,1,Wadi Ashshati_returnee,81% (67%-94%),NA,0.674406683,0.936704428,NA,NA,NA
+1303,,strata.names,2,Wadi Ashshati_returnee,19% (6%-33%),NA,0.063295572,0.325593317,NA,NA,NA
+13112,,strata.names,1,Zwara_idp,52% (42%-62%),NA,0.422147445,0.617068242,NA,NA,NA
+1325,,strata.names,2,Zwara_idp,46% (36%-56%),NA,0.363549344,0.558019283,NA,NA,NA
+1332,,strata.names,4,Zwara_idp,2% (-1%-5%),NA,-0.007438416,0.046654102,NA,NA,NA
+1341,,strata.names,1,Zwara_non_displaced,49% (39%-58%),NA,0.391952656,0.580524408,NA,NA,NA
+1351,,strata.names,2,Zwara_non_displaced,47% (37%-56%),NA,0.373763004,0.562016813,NA,NA,NA
+1361,,strata.names,3,Zwara_non_displaced,1% (-1%-3%),NA,-0.008811356,0.02715998,NA,NA,NA
+1371,,strata.names,4,Zwara_non_displaced,4% (0%-7%),NA,0.001229032,0.072165463,NA,NA,NA
+1381,,strata.names,1,Zwara_returnee,35% (26%-44%),NA,0.257860148,0.440253059,NA,NA,NA
+1391,,strata.names,2,Zwara_returnee,61% (52%-71%),NA,0.52003217,0.706382924,NA,NA,NA
+1401,,strata.names,3,Zwara_returnee,2% (-1%-4%),NA,-0.007162678,0.044898527,NA,NA,NA
+14110,,strata.names,4,Zwara_returnee,2% (-1%-4%),NA,-0.007162678,0.044898527,NA,NA,NA
+1146,,strata.names,1,Al Jabal Al Gharbi_idp,36% (26%-45%),NA,0.264016034,0.446264339,NA,NA,NA
+2109,,strata.names,2,Al Jabal Al Gharbi_idp,7% (2%-11%),NA,0.018337338,0.112503783,NA,NA,NA
+3104,,strata.names,3,Al Jabal Al Gharbi_idp,40% (31%-50%),NA,0.308513344,0.495224974,NA,NA,NA
+4101,,strata.names,4,Al Jabal Al Gharbi_idp,18% (10%-25%),NA,0.104802955,0.250337232,NA,NA,NA
+559,,strata.names,1,Al Jabal Al Gharbi_non_displaced,54% (45%-63%),NA,0.447387881,0.633693201,NA,NA,NA
+648,,strata.names,2,Al Jabal Al Gharbi_non_displaced,7% (2%-12%),NA,0.023733017,0.120411127,NA,NA,NA
+737,,strata.names,3,Al Jabal Al Gharbi_non_displaced,31% (22%-39%),NA,0.220143593,0.39246902,NA,NA,NA
+837,,strata.names,4,Al Jabal Al Gharbi_non_displaced,8% (3%-13%),NA,0.030059268,0.132102894,NA,NA,NA
+937,,strata.names,1,Al Jabal Al Gharbi_returnee,29% (20%-37%),NA,0.201300797,0.372773277,NA,NA,NA
+1036,,strata.names,2,Al Jabal Al Gharbi_returnee,23% (15%-31%),NA,0.151544586,0.311418377,NA,NA,NA
+1147,,strata.names,3,Al Jabal Al Gharbi_returnee,12% (6%-18%),NA,0.058700689,0.182040052,NA,NA,NA
+1234,,strata.names,4,Al Jabal Al Gharbi_returnee,36% (27%-45%),NA,0.270078904,0.452143318,NA,NA,NA
+1326,,strata.names,1,Aljfara_idp,69% (60%-78%),NA,0.603648071,0.779529499,NA,NA,NA
+1424,,strata.names,2,Aljfara_idp,5% (1%-9%),NA,0.00654043,0.086917514,NA,NA,NA
+1524,,strata.names,3,Aljfara_idp,24% (16%-32%),NA,0.161323703,0.324657605,NA,NA,NA
+1624,,strata.names,4,Aljfara_idp,2% (-1%-4%),NA,-0.007096954,0.044480132,NA,NA,NA
+1724,,strata.names,1,Aljfara_non_displaced,55% (45%-65%),NA,0.452124144,0.654258835,NA,NA,NA
+1824,,strata.names,2,Aljfara_non_displaced,1% (-1%-3%),NA,-0.010217462,0.031494058,NA,NA,NA
+1920,,strata.names,3,Aljfara_non_displaced,38% (28%-48%),NA,0.2841576,0.481799847,NA,NA,NA
+2015,,strata.names,4,Aljfara_non_displaced,5% (1%-10%),NA,0.007570516,0.098812463,NA,NA,NA
+2120,,strata.names,1,Aljfara_returnee,65% (55%-74%),NA,0.551790882,0.741138411,NA,NA,NA
+2217,,strata.names,2,Aljfara_returnee,1% (-1%-3%),NA,-0.009701428,0.029903449,NA,NA,NA
+2315,,strata.names,3,Aljfara_returnee,13% (6%-20%),NA,0.064428469,0.198197794,NA,NA,NA
+2415,,strata.names,4,Aljfara_returnee,21% (13%-29%),NA,0.131162687,0.293079737,NA,NA,NA
+2515,,strata.names,1,Aljufra_idp,96% (92%-100%),NA,0.917524578,1.004553345,NA,NA,NA
+2615,,strata.names,3,Aljufra_idp,4% (0%-8%),NA,-0.004553345,0.082475422,NA,NA,NA
+2715,,strata.names,1,Aljufra_non_displaced,96% (92%-99%),NA,0.918373737,0.993906965,NA,NA,NA
+2815,,strata.names,2,Aljufra_non_displaced,1% (-1%-3%),NA,-0.008424925,0.025968784,NA,NA,NA
+2915,,strata.names,3,Aljufra_non_displaced,4% (0%-7%),NA,0.001153635,0.069021804,NA,NA,NA
+3015,,strata.names,1,Alkufra_idp,80% (72%-87%),NA,0.717911755,0.874321255,NA,NA,NA
+3119,,strata.names,2,Alkufra_idp,4% (0%-8%),NA,0.001332112,0.076337791,NA,NA,NA
+3217,,strata.names,3,Alkufra_idp,16% (9%-23%),NA,0.085026717,0.225652895,NA,NA,NA
+3315,,strata.names,4,Alkufra_idp,1% (-1%-3%),NA,-0.009324674,0.02874215,NA,NA,NA
+3415,,strata.names,1,Alkufra_non_displaced,27% (19%-35%),NA,0.189870169,0.35398948,NA,NA,NA
+3515,,strata.names,2,Alkufra_non_displaced,2% (-1%-4%),NA,-0.006668315,0.041756035,NA,NA,NA
+3615,,strata.names,3,Alkufra_non_displaced,71% (63%-79%),NA,0.62688723,0.794165401,NA,NA,NA
+3715,,strata.names,1,Alkufra_returnee,24% (14%-33%),NA,0.143637514,0.331362486,NA,NA,NA
+3815,,strata.names,2,Alkufra_returnee,2% (-1%-6%),NA,-0.009435995,0.059435995,NA,NA,NA
+3914,,strata.names,3,Alkufra_returnee,74% (64%-83%),NA,0.640452134,0.834547866,NA,NA,NA
+4014,,strata.names,1,Azzawya_idp,21% (13%-28%),NA,0.130189094,0.280525192,NA,NA,NA
+4118,,strata.names,2,Azzawya_idp,2% (-1%-4%),NA,-0.00678541,0.042499696,NA,NA,NA
+4216,,strata.names,3,Azzawya_idp,76% (68%-84%),NA,0.679337252,0.83851989,NA,NA,NA
+4315,,strata.names,4,Azzawya_idp,2% (-1%-4%),NA,-0.00678541,0.042499696,NA,NA,NA
+4415,,strata.names,1,Azzawya_non_displaced,27% (19%-35%),NA,0.190610915,0.351761966,NA,NA,NA
+4515,,strata.names,2,Azzawya_non_displaced,3% (0%-5%),NA,-0.003105398,0.053952856,NA,NA,NA
+4615,,strata.names,3,Azzawya_non_displaced,65% (57%-74%),NA,0.566241295,0.738843451,NA,NA,NA
+4713,,strata.names,4,Azzawya_non_displaced,5% (1%-9%),NA,0.011030913,0.090664002,NA,NA,NA
+4812,,strata.names,1,Azzawya_returnee,16% (6%-25%),NA,0.062367575,0.253421898,NA,NA,NA
+4912,,strata.names,2,Azzawya_returnee,4% (-1%-8%),NA,-0.013116088,0.083291527,NA,NA,NA
+5012,,strata.names,3,Azzawya_returnee,77% (66%-88%),NA,0.662008231,0.881851418,NA,NA,NA
+5116,,strata.names,4,Azzawya_returnee,4% (-1%-8%),NA,-0.013116088,0.083291527,NA,NA,NA
+5215,,strata.names,1,Benghazi_idp,80% (73%-88%),NA,0.72964377,0.877499087,NA,NA,NA
+5314,,strata.names,2,Benghazi_idp,4% (1%-8%),NA,0.00621455,0.083071164,NA,NA,NA
+5411,,strata.names,3,Benghazi_idp,12% (6%-19%),NA,0.063460861,0.186539139,NA,NA,NA
+5510,,strata.names,4,Benghazi_idp,3% (0%-6%),NA,-0.003257627,0.056829056,NA,NA,NA
+569,,strata.names,1,Benghazi_non_displaced,86% (80%-93%),NA,0.799196388,0.928076339,NA,NA,NA
+579,,strata.names,2,Benghazi_non_displaced,2% (-1%-4%),NA,-0.006906688,0.043270325,NA,NA,NA
+589,,strata.names,3,Benghazi_non_displaced,10% (4%-16%),NA,0.04366713,0.15633287,NA,NA,NA
+599,,strata.names,4,Benghazi_non_displaced,2% (-1%-4%),NA,-0.006906688,0.043270325,NA,NA,NA
+608,,strata.names,1,Benghazi_returnee,88% (82%-94%),NA,0.819756327,0.938864362,NA,NA,NA
+6116,,strata.names,2,Benghazi_returnee,4% (1%-8%),NA,0.005976141,0.080230755,NA,NA,NA
+6215,,strata.names,3,Benghazi_returnee,5% (1%-9%),NA,0.011236828,0.092211448,NA,NA,NA
+6312,,strata.names,4,Benghazi_returnee,3% (0%-5%),NA,-0.00315455,0.054878688,NA,NA,NA
+649,,strata.names,1,Derna_idp,87% (79%-94%),NA,0.791616212,0.940091105,NA,NA,NA
+657,,strata.names,3,Derna_idp,13% (6%-21%),NA,0.059908895,0.208383788,NA,NA,NA
+667,,strata.names,1,Derna_non_displaced,86% (79%-92%),NA,0.787904747,0.923633715,NA,NA,NA
+676,,strata.names,2,Derna_non_displaced,1% (-1%-3%),NA,-0.009235014,0.028465783,NA,NA,NA
+685,,strata.names,3,Derna_non_displaced,13% (7%-20%),NA,0.06868476,0.200546009,NA,NA,NA
+695,,strata.names,1,Derna_returnee,68% (59%-77%),NA,0.58994372,0.768546846,NA,NA,NA
+705,,strata.names,2,Derna_returnee,1% (-1%-3%),NA,-0.009060768,0.027928693,NA,NA,NA
+7114,,strata.names,3,Derna_returnee,30% (21%-39%),NA,0.214056525,0.38971706,NA,NA,NA
+7214,,strata.names,4,Derna_returnee,1% (-1%-3%),NA,-0.009060768,0.027928693,NA,NA,NA
+738,,strata.names,1,Ejdabia_idp,84% (77%-91%),NA,0.766896707,0.905830566,NA,NA,NA
+745,,strata.names,2,Ejdabia_idp,7% (2%-12%),NA,0.023963981,0.121490564,NA,NA,NA
+755,,strata.names,3,Ejdabia_idp,9% (4%-14%),NA,0.03692722,0.144890962,NA,NA,NA
+765,,strata.names,1,Ejdabia_non_displaced,87% (81%-93%),NA,0.807728101,0.931402334,NA,NA,NA
+775,,strata.names,2,Ejdabia_non_displaced,6% (2%-10%),NA,0.016969567,0.104769563,NA,NA,NA
+785,,strata.names,3,Ejdabia_non_displaced,5% (1%-9%),NA,0.011342682,0.093005144,NA,NA,NA
+795,,strata.names,4,Ejdabia_non_displaced,2% (-1%-4%),NA,-0.00661127,0.041393879,NA,NA,NA
+805,,strata.names,1,Ejdabia_returnee,75% (64%-86%),NA,0.63948315,0.86051685,NA,NA,NA
+8114,,strata.names,2,Ejdabia_returnee,20% (10%-30%),NA,0.097908907,0.302091093,NA,NA,NA
+8214,,strata.names,3,Ejdabia_returnee,3% (-1%-8%),NA,-0.012481447,0.079148114,NA,NA,NA
+838,,strata.names,4,Ejdabia_returnee,2% (-2%-5%),NA,-0.016007357,0.04934069,NA,NA,NA
+845,,strata.names,1,Ghat_idp,17% (10%-24%),NA,0.10174573,0.243708815,NA,NA,NA
+855,,strata.names,2,Ghat_idp,1% (-1%-3%),NA,-0.008731286,0.026913104,NA,NA,NA
+865,,strata.names,3,Ghat_idp,82% (75%-89%),NA,0.745757538,0.890606098,NA,NA,NA
+875,,strata.names,1,Ghat_non_displaced,24% (16%-32%),NA,0.158134856,0.318929364,NA,NA,NA
+885,,strata.names,2,Ghat_non_displaced,3% (0%-6%),NA,-0.003339419,0.05838529,NA,NA,NA
+895,,strata.names,3,Ghat_non_displaced,73% (65%-82%),NA,0.650584613,0.817305296,NA,NA,NA
+905,,strata.names,1,Ghat_returnee,32% (21%-43%),NA,0.213691631,0.426308369,NA,NA,NA
+9114,,strata.names,2,Ghat_returnee,15% (7%-23%),NA,0.066042902,0.227290432,NA,NA,NA
+9214,,strata.names,3,Ghat_returnee,52% (41%-63%),NA,0.406142852,0.633857148,NA,NA,NA
+938,,strata.names,4,Ghat_returnee,1% (-1%-4%),NA,-0.012805886,0.039472552,NA,NA,NA
+945,,strata.names,1,Misrata_idp,65% (56%-74%),NA,0.564723024,0.739624802,NA,NA,NA
+955,,strata.names,2,Misrata_idp,18% (11%-25%),NA,0.111670984,0.253546408,NA,NA,NA
+965,,strata.names,3,Misrata_idp,16% (9%-22%),NA,0.089806396,0.223237082,NA,NA,NA
+975,,strata.names,4,Misrata_idp,1% (-1%-3%),NA,-0.008351664,0.025742969,NA,NA,NA
+985,,strata.names,1,Misrata_non_displaced,73% (65%-81%),NA,0.651860717,0.813656525,NA,NA,NA
+995,,strata.names,2,Misrata_non_displaced,16% (9%-22%),NA,0.088981824,0.221363003,NA,NA,NA
+1005,,strata.names,3,Misrata_non_displaced,9% (4%-15%),NA,0.041267909,0.148387264,NA,NA,NA
+10114,,strata.names,4,Misrata_non_displaced,2% (-1%-4%),NA,-0.006555192,0.04103795,NA,NA,NA
+10213,,strata.names,1,Misrata_returnee,50% (41%-59%),NA,0.405238487,0.594761513,NA,NA,NA
+1037,,strata.names,2,Misrata_returnee,44% (35%-54%),NA,0.350269696,0.538619193,NA,NA,NA
+1045,,strata.names,3,Misrata_returnee,5% (1%-9%),NA,0.006472575,0.086120018,NA,NA,NA
+1055,,strata.names,4,Misrata_returnee,1% (-1%-3%),NA,-0.008892976,0.027411495,NA,NA,NA
+1065,,strata.names,1,Murzuq_idp,84% (76%-92%),NA,0.76140017,0.91676075,NA,NA,NA
+1075,,strata.names,2,Murzuq_idp,1% (-1%-3%),NA,-0.011039557,0.034028062,NA,NA,NA
+1085,,strata.names,3,Murzuq_idp,8% (2%-14%),NA,0.02295824,0.137961301,NA,NA,NA
+1095,,strata.names,4,Murzuq_idp,7% (2%-12%),NA,0.015397752,0.122533282,NA,NA,NA
+11014,,strata.names,1,Murzuq_non_displaced,86% (80%-93%),NA,0.797554095,0.930601245,NA,NA,NA
+11114,,strata.names,2,Murzuq_non_displaced,2% (-1%-5%),NA,-0.007367561,0.046202512,NA,NA,NA
+11214,,strata.names,3,Murzuq_non_displaced,2% (-1%-5%),NA,-0.007367561,0.046202512,NA,NA,NA
+11311,,strata.names,4,Murzuq_non_displaced,10% (4%-15%),NA,0.039615151,0.154559607,NA,NA,NA
+1148,,strata.names,1,Murzuq_returnee,95% (88%-102%),NA,0.878570267,1.018865631,NA,NA,NA
+1155,,strata.names,3,Murzuq_returnee,3% (-2%-8%),NA,-0.024626703,0.075908754,NA,NA,NA
+1165,,strata.names,4,Murzuq_returnee,3% (-2%-8%),NA,-0.024626703,0.075908754,NA,NA,NA
+1175,,strata.names,1,Sebha_idp,80% (73%-88%),NA,0.72964377,0.877499087,NA,NA,NA
+1185,,strata.names,2,Sebha_idp,3% (0%-6%),NA,-0.003257627,0.056829056,NA,NA,NA
+1195,,strata.names,3,Sebha_idp,13% (7%-20%),NA,0.07055534,0.197301803,NA,NA,NA
+1204,,strata.names,4,Sebha_idp,4% (0%-7%),NA,0.001182723,0.070245848,NA,NA,NA
+12113,,strata.names,1,Sebha_non_displaced,77% (69%-84%),NA,0.686601227,0.844930304,NA,NA,NA
+12211,,strata.names,2,Sebha_non_displaced,6% (2%-11%),NA,0.017627048,0.108499078,NA,NA,NA
+1235,,strata.names,3,Sebha_non_displaced,16% (9%-23%),NA,0.093263264,0.23106106,NA,NA,NA
+1244,,strata.names,4,Sebha_non_displaced,1% (-1%-3%),NA,-0.008652625,0.026670643,NA,NA,NA
+1254,,strata.names,1,Sebha_returnee,76% (67%-85%),NA,0.673208709,0.848530421,NA,NA,NA
+1264,,strata.names,3,Sebha_returnee,23% (14%-31%),NA,0.142005892,0.314515847,NA,NA,NA
+1274,,strata.names,4,Sebha_returnee,1% (-1%-3%),NA,-0.010439581,0.032178711,NA,NA,NA
+1284,,strata.names,1,Sirt_idp,74% (65%-82%),NA,0.651500108,0.820198005,NA,NA,NA
+1294,,strata.names,2,Sirt_idp,16% (9%-23%),NA,0.090171587,0.23058313,NA,NA,NA
+1304,,strata.names,3,Sirt_idp,8% (3%-14%),NA,0.031577024,0.138234296,NA,NA,NA
+13113,,strata.names,4,Sirt_idp,2% (-1%-4%),NA,-0.007162726,0.044898575,NA,NA,NA
+1327,,strata.names,1,Sirt_non_displaced,83% (76%-90%),NA,0.764818143,0.904906628,NA,NA,NA
+1333,,strata.names,2,Sirt_non_displaced,7% (2%-12%),NA,0.024199472,0.122589519,NA,NA,NA
+1342,,strata.names,3,Sirt_non_displaced,8% (3%-13%),NA,0.030648561,0.134489054,NA,NA,NA
+1352,,strata.names,4,Sirt_non_displaced,1% (-1%-3%),NA,-0.008811389,0.027160013,NA,NA,NA
+1362,,strata.names,1,Sirt_returnee,97% (93%-100%),NA,0.93216032,0.998874163,NA,NA,NA
+1372,,strata.names,2,Sirt_returnee,2% (-1%-4%),NA,-0.006555192,0.04103795,NA,NA,NA
+1382,,strata.names,3,Sirt_returnee,2% (-1%-4%),NA,-0.006555192,0.04103795,NA,NA,NA
+1392,,strata.names,1,Tripoli_idp,88% (82%-95%),NA,0.819510818,0.948910235,NA,NA,NA
+1402,,strata.names,2,Tripoli_idp,2% (-1%-5%),NA,-0.007975749,0.050081012,NA,NA,NA
+14111,,strata.names,3,Tripoli_idp,4% (0%-8%),NA,0.001496756,0.082713771,NA,NA,NA
+1425,,strata.names,4,Tripoli_idp,5% (1%-10%),NA,0.007480036,0.097783122,NA,NA,NA
+1431,,strata.names,1,Tripoli_non_displaced,91% (86%-96%),NA,0.857653406,0.963775165,NA,NA,NA
+1441,,strata.names,2,Tripoli_non_displaced,2% (-1%-4%),NA,-0.00678541,0.042499696,NA,NA,NA
+1451,,strata.names,3,Tripoli_non_displaced,6% (2%-11%),NA,0.017457963,0.107542037,NA,NA,NA
+146,,strata.names,4,Tripoli_non_displaced,1% (-1%-3%),NA,-0.00857537,0.026432513,NA,NA,NA
+147,,strata.names,1,Tripoli_returnee,91% (85%-96%),NA,0.851612736,0.958732091,NA,NA,NA
+148,,strata.names,2,Tripoli_returnee,3% (0%-5%),NA,-0.00315455,0.054878688,NA,NA,NA
+149,,strata.names,3,Tripoli_returnee,2% (-1%-4%),NA,-0.006555192,0.04103795,NA,NA,NA
+150,,strata.names,4,Tripoli_returnee,5% (1%-9%),NA,0.011236828,0.092211448,NA,NA,NA
+151,,strata.names,1,Ubari_idp,92% (87%-97%),NA,0.869123888,0.974013367,NA,NA,NA
+152,,strata.names,2,Ubari_idp,2% (-1%-5%),NA,-0.007438466,0.046654152,NA,NA,NA
+153,,strata.names,3,Ubari_idp,6% (1%-10%),NA,0.012924421,0.104722638,NA,NA,NA
+154,,strata.names,1,Ubari_non_displaced,67% (59%-76%),NA,0.585635492,0.759497251,NA,NA,NA
+155,,strata.names,2,Ubari_non_displaced,1% (-1%-3%),NA,-0.008499482,0.026198597,NA,NA,NA
+156,,strata.names,3,Ubari_non_displaced,31% (22%-40%),NA,0.224080496,0.395388531,NA,NA,NA
+157,,strata.names,4,Ubari_non_displaced,1% (-1%-3%),NA,-0.008499482,0.026198597,NA,NA,NA
+158,,strata.names,1,Ubari_returnee,37% (28%-46%),NA,0.279459841,0.457382264,NA,NA,NA
+159,,strata.names,2,Ubari_returnee,6% (2%-11%),NA,0.017129311,0.105677707,NA,NA,NA
+160,,strata.names,3,Ubari_returnee,56% (47%-65%),NA,0.469890089,0.652916929,NA,NA,NA
+161,,strata.names,4,Ubari_returnee,1% (-1%-3%),NA,-0.008424925,0.025968784,NA,NA,NA
+162,,strata.names,1,Wadi Ashshati_idp,67% (57%-77%),NA,0.568364529,0.773098886,NA,NA,NA
+163,,strata.names,2,Wadi Ashshati_idp,10% (3%-16%),NA,0.032927373,0.162194578,NA,NA,NA
+164,,strata.names,3,Wadi Ashshati_idp,20% (11%-28%),NA,0.108798367,0.281445536,NA,NA,NA
+165,,strata.names,4,Wadi Ashshati_idp,4% (0%-8%),NA,-0.004309772,0.077480504,NA,NA,NA
+166,,strata.names,1,Wadi Ashshati_non_displaced,85% (78%-92%),NA,0.783331832,0.915783212,NA,NA,NA
+167,,strata.names,3,Wadi Ashshati_non_displaced,12% (6%-18%),NA,0.062863151,0.18492446,NA,NA,NA
+168,,strata.names,4,Wadi Ashshati_non_displaced,3% (0%-6%),NA,-0.003231238,0.056328583,NA,NA,NA
+169,,strata.names,1,Wadi Ashshati_returnee,61% (45%-77%),NA,0.449566415,0.772655807,NA,NA,NA
+170,,strata.names,3,Wadi Ashshati_returnee,31% (15%-46%),NA,0.152910166,0.458200946,NA,NA,NA
+171,,strata.names,4,Wadi Ashshati_returnee,8% (-1%-17%),NA,-0.008253901,0.174920567,NA,NA,NA
+172,,strata.names,1,Zwara_idp,84% (77%-91%),NA,0.772195451,0.914079059,NA,NA,NA
+173,,strata.names,2,Zwara_idp,1% (-1%-3%),NA,-0.009416092,0.029023935,NA,NA,NA
+174,,strata.names,3,Zwara_idp,14% (7%-20%),NA,0.070127728,0.204382076,NA,NA,NA
+175,,strata.names,4,Zwara_idp,1% (-1%-3%),NA,-0.009416092,0.029023935,NA,NA,NA
+176,,strata.names,1,Zwara_non_displaced,84% (77%-91%),NA,0.76941687,0.909828413,NA,NA,NA
+177,,strata.names,2,Zwara_non_displaced,1% (-1%-3%),NA,-0.009060768,0.027928693,NA,NA,NA
+178,,strata.names,3,Zwara_non_displaced,11% (5%-17%),NA,0.052588668,0.173826427,NA,NA,NA
+179,,strata.names,4,Zwara_non_displaced,4% (0%-7%),NA,0.001278639,0.07419306,NA,NA,NA
+180,,strata.names,1,Zwara_returnee,87% (80%-93%),NA,0.801318619,0.932014714,NA,NA,NA
+181,,strata.names,2,Zwara_returnee,3% (0%-6%),NA,-0.003455008,0.060597865,NA,NA,NA
+182,,strata.names,3,Zwara_returnee,10% (5%-16%),NA,0.045889989,0.163633821,NA,NA,NA
+1149,,strata.names,1,Al Jabal Al Gharbi_idp,72% (64%-81%),NA,0.637334408,0.807110036,NA,NA,NA
+2121,,strata.names,2,Al Jabal Al Gharbi_idp,27% (18%-35%),NA,0.184524189,0.352512848,NA,NA,NA
+3105,,strata.names,3,Al Jabal Al Gharbi_idp,1% (-1%-3%),NA,-0.008892943,0.027411461,NA,NA,NA
+4102,,strata.names,1,Al Jabal Al Gharbi_non_displaced,78% (70%-86%),NA,0.701869807,0.855652317,NA,NA,NA
+560,,strata.names,2,Al Jabal Al Gharbi_non_displaced,21% (14%-29%),NA,0.136624798,0.288153963,NA,NA,NA
+650,,strata.names,3,Al Jabal Al Gharbi_non_displaced,1% (-1%-3%),NA,-0.008499449,0.026198565,NA,NA,NA
+739,,strata.names,1,Al Jabal Al Gharbi_returnee,50% (41%-59%),NA,0.405238663,0.594761337,NA,NA,NA
+839,,strata.names,2,Al Jabal Al Gharbi_returnee,47% (38%-57%),NA,0.377607234,0.56683721,NA,NA,NA
+939,,strata.names,3,Al Jabal Al Gharbi_returnee,3% (0%-6%),NA,-0.003367535,0.058923091,NA,NA,NA
+1038,,strata.names,1,Aljfara_idp,71% (63%-80%),NA,0.627226881,0.798699045,NA,NA,NA
+1150,,strata.names,2,Aljfara_idp,19% (12%-27%),NA,0.119436598,0.269452291,NA,NA,NA
+1236,,strata.names,3,Aljfara_idp,9% (4%-15%),NA,0.037657424,0.147527761,NA,NA,NA
+1328,,strata.names,1,Aljfara_non_displaced,92% (86%-97%),NA,0.861075427,0.972257907,NA,NA,NA
+1426,,strata.names,2,Aljfara_non_displaced,5% (1%-10%),NA,0.007391751,0.096774915,NA,NA,NA
+1525,,strata.names,3,Aljfara_non_displaced,3% (0%-7%),NA,-0.0037463,0.0662463,NA,NA,NA
+1625,,strata.names,1,Aljfara_returnee,91% (85%-97%),NA,0.852160102,0.966021717,NA,NA,NA
+1725,,strata.names,2,Aljfara_returnee,5% (1%-9%),NA,0.007138611,0.09387149,NA,NA,NA
+1825,,strata.names,3,Aljfara_returnee,4% (0%-8%),NA,0.001410144,0.079397937,NA,NA,NA
+1921,,strata.names,1,Aljufra_idp,13% (5%-21%),NA,0.054275152,0.205465108,NA,NA,NA
+2016,,strata.names,2,Aljufra_idp,87% (79%-95%),NA,0.794534892,0.945724848,NA,NA,NA
+2122,,strata.names,1,Aljufra_non_displaced,16% (9%-23%),NA,0.090646506,0.225142967,NA,NA,NA
+2218,,strata.names,2,Aljufra_non_displaced,84% (77%-91%),NA,0.774857033,0.909353494,NA,NA,NA
+2316,,strata.names,1,Alkufra_idp,88% (82%-95%),NA,0.821218233,0.945772058,NA,NA,NA
+2416,,strata.names,2,Alkufra_idp,12% (5%-18%),NA,0.054227942,0.178781767,NA,NA,NA
+2516,,strata.names,1,Alkufra_non_displaced,95% (91%-99%),NA,0.906187458,0.988549384,NA,NA,NA
+2616,,strata.names,2,Alkufra_non_displaced,4% (0%-7%),NA,0.001153698,0.069021741,NA,NA,NA
+2716,,strata.names,3,Alkufra_non_displaced,2% (-1%-4%),NA,-0.006668271,0.04175599,NA,NA,NA
+2816,,strata.names,1,Alkufra_returnee,95% (90%-100%),NA,0.901928649,0.998071351,NA,NA,NA
+2916,,strata.names,2,Alkufra_returnee,5% (0%-10%),NA,0.001928649,0.098071351,NA,NA,NA
+3016,,strata.names,1,Azzawya_idp,33% (24%-42%),NA,0.242837599,0.417876687,NA,NA,NA
+3120,,strata.names,2,Azzawya_idp,65% (56%-74%),NA,0.563138052,0.740433377,NA,NA,NA
+3218,,strata.names,3,Azzawya_idp,2% (-1%-4%),NA,-0.006785364,0.04249965,NA,NA,NA
+3316,,strata.names,1,Azzawya_non_displaced,45% (36%-54%),NA,0.359001087,0.539303998,NA,NA,NA
+3416,,strata.names,2,Azzawya_non_displaced,53% (44%-62%),NA,0.443485541,0.624311069,NA,NA,NA
+3516,,strata.names,3,Azzawya_non_displaced,2% (-1%-4%),NA,-0.006445797,0.040344102,NA,NA,NA
+3616,,strata.names,1,Azzawya_returnee,23% (12%-34%),NA,0.118148785,0.337991565,NA,NA,NA
+3716,,strata.names,2,Azzawya_returnee,74% (62%-85%),NA,0.621482311,0.852201899,NA,NA,NA
+3816,,strata.names,3,Azzawya_returnee,4% (-1%-8%),NA,-0.013115999,0.083291438,NA,NA,NA
+3915,,strata.names,1,Benghazi_idp,91% (86%-96%),NA,0.860110122,0.964451281,NA,NA,NA
+4015,,strata.names,2,Benghazi_idp,9% (4%-14%),NA,0.035548719,0.139889878,NA,NA,NA
+4119,,strata.names,1,Benghazi_non_displaced,95% (91%-99%),NA,0.906994931,0.988657243,NA,NA,NA
+4217,,strata.names,2,Benghazi_non_displaced,5% (1%-9%),NA,0.011342757,0.093005069,NA,NA,NA
+4316,,strata.names,1,Benghazi_returnee,95% (91%-99%),NA,0.910090485,0.989069179,NA,NA,NA
+4416,,strata.names,2,Benghazi_returnee,5% (1%-9%),NA,0.010930821,0.089909515,NA,NA,NA
+4516,,strata.names,1,Derna_idp,94% (89%-99%),NA,0.88690167,0.99114711,NA,NA,NA
+4616,,strata.names,2,Derna_idp,6% (1%-11%),NA,0.00885289,0.11309833,NA,NA,NA
+4714,,strata.names,1,Derna_non_displaced,80% (72%-88%),NA,0.720532636,0.87562121,NA,NA,NA
+4813,,strata.names,2,Derna_non_displaced,20% (12%-28%),NA,0.12437879,0.279467364,NA,NA,NA
+4913,,strata.names,1,Derna_returnee,31% (22%-40%),NA,0.220470663,0.396351767,NA,NA,NA
+5013,,strata.names,2,Derna_returnee,69% (60%-78%),NA,0.603648233,0.779529337,NA,NA,NA
+5117,,strata.names,1,Ejdabia_idp,88% (82%-94%),NA,0.822776795,0.94298897,NA,NA,NA
+5216,,strata.names,2,Ejdabia_idp,12% (6%-18%),NA,0.05701103,0.177223205,NA,NA,NA
+5315,,strata.names,1,Ejdabia_non_displaced,88% (82%-94%),NA,0.818222691,0.938299048,NA,NA,NA
+5412,,strata.names,2,Ejdabia_non_displaced,12% (6%-18%),NA,0.061700952,0.181777309,NA,NA,NA
+5511,,strata.names,1,Ejdabia_returnee,70% (58%-82%),NA,0.583040176,0.816959824,NA,NA,NA
+5610,,strata.names,2,Ejdabia_returnee,30% (18%-42%),NA,0.183040176,0.416959824,NA,NA,NA
+5710,,strata.names,1,Ghat_idp,50% (40%-59%),NA,0.402039084,0.588951907,NA,NA,NA
+5810,,strata.names,2,Ghat_idp,34% (25%-43%),NA,0.253649827,0.431034858,NA,NA,NA
+5910,,strata.names,3,Ghat_idp,16% (9%-23%),NA,0.093263392,0.231060933,NA,NA,NA
+609,,strata.names,1,Ghat_non_displaced,76% (68%-84%),NA,0.6793374,0.838519743,NA,NA,NA
+6117,,strata.names,2,Ghat_non_displaced,24% (16%-32%),NA,0.161480257,0.3206626,NA,NA,NA
+6216,,strata.names,1,Ghat_returnee,49% (38%-60%),NA,0.375509904,0.59884907,NA,NA,NA
+6313,,strata.names,2,Ghat_returnee,50% (39%-61%),NA,0.388293689,0.611706311,NA,NA,NA
+6410,,strata.names,3,Ghat_returnee,1% (-1%-4%),NA,-0.012313305,0.037954331,NA,NA,NA
+658,,strata.names,1,Misrata_idp,82% (75%-89%),NA,0.748574441,0.889356594,NA,NA,NA
+668,,strata.names,2,Misrata_idp,18% (11%-25%),NA,0.110643406,0.251425559,NA,NA,NA
+677,,strata.names,1,Misrata_non_displaced,94% (90%-98%),NA,0.896123192,0.983187153,NA,NA,NA
+686,,strata.names,2,Misrata_non_displaced,6% (2%-10%),NA,0.016812847,0.103876808,NA,NA,NA
+696,,strata.names,1,Misrata_returnee,95% (91%-99%),NA,0.914663054,0.993593827,NA,NA,NA
+706,,strata.names,2,Misrata_returnee,5% (1%-9%),NA,0.006406173,0.085336946,NA,NA,NA
+7115,,strata.names,1,Murzuq_idp,70% (60%-80%),NA,0.604380442,0.797918409,NA,NA,NA
+7215,,strata.names,2,Murzuq_idp,30% (20%-40%),NA,0.202081591,0.395619558,NA,NA,NA
+7310,,strata.names,1,Murzuq_non_displaced,78% (70%-86%),NA,0.695859334,0.857538724,NA,NA,NA
+746,,strata.names,2,Murzuq_non_displaced,22% (14%-30%),NA,0.142461276,0.304140666,NA,NA,NA
+756,,strata.names,1,Murzuq_returnee,64% (49%-79%),NA,0.488469153,0.793582129,NA,NA,NA
+766,,strata.names,2,Murzuq_returnee,36% (21%-51%),NA,0.206417871,0.511530847,NA,NA,NA
+776,,strata.names,1,Sebha_idp,85% (78%-91%),NA,0.7814476,0.914980971,NA,NA,NA
+786,,strata.names,2,Sebha_idp,15% (9%-22%),NA,0.085019029,0.2185524,NA,NA,NA
+796,,strata.names,1,Sebha_non_displaced,86% (79%-92%),NA,0.79020271,0.921509001,NA,NA,NA
+806,,strata.names,2,Sebha_non_displaced,14% (8%-21%),NA,0.078490999,0.20979729,NA,NA,NA
+8115,,strata.names,1,Sebha_returnee,88% (81%-95%),NA,0.813756655,0.94711291,NA,NA,NA
+8215,,strata.names,2,Sebha_returnee,12% (5%-19%),NA,0.05288709,0.186243345,NA,NA,NA
+8310,,strata.names,1,Sirt_idp,87% (80%-93%),NA,0.803149072,0.932699985,NA,NA,NA
+846,,strata.names,2,Sirt_idp,13% (7%-20%),NA,0.067300015,0.196850928,NA,NA,NA
+856,,strata.names,1,Sirt_non_displaced,90% (84%-96%),NA,0.84225958,0.955905557,NA,NA,NA
+866,,strata.names,2,Sirt_non_displaced,10% (4%-16%),NA,0.044094443,0.15774042,NA,NA,NA
+876,,strata.names,1,Sirt_returnee,97% (95%-100%),NA,0.945121366,1.003154496,NA,NA,NA
+886,,strata.names,2,Sirt_returnee,3% (0%-5%),NA,-0.003154496,0.054878634,NA,NA,NA
+896,,strata.names,1,Tripoli_idp,91% (85%-97%),NA,0.849165682,0.965267308,NA,NA,NA
+906,,strata.names,2,Tripoli_idp,9% (3%-15%),NA,0.034732692,0.150834318,NA,NA,NA
+9115,,strata.names,1,Tripoli_non_displaced,96% (93%-100%),NA,0.929754216,0.998817213,NA,NA,NA
+9215,,strata.names,2,Tripoli_non_displaced,2% (-1%-4%),NA,-0.006785364,0.04249965,NA,NA,NA
+9310,,strata.names,3,Tripoli_non_displaced,2% (-1%-4%),NA,-0.006785364,0.04249965,NA,NA,NA
+946,,strata.names,1,Tripoli_returnee,95% (91%-99%),NA,0.907788626,0.988763098,NA,NA,NA
+956,,strata.names,2,Tripoli_returnee,4% (1%-8%),NA,0.00597621,0.080230687,NA,NA,NA
+966,,strata.names,3,Tripoli_returnee,1% (-1%-3%),NA,-0.008279636,0.025521015,NA,NA,NA
+976,,strata.names,1,Ubari_idp,55% (45%-65%),NA,0.451954054,0.646085162,NA,NA,NA
+986,,strata.names,2,Ubari_idp,45% (35%-55%),NA,0.353914838,0.548045946,NA,NA,NA
+996,,strata.names,1,Ubari_non_displaced,57% (47%-66%),NA,0.474195788,0.656238995,NA,NA,NA
+1006,,strata.names,2,Ubari_non_displaced,43% (34%-53%),NA,0.343761005,0.525804212,NA,NA,NA
+10115,,strata.names,1,Ubari_returnee,45% (36%-54%),NA,0.355669472,0.53906737,NA,NA,NA
+10214,,strata.names,2,Ubari_returnee,55% (46%-64%),NA,0.46093263,0.644330528,NA,NA,NA
+1039,,strata.names,1,Wadi Ashshati_idp,51% (40%-61%),NA,0.398939105,0.612825601,NA,NA,NA
+1046,,strata.names,2,Wadi Ashshati_idp,49% (39%-60%),NA,0.387174399,0.601060895,NA,NA,NA
+1056,,strata.names,1,Wadi Ashshati_non_displaced,77% (69%-85%),NA,0.691944309,0.8478787,NA,NA,NA
+1066,,strata.names,2,Wadi Ashshati_non_displaced,23% (15%-31%),NA,0.1521213,0.308055691,NA,NA,NA
+1076,,strata.names,1,Wadi Ashshati_returnee,47% (31%-64%),NA,0.306790876,0.637653569,NA,NA,NA
+1086,,strata.names,2,Wadi Ashshati_returnee,50% (33%-67%),NA,0.334312766,0.665687234,NA,NA,NA
+1096,,strata.names,4,Wadi Ashshati_returnee,3% (-3%-8%),NA,-0.026678828,0.082234383,NA,NA,NA
+11015,,strata.names,1,Zwara_idp,84% (77%-91%),NA,0.772195582,0.914078928,NA,NA,NA
+11115,,strata.names,2,Zwara_idp,11% (5%-17%),NA,0.047335632,0.168350642,NA,NA,NA
+11215,,strata.names,3,Zwara_idp,5% (1%-9%),NA,0.00690206,0.091137156,NA,NA,NA
+11312,,strata.names,1,Zwara_non_displaced,69% (60%-78%),NA,0.600678758,0.775468031,NA,NA,NA
+11410,,strata.names,2,Zwara_non_displaced,28% (19%-36%),NA,0.190975681,0.359483035,NA,NA,NA
+1156,,strata.names,3,Zwara_non_displaced,4% (0%-7%),NA,0.001229032,0.072165463,NA,NA,NA
+1166,,strata.names,1,Zwara_returnee,77% (69%-85%),NA,0.693515778,0.853654034,NA,NA,NA
+1176,,strata.names,2,Zwara_returnee,22% (14%-30%),NA,0.13812136,0.295840904,NA,NA,NA
+1186,,strata.names,3,Zwara_returnee,1% (-1%-3%),NA,-0.009060734,0.027928658,NA,NA,NA
+1157,,strata.names,1,Al Jabal Al Gharbi_idp,68% (59%-76%),NA,0.587224036,0.764627816,NA,NA,NA
+2123,,strata.names,2,Al Jabal Al Gharbi_idp,28% (19%-36%),NA,0.192889964,0.362665592,NA,NA,NA
+3106,,strata.names,3,Al Jabal Al Gharbi_idp,3% (0%-6%),NA,-0.003367535,0.058923091,NA,NA,NA
+4103,,strata.names,4,Al Jabal Al Gharbi_idp,2% (-1%-4%),NA,-0.007032331,0.044069369,NA,NA,NA
+570,,strata.names,1,Al Jabal Al Gharbi_non_displaced,71% (62%-79%),NA,0.623734452,0.792194752,NA,NA,NA
+659,,strata.names,2,Al Jabal Al Gharbi_non_displaced,19% (11%-26%),NA,0.11378487,0.257896546,NA,NA,NA
+740,,strata.names,3,Al Jabal Al Gharbi_non_displaced,5% (1%-9%),NA,0.011560537,0.094634154,NA,NA,NA
+840,,strata.names,4,Al Jabal Al Gharbi_non_displaced,5% (1%-9%),NA,0.011560537,0.094634154,NA,NA,NA
+940,,strata.names,1,Al Jabal Al Gharbi_returnee,66% (57%-75%),NA,0.567464389,0.747350426,NA,NA,NA
+1040,,strata.names,2,Al Jabal Al Gharbi_returnee,14% (7%-20%),NA,0.073346159,0.204431619,NA,NA,NA
+1158,,strata.names,3,Al Jabal Al Gharbi_returnee,19% (11%-26%),NA,0.111565534,0.258804836,NA,NA,NA
+1237,,strata.names,4,Al Jabal Al Gharbi_returnee,2% (-1%-4%),NA,-0.007032331,0.044069369,NA,NA,NA
+1329,,strata.names,1,Aljfara_idp,62% (53%-71%),NA,0.528396015,0.712344726,NA,NA,NA
+1427,,strata.names,2,Aljfara_idp,34% (25%-43%),NA,0.252649574,0.432535611,NA,NA,NA
+1526,,strata.names,3,Aljfara_idp,2% (-1%-4%),NA,-0.007032331,0.044069369,NA,NA,NA
+1626,,strata.names,4,Aljfara_idp,2% (-1%-4%),NA,-0.007032331,0.044069369,NA,NA,NA
+1726,,strata.names,1,Aljfara_non_displaced,71% (62%-80%),NA,0.616910747,0.79975592,NA,NA,NA
+1826,,strata.names,2,Aljfara_non_displaced,24% (15%-33%),NA,0.153732329,0.325434337,NA,NA,NA
+1922,,strata.names,3,Aljfara_non_displaced,3% (0%-7%),NA,-0.0037463,0.0662463,NA,NA,NA
+2017,,strata.names,4,Aljfara_non_displaced,2% (-1%-5%),NA,-0.007894241,0.049560908,NA,NA,NA
+2124,,strata.names,1,Aljfara_returnee,74% (65%-82%),NA,0.650226638,0.824520837,NA,NA,NA
+2219,,strata.names,2,Aljfara_returnee,23% (15%-32%),NA,0.148690642,0.315955823,NA,NA,NA
+2317,,strata.names,3,Aljfara_returnee,3% (0%-6%),NA,-0.003643944,0.064250005,NA,NA,NA
+2417,,strata.names,1,Aljufra_idp,6% (1%-12%),NA,0.009522686,0.120347444,NA,NA,NA
+2517,,strata.names,2,Aljufra_idp,94% (88%-99%),NA,0.879652556,0.990477314,NA,NA,NA
+2617,,strata.names,1,Aljufra_non_displaced,11% (6%-17%),NA,0.055415689,0.172654486,NA,NA,NA
+2717,,strata.names,2,Aljufra_non_displaced,89% (83%-94%),NA,0.827345514,0.944584311,NA,NA,NA
+2817,,strata.names,1,Alkufra_idp,86% (80%-93%),NA,0.797554218,0.930601122,NA,NA,NA
+2917,,strata.names,2,Alkufra_idp,12% (5%-18%),NA,0.054227942,0.178781767,NA,NA,NA
+3017,,strata.names,3,Alkufra_idp,2% (-1%-5%),NA,-0.007367511,0.046202463,NA,NA,NA
+3121,,strata.names,1,Alkufra_non_displaced,57% (48%-66%),NA,0.478876924,0.661473953,NA,NA,NA
+3219,,strata.names,2,Alkufra_non_displaced,41% (32%-50%),NA,0.321499626,0.503061777,NA,NA,NA
+3317,,strata.names,3,Alkufra_non_displaced,2% (-1%-4%),NA,-0.006668271,0.04175599,NA,NA,NA
+3417,,strata.names,1,Alkufra_returnee,64% (53%-74%),NA,0.531468814,0.743531186,NA,NA,NA
+3517,,strata.names,2,Alkufra_returnee,36% (26%-47%),NA,0.256468814,0.468531186,NA,NA,NA
+3617,,strata.names,1,Azzawya_idp,50% (41%-59%),NA,0.40696174,0.59303826,NA,NA,NA
+3717,,strata.names,2,Azzawya_idp,49% (40%-58%),NA,0.398048003,0.584094854,NA,NA,NA
+3817,,strata.names,4,Azzawya_idp,1% (-1%-3%),NA,-0.008575337,0.02643248,NA,NA,NA
+3916,,strata.names,1,Azzawya_non_displaced,45% (36%-54%),NA,0.359001087,0.539303998,NA,NA,NA
+4016,,strata.names,2,Azzawya_non_displaced,48% (39%-57%),NA,0.39248166,0.573620035,NA,NA,NA
+4120,,strata.names,3,Azzawya_non_displaced,3% (0%-5%),NA,-0.003105345,0.053952803,NA,NA,NA
+4218,,strata.names,4,Azzawya_non_displaced,4% (1%-8%),NA,0.005863678,0.078882084,NA,NA,NA
+4317,,strata.names,1,Azzawya_returnee,32% (19%-44%),NA,0.194015984,0.437562964,NA,NA,NA
+4417,,strata.names,2,Azzawya_returnee,63% (51%-76%),NA,0.505208625,0.75794927,NA,NA,NA
+4517,,strata.names,4,Azzawya_returnee,5% (-1%-11%),NA,-0.005866513,0.111129671,NA,NA,NA
+4617,,strata.names,1,Benghazi_idp,89% (84%-95%),NA,0.838139022,0.951334662,NA,NA,NA
+4715,,strata.names,2,Benghazi_idp,5% (1%-9%),NA,0.011450616,0.093812542,NA,NA,NA
+4814,,strata.names,3,Benghazi_idp,4% (0%-7%),NA,0.001153698,0.069021741,NA,NA,NA
+4914,,strata.names,4,Benghazi_idp,2% (-1%-4%),NA,-0.006668271,0.04175599,NA,NA,NA
+5014,,strata.names,1,Benghazi_non_displaced,87% (81%-93%),NA,0.807728215,0.93140222,NA,NA,NA
+5118,,strata.names,2,Benghazi_non_displaced,5% (1%-9%),NA,0.011342757,0.093005069,NA,NA,NA
+5217,,strata.names,3,Benghazi_non_displaced,8% (3%-13%),NA,0.028946102,0.127575637,NA,NA,NA
+5316,,strata.names,1,Benghazi_returnee,87% (81%-93%),NA,0.8140495,0.93384966,NA,NA,NA
+5413,,strata.names,2,Benghazi_returnee,8% (3%-13%),NA,0.033963526,0.134103701,NA,NA,NA
+5512,,strata.names,3,Benghazi_returnee,3% (0%-5%),NA,-0.003081334,0.053501503,NA,NA,NA
+5611,,strata.names,4,Benghazi_returnee,2% (-1%-4%),NA,-0.006392478,0.040005924,NA,NA,NA
+5711,,strata.names,1,Derna_idp,63% (53%-74%),NA,0.529226167,0.739066516,NA,NA,NA
+5811,,strata.names,2,Derna_idp,30% (20%-41%),NA,0.204600401,0.405155696,NA,NA,NA
+5911,,strata.names,4,Derna_idp,6% (1%-11%),NA,0.00885289,0.11309833,NA,NA,NA
+6010,,strata.names,1,Derna_non_displaced,74% (66%-83%),NA,0.655695351,0.82507388,NA,NA,NA
+6118,,strata.names,2,Derna_non_displaced,21% (13%-29%),NA,0.132648929,0.290427994,NA,NA,NA
+6217,,strata.names,4,Derna_non_displaced,5% (1%-9%),NA,0.006752794,0.089401053,NA,NA,NA
+6314,,strata.names,1,Derna_returnee,83% (76%-90%),NA,0.760548216,0.903003186,NA,NA,NA
+6411,,strata.names,2,Derna_returnee,14% (7%-21%),NA,0.07407863,0.206295202,NA,NA,NA
+6510,,strata.names,4,Derna_returnee,3% (0%-6%),NA,-0.003396183,0.059470949,NA,NA,NA
+669,,strata.names,1,Ejdabia_idp,89% (83%-95%),NA,0.833849946,0.949933838,NA,NA,NA
+678,,strata.names,2,Ejdabia_idp,3% (0%-6%),NA,-0.003284391,0.057338445,NA,NA,NA
+687,,strata.names,3,Ejdabia_idp,7% (2%-12%),NA,0.023733107,0.120411037,NA,NA,NA
+697,,strata.names,4,Ejdabia_idp,1% (-1%-3%),NA,-0.008652593,0.026670611,NA,NA,NA
+707,,strata.names,1,Ejdabia_non_displaced,89% (83%-95%),NA,0.828816584,0.945096459,NA,NA,NA
+7116,,strata.names,2,Ejdabia_non_displaced,5% (1%-9%),NA,0.011342757,0.093005069,NA,NA,NA
+7216,,strata.names,3,Ejdabia_non_displaced,6% (2%-10%),NA,0.016969648,0.104769482,NA,NA,NA
+7311,,strata.names,1,Ejdabia_returnee,92% (85%-99%),NA,0.846125578,0.987207755,NA,NA,NA
+747,,strata.names,2,Ejdabia_returnee,3% (-1%-8%),NA,-0.012481362,0.079148029,NA,NA,NA
+757,,strata.names,3,Ejdabia_returnee,5% (-1%-11%),NA,-0.005625492,0.105625492,NA,NA,NA
+767,,strata.names,1,Ghat_idp,62% (53%-71%),NA,0.530968464,0.712274779,NA,NA,NA
+777,,strata.names,2,Ghat_idp,37% (28%-46%),NA,0.279155213,0.459583526,NA,NA,NA
+787,,strata.names,3,Ghat_idp,1% (-1%-3%),NA,-0.008652593,0.026670611,NA,NA,NA
+797,,strata.names,1,Ghat_non_displaced,74% (66%-82%),NA,0.659561296,0.822581561,NA,NA,NA
+807,,strata.names,2,Ghat_non_displaced,23% (15%-31%),NA,0.153581414,0.3107043,NA,NA,NA
+8116,,strata.names,3,Ghat_non_displaced,3% (0%-6%),NA,-0.003257572,0.056829,NA,NA,NA
+8216,,strata.names,1,Ghat_returnee,71% (60%-81%),NA,0.603255377,0.807001033,NA,NA,NA
+8311,,strata.names,2,Ghat_returnee,23% (14%-32%),NA,0.136639898,0.324898563,NA,NA,NA
+847,,strata.names,3,Ghat_returnee,5% (0%-10%),NA,0.002003384,0.100560719,NA,NA,NA
+857,,strata.names,4,Ghat_returnee,1% (-1%-4%),NA,-0.012313305,0.037954331,NA,NA,NA
+867,,strata.names,1,Misrata_idp,73% (65%-81%),NA,0.651860866,0.813656375,NA,NA,NA
+877,,strata.names,2,Misrata_idp,23% (16%-31%),NA,0.155504253,0.310012988,NA,NA,NA
+887,,strata.names,3,Misrata_idp,1% (-1%-3%),NA,-0.008279636,0.025521015,NA,NA,NA
+897,,strata.names,4,Misrata_idp,3% (0%-5%),NA,-0.003154496,0.054878634,NA,NA,NA
+907,,strata.names,1,Misrata_non_displaced,69% (61%-77%),NA,0.605080096,0.774230249,NA,NA,NA
+9116,,strata.names,2,Misrata_non_displaced,31% (23%-39%),NA,0.225769751,0.394919904,NA,NA,NA
+9216,,strata.names,1,Misrata_returnee,69% (60%-78%),NA,0.600678758,0.775468031,NA,NA,NA
+9311,,strata.names,2,Misrata_returnee,22% (14%-30%),NA,0.142015347,0.298351626,NA,NA,NA
+947,,strata.names,3,Misrata_returnee,9% (4%-15%),NA,0.037288806,0.146197433,NA,NA,NA
+957,,strata.names,1,Murzuq_idp,37% (27%-47%),NA,0.265876962,0.469755222,NA,NA,NA
+967,,strata.names,2,Murzuq_idp,55% (45%-66%),NA,0.446591512,0.656856763,NA,NA,NA
+977,,strata.names,3,Murzuq_idp,3% (0%-7%),NA,-0.004090369,0.073055887,NA,NA,NA
+987,,strata.names,4,Murzuq_idp,5% (0%-9%),NA,0.001702515,0.090251508,NA,NA,NA
+997,,strata.names,1,Murzuq_non_displaced,30% (21%-39%),NA,0.211935446,0.390006302,NA,NA,NA
+1007,,strata.names,2,Murzuq_non_displaced,61% (52%-71%),NA,0.517045064,0.706255907,NA,NA,NA
+10116,,strata.names,3,Murzuq_non_displaced,7% (2%-12%),NA,0.019107135,0.116815195,NA,NA,NA
+10215,,strata.names,4,Murzuq_non_displaced,2% (-1%-5%),NA,-0.007367511,0.046202463,NA,NA,NA
+10310,,strata.names,1,Murzuq_returnee,10% (1%-20%),NA,0.006078908,0.199049298,NA,NA,NA
+1047,,strata.names,2,Murzuq_returnee,79% (67%-92%),NA,0.6664548,0.923288789,NA,NA,NA
+1057,,strata.names,3,Murzuq_returnee,3% (-2%-8%),NA,-0.02462661,0.075908661,NA,NA,NA
+1067,,strata.names,4,Murzuq_returnee,8% (-1%-16%),NA,-0.007820841,0.161666995,NA,NA,NA
+1077,,strata.names,1,Sebha_idp,81% (74%-89%),NA,0.739872031,0.885127969,NA,NA,NA
+1087,,strata.names,2,Sebha_idp,12% (6%-19%),NA,0.063460975,0.186539025,NA,NA,NA
+1097,,strata.names,3,Sebha_idp,4% (0%-7%),NA,0.001182787,0.070245784,NA,NA,NA
+11016,,strata.names,4,Sebha_idp,3% (0%-6%),NA,-0.003257572,0.056829,NA,NA,NA
+11116,,strata.names,1,Sebha_non_displaced,79% (72%-87%),NA,0.717032961,0.868552624,NA,NA,NA
+11216,,strata.names,2,Sebha_non_displaced,18% (11%-25%),NA,0.108339665,0.252020695,NA,NA,NA
+11313,,strata.names,3,Sebha_non_displaced,2% (-1%-4%),NA,-0.006845466,0.042881502,NA,NA,NA
+11411,,strata.names,4,Sebha_non_displaced,1% (-1%-3%),NA,-0.008652593,0.026670611,NA,NA,NA
+1159,,strata.names,1,Sebha_returnee,80% (72%-89%),NA,0.722821728,0.885873924,NA,NA,NA
+1167,,strata.names,2,Sebha_returnee,16% (9%-24%),NA,0.087127091,0.238959866,NA,NA,NA
+1177,,strata.names,3,Sebha_returnee,1% (-1%-3%),NA,-0.010439541,0.032178672,NA,NA,NA
+1187,,strata.names,4,Sebha_returnee,2% (-1%-5%),NA,-0.008230459,0.05170872,NA,NA,NA
+1196,,strata.names,1,Sirt_idp,92% (87%-98%),NA,0.873991171,0.975065433,NA,NA,NA
+1205,,strata.names,2,Sirt_idp,8% (2%-13%),NA,0.024934567,0.126008829,NA,NA,NA
+12114,,strata.names,1,Sirt_non_displaced,93% (88%-98%),NA,0.877410572,0.975800437,NA,NA,NA
+12212,,strata.names,2,Sirt_non_displaced,4% (0%-7%),NA,0.001229032,0.072165463,NA,NA,NA
+1238,,strata.names,3,Sirt_non_displaced,4% (0%-7%),NA,0.001229032,0.072165463,NA,NA,NA
+1245,,strata.names,1,Sirt_returnee,97% (95%-100%),NA,0.945121366,1.003154496,NA,NA,NA
+1255,,strata.names,3,Sirt_returnee,3% (0%-5%),NA,-0.003154496,0.054878634,NA,NA,NA
+1265,,strata.names,1,Tripoli_idp,82% (75%-90%),NA,0.748671961,0.900812575,NA,NA,NA
+1275,,strata.names,2,Tripoli_idp,7% (2%-12%),NA,0.020390439,0.123939458,NA,NA,NA
+1285,,strata.names,3,Tripoli_idp,9% (3%-15%),NA,0.034732692,0.150834318,NA,NA,NA
+1295,,strata.names,4,Tripoli_idp,1% (-1%-3%),NA,-0.009901421,0.030519977,NA,NA,NA
+1305,,strata.names,1,Tripoli_non_displaced,84% (77%-91%),NA,0.77094591,0.907625519,NA,NA,NA
+13114,,strata.names,2,Tripoli_non_displaced,14% (8%-21%),NA,0.077743924,0.207970361,NA,NA,NA
+13210,,strata.names,3,Tripoli_non_displaced,2% (-1%-4%),NA,-0.006785364,0.04249965,NA,NA,NA
+1334,,strata.names,1,Tripoli_returnee,93% (88%-98%),NA,0.884710805,0.97735816,NA,NA,NA
+1343,,strata.names,2,Tripoli_returnee,4% (1%-8%),NA,0.00597621,0.080230687,NA,NA,NA
+1353,,strata.names,3,Tripoli_returnee,2% (-1%-4%),NA,-0.006555148,0.041037906,NA,NA,NA
+1363,,strata.names,4,Tripoli_returnee,1% (-1%-3%),NA,-0.008279636,0.025521015,NA,NA,NA
+1373,,strata.names,1,Ubari_idp,69% (60%-78%),NA,0.595760414,0.776788605,NA,NA,NA
+1383,,strata.names,2,Ubari_idp,25% (17%-34%),NA,0.169888895,0.339915026,NA,NA,NA
+1393,,strata.names,3,Ubari_idp,4% (0%-8%),NA,0.001350923,0.077080449,NA,NA,NA
+1403,,strata.names,4,Ubari_idp,2% (-1%-5%),NA,-0.007438416,0.046654102,NA,NA,NA
+14112,,strata.names,1,Ubari_non_displaced,74% (66%-82%),NA,0.658504848,0.819756022,NA,NA,NA
+1428,,strata.names,2,Ubari_non_displaced,22% (14%-29%),NA,0.141656753,0.293125856,NA,NA,NA
+1432,,strata.names,3,Ubari_non_displaced,4% (1%-8%),NA,0.006034096,0.080922425,NA,NA,NA
+1442,,strata.names,1,Ubari_returnee,50% (41%-59%),NA,0.407788763,0.592211237,NA,NA,NA
+1452,,strata.names,2,Ubari_returnee,37% (28%-46%),NA,0.279460005,0.4573821,NA,NA,NA
+1461,,strata.names,3,Ubari_returnee,9% (4%-14%),NA,0.035548719,0.139889878,NA,NA,NA
+1471,,strata.names,4,Ubari_returnee,4% (1%-8%),NA,0.006093105,0.081626193,NA,NA,NA
+1481,,strata.names,1,Wadi Ashshati_idp,52% (41%-62%),NA,0.410763043,0.624531075,NA,NA,NA
+1491,,strata.names,2,Wadi Ashshati_idp,32% (22%-42%),NA,0.218062873,0.417231245,NA,NA,NA
+1501,,strata.names,3,Wadi Ashshati_idp,6% (1%-11%),NA,0.008493812,0.109153247,NA,NA,NA
+15110,,strata.names,4,Wadi Ashshati_idp,11% (4%-17%),NA,0.040067707,0.171696999,NA,NA,NA
+1527,,strata.names,1,Wadi Ashshati_non_displaced,70% (61%-78%),NA,0.61415424,0.784075849,NA,NA,NA
+1531,,strata.names,2,Wadi Ashshati_non_displaced,27% (19%-36%),NA,0.19168428,0.356988287,NA,NA,NA
+1541,,strata.names,3,Wadi Ashshati_non_displaced,1% (-1%-3%),NA,-0.008499449,0.026198565,NA,NA,NA
+1551,,strata.names,4,Wadi Ashshati_non_displaced,2% (-1%-4%),NA,-0.006726308,0.042124538,NA,NA,NA
+1561,,strata.names,1,Wadi Ashshati_returnee,47% (31%-64%),NA,0.306790876,0.637653569,NA,NA,NA
+1571,,strata.names,2,Wadi Ashshati_returnee,36% (20%-52%),NA,0.201944438,0.520277784,NA,NA,NA
+1581,,strata.names,3,Wadi Ashshati_returnee,3% (-3%-8%),NA,-0.026678828,0.082234383,NA,NA,NA
+1591,,strata.names,4,Wadi Ashshati_returnee,14% (2%-25%),NA,0.024289476,0.253488302,NA,NA,NA
+1601,,strata.names,1,Zwara_idp,59% (49%-68%),NA,0.492230598,0.68423999,NA,NA,NA
+16110,,strata.names,2,Zwara_idp,33% (24%-43%),NA,0.241376052,0.425290615,NA,NA,NA
+1627,,strata.names,3,Zwara_idp,4% (0%-8%),NA,0.001350923,0.077080449,NA,NA,NA
+1631,,strata.names,4,Zwara_idp,4% (0%-8%),NA,0.001350923,0.077080449,NA,NA,NA
+1641,,strata.names,1,Zwara_non_displaced,46% (36%-55%),NA,0.364716063,0.55271513,NA,NA,NA
+1651,,strata.names,2,Zwara_non_displaced,47% (37%-56%),NA,0.373763004,0.562016813,NA,NA,NA
+1661,,strata.names,3,Zwara_non_displaced,6% (1%-10%),NA,0.012022056,0.098069688,NA,NA,NA
+1671,,strata.names,4,Zwara_non_displaced,2% (-1%-4%),NA,-0.00696892,0.043666168,NA,NA,NA
+1681,,strata.names,1,Zwara_returnee,37% (28%-46%),NA,0.275662658,0.460186399,NA,NA,NA
+1691,,strata.names,2,Zwara_returnee,59% (50%-69%),NA,0.500398217,0.688281028,NA,NA,NA
+1701,,strata.names,3,Zwara_returnee,2% (-1%-4%),NA,-0.007162678,0.044898527,NA,NA,NA
+17110,,strata.names,4,Zwara_returnee,2% (-1%-4%),NA,-0.007162678,0.044898527,NA,NA,NA
+1160,,strata.names,1,Al Jabal Al Gharbi_idp,13% (7%-19%),NA,0.065969815,0.193289444,NA,NA,NA
+2125,,strata.names,2,Al Jabal Al Gharbi_idp,7% (2%-12%),NA,0.024439715,0.123708433,NA,NA,NA
+3107,,strata.names,3,Al Jabal Al Gharbi_idp,73% (65%-82%),NA,0.647487152,0.815475811,NA,NA,NA
+4104,,strata.names,4,Al Jabal Al Gharbi_idp,6% (2%-11%),NA,0.018154558,0.111475072,NA,NA,NA
+580,,strata.names,1,Al Jabal Al Gharbi_non_displaced,23% (15%-31%),NA,0.1521213,0.308055691,NA,NA,NA
+660,,strata.names,2,Al Jabal Al Gharbi_non_displaced,8% (3%-13%),NA,0.029492253,0.129799782,NA,NA,NA
+748,,strata.names,3,Al Jabal Al Gharbi_non_displaced,69% (60%-78%),NA,0.604611628,0.775919346,NA,NA,NA
+848,,strata.names,1,Al Jabal Al Gharbi_returnee,8% (3%-14%),NA,0.030952033,0.135714634,NA,NA,NA
+948,,strata.names,2,Al Jabal Al Gharbi_returnee,4% (0%-7%),NA,0.001245192,0.072828882,NA,NA,NA
+1048,,strata.names,3,Al Jabal Al Gharbi_returnee,84% (77%-91%),NA,0.773571381,0.911613804,NA,NA,NA
+1168,,strata.names,4,Al Jabal Al Gharbi_returnee,4% (0%-7%),NA,0.001245192,0.072828882,NA,NA,NA
+1239,,strata.names,1,Aljfara_idp,25% (17%-33%),NA,0.167934274,0.332065726,NA,NA,NA
+1330,,strata.names,2,Aljfara_idp,14% (7%-20%),NA,0.073346159,0.204431619,NA,NA,NA
+1429,,strata.names,3,Aljfara_idp,57% (48%-67%),NA,0.480358411,0.667789737,NA,NA,NA
+1528,,strata.names,4,Aljfara_idp,4% (0%-7%),NA,0.001245192,0.072828882,NA,NA,NA
+1628,,strata.names,1,Aljfara_non_displaced,28% (19%-37%),NA,0.1908171,0.3716829,NA,NA,NA
+1727,,strata.names,2,Aljfara_non_displaced,10% (4%-17%),NA,0.042724113,0.16560922,NA,NA,NA
+1827,,strata.names,3,Aljfara_non_displaced,59% (49%-69%),NA,0.494965283,0.692534717,NA,NA,NA
+1923,,strata.names,4,Aljfara_non_displaced,2% (-1%-5%),NA,-0.007894241,0.049560908,NA,NA,NA
+2018,,strata.names,1,Aljfara_returnee,28% (19%-37%),NA,0.193638928,0.372017638,NA,NA,NA
+2126,,strata.names,2,Aljfara_returnee,8% (3%-13%),NA,0.026835831,0.134780331,NA,NA,NA
+2220,,strata.names,3,Aljfara_returnee,60% (50%-69%),NA,0.498783189,0.693136002,NA,NA,NA
+2318,,strata.names,4,Aljfara_returnee,4% (0%-8%),NA,0.001410144,0.079397937,NA,NA,NA
+2418,,strata.names,3,Aljufra_idp,77% (67%-86%),NA,0.67105988,0.861407652,NA,NA,NA
+2518,,strata.names,4,Aljufra_idp,23% (14%-33%),NA,0.138592348,0.32894012,NA,NA,NA
+2618,,strata.names,3,Aljufra_non_displaced,93% (88%-98%),NA,0.882715232,0.976933891,NA,NA,NA
+2718,,strata.names,4,Aljufra_non_displaced,7% (2%-12%),NA,0.023066109,0.117284768,NA,NA,NA
+2818,,strata.names,1,Alkufra_idp,46% (36%-55%),NA,0.359625769,0.55299559,NA,NA,NA
+2918,,strata.names,2,Alkufra_idp,7% (2%-12%),NA,0.019107135,0.116815195,NA,NA,NA
+3018,,strata.names,3,Alkufra_idp,41% (31%-50%),NA,0.312376448,0.503157533,NA,NA,NA
+3122,,strata.names,4,Alkufra_idp,7% (2%-12%),NA,0.019107135,0.116815195,NA,NA,NA
+3220,,strata.names,1,Alkufra_non_displaced,21% (14%-29%),NA,0.135340508,0.285712123,NA,NA,NA
+3318,,strata.names,2,Alkufra_non_displaced,21% (14%-29%),NA,0.135340508,0.285712123,NA,NA,NA
+3418,,strata.names,3,Alkufra_non_displaced,55% (46%-64%),NA,0.46093263,0.644330528,NA,NA,NA
+3518,,strata.names,4,Alkufra_non_displaced,3% (0%-6%),NA,-0.003205214,0.055836793,NA,NA,NA
+3618,,strata.names,1,Alkufra_returnee,16% (8%-24%),NA,0.081131069,0.243868931,NA,NA,NA
+3718,,strata.names,2,Alkufra_returnee,35% (24%-46%),NA,0.244796492,0.455203508,NA,NA,NA
+3818,,strata.names,3,Alkufra_returnee,48% (36%-59%),NA,0.364854698,0.585145302,NA,NA,NA
+3917,,strata.names,4,Alkufra_returnee,1% (-1%-4%),NA,-0.012005472,0.037005472,NA,NA,NA
+4017,,strata.names,1,Azzawya_idp,11% (5%-16%),NA,0.049590359,0.164695355,NA,NA,NA
+4121,,strata.names,2,Azzawya_idp,6% (2%-11%),NA,0.017458046,0.107541954,NA,NA,NA
+4219,,strata.names,3,Azzawya_idp,82% (75%-89%),NA,0.750162558,0.892694585,NA,NA,NA
+4318,,strata.names,4,Azzawya_idp,1% (-1%-3%),NA,-0.008575337,0.02643248,NA,NA,NA
+4418,,strata.names,1,Azzawya_non_displaced,9% (4%-15%),NA,0.040525709,0.145914969,NA,NA,NA
+4518,,strata.names,2,Azzawya_non_displaced,7% (2%-11%),NA,0.02223286,0.113360361,NA,NA,NA
+4618,,strata.names,3,Azzawya_non_displaced,83% (76%-90%),NA,0.762508905,0.898508044,NA,NA,NA
+4716,,strata.names,4,Azzawya_non_displaced,1% (-1%-3%),NA,-0.008139303,0.025088456,NA,NA,NA
+4815,,strata.names,1,Azzawya_returnee,7% (0%-14%),NA,0.003256025,0.137094852,NA,NA,NA
+4915,,strata.names,2,Azzawya_returnee,4% (-1%-8%),NA,-0.013115999,0.083291438,NA,NA,NA
+5015,,strata.names,3,Azzawya_returnee,88% (79%-96%),NA,0.791208869,0.963177096,NA,NA,NA
+5119,,strata.names,4,Azzawya_returnee,2% (-2%-5%),NA,-0.016849786,0.051937505,NA,NA,NA
+5218,,strata.names,1,Benghazi_idp,32% (23%-40%),NA,0.230064464,0.401514484,NA,NA,NA
+5317,,strata.names,2,Benghazi_idp,11% (6%-17%),NA,0.055415689,0.172654486,NA,NA,NA
+5414,,strata.names,3,Benghazi_idp,54% (44%-63%),NA,0.443103814,0.627071625,NA,NA,NA
+5513,,strata.names,4,Benghazi_idp,4% (0%-7%),NA,0.001153698,0.069021741,NA,NA,NA
+5612,,strata.names,1,Benghazi_non_displaced,50% (41%-60%),NA,0.412545386,0.596150266,NA,NA,NA
+5712,,strata.names,2,Benghazi_non_displaced,5% (1%-9%),NA,0.011342757,0.093005069,NA,NA,NA
+5812,,strata.names,3,Benghazi_non_displaced,42% (33%-51%),NA,0.326847066,0.507935543,NA,NA,NA
+5912,,strata.names,4,Benghazi_non_displaced,3% (0%-6%),NA,-0.003179655,0.055353568,NA,NA,NA
+6011,,strata.names,1,Benghazi_returnee,38% (29%-47%),NA,0.290635309,0.465667212,NA,NA,NA
+6119,,strata.names,2,Benghazi_returnee,10% (5%-16%),NA,0.046496835,0.155183837,NA,NA,NA
+6218,,strata.names,3,Benghazi_returnee,45% (36%-54%),NA,0.355681753,0.535074549,NA,NA,NA
+6315,,strata.names,4,Benghazi_returnee,8% (3%-12%),NA,0.027912201,0.123348303,NA,NA,NA
+6412,,strata.names,1,Derna_idp,23% (14%-32%),NA,0.139801335,0.323613299,NA,NA,NA
+6511,,strata.names,2,Derna_idp,21% (12%-30%),NA,0.119013588,0.295620558,NA,NA,NA
+6610,,strata.names,3,Derna_idp,55% (44%-66%),NA,0.440386842,0.657174133,NA,NA,NA
+679,,strata.names,4,Derna_idp,1% (-1%-4%),NA,-0.011712656,0.0361029,NA,NA,NA
+688,,strata.names,1,Derna_non_displaced,12% (5%-18%),NA,0.053670338,0.177098893,NA,NA,NA
+698,,strata.names,2,Derna_non_displaced,16% (9%-23%),NA,0.09203079,0.234892287,NA,NA,NA
+708,,strata.names,3,Derna_non_displaced,67% (58%-76%),NA,0.582464114,0.763689732,NA,NA,NA
+7117,,strata.names,4,Derna_non_displaced,5% (1%-9%),NA,0.006752794,0.089401053,NA,NA,NA
+7217,,strata.names,1,Derna_returnee,11% (5%-17%),NA,0.052064157,0.172234908,NA,NA,NA
+7312,,strata.names,2,Derna_returnee,23% (15%-31%),NA,0.153071164,0.314218556,NA,NA,NA
+749,,strata.names,3,Derna_returnee,56% (47%-66%),NA,0.466245683,0.655249644,NA,NA,NA
+758,,strata.names,4,Derna_returnee,9% (4%-15%),NA,0.038033388,0.1488825,NA,NA,NA
+768,,strata.names,1,Ejdabia_idp,55% (46%-64%),NA,0.456549396,0.642549703,NA,NA,NA
+778,,strata.names,2,Ejdabia_idp,2% (-1%-4%),NA,-0.006845466,0.042881502,NA,NA,NA
+788,,strata.names,3,Ejdabia_idp,40% (30%-49%),NA,0.304964551,0.487828242,NA,NA,NA
+798,,strata.names,4,Ejdabia_idp,4% (0%-7%),NA,0.001197842,0.07087423,NA,NA,NA
+808,,strata.names,1,Ejdabia_non_displaced,63% (54%-71%),NA,0.537248035,0.714925878,NA,NA,NA
+8117,,strata.names,2,Ejdabia_non_displaced,5% (1%-9%),NA,0.011342757,0.093005069,NA,NA,NA
+8217,,strata.names,3,Ejdabia_non_displaced,31% (23%-40%),NA,0.227896822,0.398190134,NA,NA,NA
+8312,,strata.names,4,Ejdabia_non_displaced,1% (-1%-3%),NA,-0.008351633,0.025742937,NA,NA,NA
+849,,strata.names,1,Ejdabia_returnee,83% (74%-93%),NA,0.738215749,0.928450918,NA,NA,NA
+858,,strata.names,2,Ejdabia_returnee,2% (-2%-5%),NA,-0.016007297,0.04934063,NA,NA,NA
+868,,strata.names,3,Ejdabia_returnee,15% (6%-24%),NA,0.058865639,0.241134361,NA,NA,NA
+878,,strata.names,1,Ghat_idp,18% (11%-25%),NA,0.108339665,0.252020695,NA,NA,NA
+888,,strata.names,2,Ghat_idp,47% (38%-56%),NA,0.375194292,0.561742645,NA,NA,NA
+898,,strata.names,3,Ghat_idp,32% (23%-40%),NA,0.228464367,0.402166263,NA,NA,NA
+908,,strata.names,4,Ghat_idp,4% (0%-7%),NA,0.001197842,0.07087423,NA,NA,NA
+9117,,strata.names,1,Ghat_non_displaced,25% (17%-33%),NA,0.169426503,0.330573497,NA,NA,NA
+9217,,strata.names,2,Ghat_non_displaced,46% (36%-55%),NA,0.362690472,0.548023813,NA,NA,NA
+9312,,strata.names,3,Ghat_non_displaced,26% (18%-34%),NA,0.177418439,0.340438704,NA,NA,NA
+949,,strata.names,4,Ghat_non_displaced,4% (0%-7%),NA,0.001182787,0.070245784,NA,NA,NA
+958,,strata.names,1,Ghat_returnee,24% (15%-34%),NA,0.14769034,0.339489147,NA,NA,NA
+968,,strata.names,2,Ghat_returnee,35% (24%-45%),NA,0.239866865,0.452440827,NA,NA,NA
+978,,strata.names,3,Ghat_returnee,40% (29%-51%),NA,0.288105009,0.506766786,NA,NA,NA
+988,,strata.names,4,Ghat_returnee,1% (-1%-4%),NA,-0.012313305,0.037954331,NA,NA,NA
+998,,strata.names,1,Misrata_idp,16% (10%-23%),NA,0.096136713,0.231449494,NA,NA,NA
+1008,,strata.names,2,Misrata_idp,26% (18%-34%),NA,0.178571671,0.338669708,NA,NA,NA
+10117,,strata.names,3,Misrata_idp,53% (43%-62%),NA,0.43457854,0.617145597,NA,NA,NA
+10216,,strata.names,4,Misrata_idp,5% (1%-9%),NA,0.011236902,0.092211374,NA,NA,NA
+10311,,strata.names,1,Misrata_non_displaced,36% (27%-45%),NA,0.274209883,0.449928048,NA,NA,NA
+1049,,strata.names,2,Misrata_non_displaced,42% (33%-51%),NA,0.332115072,0.512712514,NA,NA,NA
+1058,,strata.names,3,Misrata_non_displaced,19% (12%-26%),NA,0.11798781,0.261322535,NA,NA,NA
+1068,,strata.names,4,Misrata_non_displaced,3% (0%-5%),NA,-0.003154496,0.054878634,NA,NA,NA
+1078,,strata.names,1,Misrata_returnee,36% (27%-45%),NA,0.267371604,0.448224726,NA,NA,NA
+1088,,strata.names,2,Misrata_returnee,46% (36%-55%),NA,0.364716063,0.55271513,NA,NA,NA
+1098,,strata.names,3,Misrata_returnee,17% (10%-25%),NA,0.102744938,0.245878916,NA,NA,NA
+11017,,strata.names,4,Misrata_returnee,1% (-1%-3%),NA,-0.008811356,0.02715998,NA,NA,NA
+11117,,strata.names,1,Murzuq_idp,1% (-1%-3%),NA,-0.011039515,0.034028021,NA,NA,NA
+11217,,strata.names,3,Murzuq_idp,90% (83%-96%),NA,0.832171402,0.960932046,NA,NA,NA
+11314,,strata.names,4,Murzuq_idp,9% (3%-15%),NA,0.030867821,0.153040225,NA,NA,NA
+11412,,strata.names,1,Murzuq_non_displaced,8% (3%-13%),NA,0.025715477,0.129624329,NA,NA,NA
+11510,,strata.names,2,Murzuq_non_displaced,4% (0%-8%),NA,0.001332181,0.076337722,NA,NA,NA
+1169,,strata.names,3,Murzuq_non_displaced,81% (73%-88%),NA,0.729041408,0.882609078,NA,NA,NA
+1178,,strata.names,4,Murzuq_non_displaced,8% (3%-13%),NA,0.025715477,0.129624329,NA,NA,NA
+1188,,strata.names,1,Murzuq_returnee,3% (-2%-8%),NA,-0.02462661,0.075908661,NA,NA,NA
+1197,,strata.names,2,Murzuq_returnee,5% (-2%-12%),NA,-0.018865501,0.121429603,NA,NA,NA
+1206,,strata.names,3,Murzuq_returnee,85% (73%-96%),NA,0.731410039,0.960897653,NA,NA,NA
+12115,,strata.names,4,Murzuq_returnee,8% (-1%-16%),NA,-0.007820841,0.161666995,NA,NA,NA
+12213,,strata.names,1,Sebha_idp,3% (0%-6%),NA,-0.003257572,0.056829,NA,NA,NA
+12310,,strata.names,2,Sebha_idp,25% (17%-33%),NA,0.169426503,0.330573497,NA,NA,NA
+1246,,strata.names,3,Sebha_idp,71% (63%-80%),NA,0.630224911,0.798346518,NA,NA,NA
+1256,,strata.names,4,Sebha_idp,1% (-1%-3%),NA,-0.008575337,0.02643248,NA,NA,NA
+1266,,strata.names,1,Sebha_non_displaced,16% (9%-23%),NA,0.093263392,0.231060933,NA,NA,NA
+1276,,strata.names,2,Sebha_non_displaced,23% (16%-31%),NA,0.155069842,0.313398626,NA,NA,NA
+1286,,strata.names,3,Sebha_non_displaced,60% (51%-70%),NA,0.512171758,0.695035449,NA,NA,NA
+1296,,strata.names,1,Sebha_returnee,13% (6%-20%),NA,0.06122298,0.199646585,NA,NA,NA
+1306,,strata.names,2,Sebha_returnee,28% (19%-38%),NA,0.190074302,0.37514309,NA,NA,NA
+13115,,strata.names,3,Sebha_returnee,58% (47%-68%),NA,0.474528807,0.677645107,NA,NA,NA
+13211,,strata.names,4,Sebha_returnee,1% (-1%-3%),NA,-0.010439541,0.032178672,NA,NA,NA
+1335,,strata.names,1,Sirt_idp,15% (8%-22%),NA,0.08245235,0.219434442,NA,NA,NA
+1344,,strata.names,2,Sirt_idp,5% (1%-9%),NA,0.006609784,0.087729839,NA,NA,NA
+1354,,strata.names,3,Sirt_idp,67% (58%-76%),NA,0.579837586,0.759785055,NA,NA,NA
+1364,,strata.names,4,Sirt_idp,13% (7%-20%),NA,0.067300015,0.196850928,NA,NA,NA
+1374,,strata.names,1,Sirt_non_displaced,45% (36%-54%),NA,0.355701207,0.543381361,NA,NA,NA
+1384,,strata.names,2,Sirt_non_displaced,6% (1%-10%),NA,0.012022056,0.098069688,NA,NA,NA
+1394,,strata.names,3,Sirt_non_displaced,44% (35%-53%),NA,0.346718602,0.534015343,NA,NA,NA
+1404,,strata.names,4,Sirt_non_displaced,6% (1%-10%),NA,0.012022056,0.098069688,NA,NA,NA
+14113,,strata.names,1,Sirt_returnee,57% (48%-66%),NA,0.478433306,0.659497728,NA,NA,NA
+14210,,strata.names,2,Sirt_returnee,1% (-1%-3%),NA,-0.008279636,0.025521015,NA,NA,NA
+1433,,strata.names,3,Sirt_returnee,41% (32%-49%),NA,0.315425478,0.49491935,NA,NA,NA
+1443,,strata.names,4,Sirt_returnee,2% (-1%-4%),NA,-0.006555148,0.041037906,NA,NA,NA
+1453,,strata.names,1,Tripoli_idp,28% (19%-37%),NA,0.188674435,0.368026596,NA,NA,NA
+1462,,strata.names,2,Tripoli_idp,5% (1%-10%),NA,0.007305423,0.095787361,NA,NA,NA
+1472,,strata.names,3,Tripoli_idp,59% (49%-69%),NA,0.489134103,0.686123629,NA,NA,NA
+1482,,strata.names,4,Tripoli_idp,8% (3%-14%),NA,0.027433303,0.13751515,NA,NA,NA
+1492,,strata.names,1,Tripoli_non_displaced,46% (36%-55%),NA,0.362690472,0.548023813,NA,NA,NA
+1502,,strata.names,2,Tripoli_non_displaced,9% (4%-14%),NA,0.036224933,0.142346496,NA,NA,NA
+15111,,strata.names,3,Tripoli_non_displaced,38% (28%-47%),NA,0.284916092,0.465083908,NA,NA,NA
+1529,,strata.names,4,Tripoli_non_displaced,8% (3%-13%),NA,0.029773113,0.130941172,NA,NA,NA
+1532,,strata.names,1,Tripoli_returnee,69% (61%-77%),NA,0.605080096,0.774230249,NA,NA,NA
+1542,,strata.names,2,Tripoli_returnee,6% (2%-10%),NA,0.016812847,0.103876808,NA,NA,NA
+1552,,strata.names,3,Tripoli_returnee,22% (14%-29%),NA,0.140348573,0.29068591,NA,NA,NA
+1562,,strata.names,4,Tripoli_returnee,3% (0%-7%),NA,0.001125898,0.067839619,NA,NA,NA
+1572,,strata.names,1,Ubari_idp,6% (1%-10%),NA,0.012924506,0.104722553,NA,NA,NA
+1582,,strata.names,2,Ubari_idp,11% (5%-17%),NA,0.047335632,0.168350642,NA,NA,NA
+1592,,strata.names,3,Ubari_idp,77% (69%-86%),NA,0.692988771,0.856030836,NA,NA,NA
+1602,,strata.names,4,Ubari_idp,6% (1%-10%),NA,0.012924506,0.104722553,NA,NA,NA
+16111,,strata.names,1,Ubari_non_displaced,28% (20%-36%),NA,0.195976597,0.360545142,NA,NA,NA
+1629,,strata.names,2,Ubari_non_displaced,9% (4%-14%),NA,0.035219974,0.13869307,NA,NA,NA
+1632,,strata.names,3,Ubari_non_displaced,60% (51%-69%),NA,0.510048945,0.689951055,NA,NA,NA
+1642,,strata.names,4,Ubari_non_displaced,3% (0%-7%),NA,0.001139642,0.068425575,NA,NA,NA
+1652,,strata.names,1,Ubari_returnee,7% (2%-12%),NA,0.023066109,0.117284768,NA,NA,NA
+1662,,strata.names,2,Ubari_returnee,10% (4%-15%),NA,0.04203796,0.150944496,NA,NA,NA
+1672,,strata.names,3,Ubari_returnee,69% (61%-78%),NA,0.607916349,0.778048564,NA,NA,NA
+1682,,strata.names,4,Ubari_returnee,14% (8%-20%),NA,0.076291602,0.204410153,NA,NA,NA
+1692,,strata.names,1,Wadi Ashshati_idp,11% (4%-17%),NA,0.040067707,0.171696999,NA,NA,NA
+1702,,strata.names,2,Wadi Ashshati_idp,29% (20%-39%),NA,0.196654568,0.391580726,NA,NA,NA
+17111,,strata.names,3,Wadi Ashshati_idp,53% (42%-64%),NA,0.422646311,0.636177218,NA,NA,NA
+1728,,strata.names,4,Wadi Ashshati_idp,7% (2%-13%),NA,0.01580046,0.125376011,NA,NA,NA
+1731,,strata.names,1,Wadi Ashshati_non_displaced,59% (50%-68%),NA,0.50191186,0.683928848,NA,NA,NA
+1741,,strata.names,2,Wadi Ashshati_non_displaced,14% (8%-21%),NA,0.077010923,0.206174917,NA,NA,NA
+1751,,strata.names,3,Wadi Ashshati_non_displaced,26% (18%-34%),NA,0.175726786,0.33754755,NA,NA,NA
+1761,,strata.names,4,Wadi Ashshati_non_displaced,1% (-1%-3%),NA,-0.008499449,0.026198565,NA,NA,NA
+1771,,strata.names,1,Wadi Ashshati_returnee,36% (20%-52%),NA,0.201944438,0.520277784,NA,NA,NA
+1781,,strata.names,2,Wadi Ashshati_returnee,19% (6%-33%),NA,0.063295572,0.325593317,NA,NA,NA
+1791,,strata.names,3,Wadi Ashshati_returnee,44% (28%-61%),NA,0.279783147,0.609105742,NA,NA,NA
+1801,,strata.names,1,Zwara_idp,33% (24%-43%),NA,0.241376052,0.425290615,NA,NA,NA
+18110,,strata.names,2,Zwara_idp,10% (4%-16%),NA,0.040031452,0.156046979,NA,NA,NA
+1828,,strata.names,3,Zwara_idp,57% (47%-67%),NA,0.472015124,0.665239778,NA,NA,NA
+183,,strata.names,1,Zwara_non_displaced,25% (17%-33%),NA,0.166272847,0.329139997,NA,NA,NA
+184,,strata.names,2,Zwara_non_displaced,7% (2%-12%),NA,0.024199563,0.122589428,NA,NA,NA
+185,,strata.names,3,Zwara_non_displaced,60% (50%-69%),NA,0.503775739,0.688884811,NA,NA,NA
+186,,strata.names,4,Zwara_non_displaced,8% (3%-13%),NA,0.030648657,0.134488958,NA,NA,NA
+187,,strata.names,1,Zwara_returnee,8% (3%-14%),NA,0.031577123,0.138234198,NA,NA,NA
+188,,strata.names,2,Zwara_returnee,17% (10%-24%),NA,0.097977306,0.241645336,NA,NA,NA
+189,,strata.names,3,Zwara_returnee,68% (59%-77%),NA,0.589943885,0.768546681,NA,NA,NA
+190,,strata.names,4,Zwara_returnee,7% (2%-11%),NA,0.018524001,0.113551471,NA,NA,NA
+1170,,strata.names,no,Al Jabal Al Gharbi_idp,16% (9%-23%),NA,0.089269909,0.228487101,NA,NA,1.78E-31
+2127,,strata.names,yes,Al Jabal Al Gharbi_idp,84% (77%-91%),NA,0.771512899,0.910730091,NA,NA,1.78E-31
+3108,,strata.names,no,Al Jabal Al Gharbi_non_displaced,17% (10%-24%),NA,0.100765886,0.241576456,NA,NA,1.78E-31
+4105,,strata.names,yes,Al Jabal Al Gharbi_non_displaced,83% (76%-90%),NA,0.758423544,0.899234114,NA,NA,1.78E-31
+590,,strata.names,no,Al Jabal Al Gharbi_returnee,3% (0%-6%),NA,-0.003367593,0.058923148,NA,NA,1.78E-31
+670,,strata.names,yes,Al Jabal Al Gharbi_returnee,97% (94%-100%),NA,0.941076852,1.003367593,NA,NA,1.78E-31
+750,,strata.names,no,Aljfara_idp,31% (22%-40%),NA,0.220470501,0.396351929,NA,NA,1.78E-31
+850,,strata.names,yes,Aljfara_idp,69% (60%-78%),NA,0.603648071,0.779529499,NA,NA,1.78E-31
+950,,strata.names,no,Aljfara_non_displaced,30% (20%-39%),NA,0.204903905,0.390840776,NA,NA,1.78E-31
+1050,,strata.names,yes,Aljfara_non_displaced,70% (61%-80%),NA,0.609159224,0.795096095,NA,NA,1.78E-31
+1179,,strata.names,no,Aljfara_returnee,32% (23%-42%),NA,0.230609497,0.415855149,NA,NA,1.78E-31
+1240,,strata.names,yes,Aljfara_returnee,68% (58%-77%),NA,0.584144851,0.769390503,NA,NA,1.78E-31
+1336,,strata.names,yes,Aljufra_idp,100% (100%-100%),NA,1,1,NA,NA,1.78E-31
+1430,,strata.names,yes,Aljufra_non_displaced,100% (100%-100%),NA,1,1,NA,NA,1.78E-31
+1530,,strata.names,no,Alkufra_idp,48% (38%-57%),NA,0.378786266,0.572670044,NA,NA,1.78E-31
+1630,,strata.names,yes,Alkufra_idp,52% (43%-62%),NA,0.427329956,0.621213734,NA,NA,1.78E-31
+1729,,strata.names,no,Alkufra_non_displaced,15% (8%-21%),NA,0.083429651,0.214815963,NA,NA,1.78E-31
+1829,,strata.names,yes,Alkufra_non_displaced,85% (79%-92%),NA,0.785184037,0.916570349,NA,NA,1.78E-31
+1924,,strata.names,no,Alkufra_returnee,18% (9%-26%),NA,0.091191837,0.258808163,NA,NA,1.78E-31
+2019,,strata.names,yes,Alkufra_returnee,82% (74%-91%),NA,0.741191837,0.908808163,NA,NA,1.78E-31
+2128,,strata.names,no,Azzawya_idp,12% (6%-19%),NA,0.063460861,0.186539139,NA,NA,1.78E-31
+2221,,strata.names,yes,Azzawya_idp,88% (81%-94%),NA,0.813460861,0.936539139,NA,NA,1.78E-31
+2319,,strata.names,no,Azzawya_non_displaced,8% (3%-14%),NA,0.03426908,0.135222446,NA,NA,1.78E-31
+2419,,strata.names,yes,Azzawya_non_displaced,92% (86%-97%),NA,0.864777554,0.96573092,NA,NA,1.78E-31
+2519,,strata.names,no,Azzawya_returnee,9% (1%-16%),NA,0.013610175,0.161828421,NA,NA,1.78E-31
+2619,,strata.names,yes,Azzawya_returnee,91% (84%-99%),NA,0.838171579,0.986389825,NA,NA,1.78E-31
+2719,,strata.names,no,Benghazi_idp,39% (30%-48%),NA,0.301979898,0.483734388,NA,NA,1.78E-31
+2819,,strata.names,yes,Benghazi_idp,61% (52%-70%),NA,0.516265612,0.698020102,NA,NA,1.78E-31
+2919,,strata.names,no,Benghazi_non_displaced,49% (40%-58%),NA,0.397036495,0.584781687,NA,NA,1.78E-31
+3019,,strata.names,yes,Benghazi_non_displaced,51% (42%-60%),NA,0.415218313,0.602963505,NA,NA,1.78E-31
+3123,,strata.names,no,Benghazi_returnee,39% (30%-48%),NA,0.298850587,0.477011482,NA,NA,1.78E-31
+3221,,strata.names,yes,Benghazi_returnee,61% (52%-70%),NA,0.522988518,0.701149413,NA,NA,1.78E-31
+3319,,strata.names,no,Derna_idp,34% (24%-44%),NA,0.238169817,0.444757012,NA,NA,1.78E-31
+3419,,strata.names,yes,Derna_idp,66% (56%-76%),NA,0.555242988,0.761830183,NA,NA,1.78E-31
+3519,,strata.names,no,Derna_non_displaced,25% (17%-33%),NA,0.166355788,0.333644212,NA,NA,1.78E-31
+3619,,strata.names,yes,Derna_non_displaced,75% (67%-83%),NA,0.666355788,0.833644212,NA,NA,1.78E-31
+3719,,strata.names,no,Derna_returnee,28% (20%-37%),NA,0.196836033,0.369201703,NA,NA,1.78E-31
+3819,,strata.names,yes,Derna_returnee,72% (63%-80%),NA,0.630798297,0.803163967,NA,NA,1.78E-31
+3918,,strata.names,no,Ejdabia_idp,38% (29%-47%),NA,0.290590417,0.473045947,NA,NA,1.78E-31
+4018,,strata.names,yes,Ejdabia_idp,62% (53%-71%),NA,0.526954053,0.709409583,NA,NA,1.78E-31
+4122,,strata.names,no,Ejdabia_non_displaced,58% (49%-67%),NA,0.49206429,0.673153101,NA,NA,1.78E-31
+4220,,strata.names,yes,Ejdabia_non_displaced,42% (33%-51%),NA,0.326846899,0.50793571,NA,NA,1.78E-31
+4319,,strata.names,no,Ejdabia_returnee,70% (58%-82%),NA,0.583039959,0.816960041,NA,NA,1.78E-31
+4419,,strata.names,yes,Ejdabia_returnee,30% (18%-42%),NA,0.183039959,0.416960041,NA,NA,1.78E-31
+4519,,strata.names,no,Ghat_idp,7% (2%-12%),NA,0.023963981,0.121490564,NA,NA,1.78E-31
+4619,,strata.names,yes,Ghat_idp,93% (88%-98%),NA,0.878509436,0.976036019,NA,NA,1.78E-31
+4717,,strata.names,no,Ghat_non_displaced,13% (7%-19%),NA,0.065324099,0.191556635,NA,NA,1.78E-31
+4816,,strata.names,yes,Ghat_non_displaced,87% (81%-93%),NA,0.808443365,0.934675901,NA,NA,1.78E-31
+4916,,strata.names,no,Ghat_returnee,23% (13%-32%),NA,0.131251986,0.322081348,NA,NA,1.78E-31
+5016,,strata.names,yes,Ghat_returnee,77% (68%-87%),NA,0.677918652,0.868748014,NA,NA,1.78E-31
+5120,,strata.names,no,Misrata_idp,38% (29%-47%),NA,0.293368787,0.471848604,NA,NA,1.78E-31
+5219,,strata.names,yes,Misrata_idp,62% (53%-71%),NA,0.528151396,0.706631213,NA,NA,1.78E-31
+5318,,strata.names,no,Misrata_non_displaced,68% (60%-77%),NA,0.595830211,0.766238754,NA,NA,1.78E-31
+5415,,strata.names,yes,Misrata_non_displaced,32% (23%-40%),NA,0.233761246,0.404169789,NA,NA,1.78E-31
+5514,,strata.names,no,Misrata_returnee,68% (59%-76%),NA,0.587223872,0.76462798,NA,NA,1.78E-31
+5613,,strata.names,yes,Misrata_returnee,32% (24%-41%),NA,0.23537202,0.412776128,NA,NA,1.78E-31
+5713,,strata.names,yes,Murzuq_idp,100% (100%-100%),NA,1,1,NA,NA,1.78E-31
+5813,,strata.names,no,Murzuq_non_displaced,10% (4%-15%),NA,0.039615151,0.154559607,NA,NA,1.78E-31
+5913,,strata.names,yes,Murzuq_non_displaced,90% (85%-96%),NA,0.845440393,0.960384849,NA,NA,1.78E-31
+6012,,strata.names,no,Murzuq_returnee,8% (-1%-16%),NA,-0.007820998,0.161667151,NA,NA,1.78E-31
+6120,,strata.names,yes,Murzuq_returnee,92% (84%-101%),NA,0.838332849,1.007820998,NA,NA,1.78E-31
+6219,,strata.names,no,Sebha_idp,26% (18%-34%),NA,0.177418288,0.340438855,NA,NA,1.78E-31
+6316,,strata.names,yes,Sebha_idp,74% (66%-82%),NA,0.659561145,0.822581712,NA,NA,1.78E-31
+6413,,strata.names,no,Sebha_non_displaced,32% (24%-41%),NA,0.236822637,0.411826012,NA,NA,1.78E-31
+6512,,strata.names,yes,Sebha_non_displaced,68% (59%-76%),NA,0.588173988,0.763177363,NA,NA,1.78E-31
+6611,,strata.names,no,Sebha_returnee,33% (23%-42%),NA,0.229748027,0.422425886,NA,NA,1.78E-31
+6710,,strata.names,yes,Sebha_returnee,67% (58%-77%),NA,0.577574114,0.770251973,NA,NA,1.78E-31
+689,,strata.names,no,Sirt_idp,19% (11%-26%),NA,0.113824803,0.263533687,NA,NA,1.78E-31
+699,,strata.names,yes,Sirt_idp,81% (74%-89%),NA,0.736466313,0.886175197,NA,NA,1.78E-31
+709,,strata.names,no,Sirt_non_displaced,47% (37%-56%),NA,0.37376283,0.562016986,NA,NA,1.78E-31
+7118,,strata.names,yes,Sirt_non_displaced,53% (44%-63%),NA,0.437983014,0.62623717,NA,NA,1.78E-31
+7218,,strata.names,no,Sirt_returnee,51% (42%-60%),NA,0.417228224,0.600013155,NA,NA,1.78E-31
+7313,,strata.names,yes,Sirt_returnee,49% (40%-58%),NA,0.399986845,0.582771776,NA,NA,1.78E-31
+7410,,strata.names,no,Tripoli_idp,27% (18%-36%),NA,0.183531756,0.363836665,NA,NA,1.78E-31
+759,,strata.names,yes,Tripoli_idp,73% (64%-82%),NA,0.636163335,0.816468244,NA,NA,1.78E-31
+769,,strata.names,no,Tripoli_non_displaced,48% (39%-58%),NA,0.38916378,0.575121935,NA,NA,1.78E-31
+779,,strata.names,yes,Tripoli_non_displaced,52% (42%-61%),NA,0.424878065,0.61083622,NA,NA,1.78E-31
+789,,strata.names,no,Tripoli_returnee,66% (58%-75%),NA,0.577430719,0.750155488,NA,NA,1.78E-31
+799,,strata.names,yes,Tripoli_returnee,34% (25%-42%),NA,0.249844512,0.422569281,NA,NA,1.78E-31
+809,,strata.names,no,Ubari_idp,13% (6%-19%),NA,0.062399125,0.192502836,NA,NA,1.78E-31
+8118,,strata.names,yes,Ubari_idp,87% (81%-94%),NA,0.807497164,0.937600875,NA,NA,1.78E-31
+8218,,strata.names,no,Ubari_non_displaced,24% (16%-32%),NA,0.159943432,0.317932674,NA,NA,1.78E-31
+8313,,strata.names,yes,Ubari_non_displaced,76% (68%-84%),NA,0.682067326,0.840056568,NA,NA,1.78E-31
+8410,,strata.names,no,Ubari_returnee,8% (3%-13%),NA,0.029216539,0.128678198,NA,NA,1.78E-31
+859,,strata.names,yes,Ubari_returnee,92% (87%-97%),NA,0.871321802,0.970783461,NA,NA,1.78E-31
+869,,strata.names,no,Wadi Ashshati_idp,32% (22%-42%),NA,0.215710465,0.418435876,NA,NA,1.78E-31
+879,,strata.names,yes,Wadi Ashshati_idp,68% (58%-78%),NA,0.581564124,0.784289535,NA,NA,1.78E-31
+889,,strata.names,no,Wadi Ashshati_non_displaced,65% (57%-74%),NA,0.566799978,0.742934536,NA,NA,1.78E-31
+899,,strata.names,yes,Wadi Ashshati_non_displaced,35% (26%-43%),NA,0.257065464,0.433200022,NA,NA,1.78E-31
+909,,strata.names,no,Wadi Ashshati_returnee,39% (23%-55%),NA,0.227344193,0.550433585,NA,NA,1.78E-31
+9118,,strata.names,yes,Wadi Ashshati_returnee,61% (45%-77%),NA,0.449566415,0.772655807,NA,NA,1.78E-31
+9218,,strata.names,no,Zwara_idp,37% (28%-47%),NA,0.278235317,0.466862722,NA,NA,1.78E-31
+9313,,strata.names,yes,Zwara_idp,63% (53%-72%),NA,0.533137278,0.721764683,NA,NA,1.78E-31
+9410,,strata.names,no,Zwara_non_displaced,26% (18%-35%),NA,0.179801995,0.348499892,NA,NA,1.78E-31
+959,,strata.names,yes,Zwara_non_displaced,74% (65%-82%),NA,0.651500108,0.820198005,NA,NA,1.78E-31
+969,,strata.names,no,Zwara_returnee,22% (14%-30%),NA,0.13953817,0.298557068,NA,NA,1.78E-31
+979,,strata.names,yes,Zwara_returnee,78% (70%-86%),NA,0.701442932,0.86046183,NA,NA,1.78E-31
