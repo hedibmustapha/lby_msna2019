@@ -98,7 +98,6 @@ dm_data <- data %>%
                                              sold_productive_hh_assets,
                                              borrowed_money,
                                              reduced_expenditures_health_education,
-                                             reduce_expense_health,
                                              took_additional_job,
                                              child_dropped_school,
                                              delayed_skipped_rent) %>%
@@ -108,8 +107,7 @@ dm_data <- data %>%
                                                 begging,
                                                 adult_accepting_degrading_illegal_work,
                                                 minor_accepting_degrading_illegal_work,
-                                                child_marriage,
-                                                degrading_illegal_work) %>%
+                                                child_marriage) %>%
                                            mutate_all(~ .x %in% c("already_exhausted_this_coping_strategy", "yes")),
                                          na.rm = T),
          cash_coping = case_when(
