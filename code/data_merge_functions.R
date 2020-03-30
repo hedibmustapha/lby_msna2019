@@ -166,9 +166,24 @@ select_percents <- function(x, n, df, survey_sheet, choice_sheet, return_what, l
     
     if (!is.null(exclude)) {
       choices <- choices[order(counts, decreasing = T)]
+      
+      if(n == 1){
       while (choices[n] %in% exclude | is.na(choices[n])) {
         n <- n + 1
       }
+        } else if (n == 2){
+        while (choices[n] %in% exclude | choices[n-1] %in% exclude | is.na(choices[n])) {
+          n <- n + 1
+        }
+      } else if (n == 3){
+          while (choices[n] %in% exclude | choices[n-1] %in% exclude | choices[n-2] %in% exclude | is.na(choices[n])) {
+            n <- n + 1
+          }
+      } else {
+        while (choices[n] %in% exclude | is.na(choices[n])) {
+          n <- n + 1
+        }
+        }
     }
     
     if (return_what == "label") {

@@ -94,4 +94,7 @@ case_result<- map_to_result(data = data,
 map_to_visualisation(case_result)
 
 case_result %>% map_to_labeled(questionnaire) -> result_labeled
+
+
+
 map_to_file(result_labeled$summary.statistic,"./output/movement_restrictions_reasons.csv")

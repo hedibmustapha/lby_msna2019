@@ -1,0 +1,11 @@
+to_values,target_variables,conditions
+1,fcs_index1,"fcs_category == ""acceptable"""
+3,fcs_index1,"fcs_category == ""borderline"""
+4,fcs_index1,"fcs_category == ""poor"""
+1,fcs_index2,"sm_selected(food_source, any = c(""market_cash"",""market_cheque"",""work_barter_food"",""own_production"",""gatherring_hunting_fishing""))"
+2,fcs_index2,"sm_selected(food_source, any = c(""market_credit"",""food_aid"",""food_gift"",""zakat"",""borrowing_food""))"
+1,fcs_index3,"rcsi_category == ""low"""
+3,fcs_index3,"rcsi_category == ""medium"""
+4,fcs_index3,"rcsi_category == ""high"""
+1,fcs_index4,"obtaining_cash_challenge == ""no"""
+2,fcs_index4,"obtaining_cash_challenge == ""yes"""
